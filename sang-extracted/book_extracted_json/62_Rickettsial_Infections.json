@@ -1,0 +1,199 @@
+{
+  "chapter_title": "Leprosy",
+  "disease_name": "Leprosy",
+  "section_summaries": {
+    "epidemiology": "Leprosy, also known as Hansen's disease, is a chronic granulomatous bacterial infection principally affecting skin and peripheral nerves, caused by Mycobacterium leprae. In 2016, 214,783 new cases were registered worldwide, with India, Brazil, Indonesia, Ethiopia, Democratic Republic of Congo, and Nepal being the top six endemic countries. Most new cases occur in resource-poor countries. Contacts of leprosy patients are at higher risk of developing the disease. Over 15 million people have been cured with multi-drug therapy (MDT) over the past 20 years, with low relapse rates (0-2.5% for pauci-bacillary, 0-7.7% for multi-bacillary).",
+    "pathogenesis": "Mycobacterium leprae is an acid-fast, rod-shaped, gram-positive obligate intracellular pathogen that has not been grown in axenic medium. The organism's genome has undergone extensive reductive evolution. Transmission is primarily through aerosolized nasal droplets, spread via coughing or sneezing, with M. leprae found in nasal discharge of lepromatous patients. The organism can persist outside the body for up to 5 months. After infection, M. leprae is taken up by histiocytes in the skin and Schwann cells in peripheral nerves, eliciting an inflammatory response. The disease progresses if bacillary growth outstrips the immune defense, with an incubation period of 2 to 12 years. Inflammation plays a critical role in neurologic damage, leading to tissue damage and deformity. Leprosy is considered an immunologic disease, with host immunity determining susceptibility, clinical type, pathology, and complications.",
+    "clinical_manifestations": "Clinical manifestations of leprosy present as a spectrum of disease and host-pathogen interactions. A patient may present with a macular hypo-pigmented skin lesion, weakness or pain in the hand due to nerve involvement, facial palsy, acute foot drop, or a painless burn or ulcer in an anesthetic hand or foot. Painful eyes can be a first indication of lepromatous leprosy. The earliest clinical sign is a vague, small, hypo-pigmented macule, referred to as indeterminate leprosy, with over 70% healing spontaneously. The cardinal signs include anesthetic skin lesions, numbness or weakness from sensory and motor nerve damage, and ulcers or burns. Leprosy is complicated by immunologic phenomena called reactions, which are sudden episodes of acute inflammation occurring in approximately 30% of patients. These reactions result from immune responses against M. leprae antigens, causing neurologic damage and eventual deformity. Type 1 reactions (reversal reactions) manifest as edema and erythema of skin lesions and neuritis. Type 2 reactions (erythema nodosum leprosum, ENL) are systemic illnesses with high temperatures, painful subcutaneous nodules, peripheral edema, and inflammation of nerves, eyes, joints, muscles, bones, and testes.",
+    "diagnosis": "Diagnosis is primarily based on clinical recognition and/or detection of acid-fast bacilli (AFB) in skin smears/biopsies. The three cardinal signs are hypo-pigmented/reddish skin lesions with possible sensory loss, thickened peripheral nerves, and AFB in skin smears/biopsies. Leprosy should be considered in anyone from an endemic area presenting with typical skin lesions, neuropathic ulcers, or peripheral neuropathy (sensory loss and/or weakness). Laboratory diagnosis involves examining skin smears or biopsy material for AFB, with the Bacterial Index measuring bacterial density. Histopathologic evaluation is crucial for classifying lesions. Serologic diagnostic tests, such as antibodies to M. leprae-specific antiphenolic glycolipid (PGL-1) or the ML flow test, are available but may not detect pauci-bacillary leprosy. Polymerase chain reaction (PCR) for M. leprae DNA is highly sensitive and specific but not currently used in clinical practice. The WHO classification simplifies diagnosis, classifying patients as pauci-bacillary (fewer than six lesions) or multi-bacillary (six or more lesions).",
+    "treatment": "Management involves antibiotic chemotherapy, managing immune-mediated reactions, preventing nerve damage, and patient education. Treatment relies on WHO multi-drug therapy (MDT) regimens (rifampin, dapsone, clofazimine) for several months (6 months for pauci-bacillary, 12 months for multi-bacillary), which are highly effective with low relapse rates. US CDC regimens are longer (12 months for pauci-bacillary, 24 months for multi-bacillary). Common side effects include hemolytic anemia and skin pigmentation. Alternative antimicrobial agents like minocycline, clarithromycin, and ofloxacin are effective against M. leprae and can substitute for clofazimine or dapsone. Leprosy reactions, which are medical emergencies, are treated with immune-modulatory drugs, often corticosteroids. Prednisolone (40-60 mg daily) is used for Type 1 reactions, with longer treatment periods being more beneficial. Aspirin is used for mild Erythema Nodosum Leprosum (ENL), while severe ENL requires high-dose prednisolone or thalidomide. Clofazimine has mild anti-inflammatory effects for ENL. Nerve function impairment (NFI) of recent onset is managed with prednisolone therapy and physiotherapy. Long-term care involves physiotherapy, education on self-examination and wound care, appropriate footwear, and surgical debridement if osteomyelitis occurs, along with social and psychological support.",
+    "prevention": "Physiotherapy, education, early wound care, and behavioral modifications to minimize the risk of trauma are important components of long-term care for individuals with complications of leprosy. No specific vaccine has been developed to prevent M. leprae infection, but Bacillus Calmette-Guérin (BCG) shows protective efficacy, with a meta-analysis demonstrating an overall protective effect between 26% and 61%. A single dose of rifampin as chemoprophylaxis for household contacts has shown limited, short-term protection against pauci-bacillary leprosy. The continuation of surveillance and leprosy control programs is essential for preventing the development of leprosy."
+  },
+  "tables": [
+    {
+      "title": "TABLE 62.1 Major Clinical Features of the Disease Spectrum in Leprosy",
+      "headers": [
+        "Classification",
+        "WHO",
+        "Bacterial Index",
+        "Skin Lesions",
+        "Nerve Involvement",
+        "Systemic Features"
+      ],
+      "rows": [
+        [
+          "Ridley-Jopling",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Indeterminate",
+          "PB",
+          "0",
+          "Solitary hypo-pigmented 2-5 cm lesion. May become TT-like.",
+          "None clinically detectable.",
+          "Nil"
+        ],
+        [
+          "True Tuberculoid (TT)",
+          "PB/MB",
+          "0-1",
+          "Few, often one macule or plaque with well-defined border and sensory loss. The patch is dry (loss of sweating) and hairless.",
+          "May have one peripheral nerve enlarged. Occasionally presents as a mono-neuropathy.",
+          "Nil"
+        ],
+        [
+          "Borderline tuberculoid (BT)",
+          "MB",
+          "0-2",
+          "Several larger irregular plaques with partially raised edges. Satellite lesions at the edges.",
+          "Asymmetric multiple nerve involvement.",
+          "Nil"
+        ],
+        [
+          "Borderline Borderline (BB)",
+          "MB",
+          "2-3",
+          "Many macular lesions and infiltrated lesions with punched-out centers.",
+          "Asymmetric multiple nerve involvement.",
+          "Nil"
+        ],
+        [
+          "Borderline lepromatous (BL)",
+          "MB",
+          "1-4",
+          "Many small macular lesions and multiple nodules and papules",
+          "Widespread nerve thickening. Sensory and motor loss.",
+          "Some of features listed later"
+        ],
+        [
+          "Lepromatous lepromatous (LL)",
+          "MB",
+          "4-6",
+          "Numerous nodular skin lesions in a symmetric distribution, not dry or anesthetic. May present as many confluent macular lesions. There are often thickened shiny earlobes, loss of eyebrows, and diffuse skin thickening.",
+          "Widespread nerve enlargement. Glove and stocking anesthesia occurs late in disease.",
+          "Nasal stuffiness, epistaxis. Testicular atrophy. Ocular involvement. Bones and internal organs can be affected."
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 62.2 World Health Organization-Recommended Multi-Drug Therapy Regimens for Adults",
+      "headers": [
+        "Type of Leprosy",
+        "Monthly Supervised",
+        "Daily, Self-Administered",
+        "Duration of Treatment"
+      ],
+      "rows": [
+        [
+          "Pauci-bacillary (TT and BT)",
+          "Rifampin 600 mg",
+          "Dapsone 100 mg",
+          "6 mo"
+        ],
+        [
+          "Multi-bacillary (BB,BL and LL)",
+          "Rifampin 600 mg, Clofazimine 300 mg",
+          "Clofazimine 50 mg Dapsone 100 mg",
+          "12 mo"
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 62.3 Centers for Disease Control and Prevention-Recommended Multi-Drug Therapy Regimens for Adults in the United States",
+      "headers": [
+        "Type of Leprosy",
+        "Daily, Self-Administered",
+        "Duration of Treatment"
+      ],
+      "rows": [
+        [
+          "Pauci-bacillary (TT and BT)",
+          "Rifampin 600 mg and dapsone 100 mg",
+          "12 mo"
+        ],
+        [
+          "Multi-bacillary (BB, BL, and LL)",
+          "Rifampin 600 mg, dapsone 100 mg, and clofazimine 50 mg",
+          "24 mo"
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 62.4 Side Effects of Multi-Drug Therapy Drugs",
+      "headers": [
+        "Drug",
+        "Side Effect"
+      ],
+      "rows": [
+        [
+          "Dapsone",
+          "Hemolytic anemia Exfoliative dermatitis Fixed drug eruption Psychosis"
+        ],
+        [
+          "Clofazimine",
+          "Severe dryness of skin Brownish or reddish discoloration of skin and patch Abdominal pain-sign of acute abdomen Pigmentation of conjunctiva"
+        ],
+        [
+          "Rifampin",
+          "Flulike syndromes (dose-dependent hypersensitivity reaction) Liver dysfunction Abdominal pain Loss of appetite Red urine, stool, saliva"
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 62.5 Comparison of Clinical Features of Type 1 and Type 2 Leprosy Reactions",
+      "headers": [
+        "Parameter",
+        "Type 1",
+        "Type 2 (ENL)"
+      ],
+      "rows": [
+        [
+          "Patients at risk",
+          "BL, BB, BT",
+          "LL, BL"
+        ],
+        [
+          "Onset of reaction",
+          "Gradual, over a few weeks",
+          "Sudden, \"overnight\""
+        ],
+        [
+          "Cutaneous lesions",
+          "Increased erythema and induration of previously existing or new lesions",
+          "Numerous erythematous, tender nodules on face, extremities, or trunk without relationship to prior lesions"
+        ],
+        [
+          "Neuritis",
+          "Frequent, often severe",
+          "Frequent, often severe"
+        ],
+        [
+          "Systemic symptoms",
+          "Afebrile, mild malaise",
+          "Fever, malaise, lymph node enlargement, arthritis, iritis, orchitis"
+        ],
+        [
+          "Histopathologic features",
+          "CD4 cell↑, granuloma edema, ↑ giant cell size and numbers, dermal edema and HLA-DR expression",
+          "Polymorphonuclear cell infiltrates in lesions 24 h old"
+        ],
+        [
+          "Treatment",
+          "Corticosteroids",
+          "Corticosteroids, thalidomide"
+        ],
+        [
+          "Recurrence",
+          "Approx. 30%",
+          "Approx. 65%"
+        ]
+      ]
+    }
+  ],
+  "figures": [],
+  "references": []
+}

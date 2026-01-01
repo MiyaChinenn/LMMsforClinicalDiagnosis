@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 4-year-old boy from Laos, unimmunized, who is stunted and thin, and from a very poor family.",
+  "chief_complaint": "A dark sore on the child's cheek, bad breath, not eating, and appearing listless.",
+  "history_of_present_illness": "Three days ago, the family noticed a dark sore on the child's cheek, which rapidly progressed to eat through the cheek. The child also had bad breath, was not eating, appeared listless, and had a fever and rash about 2 months ago from which he recovered.",
+  "exposure_and_epidemiology": "The child lives in a remote district hospital in Laos, in a remote village of a poor developing country, and the family is very poor.",
+  "vitals": "not reported",
+  "physical_exam": "The child appears small and quiet, is stunted and thin, and has a gangrenous lesion in the mouth that has destroyed part of his upper and lower lips and cheek, exposing his teeth.",
+  "labs_and_diagnostics": "There are no diagnostic laboratory tests because the diagnosis is made clinically.",
+  "differential_diagnosis": "Initially, a tooth abscess and cellulitis were suspected, but rapid tissue destruction is typical of noma. Other unlikely lesions include oral cancer, syphilis, yaws, and cutaneous leishmaniasis (non-endemic in Laos).",
+  "management_and_clinical_course": "The child was treated with penicillin and metronidazole, nutritional support, and necrotic tissue removal. Reconstructive surgery was recommended not sooner than 1 year. The child was successfully treated with antibiotics and nutritional support, but his face healed with contractures, disfigurement, and salivary incontinence. At age 9, he underwent two surgeries to improve appearance and correct salivary incontinence.",
+  "final_diagnosis": "Noma",
+  "disease_name_short": "Noma",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "extracted_images/5---A-4-Year-Old-Boy-from-Laos-With-a-Lesion-o_2022_Clinical-Cases-in-Tropic/page1_img1.jpeg",
+      "caption": "A 4-year-old Lao boy with a necrotizing lesion on the right cheek."
+    },
+    {
+      "file_name": "extracted_images/5---A-4-Year-Old-Boy-from-Laos-With-a-Lesion-o_2022_Clinical-Cases-in-Tropic/page2_img1.jpeg",
+      "caption": "At age 9 after two surgeries correcting facial contractures and salivary incontinence."
+    }
+  ]
+}

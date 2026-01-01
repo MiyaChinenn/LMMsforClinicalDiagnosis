@@ -1,0 +1,70 @@
+{
+  "patient_information": "A 34-year-old man immigrated from northern Peru and has been living in Chile for 9 years.",
+  "chief_complaint": "Six-month history of severe chronic diarrhoea, colicky abdominal pain, and 20 kg weight loss.",
+  "history_of_present_illness": "For more than 12 years, the patient suffered from recurrent episodes of diarrhoea and abdominal cramps, with increased frequency in the past 2 years. His mother and one brother had chronic abdominal symptoms of unknown origin, leading to wasting and death at ages 45 and 28, respectively.",
+  "exposure_and_epidemiology": "The patient originates from northern Peru, a tropical region highly endemic for S. stercoralis, and has been living in Chile for 9 years. His family history includes chronic abdominal symptoms and wasting deaths in his mother and brother, which could be indicative of the same infection.",
+  "vitals": "He is afebrile.",
+  "physical_exam": "The patient is cachectic with severe loss of muscle mass and a body weight of 44 kg (BMI 17). Apart from slight abdominal pain on palpation, the physical examination is normal: liver and spleen are not enlarged, no palpable lymphadenopathy, and no peripheral oedema.",
+  "labs_and_diagnostics": "Laboratory results showed WBC 11.7 x 10^9/L, Platelets 644 x 10^9/L, Hemoglobin 12.4 g/dL, Protein 4.9 g/dL, Albumin 2.2 g/dL, ESR 26 mm/h, and a negative HIV test. Abdominal CT scan and MRI were without pathological findings, and oesophagogastroduodenoscopy appeared macroscopically normal. A duodenal biopsy showed chronic duodenitis and multiple elongated structures compatible with a helminth infection. Baermann testing of a fresh stool sample demonstrated a high load of rhabditiform larvae of S. stercoralis, and larvae were also present in respiratory secretions but not in urine. Serology confirmed HTLV-1 co-infection.",
+  "differential_diagnosis": "Strongyloides stercoralis, Capillaria philippinensis, Cryptosporidium species, and Cystoisospora belli.",
+  "management_and_clinical_course": "The patient was hospitalized and stabilized under symptomatic treatment and parenteral nutrition. Oral treatment with ivermectin (200 \"micro\"g/kg per day x 7 days) was initiated and repeated after 2 weeks. The patient recovered from diarrhoea and other abdominal symptoms within weeks, gained 13 kg, and was without postprandial abdominal cramps for the first time in more than 10 years. Parasitological follow-up examination after 3 months was negative. Baermann testing of the family and other household members revealed asymptomatic S. stercoralis infection in his wife and one child; his wife also tested HTLV-1 positive.",
+  "final_diagnosis": "HTLV-1-Associated Strongyloides stercoralis Hyperinfection Syndrome.",
+  "disease_name_short": "HTLV-1-Associated Strongyloides stercoralis Hyperinfection Syndrome",
+  "tables": [
+    {
+      "title": "Laboratory Results",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "WBC (x 10^9/L)",
+          "11.7",
+          "4.5-11.0"
+        ],
+        [
+          "Platelets (x 10^9/L)",
+          "644",
+          "150-450"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "12.4",
+          "13.5-17.5"
+        ],
+        [
+          "Protein (g/dL)",
+          "4.9",
+          "6.0-8.0"
+        ],
+        [
+          "Albumin (g/dL)",
+          "2.2",
+          "3.5-5.0"
+        ],
+        [
+          "ESR (mm/h)",
+          "26",
+          "1-14"
+        ],
+        [
+          "HIV test",
+          "negative",
+          "-ै"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "extracted_images/79---A-34-Year-Old-Male-Immigrant-from-Peru-With-Ch_2022_Clinical-Cases-in-T/page1_img1.jpeg",
+      "caption": "Duodenal biopsy with signs of chronic duodenitis and multiple elongated structures (arrows) compatible with a helminth infection (H&E stain, magnification x400)."
+    },
+    {
+      "file_name": "extracted_images/79---A-34-Year-Old-Male-Immigrant-from-Peru-With-Ch_2022_Clinical-Cases-in-T/page2_img1.jpeg",
+      "caption": "(A) Baermann technique showing high load of motile rhabditiform larvae of S. stercoralis in a stool sample. (B) Rhabditiform larvae are also present in a wet mount preparation of respiratory secretion."
+    }
+  ]
+}

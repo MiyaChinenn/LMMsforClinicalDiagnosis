@@ -1,0 +1,90 @@
+{
+  "patient_information": "A 44-year-old male rice farmer from Laos, diagnosed with type 2 diabetes 4 years previously but non-compliant with oral antidiabetic drugs or follow-up.",
+  "chief_complaint": "One-month history of fever, headache, generalized myalgia and arthralgia, and a painful swelling over the left scapula.",
+  "history_of_present_illness": "The swelling gradually increased in size without preceding trauma; a week prior to admission, the lesion was incised and drained at a local health centre, and the patient had been taking cloxacillin 1g four times daily, but deteriorated with high fever, chills, and severe malaise in the 2 days prior to admission.",
+  "exposure_and_epidemiology": "The patient is a male rice farmer in Southern Laos presenting during the rainy season.",
+  "vitals": "Fever of 40°C (104°F), heart rate of 136bpm, blood pressure of 140/80 mmHg, and respiratory rate of 30 breath cycles per minute.",
+  "physical_exam": "Patient appears septic, pale and jaundiced; left scapular region shows an erythematous swelling of 2.5 × 4 cm with pus discharging from a central wound; no regional lymphadenopathy; chest auscultation reveals bilateral crepitations and reduced breath sounds at both lung bases; heart sounds normal; abdomen soft without palpable organomegaly.",
+  "labs_and_diagnostics": "WBC 16.2 ×10^9/L, Polymorphs 92.1%, Platelets 112 ×10^9/L, Glucose 20.6 mmol/L, Serum creatinine 56 µmol/L, Urea 6.8 mmol/L, AST 131 U/L, ALT 83 U/L, Serum total bilirubin 111.2 µmol/L, Serum direct bilirubin 56.4 µmol/L; Chest radiograph revealed bilateral pleural effusions; Pus culture and blood culture both yielded B. pseudomallei.",
+  "differential_diagnosis": "Bacterial abscess with sepsis (Staphylococcus aureus, Streptococcus pyogenes, Klebsiella pneumoniae, Vibrio vulnificus or anaerobes), Melioidosis (Burkholderia pseudomallei), Tuberculosis, and Disseminated fungal infection.",
+  "management_and_clinical_course": "Empirically treated with ceftriaxone and gentamicin, then switched to ceftazidime after 48 hours when melioidosis was suspected; the patient improved after 7 days of treatment and was afebrile by day 14, then switched to oral co-trimoxazole to complete 20 weeks; glycaemic control was established; discharged after 21 days and continued oral 'eradication' treatment for 5 months, remaining well.",
+  "final_diagnosis": "Melioidosis",
+  "disease_name_short": "Melioidosis",
+  "tables": [
+    {
+      "title": "Laboratory Results",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference Range"
+      ],
+      "rows": [
+        [
+          "WBC (×10^9/L)",
+          "16.2",
+          "6.0-8.0"
+        ],
+        [
+          "Polymorphs (%)",
+          "92.1",
+          "45-70"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "12.5",
+          "12.0-16.0"
+        ],
+        [
+          "Platelets (×10^9/L)",
+          "112",
+          "150-300"
+        ],
+        [
+          "Glucose (mmol/L)",
+          "20.6",
+          "4.1-6.1"
+        ],
+        [
+          "Serum creatinine (µmol/L)",
+          "56",
+          "62-120"
+        ],
+        [
+          "Urea (mmol/L)",
+          "6.8",
+          "5.4-16.1"
+        ],
+        [
+          "AST (U/L)",
+          "131",
+          "0-37"
+        ],
+        [
+          "ALT (U/L)",
+          "83",
+          "0-40"
+        ],
+        [
+          "Serum total bilirubin (µmol/L)",
+          "111.2",
+          "1.71-20.5"
+        ],
+        [
+          "Serum direct bilirubin (µmol/L)",
+          "56.4",
+          "0-7"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "extracted_images/32---A-44-Year-Old-Male-Farmer-from-Laos-With-Di_2022_Clinical-Cases-in-Trop/page1_img1.jpeg",
+      "caption": "Wound on the patient's left shoulder, after incision and drain-age of the abscess. (Side finding: hypopigmented macular skin lesions of Pityriasis versicolor (Malassezia spp.), commonly seen in humid tropical climates.)"
+    },
+    {
+      "file_name": "extracted_images/32---A-44-Year-Old-Male-Farmer-from-Laos-With-Di_2022_Clinical-Cases-in-Trop/page2_img1.jpeg",
+      "caption": "Admission chest radiograph of the patient, showing bilateral pleural effusions."
+    }
+  ]
+}

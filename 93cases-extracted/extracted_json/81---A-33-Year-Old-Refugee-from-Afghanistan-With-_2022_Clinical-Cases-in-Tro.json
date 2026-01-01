@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 33-year-old male refugee from Afghanistan.",
+  "chief_complaint": "Recurrent fever, night sweats, and progressive back pain.",
+  "history_of_present_illness": "The patient began feeling ill about 6 months ago in a refugee camp in Iran, experiencing recurrent fever, night sweats, and progressive back pain; he was treated with tablets and intragluteal injections, with symptoms subsiding on medication but recurring after treatment ended.",
+  "exposure_and_epidemiology": "The patient, with his wife and two children, lived in a refugee camp in Iran after leaving Afghanistan, then crossed Turkey and Eastern Europe to reach Germany 4 months ago; all medical documents were lost during the journey.",
+  "vitals": "Vital signs are normal.",
+  "physical_exam": "The patient is afebrile and in fair general condition, with marked spinal tenderness in the lumbar region; the remaining examination is unremarkable.",
+  "labs_and_diagnostics": "Differential blood count, liver and renal function tests, and LDH are normal. C-reactive protein is 26 mg/L (<5 mg/L), erythrocyte sedimentation rate is 40 mm/hour (<20 mm/hour), and urinalysis is unremarkable. MRI of the spine reveals signal enhancement of the L3 and L4 vertebral bodies, the corresponding vertebral disc, and the right psoas muscle, as well as disc space narrowing and irregularities of both adjacent vertebral endplates. A chest x-ray shows no abnormalities. Several blood cultures and sputum samples for acid-fast bacilli remained negative. A CT-guided biopsy of the lesion revealed Brucella melitensis on tissue culture, and echocardiography showed no signs of endocarditis.",
+  "differential_diagnosis": "Infectious spondylitis, including tuberculosis and spinal brucellosis; other infectious causes of spondylitis like Staphylococcus aureus, pyogenic and non-pyogenic streptococci, Gram-negative bacteria (e.g., Salmonella species); histoplasmosis, actinomycosis, and melioidosis.",
+  "management_and_clinical_course": "The patient received doxycycline 100 mg twice daily and rifampicin 900mg daily for 16 weeks, along with intramuscular streptomycin 1 g daily for the first 3 weeks. Fever subsided after several days, and inflammation parameters returned to normal several weeks after initiation of therapy. A second MRI at the end of treatment showed full resolution of the paravertebral abscess, and the patient showed no signs of relapse one year post-treatment completion.",
+  "final_diagnosis": "Complicated brucellosis with spondylitis and para-vertebral abscess formation.",
+  "disease_name_short": "Brucellosis",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "extracted_images/81---A-33-Year-Old-Refugee-from-Afghanistan-With-_2022_Clinical-Cases-in-Tro/page2_img1.jpeg",
+      "caption": "MRI of the spine reveals signal enhancement of the L3 and L4 vertebral bodies, the corresponding vertebral disc and the right psoas muscle, as well as disc space narrowing and irregularities of both adjacent vertebral endplates."
+    },
+    {
+      "file_name": "extracted_images/81---A-33-Year-Old-Refugee-from-Afghanistan-With-_2022_Clinical-Cases-in-Tro/page2_img2.jpeg",
+      "caption": "MRI of the spine reveals signal enhancement of the L3 and L4 vertebral bodies, the corresponding vertebral disc and the right psoas muscle, as well as disc space narrowing and irregularities of both adjacent vertebral endplates."
+    }
+  ]
+}

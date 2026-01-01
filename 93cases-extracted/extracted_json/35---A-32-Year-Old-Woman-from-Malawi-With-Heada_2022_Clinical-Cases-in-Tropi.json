@@ -1,0 +1,100 @@
+{
+  "patient_information": "A 32-year-old Malawian woman.",
+  "chief_complaint": "Headache and blurred vision.",
+  "history_of_present_illness": "The patient presented with a 3-week history of gradual onset headache and blurred vision, unresponsive to over-the-counter painkillers, and no fever, convulsions, or head trauma; she previously received presumptive antimalarial treatment and antibiotics without benefit.",
+  "exposure_and_epidemiology": "The patient lives in a part of the world with a high HIV prevalence, and cryptococcal meningitis is the most common cause of adult meningitis in sub-Saharan Africa.",
+  "vitals": "All vital signs are normal and she is afebrile.",
+  "physical_exam": "The patient appears wasted and slightly anaemic, GCS is 15/15, no neck stiffness, normal visual acuity, and an abduction deficit of the left eye with 'blurring of vision' on left lateral gaze.",
+  "labs_and_diagnostics": "Initial labs showed WBC 3.7 (×10^9/L), Haemoglobin 10.2 (g/dL), MCV 92 (fL), Platelets 91 (×10^9/L), Fasting blood glucose 5.43 (mmol/L), and negative Malaria RDT; CSF analysis revealed an opening pressure of 50 cmH2O, Leukocytes 18 (cells/µL), Protein 0.8 (g/L), Glucose 1.97 (mmol/L), negative India Ink, and C. neoformans on culture; HIV serology was positive with a CD4 count of 22/µL.",
+  "differential_diagnosis": "Cryptococcal meningitis, tuberculous meningitis, and partially treated bacterial meningitis.",
+  "management_and_clinical_course": "The patient was started on oral fluconazole 1200 mg and co-trimoxazole prophylaxis, received repeated therapeutic lumbar punctures, and commenced antiretroviral therapy 4 weeks into antifungal treatment, but died 6 weeks later of an unknown cause.",
+  "final_diagnosis": "Cryptococcal meningitis.",
+  "disease_name_short": "Cryptococcal Meningitis",
+  "tables": [
+    {
+      "title": "Laboratory Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "WBC (×10^9/L)",
+          "3.7",
+          "4-10"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "10.2",
+          "12-16"
+        ],
+        [
+          "MCV (fL)",
+          "92",
+          "80-98"
+        ],
+        [
+          "Platelets (×10^9/L)",
+          "91",
+          "150-350"
+        ],
+        [
+          "Fasting blood glucose (mmol/L)",
+          "5.43",
+          "5.0-6.7"
+        ],
+        [
+          "Malaria RDT",
+          "Negative",
+          "Negative"
+        ]
+      ]
+    },
+    {
+      "title": "CSF Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "Leukocytes (cells/µL)",
+          "18",
+          "0-5"
+        ],
+        [
+          "Protein (g/L)",
+          "0.8",
+          "0.15-0.40"
+        ],
+        [
+          "Glucose (mmol/L)",
+          "1.97",
+          "2.22-3.88"
+        ],
+        [
+          "India Ink",
+          "Negative",
+          "Negative"
+        ],
+        [
+          "Culture",
+          "C. neoformans",
+          "Negative"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "extracted_images/35---A-32-Year-Old-Woman-from-Malawi-With-Heada_2022_Clinical-Cases-in-Tropi/page1_img1.jpeg",
+      "caption": "Abducens nerve palsy on the left in a patient with sub-acute headache."
+    },
+    {
+      "file_name": "extracted_images/35---A-32-Year-Old-Woman-from-Malawi-With-Heada_2022_Clinical-Cases-in-Tropi/page2_img1.jpeg",
+      "caption": "Photomicrograph of Cryptococcus neoformans (India Ink stain). (Source: www.cdc.gov; www.cdc.gov/fungal/cryptococcosis-neoformans/)"
+    }
+  ]
+}

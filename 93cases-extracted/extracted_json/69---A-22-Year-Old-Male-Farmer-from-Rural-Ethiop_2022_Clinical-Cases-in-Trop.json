@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 22-year-old male farmer from rural northern Ethiopia.",
+  "chief_complaint": "Difficulty walking.",
+  "history_of_present_illness": "The patient's problem started 10 years ago with sudden weakness in both legs, progressing rapidly over 4-5 days, requiring a cane for mobility; he had no history of trauma, prodromal symptoms, back pain, sensory complaints, sphincter disturbance, or upper limb symptoms, and his illness coincided with a period of drought and famine when his diet consisted almost exclusively of grass peas (Lathyrus sativus).",
+  "exposure_and_epidemiology": "The patient's diet almost exclusively consisted of grass peas (Lathyrus sativus) during a period of drought and famine; several similar cases of weakness occurred among young male farmers in his village, and he migrated with another affected farmer; there was no history of cassava exposure.",
+  "vitals": "not reported",
+  "physical_exam": "The patient was an alert young man with a normal mental state, exhibiting a spastic 'scissor gait' with foot-dragging and toe-scraping, mild bilateral lower limb spastic weakness of pyramidal pattern, pathological brisk deep tendon reflexes, sustained foot clonus, an extensor plantar response on the right and equivocal on the left, with normal cranial nerves and upper limbs, and no sensory or bladder dysfunction.",
+  "labs_and_diagnostics": "Full blood count, liver and renal function tests, cerebrospinal fluid, nerve conduction studies, and electromyography were normal; his HIV-1 serology was non-reactive; HTLV-1 and -2 serology and MRI were not available.",
+  "differential_diagnosis": "The clinical syndrome is an upper motor neuron lesion with spastic paraparesis, and other myelopathies were ruled out due to specific symptom absences; the diagnosis was narrowed down by considering male gender, pre-onset physical exertion, excessive prolonged guaya consumption, and similar affected village members, favoring neurolathyrism over HTLV-associated myelopathy and neurocassavism.",
+  "management_and_clinical_course": "The patient received physiotherapy and muscle relaxants, which provided only mild, short-lasting improvement of his spasticity; a walking cane and wheelchair were provided, and he was counseled to avoid further consumption of L. sativus.",
+  "final_diagnosis": "Neurolathyrism.",
+  "disease_name_short": "Neurolathyrism",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "extracted_images/69---A-22-Year-Old-Male-Farmer-from-Rural-Ethiop_2022_Clinical-Cases-in-Trop/page1_img1.jpeg",
+      "caption": "Fig. 69.1 Lathyrus sativus (local name guaya) grass pea plant and its leguminous seeds."
+    },
+    {
+      "file_name": "extracted_images/69---A-22-Year-Old-Male-Farmer-from-Rural-Ethiop_2022_Clinical-Cases-in-Trop/page2_img1.jpeg",
+      "caption": "Fig. 69.2 Images demonstrating the patient's gait: paraplegic narrow-based 'scissor gait' with foot-dragging, and toe-scraping."
+    }
+  ]
+}

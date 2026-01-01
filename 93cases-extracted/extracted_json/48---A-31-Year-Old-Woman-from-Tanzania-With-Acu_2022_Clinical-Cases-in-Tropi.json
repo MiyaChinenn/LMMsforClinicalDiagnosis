@@ -1,0 +1,180 @@
+{
+  "patient_information": "A 31-year-old woman from northern Tanzania, married with 3 children (last born 12 months old), non-smoker, non-alcoholic, with negative HIV status during her last pregnancy.",
+  "chief_complaint": "Acute loss of power and feeling in her legs.",
+  "history_of_present_illness": "She developed acute back pain radiating band-like to her umbilicus, which was severe, continuous, burning, and unrelieved by analgesics or position; within 12 hours, the pain lessened, but she developed numbness in her feet and legs ascending to her waist, loss of power in her legs, and loss of bladder control.",
+  "exposure_and_epidemiology": "She had a febrile illness 3 weeks prior, treated as malaria.",
+  "vitals": "Normal vital signs.",
+  "physical_exam": "Well nourished, general examination unremarkable with no spinal tenderness, deformity, or gibbus. Neurological examination showed full orientation, normal higher mental functions, normal cranial nerves including fundoscopy and upper limbs. Lower limbs revealed flaccid paraparesis with a sensory level at T10, plantar-flexed feet, reduced tone bilaterally, reduced power (MRC grade 1/5) in all muscle groups, absent reflexes bilaterally, extensor plantar reflexes, reduced light touch sensation to the umbilicus, impaired joint position sense in feet and ankles, and absent vibration sense to the anterior iliac crest bilaterally.",
+  "labs_and_diagnostics": "Full blood count, renal and liver function tests were normal. ESR was 19 mm/h, random blood glucose 5.6 mmol/l. HIV-Serology and p24 Antigen, VDRL, Schistosomiasis-serology, urine for ova of S. haematobium, and stool for ova of S. mansoni were all negative. CSF opening pressure was normal, appearance clear. CSF showed a white cell count of 11 cells/µl (90% lymphocytes), protein 1.11 g/L, glucose 3.9 mmol/l, and was negative for Gram stain, Ziehl-Neelsen stain, Xpert MTB/RIF, and VDRL. X-rays of chest and thoracolumbar spine were normal.",
+  "differential_diagnosis": "Acute spinal cord inflammation (acute transverse myelitis), vascular spinal cord ischaemia (\"spinal stroke\"), and lesions of peripheral nerves (polyneuropathies or polyradiculoneuropathies) or acute lesions of the spinal cord (myelopathies) were considered.",
+  "management_and_clinical_course": "Treatment included corticosteroids and acyclovir, along with general measures like strict 2-hourly turning, frequent passive movements, urinary catheterization for non-functioning bladder, and adequate analgesia. The patient partially improved with power in her legs slightly improved to MRC 2-3/5 and was discharged after 3 weeks with a urinary catheter in situ, with follow-up in the outpatient department.",
+  "final_diagnosis": "Acute transverse myelitis.",
+  "disease_name_short": "Acute Transverse Myelitis",
+  "tables": [
+    {
+      "title": "Flaccid versus Spastic Paraparesis",
+      "headers": [
+        "Clinical Presentation",
+        "Neuroanatomical Diagnosis",
+        "Examples of Common Aetiologies in Tropical Countries"
+      ],
+      "rows": [
+        [
+          "Flaccid paraparesis",
+          "with bladder involvement and/or sensory level",
+          "Acute spinal cord lesion",
+          "inflammation of the spinal cord (= myelitis), ischaemia of the spinal cord (= spinal infarction)"
+        ],
+        [
+          "Flaccid paraparesis",
+          "with bladder involvement and/or sensory level",
+          "Acute cauda equina lesion",
+          "metastatic malignancy, schistosomiasis"
+        ],
+        [
+          "Flaccid paraparesis",
+          "without bladder dysfunction, without sensory level",
+          "Polyradiculoneuropathy",
+          "Guillain-Barré-syndrome, tuberculous arachnoiditis, CMV in HIV"
+        ],
+        [
+          "Flaccid paraparesis",
+          "without bladder dysfunction, without sensory level",
+          "Polyneuropathy",
+          "Diabetes, HIV-related, nutritional"
+        ],
+        [
+          "Spastic paraparesis",
+          "",
+          "Chronic spinal cord lesion",
+          "Compression of spinal cord because of Pott's disease, chronic viral infections such as HTLV-1 and HIV"
+        ]
+      ]
+    },
+    {
+      "title": "Laboratory Results on Admission",
+      "headers": [
+        "Parameter (Unit)",
+        "Patient",
+        "Normal range"
+      ],
+      "rows": [
+        [
+          "ESR (mm/h)",
+          "19",
+          "<10"
+        ],
+        [
+          "Random blood glucose (mmol/l)",
+          "5.6",
+          "3.9-11.1"
+        ],
+        [
+          "HIV-Serology and p24 Antigen",
+          "negative",
+          "negative"
+        ],
+        [
+          "VDRL",
+          "negative",
+          "negative"
+        ],
+        [
+          "Schistosomiasis-serology",
+          "negative",
+          "negative"
+        ],
+        [
+          "Urine for ova of S. haematobium",
+          "negative",
+          "negative"
+        ],
+        [
+          "Stool for ova of S. mansoni",
+          "negative",
+          "negative"
+        ]
+      ]
+    },
+    {
+      "title": "CSF Results",
+      "headers": [
+        "Parameter (Unit)",
+        "Patient",
+        "Normal range"
+      ],
+      "rows": [
+        [
+          "CSF white cell count (cells/µl)",
+          "11 (90% lymphocytes)",
+          "0-5"
+        ],
+        [
+          "CSF protein (g/L)",
+          "1.11",
+          "<0.45"
+        ],
+        [
+          "CSF glucose (mmol/l)",
+          "3.9",
+          "2.8-3.8*"
+        ],
+        [
+          "Gram stain",
+          "negative",
+          "negative"
+        ],
+        [
+          "Ziehl-Neelsen stain",
+          "negative",
+          "negative"
+        ],
+        [
+          "Xpert MTB/RIF",
+          "negative",
+          "negative"
+        ],
+        [
+          "VDRL in the CSF",
+          "negative",
+          "negative"
+        ]
+      ]
+    },
+    {
+      "title": "Pathophysiology of Acute Transverse Myelitis",
+      "headers": [
+        "Pathophysiology",
+        "Treatment"
+      ],
+      "rows": [
+        [
+          "Idiopathic, (majority of the cases)",
+          "Presumably an autoimmune phenomenon Might be a manifestation of a chronic autoimmune demyelinating CNS disease (such as NMO and multiple sclerosis)",
+          "Corticosteroids against inflammation"
+        ],
+        [
+          "Associated with infection",
+          "Direct invasion of the spinal cord by microorganisms",
+          "Causative treatment e.g. acyclovir for VZV myelitis"
+        ],
+        [
+          "Associated with infection",
+          "Autoimmune phenomenon as a result of infection elsewhere (\"parainfectious\") Might be associated with vaccination against the microorganism",
+          "Corticosteroids against inflammation"
+        ],
+        [
+          "Associated with a systemic autoimmune disorder",
+          "Autoimmune phenomenon Often the autoimmune disorder (e.g. lupus or secondary vasculitis) in the patient is already known",
+          "Corticosteroids against inflammation"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "extracted_images/48---A-31-Year-Old-Woman-from-Tanzania-With-Acu_2022_Clinical-Cases-in-Tropi/page1_img1.jpeg",
+      "caption": "A patient with an acute-onset flaccid paraplegia. Note the plantar flexion of her feet."
+    }
+  ]
+}

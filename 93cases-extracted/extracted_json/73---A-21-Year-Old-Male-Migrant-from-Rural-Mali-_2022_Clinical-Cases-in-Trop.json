@@ -1,0 +1,96 @@
+{
+  "patient_information": "A 21-year-old male migrant from rural Mali, from a poor family, initially unable to read and write, later learned German, reading, and writing, and plans to become a house painter.",
+  "chief_complaint": "Intermittent fever and heaviness on the left side of his abdomen.",
+  "history_of_present_illness": "Patient was referred to a tropical medicine department for splenomegaly and bicytopenia, with an unknown underlying condition, reporting intermittent fever and left-sided abdominal heaviness, but no night sweats or weight loss.",
+  "exposure_and_epidemiology": "Patient migrated from rural Mali to Germany 1 year prior, crossing Niger, staying a few weeks in a detention center in Libya, then traveling across the Mediterranean and through Italy.",
+  "vitals": "Temperature 36.1°C (96.98°F), BP 120/80mmHg, pulse 64 bpm.",
+  "physical_exam": "Patient appears clinically well with massively enlarged spleen (15 cm below left costal margin, 21.8 cm longitudinal diameter, homogenous parenchyma), but no clinical anemia, lymphadenopathy, heart murmurs, or other abnormalities on physical exam or abdominal ultrasound.",
+  "labs_and_diagnostics": "Lab results showed bicytopenia, normal LDH, almost 4-fold increased IgM (8.59 g/l, ref 0.4-2.3), non-elevated inflammatory markers, negative malaria blood films but positive malaria serology (P. falciparum IFAT 1:256). HIV, schistosomiasis, and leishmaniasis serologies were negative, blood cultures negative, no S. mansoni ova in stool, but P. falciparum PCR was positive.",
+  "differential_diagnosis": "Important differential diagnoses include Lymphoma or leukaemia, Visceral leishmaniasis, Schistosomiasis, Bacterial endocarditis, Brucellosis, EBV and CMV infections, and Hyperreactive Malarial Splenomegaly (HMS).",
+  "management_and_clinical_course": "Patient received a single course of dihydroartemisinin/piperaquine, after which fever subsided, and P. falciparum PCR became negative after 2 weeks. Over 2.5 years of monitoring, IgM levels normalized in 2 years, and spleen size slowly decreased to 14 cm.",
+  "final_diagnosis": "Hyperreactive Malarial Splenomegaly (HMS).",
+  "disease_name_short": "HMS",
+  "tables": [
+    {
+      "title": "Laboratory Results at First Presentation",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference Range"
+      ],
+      "rows": [
+        [
+          "WBC (x 10^9/L)",
+          "3.3",
+          "4-10"
+        ],
+        [
+          "Neutrophils (× 10^9/L)",
+          "2.29",
+          "1.8-7.2"
+        ],
+        [
+          "Lymphocytes (x 10^9/L)",
+          "1.4",
+          "1.5-4"
+        ],
+        [
+          "Monocytes (× 10^9/L)",
+          "0.28",
+          "0.2-0.5"
+        ],
+        [
+          "Eosinophils (× 10^9/L)",
+          "0.12",
+          "<0.5"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "13.8",
+          "13-15"
+        ],
+        [
+          "Platelets (× 10^9/L)",
+          "124",
+          "150-350"
+        ],
+        [
+          "LDH (U/L)",
+          "185",
+          "<220"
+        ],
+        [
+          "Total bilirubin (mg/dL)",
+          "0.5",
+          "0.2-1.2"
+        ],
+        [
+          "IgM (g/l)",
+          "8.59",
+          "0.4-2.3"
+        ],
+        [
+          "CRP",
+          "0.5",
+          "<0.5"
+        ],
+        [
+          "ESR mm/h",
+          "9/21",
+          "<15/30"
+        ],
+        [
+          "Plasmodium spp. (thick and thin film)",
+          "negative",
+          "negative"
+        ],
+        [
+          "P. falciparum IFAT",
+          "1:256",
+          "<1:32"
+        ]
+      ]
+    }
+  ],
+  "images": []
+}

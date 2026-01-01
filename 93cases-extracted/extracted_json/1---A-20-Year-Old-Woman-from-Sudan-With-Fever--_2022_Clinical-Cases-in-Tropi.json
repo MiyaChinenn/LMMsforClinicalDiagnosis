@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 20-year-old housewife, a Sudanese refugee, living in a camp in northern Uganda.",
+  "chief_complaint": "2-day history of fever, severe asthenia, chest and abdominal pain, nausea, vomiting, diarrhoea, and slight non-productive cough.",
+  "history_of_present_illness": "A 20-year-old housewife presented to a hospital in northern Uganda with a 2-day history of fever, severe asthenia, chest and abdominal pain, nausea, vomiting, diarrhoea, and slight non-productive cough; she is a Sudanese refugee living in a camp and denies contact with sick people.",
+  "exposure_and_epidemiology": "The patient is a Sudanese refugee living in a camp in northern Uganda, a region experiencing an Ebola virus disease outbreak, and denied contact with sick people.",
+  "vitals": "On admission: temperature 39.6°C (103.3°F), blood pressure 90/60 mmHg, pulse 90 bpm, respiratory rate 24 cycles per minute; later, temperature 36.0°C, blood pressure unreadable, pulse 150 bpm, respiratory rate 36 cycles per minute.",
+  "physical_exam": "Patient was prostrate and semiconscious with abdominal tenderness (especially in the right upper quadrant), hepatosplenomegaly, bleeding from gums, clear lungs, and no rash or lymphadenopathy.",
+  "labs_and_diagnostics": "No clinical laboratory data were available initially; later, specialized laboratory testing showed positive ELISA antigen and PCR tests for Ebola virus and a negative result for ELISA IgG antibody.",
+  "differential_diagnosis": "Complicated malaria, typhoid fever, bacterial gastroenteritis, and leptospirosis.",
+  "management_and_clinical_course": "Intravenous fluids, broad-spectrum antibiotics, and analgesics were initiated, but the patient's condition worsened with subconjunctival haemorrhage, copious bleeding from the mouth, nose, and rectum, dyspnoea, hypothermic shock, and death within 24 hours.",
+  "final_diagnosis": "Ebola virus disease.",
+  "disease_name_short": "Ebola virus disease",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "extracted_images/1---A-20-Year-Old-Woman-from-Sudan-With-Fever--_2022_Clinical-Cases-in-Tropi/page2_img1.jpeg",
+      "caption": "Oral bleeding in Ebola virus disease."
+    },
+    {
+      "file_name": "extracted_images/1---A-20-Year-Old-Woman-from-Sudan-With-Fever--_2022_Clinical-Cases-in-Tropi/page2_img2.jpeg",
+      "caption": "Rectal bleeding in Ebola virus disease."
+    }
+  ]
+}

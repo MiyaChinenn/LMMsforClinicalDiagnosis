@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 29-year-old married woman from Malawi, a housewife with four children, resides in a grass-thatched mud-hut in a poor rural village with an imbalanced diet.",
+  "chief_complaint": "The patient presented with confusion, restlessness, and irritability for the past month, and watery diarrhoea which started one week ago.",
+  "history_of_present_illness": "The patient has been confused, restless, and irritable for the past month, and has had watery diarrhoea for one week; she does not have a fever. Her past medical history was uneventful, with no psychiatric disorders, and her HIV status was unknown. She is not taking any medication and denies intoxicants.",
+  "exposure_and_epidemiology": "The patient lives in a grass-thatched mud-hut, collects water from a borehole, has no electricity, and eats two meals a day, mainly maize porridge with few vegetables, rarely affording fish or meat.",
+  "vitals": "The patient's Glasgow Coma Scale was 14/15 (confusion), the remaining vital signs were normal, and she was afebrile.",
+  "physical_exam": "The patient was slim but not wasted, had pale conjunctivae, and a noticeable hyperpigmented, dry, scaly, and clearly demarcated skin rash on her neck, forearms, hands, and feet, which had been present for 2 months.",
+  "labs_and_diagnostics": "An HIV test came back negative; a full blood count showed microcytic anaemia with a haemoglobin of 6.7 g/dL and a Mentzer index >13.",
+  "differential_diagnosis": "Pellagra was the suspected diagnosis, with HIV infection (tuberculous meningitis, cryptococcal meningitis, progressive multifocal leukoencephalopathy, HIV-associated neurocognitive disorder) and systemic lupus erythematosus as differential diagnoses.",
+  "management_and_clinical_course": "The patient received vitamin B-complex, iron, folic acid supplementation, a single dose of albendazole, dietary counselling, soothing applications for skin lesions, and advice to avoid sun exposure; her confusion settled within a week and diarrhoea stopped.",
+  "final_diagnosis": "Pellagra, characterized by dermatitis, diarrhoea, and dementia, and microcytic anaemia were diagnosed.",
+  "disease_name_short": "Pellagra",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "extracted_images/37---A-29-Year-Old-Woman-from-Malawi-With-Confusi_2022_Clinical-Cases-in-Tro/page1_img1.jpeg",
+      "caption": "Hyperpigmented skin rash on sun-exposed skin."
+    },
+    {
+      "file_name": "extracted_images/37---A-29-Year-Old-Woman-from-Malawi-With-Confusi_2022_Clinical-Cases-in-Tro/page1_img2.jpeg",
+      "caption": "The skin changes involve both hands and feet. The skin appears dry and scaly."
+    }
+  ]
+}

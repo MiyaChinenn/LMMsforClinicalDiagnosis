@@ -1,0 +1,122 @@
+{
+  "patient_information": "A 45-year-old male security guard from Malawi.",
+  "chief_complaint": "Back pain and progressive difficulty in walking.",
+  "history_of_present_illness": "Troubles started 1 year earlier with back pain which did not improve with paracetamol. Over weeks, he developed difficulty walking and 'pins and needles' in his legs, eventually becoming bedridden. He denies fever, night sweats, weight loss, chronic cough, haematuria, or diarrhoea.",
+  "exposure_and_epidemiology": "Resides in an urban area, drinks about one litre of Chibuku per day, non-smoker, married with three children who are well. No history of trauma or past tuberculosis, never tested for HIV. Consulted a traditional healer who applied tattoos to his chest and back.",
+  "vitals": "Afebrile with normal vital signs. Initial temperature was slightly elevated (37.5°C, 99.5°F) at first visit.",
+  "physical_exam": "Tenderness over the lower thoracic spine with severe spasticity of both legs. Power in legs is 1/5 (visible muscle flicker). Deep tendon reflexes of lower limbs are exaggerated, plantar reflexes are upgoing. Sensory level for pain and temperature sensation between T9 and T11, with diminished joint sense in big toes bilaterally. Cranial nerves and upper limbs are normal.",
+  "labs_and_diagnostics": "Full blood count results are normal. Urine dipstick normal, no ova of Schistosoma spp. in urine and stool. Spinal radiograph showed collapse of T11 vertebral body and soft tissue swelling around the spine. Chest radiography and abdominal ultrasound examination were normal. Found to be HIV-positive with a CD4 count of 331 cells/µL.",
+  "differential_diagnosis": "Spinal TB ('Pott's disease'), spinal metastases, degenerative spinal disease (including slipped disc), schistosomiasis, autoimmune transverse myelitis, and HIV-associated vacuolar myelopathy.",
+  "management_and_clinical_course": "Initially given paracetamol, antimalarials, a single dose of praziquantel, and paracetamol, without improvement. Later, a presumed diagnosis of spinal TB led to standard first-line antituberculous treatment, Vitamin B6, physiotherapy, and intensive guardian counselling. A spinal surgeon did not recommend immediate surgery but suggested a review in 3 months. The patient was discharged home with palliative care team involvement and started on antiretroviral therapy. At 3 months, he reported subjective improvement in gait, but neurological deficits remained unchanged and he was still waiting for a wheelchair.",
+  "final_diagnosis": "Spinal Tuberculosis (Pott's Disease).",
+  "disease_name_short": "Spinal TB",
+  "tables": [
+    {
+      "title": "Important Causes of Spinal Cord Disease in the Tropics and Their Typical Clinical Features",
+      "headers": [
+        "",
+        "Typical Onset and Course",
+        "Clinical Features"
+      ],
+      "rows": [
+        [
+          "Spinal tuberculosis",
+          "Insidious onset, chronically progressive over weeks, with months of back pain",
+          "Spasticity common, bladder may be spared, spinal deformity on examination"
+        ],
+        [
+          "Spinal metastases",
+          "Subacute onset, chronically progressive over weeks",
+          "Spasticity or flaccidity, bladder may be spared"
+        ],
+        [
+          "Transverse myelitis (incl. autoimmune)",
+          "Acute onset, often non-progressive",
+          "Bladder involvement common"
+        ],
+        [
+          "Schistosomiasis",
+          "Acute (days) or subacute (a couple of weeks)",
+          "Often flaccid paresis, bladder involvement common"
+        ]
+      ]
+    },
+    {
+      "title": "Diagnostic Clues and Possible Treatment Regimens for Important Causes of Spinal Cord Disease in Resource-Limited Settings",
+      "headers": [
+        "",
+        "Diagnostic Clues",
+        "Treatment"
+      ],
+      "rows": [
+        [
+          "Spinal tuberculosis",
+          "Typical spinal radiograph (see Box) Epidemiological evidence",
+          "Antituberculous treatment Spinal surgery if available and applicable (see Box)"
+        ],
+        [
+          "Spinal metastases",
+          "Clinical evidence of the primary tumour (e.g. prostate, breast)",
+          "Very limited options: radiotherapy rarely available; corticosteroids to decrease oedema"
+        ],
+        [
+          "Transverse myelitis (incl. autoimmune)",
+          "Young adults Inflammatory CSF",
+          "Corticosteroids"
+        ],
+        [
+          "Schistosomiasis",
+          "Exposure to freshwater in endemic regions, young adults in endemic coutries or non-immune travellers; CSF eosinophilia; other manifestations of schistosomiasis may or may not be present.",
+          "Praziquantel, corticosteroids"
+        ]
+      ]
+    },
+    {
+      "title": "Common Complications of Spinal Cord Disease and Their Prevention and Management",
+      "headers": [
+        "Complication",
+        "Prevention/Management"
+      ],
+      "rows": [
+        [
+          "Pressure sores",
+          "Nursing, training and counselling of guardians (two hourly turning)"
+        ],
+        [
+          "Urinary retention",
+          "Catheterization"
+        ],
+        [
+          "Contractures",
+          "Physiotherapy, training of guardians for home-based physiotherapy"
+        ],
+        [
+          "Pain",
+          "Pain relief by NSAID/opiates, involvement of local palliative care team"
+        ],
+        [
+          "Immobilization",
+          "If available, prescription of walking aids/ wheelchairs"
+        ],
+        [
+          "Depression",
+          "Spiritual and mental support, occupational therapy/community projects, pharmacotherapy, involvement of local palliative care team"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "extracted_images/11---A-45-Year-Old-Male-Security-Guard-from-Malawi-_2022_Clinical-Cases-in-T/page1_img1.jpeg",
+      "caption": "(A) Tattoos from a traditional healer on the chest of the patient."
+    },
+    {
+      "file_name": "extracted_images/11---A-45-Year-Old-Male-Security-Guard-from-Malawi-_2022_Clinical-Cases-in-T/page1_img1.jpeg",
+      "caption": "(B) Severe spasticity and contractures of both lower limbs."
+    },
+    {
+      "file_name": "extracted_images/11---A-45-Year-Old-Male-Security-Guard-from-Malawi-_2022_Clinical-Cases-in-T/page3_img1.jpeg",
+      "caption": "AP radiograph demonstrating a paravertebral soft tissue mass in the lower dorsal region with collapse of the T11 vertebral body."
+    }
+  ]
+}

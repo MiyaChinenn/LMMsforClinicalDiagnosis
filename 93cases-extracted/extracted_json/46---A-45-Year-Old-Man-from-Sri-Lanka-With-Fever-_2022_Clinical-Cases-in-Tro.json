@@ -1,0 +1,134 @@
+{
+  "patient_information": "A 45-year-old Sri Lankan man.",
+  "chief_complaint": "Fever, chills, headache, body aches and severe right hypochondrial pain for the past week.",
+  "history_of_present_illness": "The patient developed a dry cough during the past few days, vomited twice, and lost his appetite; his abdominal pain is constant, dull, radiates to the right shoulder, and is made worse when coughing or resting on the right side, and he had been well before this illness.",
+  "exposure_and_epidemiology": "The patient is from Sri Lanka and admits to consuming locally brewed alcohol ('toddy') daily for the past 10 to 15 years.",
+  "vitals": "Temperature 38.3°C (100.8°F), blood pressure 100/80 mmHg, pulse 102 bpm, respiratory rate 24 breath cycles per minute.",
+  "physical_exam": "The patient looks generally ill, mildly dehydrated and is in pain, with no jaundice, pallor, or lymphadenopathy; abdominal examination revealed tender hepatomegaly most prominent over the 6th to 9th intercostal spaces in the right mid-axillary line, with a non-enlarged spleen. Auscultation revealed few inspiratory crackles over the right lung base, and the cardiovascular and nervous systems were clinically normal.",
+  "labs_and_diagnostics": "Laboratory results showed WBC 14.7 x 10^9/L, Haemoglobin 12.3 g/dL, Platelets 224 x 10^9/L, AST 54 U/L, ALT 38 U/L, ALP 446 U/L, Serum bilirubin total 10.3 µmol/L, Serum bilirubin direct 1.5 µmol/L, Blood urea nitrogen 7 mmol/L, Serum creatinine 124 µmol/L, C-reactive protein 48 mg/L; a chest radiograph showed elevated right hemidiaphragm and patchy shadows in the right lower zone; an ultrasound scan revealed a solitary hypoechoic lesion (7x6cm) in the right liver lobe and a small right pleural effusion; aspiration yielded brownish pus.",
+  "differential_diagnosis": "Liver abscess (amoebic or pyogenic), Klebsiella pneumoniae liver abscess, and melioidosis.",
+  "management_and_clinical_course": "The lesion was aspirated under ultrasound guidance, yielding brownish pus, and the patient was treated with metronidazole for ten days, resulting in a rapid and uneventful recovery.",
+  "final_diagnosis": "Amoebic Liver Abscess",
+  "disease_name_short": "Amoebic Liver Abscess",
+  "tables": [
+    {
+      "title": "Laboratory Results at Presentation",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "WBC (×109/L)",
+          "14.7",
+          "4-10"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "12.3",
+          "12-16"
+        ],
+        [
+          "Platelets (×109/L)",
+          "224",
+          "150-350"
+        ],
+        [
+          "AST (U/L)",
+          "54",
+          "13-33"
+        ],
+        [
+          "ALT (U/L)",
+          "38",
+          "3-25"
+        ],
+        [
+          "ALP (U/L)",
+          "446",
+          "40-130"
+        ],
+        [
+          "Serum bilirubin total (µmol/L)",
+          "10.3",
+          "25.7-30.8"
+        ],
+        [
+          "Serum bilirubin direct (µmol/L)",
+          "1.5",
+          "1.7-5.1"
+        ],
+        [
+          "Blood urea nitrogen (mmol/L)",
+          "7",
+          "2.5-6.4"
+        ],
+        [
+          "Serum creatinine (µmol/L)",
+          "124",
+          "71-106"
+        ],
+        [
+          "C-reactive protein (mg/L)",
+          "48",
+          "<6"
+        ]
+      ]
+    },
+    {
+      "title": "Treatment of Amoebic Liver Abscesses. (After Anesi, J.A., 2015)",
+      "headers": [
+        "Agent",
+        "Medication",
+        "Dose",
+        "Duration"
+      ],
+      "rows": [
+        [
+          "Tissue Agents",
+          "Metronidazole",
+          "500-750 mg IV/PO TDS",
+          "7-10 days"
+        ],
+        [
+          "Tissue Agents",
+          "Tinidazole",
+          "2 g PO OD",
+          "3-5 days"
+        ],
+        [
+          "Tissue Agents",
+          "Ornidazole",
+          "0.5 g IV BD",
+          "3-6 days"
+        ],
+        [
+          "Tissue Agents",
+          "Nitazoxanide",
+          "500 mg PO BD",
+          "3 days"
+        ],
+        [
+          "Luminal Agents",
+          "Paromomycin",
+          "8-10 mg/kg PO TDS",
+          "7 days"
+        ],
+        [
+          "Luminal Agents",
+          "Diloxanide Furoate",
+          "500 mg TDS",
+          "10 days"
+        ],
+        [
+          "Luminal Agents",
+          "Iodoquinole (Diiodohydroxyquin)",
+          "650 mg PO TDS after meals",
+          "20 days"
+        ]
+      ]
+    }
+  ],
+  "images": []
+}

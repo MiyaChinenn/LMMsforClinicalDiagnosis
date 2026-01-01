@@ -1,0 +1,195 @@
+{
+  "chapter_title": "Syphilis and the Endemic Treponematoses",
+  "disease_name": "Syphilis and the Endemic Treponematoses",
+  "section_summaries": {
+    "epidemiology": "Syphilis is found globally, with prevalence varying significantly between high- and low-income settings. In developing countries, prevalence is often 2-5% in pregnant women and higher in female sex workers, peaking in young adults. In high-income countries, rates are higher in white Caucasian males, particularly among men who have sex with men, with historical fluctuations tied to events like wars, introduction of oral contraceptives, and HIV treatment advancements. Congenital syphilis remains a public health concern where screening and treatment in pregnancy are inadequate. Transmission via blood transfusion is prevented by screening and low-temperature storage. The endemic treponematoses (yaws, pinta, endemic syphilis) are caused by T. pallidum subspecies transmitted non-sexually, primarily among children in poor hygienic conditions. Yaws is found in hot, humid climates; endemic syphilis in dry climates; and pinta in the Amazon region and Central America. A WHO control program from 1952-1964 significantly reduced endemic treponematoses prevalence, but yaws has resurged since surveillance stopped.",
+    "pathogenesis": "T. pallidum survives in humans by evading the immune response through antigenic variation. The characteristic pathologic feature at all stages is obliterative endarteritis and periarteritis, leading to ulcers, gummata, and aneurysms depending on location. Syphilis is initiated by spirochete exposure, with primary lesions (chancre) developing 9-90 days post-incubation, commonly genital, painless, and indurated, accompanied by local adenopathy. Spirochetes disseminate early, present in CSF in 25% of patients in the primary stage. Without treatment, primary chancres heal in 6 weeks. Secondary syphilis, characterized by widespread skin manifestations, mucosal lesions, and condylomata lata, can last up to 2 years with alternating activity and latency. Tertiary syphilis, now rare, emerges 10-30 years later, involving gumma formation (skin, bone, viscera) and cardiovascular syphilis (ascending aorta aneurysm, aortic incompetence). Neurosyphilis can occur at any stage. Untreated syphilis in pregnancy leads to approximately 40% fetal/perinatal mortality, with vertical transmission risk highest during secondary syphilis. Congenital syphilis varies from fulminating early infection to indolent late-presenting forms. Immunosuppression (e.g., HIV) can alter clinical presentation.",
+    "clinical_manifestations": "Syphilis presents with diverse clinical manifestations, mimicking many other conditions. It is categorized into early syphilis (primary, secondary, and latent syphilis of less than 2 years' duration) and late syphilis (post-secondary or of unknown duration). Primary syphilis features a painless, solitary, indurated genital ulcer (chancre) 3 mm-3 cm in diameter, often with non-tender inguinal adenopathy. Secondary syphilis manifests as a florid, non-pruritic, maculo-papular rash on the trunk, palms, and soles; mucosal lesions ('snail-track ulcers'); and broad-based condylomata lata in moist skin folds. Systemic symptoms like alopecia, uveitis, hepatitis, nephritis, gastritis, proctitis, and meningitis can also occur. Tertiary syphilis involves gummata affecting skin, bone, or viscera, cardiovascular syphilis impacting the ascending aorta, and neurosyphilis, which can present as meningitis, hemiplegia, dementia, seizures, psychosis, Argyll-Robinson pupils, optic neuritis, paresthesia, Charcot joints, trophic ulcers, and visceral pain. Congenital syphilis in neonates includes low birth weight, failure to thrive, multi-organ involvement (hepatosplenomegaly, rhinitis, anemia), atypical bullous skin lesions, and painful periostitis ('pseudo-paralysis'). Late congenital syphilis features band keratitis, deafness, notched incisors, 'mulberry' molars, saddle nose, and knee effusions. Endemic treponematoses also present in primary, secondary, and tertiary stages but without congenital infection. Yaws primarily causes a painless, often ulcerating papule/papilloma, followed by papules and papillomas exuding infectious serum, and later gummas, bone lesions, and skin depigmentation. Endemic syphilis resembles venereal syphilis in its secondary and tertiary skin and bone involvement. Pinta presents with papules or squamous plaques that become hypopigmented, later developing into scaly 'pintids' and leaving hypopigmented scars.",
+    "diagnosis": "Diagnosis of syphilis typically begins with sampling infectious lesions (primary chancres, condylomata lata, or enlarged lymph nodes) for spirochetes via dark-ground microscopy or PCR, with PCR being more sensitive and reliable for extragenital sites. Serologic testing is essential, combining a specific treponemal antibody test (e.g., EIA, T. pallidum particle agglutination, fluorescent treponemal antibody test) with a cardiolipin (reagin) test (VDRL, RPR). Treponemal tests alone are insufficient for active infection, as antibodies are highly persistent. Reagin tests indicate active early syphilis and are used to monitor treatment response. Serologic tests can be negative in the earliest stages or due to the prozone phenomenon, necessitating repeat screening. Point-of-care tests offer rapid results, aiding in congenital syphilis prevention. Patients with neurologic signs require CSF cytology and serologic tests on CSF. Late, latent syphilis diagnosis should include ECG and chest x-ray to rule out syphilitic aortitis. All syphilis patients should be screened for co-infection with gonorrhea, chlamydia, and HIV. Congenital syphilis is diagnosed by demonstrating spirochetes in lesions or positive IgM antibodies; maternal IgG antibodies require higher titers or further infant assessment. Differential diagnosis distinguishes primary syphilis from other genital ulcer STIs (herpes, chancroid, donovanosis, lymphogranuloma venereum) and secondary syphilis from pityriasis rosea, pompholyx, and condylomata acuminata. Endemic treponematoses share clinical and microbiological similarities with venereal syphilis, using dark-field microscopy, PCR, and serologic tests for diagnosis, with point-of-care tests validated for yaws.",
+    "treatment": "Penicillin remains the cornerstone of syphilis treatment, with no demonstrated resistance. For early syphilis, including HIV co-infected patients and epidemiologic treatment, a single intramuscular dose of 2.4 megaunits of benzathine penicillin is recommended. Alternatives include doxycycline (100 mg twice daily for 14 days) or azithromycin (2 g single dose), though azithromycin resistance is now documented in some regions. Late syphilis requires three weekly intramuscular doses of 2.4 megaunits of benzathine penicillin, or doxycycline (100 mg twice daily for 28 days). Neurosyphilis is treated with procaine penicillin (1.8-2.4 MU IM) plus probenecid (500 mg four times daily) for 14 days, or doxycycline (200 mg twice daily for 28 days). For syphilis in pregnancy, a single intramuscular dose of 2.4 megaunits of benzathine penicillin is given, with a second dose possible in the third trimester. Penicillin-allergic pregnant women should undergo desensitization; if not possible, ceftriaxone, azithromycin, or erythromycin may be considered, though evidence is limited. Infants receiving non-penicillin-based treatment in utero should receive penicillin at birth. Congenital syphilis is treated with procaine penicillin (50,000 units/kg IM for 10 days) or benzyl penicillin sodium (100,000-150,000 units/kg daily IV for 10 days). Infants at high risk for congenital syphilis can receive a single IM dose of benzathine penicillin (50,000 units/kg). Patients should be informed about the Jarisch-Herxheimer reaction, which may be ameliorated with prednisolone (with caution in early pregnancy). Post-treatment serologic follow-up is necessary until reagin titers decline fourfold or revert to a stable low level; CSF examination is advised for treatment failure. Endemic treponematoses are highly responsive to benzathine penicillin (2.4 MU for adults, 1.2 MU for children under 10 years) or a single oral dose of azithromycin for yaws, although azithromycin resistance has been reported.",
+    "prevention": "Syphilis transmission via blood transfusion is prevented by screening donated blood and storing it at low temperatures. Effective screening and treatment for syphilis in pregnancy are critical to prevent congenital syphilis, which remains a significant public health problem where these measures are not implemented. There is currently no commercially available vaccine for syphilis. For endemic treponematoses, mass treatment strategies, often utilizing penicillin initially and more recently azithromycin, have been recommended for control and eradication, especially for yaws, due to the high prevalence of latent infection in affected communities. The World Health Organization's treponematoses control program dramatically reduced overall disease prevalence through mass treatment campaigns."
+  },
+  "tables": [
+    {
+      "title": "BOX 57.1 Classic Features of Neurosyphilis",
+      "headers": [
+        "Type",
+        "Features"
+      ],
+      "rows": [
+        [
+          "Meningovascular syphilis:",
+          "Headache; Meningitis; Hemiplegia; Cranial palsies (especially oculomotor, auditory)"
+        ],
+        [
+          "Parenchymatous neurosyphilis and tabes dorsalis:",
+          "Dementia; Seizures; Psychosis; Argyll-Robinson pupils: irregular pupils, accommodation preserved, light reflexes lost; Optic neuritis; Paresthesia, lightning pains, ataxia in lower limbs; Charcot joints; Trophic ulcers of feet; Paroxysmal visceral pain (tabetic crises)"
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 57.1 Differential Diagnosis of Genital Ulcer",
+      "headers": [
+        "Infection",
+        "Ulcer Characteristics",
+        "Pattern of Regional Node Involvement",
+        "Other Clinical Clues to Diagnosis"
+      ],
+      "rows": [
+        [
+          "Syphilis",
+          "Painless, usually solitary, 3 mm-3 cm, induration",
+          "Painless, firm, rubbery nodes",
+          "Features of secondary syphilis may be apparent"
+        ],
+        [
+          "Chancroid",
+          "Usually painful, purulent with undermined edge, often multiple lesions",
+          "Tender nodes, inguinal abscess formation",
+          "Rare outside of areas where these infections remain endemic"
+        ],
+        [
+          "Donovanosis",
+          "Hypertrophic, granulomatous lesions common",
+          "Ulceration of skin overlying node is common",
+          "Systemic symptoms common"
+        ],
+        [
+          "Lymphogranuloma venereum",
+          "Small, transient ulcer with non-specific appearance",
+          "Large, tender nodes, sometimes sinus formation",
+          "Systemic symptoms with primary episode, history of prior episodes with recurrent disease"
+        ],
+        [
+          "Herpes simplex virus (HSV)",
+          "Multiple small, superficial, painful, itchy ulcers",
+          "Small, tender nodes",
+          "Systemic symptoms with primary episode, history of prior episodes with recurrent disease"
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 57.2 Antibiotics Recommended for Treatment of Syphilis in Adults",
+      "headers": [
+        "Stage/Type of Syphilis",
+        "Recommendation",
+        "Strength of Evidence (Key to Grades: See Table 57.4)",
+        "Notes"
+      ],
+      "rows": [
+        [
+          "Early syphilis, including HIV co-infected patients, epidemiologic treatment",
+          "Benzathine penicillin 2.4 megaunits IM single dose",
+          "Ib",
+          "Co-administration with 1% lidocaine may relieve pain. Alternative regimens use amoxycillin or procaine penicillin."
+        ],
+        [
+          "",
+          "Doxycycline 100 mg twice daily by mouth for 14 days",
+          "III",
+          "Used when allergy to penicillin or injection not feasible."
+        ],
+        [
+          "",
+          "Azithromycin 2 g single dose",
+          "Ib",
+          "Resistance identified in some regions."
+        ],
+        [
+          "Late syphilis",
+          "Benzathine penicillin 2.4 megaunits IM weekly x 3",
+          "III",
+          ""
+        ],
+        [
+          "",
+          "Doxycycline 100 mg twice daily by mouth for 28 days",
+          "IV",
+          ""
+        ],
+        [
+          "Neurosyphilis",
+          "Procaine penicillin 1.8-2.4 MU IM plus probenecid 500 mg four times daily for 14 days",
+          "III",
+          ""
+        ],
+        [
+          "",
+          "Doxycycline 200 mg twice daily by mouth for 28 days",
+          "III",
+          ""
+        ],
+        [
+          "Syphilis in pregnancy",
+          "Benzathine penicillin 2.4 megaunits IM single dose",
+          "II",
+          "A second dose may be given if patient is in the third trimester. Fetal monitoring advised if treatment is given after 26 weeks' gestation."
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 57.3 Treatment of Congenital Syphilis and Infants Born to Mothers With Syphilis",
+      "headers": [
+        "Clinical Scenario",
+        "Treatment",
+        "Strength of Evidence (See Table 57.4)",
+        "Notes"
+      ],
+      "rows": [
+        [
+          "Congenital syphilis",
+          "Procaine penicillin 50,000 units/kg IM for 10 days",
+          "III",
+          "These regimens are targeted against CNS involvement; less intensive treatments may suffice for mild disease."
+        ],
+        [
+          "",
+          "Benzyl penicillin sodium 100,000-150,000 units/kg daily IV (in divided doses given as 50,000 units/kg q12h in the first 7 days of life and q8h) over 10 days",
+          "III",
+          ""
+        ],
+        [
+          "Infants born to mothers treated for syphilis in the last trimester or with non-penicillin regimens",
+          "Benzathine penicillin 50,000 units/kg IM single dose",
+          "",
+          "May be administered to any infant where congenital syphilis has not been diagnosed but where risk is considered high."
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 57.4 Key to Levels of Evidence for Treatments",
+      "headers": [
+        "Level",
+        "Type of Evidence"
+      ],
+      "rows": [
+        [
+          "Ia",
+          "Evidence from meta-analysis of randomized controlled trials"
+        ],
+        [
+          "Ib",
+          "Evidence from at least one randomized controlled trial"
+        ],
+        [
+          "IIa",
+          "Evidence from at least one controlled study without randomization"
+        ],
+        [
+          "IIb",
+          "Evidence from at least one other type of quasi-experimental study"
+        ],
+        [
+          "III",
+          "Evidence from non-experimental descriptive studies, such as comparative studies, correlation studies, and case-control studies"
+        ],
+        [
+          "IV",
+          "Evidence from expert committee reports or opinions and/or clinical experience of respected authorities"
+        ]
+      ]
+    }
+  ],
+  "figures": [],
+  "references": []
+}

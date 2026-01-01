@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 29-year-old man from The Gambia.",
+  "chief_complaint": "Painful sores involving his private parts for 7 days.",
+  "history_of_present_illness": "Previously well, developed painful sores on private parts for 7 days.",
+  "exposure_and_epidemiology": "Had unprotected sex with a commercial sex worker 2 weeks ago.",
+  "vitals": "Afebrile.",
+  "physical_exam": "Numerous painful, tender, soft, bleeding ulcers on penis, scrotum, and inner thigh with no inguinal lymphadenopathy, causing considerable pain and difficulty walking.",
+  "labs_and_diagnostics": "HIV-negative, syphilis serology positive (RPR and TPHA), culture of Haemophilus ducreyi positive.",
+  "differential_diagnosis": "Herpes simplex, syphilis, and chancroid.",
+  "management_and_clinical_course": "Patient was treated with IM benzathine penicillin 2.4 million units and erythromycin 500 mg qds for 7 days; returned for follow-up after 7 days with resolved pain and healing ulcers.",
+  "final_diagnosis": "Chancroid and Syphilis (mixed infection).",
+  "disease_name_short": "Chancroid",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "extracted_images/12---A-29-Year-Old-Man-from-The-Gambia-With-G_2022_Clinical-Cases-in-Tropica/page1_img1.jpeg",
+      "caption": "Numerous painful ulcers on the penis, scrotum and inner thigh. The ulcers are soft, tender and bleed on contact."
+    },
+    {
+      "file_name": "extracted_images/12---A-29-Year-Old-Man-from-The-Gambia-With-G_2022_Clinical-Cases-in-Tropica/page2_img1.jpeg",
+      "caption": "Follow-up after 1 week of antibiotic therapy. The ulcers are healing and the pain has resolved."
+    }
+  ]
+}

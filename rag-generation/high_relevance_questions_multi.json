@@ -1,0 +1,856 @@
+[
+  {
+    "qa_id": "C3_Q1",
+    "case_id": 3,
+    "question": "Given a patient presenting with irregular fevers peaking in the evening (up to 103°F), a rapid and low-tension pulse of 90-120 bpm, and posterior cervical lymphadenopathy, what is the most likely diagnosis?",
+    "answer": "African trypanosomiasis (early stage)",
+    "evidence": [
+      "history_of_present_illness",
+      "vitals",
+      "physical_exam"
+    ],
+    "image_path": "/kaggle/input/ngoc-extracted/extracted-images/i087.jpg",
+    "variant": "rag_multimodal"
+  },
+  {
+    "qa_id": "C3_Q2",
+    "case_id": 3,
+    "question": "A patient with a history of travel to Central Africa presents with marked mental deterioration, apathy, a fine tremor of the tongue and hands, and a shuffling gait. What are the possible diseases explaining these findings?",
+    "answer": "African trypanosomiasis (late stage)",
+    "evidence": [
+      "history_of_present_illness",
+      "physical_exam",
+      "exposure_and_epidemiology"
+    ],
+    "image_path": "/kaggle/input/ngoc-extracted/extracted-images/i087.jpg",
+    "variant": "rag_multimodal"
+  },
+  {
+    "qa_id": "C3_Q3",
+    "case_id": 3,
+    "question": "A patient presents with symptoms suggestive of early-stage African trypanosomiasis. What is the most appropriate next step to confirm the diagnosis?",
+    "answer": "Perform gland puncture to aspirate gland juice for trypanosome identification.",
+    "evidence": [
+      "labs_and_diagnostics",
+      "history_of_present_illness"
+    ],
+    "image_path": "/kaggle/input/ngoc-extracted/extracted-images/i087.jpg",
+    "variant": "rag_multimodal"
+  },
+  {
+    "qa_id": "C2_Q1",
+    "case_id": 2,
+    "question": "A patient presents with prostrating chills, a rapid temperature increase to 104°F, intense jaundice, and the passage of porter-colored urine. What is the most likely diagnosis?",
+    "answer": "Blackwater fever",
+    "evidence": [
+      "history_of_present_illness"
+    ]
+  },
+  {
+    "qa_id": "C2_Q2",
+    "case_id": 2,
+    "question": "Given a patient with severe anemia, haemoglobinuria, and jaundice following a chill, what are the most critical differential diagnoses to consider, especially in a patient with a history of malaria?",
+    "answer": "Blackwater fever, severe malaria with haemolysis, G6PD deficiency crisis",
+    "evidence": [
+      "history_of_present_illness",
+      "labs_and_diagnostics"
+    ]
+  },
+  {
+    "qa_id": "C2_Q3",
+    "case_id": 2,
+    "question": "For a patient presenting with symptoms suggestive of blackwater fever, what is the essential next step to evaluate the extent of red cell destruction and potential renal compromise?",
+    "answer": "Obtain a complete blood count (CBC) for anemia assessment and monitor renal function through urinalysis for haemoglobinuria and urine output.",
+    "evidence": [
+      "labs_and_diagnostics",
+      "management_and_clinical_course"
+    ]
+  },
+  {
+    "qa_id": "C1_Q1",
+    "case_id": 1,
+    "question": "Given a patient presenting with a shaking chill, followed by a prolonged hot stage with intense heat and headache, and culminating in profuse sweating and a feeling of well-being during the afebrile period, what is the most likely diagnosis?",
+    "answer": "Benign malaria (tertian or quartan)",
+    "evidence": [
+      "history_of_present_illness"
+    ],
+    "image_path": "/kaggle/input/ngoc-extracted/extracted-images/i021.jpg",
+    "variant": "rag_multimodal"
+  },
+  {
+    "qa_id": "C1_Q2",
+    "case_id": 1,
+    "question": "A patient presents with a sudden onset of fever, severe headache, backache, and mental confusion, along with nausea and vomiting. The fever curve is described as continuous or remittent. What are the possible infectious diseases to consider?",
+    "answer": "Malignant malaria (P. falciparum), other febrile illnesses with similar prodrome",
+    "evidence": [
+      "history_of_present_illness",
+      "differential_diagnosis"
+    ],
+    "image_path": "/kaggle/input/ngoc-extracted/extracted-images/i021.jpg",
+    "variant": "rag_multimodal"
+  },
+  {
+    "qa_id": "C1_Q3",
+    "case_id": 1,
+    "question": "For a patient with suspected malaria showing parasites in blood smears and exhibiting intermittent fevers, what is the essential next step in management to confirm the diagnosis and guide treatment?",
+    "answer": "Identify malarial parasites in blood, assess periodicity, and observe response to quinine therapy.",
+    "evidence": [
+      "labs_and_diagnostics",
+      "management_and_clinical_course"
+    ],
+    "image_path": "/kaggle/input/ngoc-extracted/extracted-images/i021.jpg",
+    "variant": "rag_multimodal"
+  },
+  {
+    "qa_id": "C8_Q1",
+    "case_id": 8,
+    "question": "A patient presents with a subacute febrile course, marked splenic enlargement reaching the umbilicus, progressive anemia, and emaciation. The fever characteristically has double or triple daily spikes. What is the most likely diagnosis?",
+    "answer": "Visceral leishmaniasis (kala-azar)",
+    "evidence": [
+      "history_of_present_illness",
+      "physical_exam"
+    ],
+    "image_path": "/kaggle/input/ngoc-extracted/extracted-images/i102.jpg",
+    "variant": "rag_multimodal"
+  },
+  {
+    "qa_id": "C8_Q2",
+    "case_id": 8,
+    "question": "Considering a patient with lesions that began as small red papules on the extremities, progressed to painless ulcers with raised edges, and have been present for several months, what are the possible diseases that could explain these cutaneous manifestations?",
+    "answer": "Cutaneous leishmaniasis (Oriental sore, American leishmaniasis)",
+    "evidence": [
+      "history_of_present_illness",
+      "physical_exam"
+    ],
+    "image_path": "/kaggle/input/ngoc-extracted/extracted-images/i102.jpg",
+    "variant": "rag_multimodal"
+  },
+  {
+    "qa_id": "C8_Q3",
+    "case_id": 8,
+    "question": "For a patient with suspected visceral leishmaniasis and significant anemia and leucopenia, what is the next diagnostic step to confirm the presence of parasites?",
+    "answer": "Smears from spleen or liver juice, or from excised lymphatic glands or gland punctures.",
+    "evidence": [
+      "labs_and_diagnostics"
+    ],
+    "image_path": "/kaggle/input/ngoc-extracted/extracted-images/i102.jpg",
+    "variant": "rag_multimodal"
+  },
+  {
+    "qa_id": "C6_Q1",
+    "case_id": 6,
+    "question": "Given a patient presenting with sudden onset of high fever, rigors, vomiting, headache, followed by jaundice on the third or fourth day, and common epistaxis, what is the most likely diagnosis?",
+    "answer": "Infectious jaundice (Leptospirosis)",
+    "evidence": [
+      "history_of_present_illness",
+      "physical_exam"
+    ]
+  },
+  {
+    "qa_id": "C6_Q2",
+    "case_id": 6,
+    "question": "Considering a patient with a sudden fever, headache, vomiting, and developing jaundice with epistaxis and tender hepatomegaly, what other infectious diseases should be considered in the differential diagnosis?",
+    "answer": "Hepatitis A, Hepatitis B, Yellow Fever, Typhoid Fever, Malaria",
+    "evidence": [
+      "history_of_present_illness",
+      "physical_exam",
+      "exposure_and_epidemiology"
+    ]
+  },
+  {
+    "qa_id": "C6_Q3",
+    "case_id": 6,
+    "question": "For a patient suspected of having infectious jaundice with symptoms like fever, headache, and jaundice, what is the most appropriate next step in diagnostic evaluation to confirm the causative agent?",
+    "answer": "Dark-field illumination of blood or urine, culture of blood on specialized medium, or guinea pig inoculation",
+    "evidence": [
+      "labs_and_diagnostics"
+    ]
+  },
+  {
+    "qa_id": "C5_Q1",
+    "case_id": 5,
+    "question": "Given a patient presenting with abrupt onset of high fever, severe headache, injected eyes, marked lumbodorsal pain, and early vomiting of bile, what is the most likely diagnosis?",
+    "answer": "Yellow Fever",
+    "evidence": [
+      "history_of_present_illness"
+    ]
+  },
+  {
+    "qa_id": "C5_Q2",
+    "case_id": 5,
+    "question": "A patient exhibits fever, injected eyes, and a pulse rate of 90 bpm. By day 3, the fever persists but the pulse has dropped to 60 bpm. What is the significance of this pulse-temperature dissociation, and what diagnoses should be considered?",
+    "answer": "This finding, known as Faget's sign, is a hallmark of yellow fever. Other possibilities in the differential diagnosis, though less likely with this specific sign, would include other viral hemorrhagic fevers or severe systemic infections that can cause relative bradycardia.",
+    "evidence": [
+      "history_of_present_illness",
+      "differential_diagnosis"
+    ]
+  },
+  {
+    "qa_id": "C5_Q3",
+    "case_id": 5,
+    "question": "A patient is suspected to have yellow fever, presenting with early albuminuria and hyaline casts. What is the crucial next step in laboratory evaluation to support this diagnosis?",
+    "answer": "Demonstrate the presence of the causative agent, *Leptospira icteroides*, by dark-field microscopy in blood, or by attempting culture using a specific medium under controlled conditions.",
+    "evidence": [
+      "labs_and_diagnostics",
+      "management_and_clinical_course"
+    ]
+  },
+  {
+    "qa_id": "C13_Q1",
+    "case_id": 13,
+    "question": "A patient presents with abrupt onset of fever, rigors, marked giddiness, profound prostration, and speech resembling intoxication. What is the most likely diagnosis given these symptoms?",
+    "answer": "Pestis major",
+    "evidence": [
+      "history_of_present_illness"
+    ]
+  },
+  {
+    "qa_id": "C13_Q2",
+    "case_id": 13,
+    "question": "Considering a patient with sudden onset of fever, rapid shallow respiration, and a cough producing watery, blood-stained sputum, which are the most likely types of plague to consider?",
+    "answer": "Pneumonic plague (primary or secondary)",
+    "evidence": [
+      "history_of_present_illness"
+    ]
+  },
+  {
+    "qa_id": "C13_Q3",
+    "case_id": 13,
+    "question": "A patient exhibits symptoms suggestive of plague, including fever and marked glandular enlargement. What is the essential next step to confirm the diagnosis and guide management?",
+    "answer": "Laboratory confirmation of plague bacilli",
+    "evidence": [
+      "history_of_present_illness"
+    ]
+  },
+  {
+    "qa_id": "C12_Q1",
+    "case_id": 12,
+    "question": "Given a patient presenting with sudden onset malaise, severe abdominal pain, frequent, straining stools with blood and mucus, moderate fever up to 104°F, and significant tenesmus, what is the most likely diagnosis?",
+    "answer": "Bacillary dysentery (Shiga-type)",
+    "evidence": [
+      "history_of_present_illness",
+      "vitals"
+    ],
+    "image_path": "/kaggle/input/ngoc-extracted/extracted-images/i076.jpg",
+    "variant": "rag_multimodal"
+  },
+  {
+    "qa_id": "C12_Q2",
+    "case_id": 12,
+    "question": "A patient presents with frequent stools containing blood and mucus, progressive weakness and weight loss, and a normal or slightly elevated temperature. Considering these findings and the potential for chronicity, what are the key differential diagnoses to consider?",
+    "answer": "Chronic bacillary dysentery, amoebic dysentery, inflammatory bowel disease",
+    "evidence": [
+      "history_of_present_illness",
+      "differential_diagnosis",
+      "labs_and_diagnostics"
+    ],
+    "image_path": "/kaggle/input/ngoc-extracted/extracted-images/i076.jpg",
+    "variant": "rag_multimodal"
+  },
+  {
+    "qa_id": "C12_Q3",
+    "case_id": 12,
+    "question": "For a patient with suspected bacillary dysentery, where stools are being collected for diagnosis, what is the recommended action for stool transport to optimize bacterial culture yield?",
+    "answer": "Alkalinize stools for transport as bacilli die rapidly in acidic stools.",
+    "evidence": [
+      "labs_and_diagnostics",
+      "management_and_clinical_course"
+    ],
+    "image_path": "/kaggle/input/ngoc-extracted/extracted-images/i076.jpg",
+    "variant": "rag_multimodal"
+  },
+  {
+    "qa_id": "C19_Q1",
+    "case_id": 19,
+    "question": "Given a patient presenting with neurasthenic symptoms in winter, followed by alimentary tract disturbances and strikingly symmetrical, sharply delimited erythematous patches on sun-exposed areas in spring, what is the most likely diagnosis?",
+    "answer": "Pellagra",
+    "evidence": [
+      "history_of_present_illness"
+    ],
+    "image_path": "/kaggle/input/ngoc-extracted/extracted-images/i181.jpg",
+    "variant": "rag_multimodal"
+  },
+  {
+    "qa_id": "C19_Q2",
+    "case_id": 19,
+    "question": "A patient shows fissured mouth angles, an indented tongue, stomatitis, pyrosis, and significant weakness, particularly in the legs, along with mental confusion. What are the possible diagnoses to consider?",
+    "answer": "Pellagra, vitamin deficiency disorders",
+    "evidence": [
+      "history_of_present_illness"
+    ],
+    "image_path": "/kaggle/input/ngoc-extracted/extracted-images/i181.jpg",
+    "variant": "rag_multimodal"
+  },
+  {
+    "qa_id": "C19_Q3",
+    "case_id": 19,
+    "question": "A patient exhibits the classic triad of dermatitis, diarrhea, and dementia, with the dermatitis being a symmetrical, sunburn-like rash on sun-exposed areas. What is the essential next step in confirming the diagnosis and initiating management?",
+    "answer": "Evaluate niacin (vitamin B3) levels and consider dietary assessment.",
+    "evidence": [
+      "history_of_present_illness"
+    ],
+    "image_path": "/kaggle/input/ngoc-extracted/extracted-images/i181.jpg",
+    "variant": "rag_multimodal"
+  },
+  {
+    "qa_id": "C11_Q1",
+    "case_id": 11,
+    "question": "Given a history of amoebic dysentery, an irregular fever with evening rise and sweats, and localized liver tenderness with upward enlargement, what is the most likely diagnosis?",
+    "answer": "Amoebic liver abscess",
+    "evidence": [
+      "history_of_present_illness",
+      "physical_exam",
+      "labs_and_diagnostics"
+    ]
+  },
+  {
+    "qa_id": "C11_Q2",
+    "case_id": 11,
+    "question": "A patient presents with right upper quadrant pain, fever, and evidence of upward liver enlargement on imaging. Considering the possibility of an amoebic liver abscess, what are the key findings from the physical exam and labs that would support this diagnosis over other causes of liver pathology?",
+    "answer": "Tenderness upon palpation of the liver, crepitation at the right lung base, pain referred to the right shoulder, and laboratory findings of low leucocytosis with a shift in differential white count, possibly iodophilia, and a positive urobilinogen test.",
+    "evidence": [
+      "physical_exam",
+      "labs_and_diagnostics"
+    ]
+  },
+  {
+    "qa_id": "C11_Q3",
+    "case_id": 11,
+    "question": "For a suspected amoebic liver abscess, what is the diagnostically significant next step to confirm the diagnosis, and what specific characteristic of the aspirate would be definitive?",
+    "answer": "Exploratory puncture to obtain characteristic chocolate-colored or anchovy sauce-like pus.",
+    "evidence": [
+      "labs_and_diagnostics",
+      "final_diagnosis"
+    ]
+  },
+  {
+    "qa_id": "C18_Q1",
+    "case_id": 18,
+    "question": "Given a patient presenting with progressive weakness and heaviness in the legs, epigastric fullness and tenderness, and cardiac palpitation and dyspnea on exertion, what is the most likely diagnosis?",
+    "answer": "Beriberi",
+    "evidence": [
+      "history_of_present_illness"
+    ]
+  },
+  {
+    "qa_id": "C18_Q2",
+    "case_id": 18,
+    "question": "A patient presents with generalized edema, peripheral neuritis affecting extremity nerves, and cardiac disturbances. What are the possible diseases that could explain these symptoms?",
+    "answer": "Beriberi (wet form)",
+    "evidence": [
+      "history_of_present_illness"
+    ]
+  },
+  {
+    "qa_id": "C18_Q3",
+    "case_id": 18,
+    "question": "For a patient with suspected dry beriberi showing muscular atrophy, foot-drop, and a steppage gait, what is the essential next step to confirm the diagnosis or guide management?",
+    "answer": "Assess dietary history for thiamine deficiency, particularly polished rice consumption.",
+    "evidence": [
+      "history_of_present_illness",
+      "exposure_and_epidemiology"
+    ]
+  },
+  {
+    "qa_id": "C17_Q1",
+    "case_id": 17,
+    "question": "A patient presents with progressive weakness, irregular febrile attacks with sweating and somnolence, and alternating dryness and hypersecretion of the nasal mucous membrane with epistaxis. What is the most likely diagnosis?",
+    "answer": "Leprosy",
+    "evidence": [
+      "history_of_present_illness"
+    ],
+    "image_path": "/kaggle/input/ngoc-extracted/extracted-images/i148.jpg",
+    "variant": "rag_multimodal"
+  },
+  {
+    "qa_id": "C17_Q2",
+    "case_id": 17,
+    "question": "Given a patient presenting with smooth, yellowish-brown maculo-anaesthetic spots on the trunk, followed by painless enlargement of nerve trunks (ulnar and facial) and resulting muscular palsies and anaesthesia in the extremities, what are the possible diseases that should be considered?",
+    "answer": "Nerve leprosy, other forms of peripheral neuropathy",
+    "evidence": [
+      "history_of_present_illness"
+    ],
+    "image_path": "/kaggle/input/ngoc-extracted/extracted-images/i148.jpg",
+    "variant": "rag_multimodal"
+  },
+  {
+    "qa_id": "C17_Q3",
+    "case_id": 17,
+    "question": "For a patient with suspected nodular leprosy presenting with raised, brownish-red, initially hyperaesthetic spots on the face and extensor surfaces that later develop loss of pain and temperature sense but retain touch, what is the essential next step to further evaluate this suspected disease?",
+    "answer": "Examination for bacillary confirmation (e.g., skin biopsy and slit skin smear)",
+    "evidence": [
+      "history_of_present_illness"
+    ],
+    "image_path": "/kaggle/input/ngoc-extracted/extracted-images/i148.jpg",
+    "variant": "rag_multimodal"
+  },
+  {
+    "qa_id": "C16_Q1",
+    "case_id": 16,
+    "question": "A patient presents with an undulant fever pattern that has recurred multiple times, progressive anemia, and sudden, painful swellings of various joints that subside rapidly. What is the most likely diagnosis?",
+    "answer": "Malta fever",
+    "evidence": [
+      "history_of_present_illness"
+    ]
+  },
+  {
+    "qa_id": "C16_Q2",
+    "case_id": 16,
+    "question": "Given a patient with a protracted fever, marked neurasthenia, and acute sciatica, which of the following diseases should be considered in the differential diagnosis?",
+    "answer": "Malta fever, typhoid fever, malaria, kala-azar",
+    "evidence": [
+      "history_of_present_illness",
+      "physical_exam"
+    ]
+  },
+  {
+    "qa_id": "C16_Q3",
+    "case_id": 16,
+    "question": "For a patient suspected of having Malta fever, presenting with fever at its maximum, what is the recommended next step for laboratory confirmation?",
+    "answer": "Perform blood cultures, taking 5-30 cc from a vein preferably in the evening.",
+    "evidence": [
+      "labs_and_diagnostics"
+    ]
+  },
+  {
+    "qa_id": "C15_Q1",
+    "case_id": 15,
+    "question": "Given a patient presenting with profuse, watery, rice-water stools, severe muscle cramps in the legs, and a markedly weakened pulse, what is the most likely diagnosis?",
+    "answer": "Cholera",
+    "evidence": [
+      "history_of_present_illness"
+    ]
+  },
+  {
+    "qa_id": "C15_Q2",
+    "case_id": 15,
+    "question": "A patient exhibits the following signs: shrunken facial tissues, sunken eyeballs with congested conjunctivae, cold and clammy skin with a markedly depressed surface temperature (below 90°F), and a significant difference between surface and rectal temperatures. What are the possible diseases to consider?",
+    "answer": "Cholera (algid stage), severe dehydration from other causes",
+    "evidence": [
+      "history_of_present_illness",
+      "physical_exam"
+    ]
+  },
+  {
+    "qa_id": "C15_Q3",
+    "case_id": 15,
+    "question": "A patient is diagnosed with cholera and is in the evacuation stage with significant fluid loss. What is the essential next step in management?",
+    "answer": "Intravenous fluid resuscitation",
+    "evidence": [
+      "management_and_clinical_course"
+    ]
+  },
+  {
+    "qa_id": "C23_Q1",
+    "case_id": 23,
+    "question": "Given a patient presenting with terminal haematuria, a pricking sensation around the urethra, and a history suggestive of prolonged exposure to contaminated water sources, what is the most likely diagnosis?",
+    "answer": "Vesical Schistosomiasis (S. haematobium)",
+    "evidence": [
+      "history_of_present_illness",
+      "physical_exam"
+    ]
+  },
+  {
+    "qa_id": "C23_Q2",
+    "case_id": 23,
+    "question": "A patient returning from an endemic area reports a sudden onset of fever (around 103°F), severe abdominal pain, diarrhoea with bloody mucus, and transient urticarial lesions. What are the possible diseases that could explain these symptoms, considering the acute phase of an infection?",
+    "answer": "Acute Rectal Schistosomiasis (S. mansoni)",
+    "evidence": [
+      "history_of_present_illness",
+      "exposure_and_epidemiology"
+    ]
+  },
+  {
+    "qa_id": "C23_Q3",
+    "case_id": 23,
+    "question": "For a patient with suspected intestinal schistosomiasis, presenting with tenesmus and bloody mucus in stools, what is the crucial next step in laboratory diagnosis to identify the specific parasite species?",
+    "answer": "Search for lateral-spined ova in stool samples or sections from polypoid rectal tumors.",
+    "evidence": [
+      "labs_and_diagnostics",
+      "history_of_present_illness"
+    ]
+  },
+  {
+    "qa_id": "C22_Q1",
+    "case_id": 22,
+    "question": "Given a patient presenting with unilateral, tense, and reddened scrotal tissues that exude lymph, what is the most likely filarial diagnosis?",
+    "answer": "Filaria bancrofti causing lymph scrotum",
+    "evidence": [
+      "physical_exam",
+      "disease_name_short"
+    ]
+  },
+  {
+    "qa_id": "C22_Q2",
+    "case_id": 22,
+    "question": "A patient with a history of residing in West Africa presents with transient, itchy, non-pitting swellings on their forearms, lasting about 3 days each, along with the sensation of worms migrating under the skin, especially around the eyes. What are the possible filarial diseases that could explain these findings?",
+    "answer": "Loa loa infection",
+    "evidence": [
+      "history_of_present_illness",
+      "physical_exam",
+      "disease_name_short"
+    ]
+  },
+  {
+    "qa_id": "C22_Q3",
+    "case_id": 22,
+    "question": "For a patient with suspected Filaria bancrofti infection presenting with milky urine that rapidly coagulates and has a pinkish tinge, what is the essential next diagnostic step to confirm the suspected condition?",
+    "answer": "Urinary sediment examination for embryos",
+    "evidence": [
+      "physical_exam",
+      "labs_and_diagnostics"
+    ]
+  },
+  {
+    "qa_id": "C24_Q1",
+    "case_id": 24,
+    "question": "A patient presents with chronic cough, morning expectoration of brownish sputum, and recurrent episodes of haemoptysis, with symptoms disappearing for months before reappearing. Based on these findings, what is the most likely diagnosis?",
+    "answer": "Paragonimiasis",
+    "evidence": [
+      "history_of_present_illness"
+    ]
+  },
+  {
+    "qa_id": "C24_Q2",
+    "case_id": 24,
+    "question": "Given a patient with a history of chronic cough and recurrent haemoptysis, what are the possible parasitic infections to consider that involve lung tunnels and eosinophilic infiltration, potentially presenting with similar symptoms?",
+    "answer": "Paragonimiasis, Pulmonary Schistosomiasis, Tropical Pulmonary Eosinophilia",
+    "evidence": [
+      "history_of_present_illness",
+      "disease_name_short"
+    ]
+  },
+  {
+    "qa_id": "C24_Q3",
+    "case_id": 24,
+    "question": "For a patient suspected of having Paragonimiasis, what is the essential diagnostic step to confirm the presence of the infection?",
+    "answer": "Identifying operculated eggs in the sanguinolent sputum",
+    "evidence": [
+      "labs_and_diagnostics"
+    ]
+  },
+  {
+    "qa_id": "C29_Q1",
+    "case_id": 29,
+    "question": "Given a patient presenting with initial genital papules/vesicles progressing to granulomatous lesions with easy bleeding and a creamy, offensive discharge, possibly resembling epithelioma on the glans, and spreading by continuity without lymphadenopathy, what is the most likely diagnosis?",
+    "answer": "Granuloma inguinale (Donovanosis)",
+    "evidence": [
+      "history_of_present_illness",
+      "physical_exam"
+    ]
+  },
+  {
+    "qa_id": "C29_Q2",
+    "case_id": 29,
+    "question": "For a patient with genital lesions characterized by granulation, easy bleeding, and a discharge, alongside the absence of lymphadenopathy and rapid progression, what are the key differential diagnoses to consider?",
+    "answer": "Syphilis, Chancroid, Herpes Simplex Virus infection, Lymphogranuloma venereum",
+    "evidence": [
+      "history_of_present_illness",
+      "physical_exam"
+    ]
+  },
+  {
+    "qa_id": "C29_Q3",
+    "case_id": 29,
+    "question": "For a suspected case of granulomatous disease of the genitals with a creamy discharge and tendency to form fungating growths on the glans, what is the essential next step in diagnostic evaluation?",
+    "answer": "Microscopic examination of scrapings from ulcerations for Donovan bodies",
+    "evidence": [
+      "labs_and_diagnostics",
+      "history_of_present_illness"
+    ]
+  },
+  {
+    "qa_id": "C21_Q1",
+    "case_id": 21,
+    "question": "Given a patient presenting with 'ground itch' dermatitis followed by symptoms of cough and bronchitis, and in the absence of further information, what is the most likely diagnosis?",
+    "answer": "Hookworm disease",
+    "evidence": [
+      "history_of_present_illness"
+    ]
+  },
+  {
+    "qa_id": "C21_Q2",
+    "case_id": 21,
+    "question": "A patient presents with marked anemia, yellow wax-like skin, epigastric tenderness, shortness of breath on exertion, and edema of the feet and ankles. What are the possible diseases that could explain these findings?",
+    "answer": "Hookworm disease",
+    "evidence": [
+      "history_of_present_illness",
+      "physical_exam"
+    ]
+  },
+  {
+    "qa_id": "C21_Q3",
+    "case_id": 21,
+    "question": "A patient presents with symptoms suggestive of hookworm disease including severe anemia and edema. What is the essential next step for laboratory diagnosis?",
+    "answer": "Finding hookworm ova in the faeces.",
+    "evidence": [
+      "labs_and_diagnostics"
+    ]
+  },
+  {
+    "qa_id": "C28_Q1",
+    "case_id": 28,
+    "question": "Given a patient presenting with firm swellings on the sole of the foot that develop into a significantly enlarged and distorted foot with sinuses discharging viscid fluid containing variously colored granules, what is the most likely diagnosis?",
+    "answer": "Mycetoma",
+    "evidence": [
+      "history_of_present_illness",
+      "physical_exam"
+    ]
+  },
+  {
+    "qa_id": "C28_Q2",
+    "case_id": 28,
+    "question": "A patient has a distorted foot with sinuses discharging fluid containing granules. Considering pale or white granules versus black gunpowder-like grains, what are the possible causative agents for each presentation?",
+    "answer": "Pale/white granules can be caused by *Discomyces madurae*, *Indiella mansoni*, *Nocardia asteroides*, *Sterigmatocystis nidulans*, or *Alleschiria boydii*. Black granules are caused by *Madurella mycetomi*, *Aspergillus bouffardi*, or *Sporotrichum beurmanni*.",
+    "evidence": [
+      "history_of_present_illness"
+    ]
+  },
+  {
+    "qa_id": "C28_Q3",
+    "case_id": 28,
+    "question": "For a patient with a suspected mycetoma, what is the essential next step in diagnosis to identify the causative fungus?",
+    "answer": "Culture of discharge or grains on maltose agar, potato, or dry blood serum.",
+    "evidence": [
+      "labs_and_diagnostics"
+    ]
+  },
+  {
+    "qa_id": "C26_Q1",
+    "case_id": 26,
+    "question": "Considering a patient presenting with the initial appearance of a papule at an inoculation site, rapidly enlarging into a conical, inflammatory, fungoid tubercle that exudes a yellowish sero-purulent fluid and bleeds easily, what is the most likely diagnosis?",
+    "answer": "Yaws (primary lesion)",
+    "evidence": [
+      "history_of_present_illness"
+    ]
+  },
+  {
+    "qa_id": "C26_Q2",
+    "case_id": 26,
+    "question": "Given a patient with secondary yaws, who presents with malaise, joint pains, and a generalized eruption of lesions similar to the primary tubercle, particularly at the junctions of skin and mucous membranes, what are the key diagnostic findings to confirm the presence of *Treponema pertenue*?",
+    "answer": "Spirochetes can be visualized in the epidermis of yaws granulomas and lymphatic glands using India ink or Giemsa's stain, and Levaditi staining of tissue sections can reveal treponemata in the thickened interpapillary pegs of the epidermis.",
+    "evidence": [
+      "labs_and_diagnostics",
+      "history_of_present_illness"
+    ]
+  },
+  {
+    "qa_id": "C26_Q3",
+    "case_id": 26,
+    "question": "For a patient in an endemic region with tertiary yaws presenting with destructive nasopharyngeal lesions (gangosa) and painful, incapacitating lesions on the palms and soles (crab yaws), what is the essential next step in management?",
+    "answer": "Treatment with penicillin is the essential management for tertiary yaws.",
+    "evidence": [
+      "management_and_clinical_course"
+    ]
+  },
+  {
+    "qa_id": "C25_Q1",
+    "case_id": 25,
+    "question": "Given a patient presenting with symptoms indicative of dysentery, with transmission via ingestion of cysts in contaminated food or water and man as the definitive and reservoir host, what is the most likely causative agent?",
+    "answer": "Amoebiasis",
+    "evidence": [
+      "history_of_present_illness",
+      "exposure_and_epidemiology"
+    ]
+  },
+  {
+    "qa_id": "C25_Q2",
+    "case_id": 25,
+    "question": "A patient with symptoms of dysentery, originating from a community with poor sanitation and potential exposure to contaminated water sources, what are the key differential diagnoses to consider besides bacterial gastroenteritis?",
+    "answer": "Amoebic dysentery, giardiasis, cryptosporidiosis",
+    "evidence": [
+      "history_of_present_illness",
+      "exposure_and_epidemiology",
+      "differential_diagnosis"
+    ]
+  },
+  {
+    "qa_id": "C25_Q3",
+    "case_id": 25,
+    "question": "For a patient diagnosed with amoebic dysentery, what is the essential next step in management to confirm the diagnosis and guide treatment?",
+    "answer": "Microscopic examination of stool for amoebic cysts or trophozoites.",
+    "evidence": [
+      "labs_and_diagnostics",
+      "final_diagnosis"
+    ]
+  },
+  {
+    "qa_id": "C39_Q1",
+    "case_id": 39,
+    "question": "Given a patient with abrupt onset of continued fever for two weeks, followed by lysis, a rose spot eruption that becomes petechial and has a 'mulberry' appearance, marked stupor, headache, anorexia, malaise, prostration, and early cardiac weakness, what is the most likely diagnosis?",
+    "answer": "Typhus fever",
+    "evidence": [
+      "history_of_present_illness"
+    ]
+  },
+  {
+    "qa_id": "C39_Q2",
+    "case_id": 39,
+    "question": "A patient presents with a severe headache, dusky face, injected eyes, a foul mouth with sordes on the teeth, and muttering delirium. Considering the possibility of an acute febrile illness with a rash, which diagnostic test would be most relevant to explore the causative agent and differentiate from similar conditions like typhoid fever?",
+    "answer": "Weil-Felix reaction (agglutination with Proteus vulgaris strains X2 and X19)",
+    "evidence": [
+      "labs_and_diagnostics",
+      "history_of_present_illness"
+    ]
+  },
+  {
+    "qa_id": "C39_Q3",
+    "case_id": 39,
+    "question": "A patient is suspected of having typhus fever based on the clinical presentation of fever, stupor, and a petechial rash. What is the essential next step in confirming the diagnosis and identifying the vector responsible for transmission?",
+    "answer": "Investigate for the presence of lice on the patient and in their environment.",
+    "evidence": [
+      "exposure_and_epidemiology",
+      "history_of_present_illness"
+    ]
+  },
+  {
+    "qa_id": "C37_Q1",
+    "case_id": 37,
+    "question": "Given a patient presenting with acute fever (101-103°F initially, rising to 104-105°F), injected conjunctivae, headache, and a small necrotic ulcer with a dusky red areola, what is the most likely diagnosis?",
+    "answer": "Tsutsugamushi",
+    "evidence": [
+      "history_of_present_illness",
+      "vitals",
+      "physical_exam"
+    ]
+  },
+  {
+    "qa_id": "C37_Q2",
+    "case_id": 37,
+    "question": "A patient has a history of fever, headache, painful swollen glands in the groin, and a characteristic necrotic ulcer. What are the key diseases to consider in the differential diagnosis?",
+    "answer": "Tsutsugamushi, Tularemia, Bubonic plague, Cat-scratch disease",
+    "evidence": [
+      "history_of_present_illness",
+      "physical_exam",
+      "differential_diagnosis"
+    ]
+  },
+  {
+    "qa_id": "C37_Q3",
+    "case_id": 37,
+    "question": "A patient presents with symptoms suggestive of Tsutsugamushi, including fever, headache, and swollen lymph nodes. What is the essential next step in management?",
+    "answer": "Initiate treatment with antibiotics, such as doxycycline.",
+    "evidence": [
+      "disease_name_short",
+      "management_and_clinical_course"
+    ]
+  },
+  {
+    "qa_id": "C36_Q1",
+    "case_id": 36,
+    "question": "Given a patient presenting with sudden onset fever reaching 104°F, intense supraorbital headache, severe myalgias, and a rash that began on the dorsal hands and feet spreading proximally, what is the most likely diagnosis?",
+    "answer": "Dengue",
+    "evidence": [
+      "history_of_present_illness",
+      "physical_exam"
+    ]
+  },
+  {
+    "qa_id": "C36_Q2",
+    "case_id": 36,
+    "question": "A patient with a 'saddle-back' fever pattern, a slow pulse relative to their temperature on day 4-5, and a measles-like rash with subsequent desquamation and itching, what are the key considerations for differential diagnosis?",
+    "answer": "Dengue, measles, scarlet fever",
+    "evidence": [
+      "history_of_present_illness",
+      "physical_exam"
+    ]
+  },
+  {
+    "qa_id": "C36_Q3",
+    "case_id": 36,
+    "question": "For a patient with suspected Dengue fever, what is the essential diagnostic step to confirm the viral etiology?",
+    "answer": "Detecting the Dengue virus in blood or serum samples collected during the acute phase.",
+    "evidence": [
+      "labs_and_diagnostics",
+      "history_of_present_illness"
+    ]
+  },
+  {
+    "qa_id": "C35_Q1",
+    "case_id": 35,
+    "question": "A patient presents with insidious onset, malaise, apathy, and rapidly developing pernicious-type anemia with fluctuating fever (100-102°F), bone pain, delirium, and possibly diarrhea. What is the most likely diagnosis?",
+    "answer": "Oroya fever",
+    "evidence": [
+      "history_of_present_illness"
+    ]
+  },
+  {
+    "qa_id": "C35_Q2",
+    "case_id": 35,
+    "question": "Given a patient with profound anemia (red cell count < 1 million), elevated color index, numerous normoblasts and megaloblasts, leukocytosis with neutrophilia, and immature neutrophils, what are the possible explanations for these findings?",
+    "answer": "Oroya fever, pernicious anemia",
+    "evidence": [
+      "history_of_present_illness",
+      "labs_and_diagnostics"
+    ]
+  },
+  {
+    "qa_id": "C35_Q3",
+    "case_id": 35,
+    "question": "For a patient strongly suspected of having Oroya fever based on rapid onset of severe anemia and fever, what is the recommended next diagnostic step to confirm the presence of the causative organism?",
+    "answer": "Examine fresh blood preparations for rod-shaped organisms within red cells showing motility, or perform Romanowsky-stained smears to identify the characteristic rod-shaped organisms.",
+    "evidence": [
+      "history_of_present_illness",
+      "labs_and_diagnostics"
+    ]
+  },
+  {
+    "qa_id": "C20_Q1",
+    "case_id": 20,
+    "question": "Given a patient presenting with sore buccal mucosa, vague digestive disturbances, voluminous, frothy, offensive stools evacuated in the morning, progressive weakness, emaciation, and an earthy pallor, what is the most likely diagnosis?",
+    "answer": "Sprue",
+    "evidence": [
+      "history_of_present_illness"
+    ]
+  },
+  {
+    "qa_id": "C20_Q2",
+    "case_id": 20,
+    "question": "A patient shows a bare, fissured, and glazed tongue, raw and sensitive gullet, progressive loss of strength and weight, and significantly impaired fat absorption. Considering these findings, what are the key differential diagnoses to explore?",
+    "answer": "Sprue, Malabsorption syndromes, Severe malnutrition",
+    "evidence": [
+      "history_of_present_illness",
+      "labs_and_diagnostics"
+    ]
+  },
+  {
+    "qa_id": "C20_Q3",
+    "case_id": 20,
+    "question": "For a patient diagnosed with sprue who is currently in a tropical climate, what is the essential management recommendation based on the provided information?",
+    "answer": "Advise the patient to leave the tropical climate.",
+    "evidence": [
+      "exposure_and_epidemiology",
+      "management_and_clinical_course"
+    ]
+  },
+  {
+    "qa_id": "C10_Q1",
+    "case_id": 10,
+    "question": "A patient presenting with chronic intermittent abdominal pain, pultaceous stools, progressive weight loss, and a dry, earthy skin texture is most likely experiencing what condition?",
+    "answer": "Amoebic dysentery",
+    "evidence": [
+      "history_of_present_illness",
+      "physical_exam"
+    ]
+  },
+  {
+    "qa_id": "C10_Q2",
+    "case_id": 10,
+    "question": "Given a patient with a history of chronic diarrhea, weight loss, and abdominal tenderness, which differential diagnoses should be considered, focusing on intestinal infections?",
+    "answer": "Amoebic dysentery, bacillary dysentery, other parasitic infections causing dysentery",
+    "evidence": [
+      "history_of_present_illness",
+      "differential_diagnosis"
+    ]
+  },
+  {
+    "qa_id": "C10_Q3",
+    "case_id": 10,
+    "question": "For a patient with suspected amoebic dysentery, what is the primary diagnostic step to confirm the presence of the causative organism?",
+    "answer": "Microscopic examination of stool samples for Entamoeba histolytica",
+    "evidence": [
+      "labs_and_diagnostics",
+      "history_of_present_illness"
+    ]
+  }
+]

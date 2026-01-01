@@ -1,0 +1,81 @@
+{
+  "chapter_title": "Entamoeba histolytica (Amebiasis)",
+  "disease_name": "Amebiasis",
+  "section_summaries": {
+    "epidemiology": "Entamoeba histolytica has a worldwide distribution, particularly in low-income countries, causing ~100,000 deaths annually. Early microscopic surveys were confounded by the re-description of E. histolytica into pathogenic E. histolytica and non-pathogenic E. dispar, with other species like E. moshkovskii and E. bangladeshi also identified. Serologic studies are more reliable than microscopy for distinguishing pathogenic species. High prevalence has been observed in Mexico and Bangladesh. E. histolytica is a top pathogen for dysentery in young children. Invasive disease is more common in adult males, especially liver abscess. In developed countries, most cases are imported, affecting returned travelers, expatriates, and immigrants, and men who have sex with men (MSM). Human-to-human and fecal-oral transmission are the major sources of infection, facilitated by a low infectious dose, chlorine resistance, and environmental stability, leading to outbreaks.",
+    "pathogenesis": "The pathogenesis of E. histolytica is characterized by cytotoxicity, inflammation, and tissue invasion. The parasite employs mechanisms to evade host inflammatory responses, leading to chemokine production, neutrophil recruitment, and tissue damage, often resulting in a characteristic flask-shaped ulcer. The parasite secretes an EbMIF homolog, a pro-inflammatory cytokine that modulates host immune function and contributes to tissue damage. Amebiasis most frequently affects the cecum and ascending colon. In a minority of infections, parasites can embolize to produce liver abscesses. Most cases of extra-intestinal abscesses occur without co-existing intestinal infection, and vice versa for colitis. Liver abscesses can rupture into the pleura or pericardium, and parasites can disseminate hematogenously to distant sites like the brain.",
+    "clinical_manifestations": "Intestinal amebiasis ranges from asymptomatic colonization to symptomatic disease with complications including amebic colitis, fulminant colitis, intestinal perforation, peritonitis, intra-abdominal abscess, amebic appendicitis, hemorrhage, ameboma, amebic stricture, and perianal cutaneous amebiasis. Symptomatic disease is primarily associated with E. histolytica, presenting as acute amebic dysenteric colitis or chronic non-dysenteric watery diarrhea, often misdiagnosed as IBD. Approximately 8% of diarrhea cases have visible blood, and abdominal pain is common. Onset is often gradual over weeks, associated with weight loss. Fulminant colitis is rare but carries over 40% mortality, with increased risk in malnourished persons, pregnant women, corticosteroid users, and young children. Extra-intestinal amebiasis commonly presents as amebic liver abscess, most often in adult males (20-40 years), with symptoms like fever, cough, right upper quadrant pain, and pleuritic pain. Leukocytosis is common. Complications include pleuropulmonary amebiasis (pneumonitis, lung abscess, bronchohepatic fistula), pericardial amebiasis, cerebral amebiasis (abrupt onset, rapid progression to death), and rare genitourinary or cutaneous amebiasis.",
+    "diagnosis": "The differential diagnosis includes various bacterial, viral, and parasitic causes of diarrhea. Microscopic examination of stool for motile trophozoites, quadrinucleate cysts, and ingested red blood cells is common but neither sensitive nor specific, unable to distinguish pathogenic E. histolytica from non-pathogenic species. Antigen detection tests using monoclonal antibodies specific for E. histolytica (e.g., TechLab and Cellabs kits) offer improved specificity but require fresh stool and are often expensive. PCR on stool or liver abscess pus provides excellent sensitivity. Serologic testing detects antibodies in most patients with amebic colitis and liver abscess, useful for exclusion of infection, but a positive result in endemic areas may not distinguish acute from prior infection. Endoscopic procedures like colonoscopy can reveal granular, friable, diffusely ulcerated mucosa. Imaging, including ultrasonography, CT, and MRI, is excellent for detecting liver abscesses and differentiating them from echinococcal cysts, though distinguishing from pyogenic abscesses can be challenging. Amebic abscess aspirates are often described as \"anchovy paste\" and are Gram stain negative, with trophozoites rarely seen.",
+    "treatment": "For amebic colitis, nitroimidazoles such as metronidazole (800 mg tid for 5-10 days) or tinidazole (3 days) are the mainstay of therapy, followed by a luminal agent like paromomycin to cure intestinal infection. Nitazoxanide is an alternative. For amebic liver abscess, metronidazole (high dose for 10 days) or tinidazole (5 days) is recommended. In severe cases or for patients unable to take oral medications, intravenous metronidazole may be used, and surgical consultation is indicated for medical treatment failure, acute abdomen, or toxic megacolon. Drainage of liver abscesses is considered for specific high-risk features like abscesses >10 cm, left lobe involvement, or thin-walled abscesses, or if there is no response to drug therapy, to prevent rupture, which is associated with high mortality. For asymptomatic intestinal colonization, treatment with luminal agents (paromomycin, diloxanide furoate, or iodoquinol) is appropriate if E. histolytica is confirmed by specific testing. Paromomycin is generally the drug of choice for luminal infection. For children, pediatric dosing is available; for pregnant women, paromomycin is safe for asymptomatic infection, while metronidazole use for invasive disease involves weighing risks and benefits.",
+    "prevention": "There is currently no vaccine available to prevent amebiasis, although efforts toward vaccine development are supported by evidence of partial immunity. Preventive efforts primarily focus on promoting hand hygiene, ensuring food and water safety, and avoiding fecal-oral exposure. Additionally, household contacts of individuals with amebic infection should be tested for the parasite."
+  },
+  "tables": [
+    {
+      "title": "Antimicrobial Therapy for Entamoeba histolytica Infection",
+      "headers": [
+        "Clinical Syndrome",
+        "Drugs of Choice",
+        "Adult Dose (Pediatric Dose)",
+        "Ref."
+      ],
+      "rows": [
+        [
+          "Intestinal amebiasis*",
+          "Metronidazolea",
+          "500-750 mg PO tid (35-50 mg/kg/d + tid) × 7-10 days",
+          "[36,63]"
+        ],
+        [
+          "",
+          "Tinidazole",
+          "2 g PO qd (50 mg/kg qd) x 3-5 days",
+          "[60,63]"
+        ],
+        [
+          "",
+          "Nitazoxanideb",
+          "500 mg PO bid x 3 days (age-adjusted dosing)",
+          "[46,63]"
+        ],
+        [
+          "Amebic liver abscess*",
+          "Metronidazolea",
+          "750 mg PO tid (35-50 mg/kg/d + tid) x 10 days",
+          "[38,51,61,63]"
+        ],
+        [
+          "",
+          "Tinidazole",
+          "2 g PO qd (50 mg/kg qd) x 5 days",
+          "[47,62,63]"
+        ],
+        [
+          "",
+          "Nitazoxanideb",
+          "500 mg PO bid x 3 days (age-adjusted dosing)",
+          "[46,63]"
+        ],
+        [
+          "\"Luminal agent\" (asymptomatic intestinal colonization or post-treatment intestinal cure)",
+          "Paromomycin",
+          "25-35 mg/kg/d PO + tid x 7 days",
+          "[53,63]"
+        ],
+        [
+          "",
+          "Diloxanide",
+          "500 mg PO tid (20 mg/kg/d + tid) × 10 days",
+          "[56,63]"
+        ],
+        [
+          "",
+          "Iodoquinolc",
+          "650 mg PO tid (30-40 mg/kg/d + tid) x 20 days",
+          "[62,63]"
+        ]
+      ]
+    }
+  ],
+  "figures": [],
+  "references": []
+}

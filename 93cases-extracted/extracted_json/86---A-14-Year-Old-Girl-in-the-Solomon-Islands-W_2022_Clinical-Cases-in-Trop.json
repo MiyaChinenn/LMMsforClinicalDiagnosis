@@ -1,0 +1,20 @@
+{
+  "patient_information": "A 14-year-old girl from the Solomon Islands.",
+  "chief_complaint": "A painless, non-healing large ulcer of her left leg.",
+  "history_of_present_illness": "The ulcer began 1 month prior to presentation.",
+  "exposure_and_epidemiology": "The patient is from the Solomon Islands, a region where yaws is still a common problem in the West Pacific.",
+  "vitals": "not reported",
+  "physical_exam": "A large lesion (approximately 3 cm diameter) covered by a layer of crust was present on the left lower leg, with a smaller, similar lesion lower down the leg; no regional lymphadenopathy or other skin or bone lesions were noted.",
+  "labs_and_diagnostics": "A rapid plasma reagin (RPR) test was positive at a titre of 1:64.",
+  "differential_diagnosis": "Other relevant differential diagnoses include pyoderma, tropical ulcer, cutaneous diphtheria, Aeromonas hydrophila infection, and Haemophilus ducreyi.",
+  "management_and_clinical_course": "The patient was treated with a single intramuscular (IM) dose of benzathine benzylpenicillin (1.2 million units) and the skin lesion resolved over the next 10 days; 12 months later, she presented with a similar ulcer on the right leg, and a repeat RPR test was positive at 1:8, considered a cure from the previous treatment due to a greater than four-fold fall in titre.",
+  "final_diagnosis": "Yaws, with a subsequent leg ulcer on the right leg interpreted to be of a different aetiology.",
+  "disease_name_short": "Yaws",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "extracted_images/86---A-14-Year-Old-Girl-in-the-Solomon-Islands-W_2022_Clinical-Cases-in-Trop/page1_img1.jpeg",
+      "caption": "Leg ulcer in a 14-year-old girl from the Solomon Islands."
+    }
+  ]
+}

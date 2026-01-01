@@ -1,0 +1,28 @@
+{
+  "patient_information": "A 24-year-old Malawian businessman.",
+  "chief_complaint": "Dark spots on his arm and leg for one month, progressing to facial swelling, and a 3-month history of cough and worsening shortness of breath.",
+  "history_of_present_illness": "He noticed dark spots on his arm and leg for one month, which are progressing, and he is now getting facial swelling. He also reports a 3-month history of cough and worsening shortness of breath, a cough productive of white sputum, and no history of constitutional symptoms, previous tuberculosis. He tested positive for HIV a week prior and has not started antiretroviral medication.",
+  "exposure_and_epidemiology": "He tested positive for HIV a week before coming to the clinic and has not yet started antiretroviral medication; his wife was also HIV-positive but not on ART.",
+  "vitals": "Temperature is 36°C (96.8°F), respiratory rate 32 breath cycles per minute, and pulse 102 bpm.",
+  "physical_exam": "Patient appears comfortable at rest with moderate facial oedema. Widespread dark-purplish plaques are noted on the skin and palate. Respiratory examination shows decreased air entry and dullness at the right lung base. Swelling of his right leg from foot to knee with prominent coalescing dark plaques. The rest of the physical examination is normal.",
+  "labs_and_diagnostics": "He tested positive for HIV. CD4 count was 134 cells/µL, HB 10.2 g/dL, and MCV 88.4 fL. Chest radiograph showed bilateral patchy opacifications in the lower and mid zones of the lungs with peribronchovascular changes. Sputum and GeneXpert tests were negative for tuberculosis. A bronchoscopy was attempted but failed due to technical difficulties.",
+  "differential_diagnosis": "Pulmonary tuberculosis and Kaposi's sarcoma (KS).",
+  "management_and_clinical_course": "The patient was referred to start antiretroviral medication and palliative chemotherapy. He made no improvement with a short course of oral antibiotics.",
+  "final_diagnosis": "HIV-associated Kaposi's Sarcoma with pulmonary involvement.",
+  "disease_name_short": "Kaposi's Sarcoma",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "extracted_images/59---A-24-Year-Old-Man-from-Malawi-With-Skin-Le_2022_Clinical-Cases-in-Tropi/page1_img1.jpeg",
+      "caption": "Facial swelling and dark-purplish skin lesions on chest and nose of the patient."
+    },
+    {
+      "file_name": "extracted_images/59---A-24-Year-Old-Man-from-Malawi-With-Skin-Le_2022_Clinical-Cases-in-Tropi/page1_img2.jpeg",
+      "caption": "Swollen right leg with prominent coalescing dark plaques."
+    },
+    {
+      "file_name": "extracted_images/59---A-24-Year-Old-Man-from-Malawi-With-Skin-Le_2022_Clinical-Cases-in-Tropi/page2_img1.jpeg",
+      "caption": "Chest radiograph showing bilateral peribronchovascular infiltration in the lower and mid lung zones."
+    }
+  ]
+}

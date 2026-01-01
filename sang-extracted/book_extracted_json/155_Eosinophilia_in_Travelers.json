@@ -1,0 +1,567 @@
+{
+  "chapter_title": "Eosinophilia in Migrants and Returned Travelers: A Practical Approach",
+  "disease_name": "Eosinophilia in Migrants and Returned Travelers",
+  "section_summaries": {
+    "epidemiology": "Eosinophilia, defined as an absolute eosinophil count greater than 0.45 x 10^9/L, is observed in about 10% of migrants and travelers returning from tropical regions. In these groups, it often signifies an underlying helminth infection, most frequently nematodes (e.g., hookworm) or trematodes (e.g., schistosomiasis). The prevalence varies by patient group and geographic region, being higher in recently infected travelers than in chronically infected migrants. Studies from North America report a higher proportion of strongyloides infection, while European studies report more schistosomiasis. Soil-transmitted helminths like Ascaris, Trichuris, Strongyloides, and hookworm have a worldwide distribution but are most prevalent in the tropics. Schistosomiasis is widely distributed, particularly in Africa and Latin America. Hydatid disease is common in sheep-rearing areas, including the Middle East, North/East Africa, Asia, Europe, and the Americas. Angiostrongylus cantonensis occurs in the Caribbean, Hawaii, and Southeast Asia. Loiasis is mainly in Central and West Africa, and onchocerciasis in Africa.",
+    "pathogenesis": "Peripheral eosinophilia is commonly associated with helminthic infections, particularly those with a tissue-invasive phase. Helminth infections can cause long-term health problems; for instance, strongyloides infection can lead to dangerous hyper-infection syndrome in immunocompromised individuals due to uncontrolled parasite replication, and schistosomiasis can cause hepatic fibrosis and bladder carcinoma. Long-standing moderate-/high-grade eosinophilia (>1.5 x 10^9/L) itself can cause end-organ damage. Loeffler's syndrome results from helminth larvae migrating through the lungs. Katayama syndrome is an acute immune response to schistosomiasis infection during the tissue migration phase. Leakage of hydatid cyst contents can lead to eosinophilia. Some parasites invade the CNS, causing eosinophilic meningitis, encephalitis, or myelitis. Filariasis involves tissue reactions and migration of microfilariae, leading to conditions like skin lesions, lymphedema, and ocular damage.",
+    "clinical_manifestations": "Peripheral eosinophilia is defined as ≥450 eosinophils/microliter of blood. It can be asymptomatic, but common symptoms include fever, cough, diarrhea, dysuria, and rash. Loeffler's syndrome presents with fever, urticaria, wheeze, dry cough, and pulmonary infiltrates. Strongyloidiasis can cause larva currens (an itchy, linear, urticarial rash) and gastrointestinal symptoms like diarrhea and abdominal bloating; hyper-infestation in immunocompromised patients can lead to paralytic ileus and gram-negative sepsis. Geohelminths are often asymptomatic, but hookworm can cause transient itch and abdominal pain, Ascaris can cause Loeffler's syndrome or obstruction, and heavy Trichuris infections can cause anemia and dysentery. Schistosomiasis often presents asymptomatically or with genitourinary (hematuria) or gastrointestinal symptoms. Katayama syndrome involves high-grade eosinophilia (>5 x 10^9/L), fever, cough, and urticarial rash. Hydatid disease is usually asymptomatic, but may present with right upper quadrant pain or fever if cyst leakage occurs. Liver flukes cause hepatomegaly and bile duct obstruction. Neurologic symptoms like severe headache, meningism, and cranial nerve palsies can occur with Angiostrongylus cantonensis. Filariasis can cause itchy rashes, nodules, lymphedema, Calabar swellings, and ocular manifestations (e.g., keratitis, blindness). Non-infectious causes include drugs, atopy, hematopoietic malignancies, and connective tissue disorders.",
+    "diagnosis": "Diagnosis relies on medical history (travel, activities, exposures like freshwater swimming or uncooked food), physical examination for specific signs (e.g., rashes), and laboratory investigations. Direct microscopy includes concentrated stool for soil-transmitted helminths (low sensitivity for Strongyloides), urine for Schistosoma haematobium ova, and filtered blood for filarial infections. Serology is crucial but may be negative in early infection (becomes positive 4-12 weeks post-infection) and often cross-reacts. Strongyloides infection is best diagnosed by serology, with stool culture for difficult cases. Schistosomiasis is diagnosed by serology and microscopy of urine or stool; Katayama syndrome is a clinical diagnosis. Hydatid disease is diagnosed by serology, ultrasound, or CT. Liver flukes are diagnosed by stool microscopy and serology. Neurologic parasitic infections are diagnosed by serology and CSF analysis. Filariasis diagnosis involves serology and microscopy of blood for microfilariae (timing is important due to diurnal periodicity); onchocerciasis is diagnosed by skin snips or slit lamp examination. Empiric albendazole may be considered if initial tests are negative and eosinophilia persists.",
+    "treatment": "Treatment aims to resolve eosinophilia by targeting the underlying cause. Empiric albendazole (400 mg twice daily for 3 days) is recommended for recent travelers with transient eosinophilia and negative stool microscopy. Loeffler's syndrome is treated with albendazole 400 mg/day for 3 days. Strongyloidiasis is treated with a single dose of ivermectin 200 µg/kg or albendazole 400 mg twice daily for 3 days; prolonged courses are needed for immunosuppressed individuals. Ascaris and hookworm are treated with a single dose of albendazole 400 mg, while trichuriasis requires 400-800 mg twice daily for 3 days. Schistosomiasis is treated with praziquantel 20 mg/kg in two doses 6 hours apart; Katayama syndrome also requires prednisolone and repeat praziquantel. Hydatid disease management involves specialist advice, including PAIR, prolonged albendazole, or surgery. Liver flukes are treated with triclabendazole (Fasciola) or praziquantel (Opisthorchis, Clonorchis). Neurologic parasitic infections are treated with albendazole and corticosteroids. Lymphatic filariasis and Loa loa are treated with diethylcarbamazine (DEC) after excluding onchocerciasis, with prednisolone pre-treatment for high microfilariae levels. Onchocerciasis is treated with ivermectin 200 µg/kg monthly for 3 months, repeated for several years.",
+    "prevention": "not discussed"
+  },
+  "tables": [
+    {
+      "title": "Non-Infectious Causes of Peripheral Eosinophilia",
+      "headers": [
+        "Atopy",
+        "Dermatologic",
+        "Drug",
+        "Gastrointestinal",
+        "Hematologic",
+        "Vasculitis",
+        "Other"
+      ],
+      "rows": [
+        [
+          "Asthma",
+          "Immunobullous disorders: dermatitis herpetiformis and pemphigoid",
+          "NSAIDS",
+          "Inflammatory bowel disease",
+          "Hodgkin lymphoma",
+          "Churg-Strauss syndrome",
+          "Allergic bronchopulmonary aspergillosis"
+        ],
+        [
+          "Eczema",
+          "Atopic dermatitis",
+          "Beta-lactam antibiotics",
+          "Eosinophilic gastroenteritis",
+          "Non-Hodgkin lymphoma",
+          "Polyarteritis nodosa",
+          "Sarcoidosis"
+        ],
+        [
+          "Allergic rhinitis",
+          "Eosinophilic cellulitis (Well's syndrome)",
+          "Sulfa-containing antibiotics",
+          "Chronic pancreatitis",
+          "Chronic eosinophilic leukemia",
+          "Wegener's granulomatosis",
+          "Addison's disease"
+        ],
+        [
+          "Seasonal rhinitis",
+          "",
+          "Tetracycline",
+          "Eosinophilic cholangitis",
+          "Systemic mastocytosis",
+          "Other connective tissue diseases and vasculitides",
+          "Eosinophilic myocarditis"
+        ],
+        [
+          "",
+          "",
+          "Acetylsalicylic acid",
+          "",
+          "Chronic myelomonocytic leukemia",
+          "Rheumatoid arthritis",
+          "Familial eosinophilic syndromes"
+        ],
+        [
+          "",
+          "",
+          "Carbamazepine",
+          "",
+          "Chronic myeloid leukemia",
+          "",
+          "Heavy metal poisoning"
+        ],
+        [
+          "",
+          "",
+          "Colchicine",
+          "",
+          "Acute myeloid leukemia",
+          "",
+          "Idiopathic eosinophilic pneumonias"
+        ],
+        [
+          "",
+          "",
+          "Nitrofurantoin",
+          "",
+          "Myelodysplastic syndrome",
+          "",
+          "Immunodeficiency syndromes"
+        ],
+        [
+          "",
+          "",
+          "Dapsone",
+          "",
+          "",
+          "",
+          "Cholesterol embolization"
+        ],
+        [
+          "",
+          "",
+          "Minocycline",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "title": "Microscopic appearance, distribution, diagnosis, and treatment of the more common imported helminth infections",
+      "headers": [
+        "Name",
+        "Picture",
+        "Geographic Distribution",
+        "Diagnosis",
+        "Treatment"
+      ],
+      "rows": [
+        [
+          "Ancylostoma duodenale/ Necator americanus (hookworm)",
+          "book_extracted_images/155_Eosinophilia_in_Travelers/page3_img1.png",
+          "Worldwide",
+          "Concentrated stool microscopy",
+          "Albendazole 400 mg single dose."
+        ],
+        [
+          "Ascaris lumbricoides (ascariasis, roundworm)",
+          "book_extracted_images/155_Eosinophilia_in_Travelers/page3_img2.png",
+          "Worldwide",
+          "Concentrated stool microscopy",
+          "Albendazole 400 mg single dose (mebendazole 500 mg single dose)."
+        ],
+        [
+          "Echinococcus granulosus (hydatid)",
+          "book_extracted_images/155_Eosinophilia_in_Travelers/page3_img3.png",
+          "Worldwide",
+          "Serology",
+          "Seek specialist advice. Combination of praziquantel 20 mg/kg twice daily for 14 days pre- and post-procedure, prolonged course of albendazole 400 mg twice daily, PAIR, surgery."
+        ],
+        [
+          "Loa loa (eye worm)",
+          "book_extracted_images/155_Eosinophilia_in_Travelers/page3_img4.png",
+          "Africa (Central and West predominantly)",
+          "Microscopy of blood taken within 2 h of midday, serology",
+          "Seek specialist advice. First exclude coexisting onchocerciasis. DEC 50 mg day 1 increasing by day 4 to 200 mg three times daily which is then given for 3 weeks; pretreat with prednisolone if microfilariae seen on blood film."
+        ],
+        [
+          "Onchocerca volvulus (river blindness, onchocerciasis)",
+          "book_extracted_images/155_Eosinophilia_in_Travelers/page3_img5.png",
+          "Africa (Central and West predominantly)",
+          "Skin snips (specialist centers), filarial serology",
+          "Ivermectin 200 µg/kg monthly doses for 3 months, repeat every 3-6 months usually for several years; seek ophthalmologic advice; observe first dose."
+        ],
+        [
+          "Schistosoma haematobium (schistosomiasis)",
+          "book_extracted_images/155_Eosinophilia_in_Travelers/page3_img6.png",
+          "Africa (S. haematobium/S. mansoni) Southeast Asia (other species)",
+          "Microscopy of nitrocellulose-filtered terminal urine (S. haematobium), concentrated stool microscopy (S. mansoni and other species), serology (all species)",
+          "Praziquantel 20 mg/kg, 2 doses 6 h apart"
+        ],
+        [
+          "Strongyloides stercoralis (strongyloidiasis)",
+          "book_extracted_images/155_Eosinophilia_in_Travelers/page3_img7.png",
+          "Worldwide",
+          "Concentrated stool microscopy, serology, stool culture (charcoal or agar plate method)",
+          "Ivermectin 200 µg/kg (single dose OR albendazole 400 mg twice daily for 3 days (less effective))."
+        ],
+        [
+          "Wuchereria bancrofti/Brugia malayi (lymphatic filariasis)",
+          "book_extracted_images/155_Eosinophilia_in_Travelers/page3_img8.png",
+          "Worldwide, tropical (W. bancrofti), South/ Southeast Asia (B. malayi)",
+          "Microscopy of blood taken within 2 h of midnight, serology",
+          "Seek specialist advice. First exclude coexisting onchocerciasis. DEC 50 mg day 1 increasing by day 4 to 200 mg three times daily, which is then given for 3 weeks."
+        ]
+      ]
+    },
+    {
+      "title": "Common Helminth Infections Summarized by Geographic Area and Clinical Presentation",
+      "headers": [
+        "Helminth",
+        "Common name/ syndrome",
+        "Distribution",
+        "Respiratory",
+        "Gastrointestinal",
+        "Hepatic",
+        "Neurological",
+        "Cutaneous/muscular",
+        "Other"
+      ],
+      "rows": [
+        [
+          "Ancylostoma duodenale",
+          "Hookworm",
+          "Worldwide",
+          "Wheeze, dry cough (Loeffler's syndrome)",
+          "Nausea, vomiting, diarrhea, abdominal pain",
+          "",
+          "",
+          "Transient itch/ maculopapular rash",
+          "Fever (Loeffler's syndrome)"
+        ],
+        [
+          "Ancylostoma spp.",
+          "Cutaneous larva migrans",
+          "Worldwide, tropical only",
+          "",
+          "",
+          "",
+          "",
+          "Serpiginous rash",
+          ""
+        ],
+        [
+          "Angiostrongylus cantonensis",
+          "Eosinophilic meningitis, rat lung worm",
+          "SE Asia, Oceania, Caribbean",
+          "",
+          "",
+          "",
+          "Severe headache, meningism, focal neurological signs",
+          "",
+          ""
+        ],
+        [
+          "Angiostrongylus costaricensis",
+          "",
+          "South America, Caribbean",
+          "",
+          "Severe abdominal pain, diarrhea, constipation",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Anisakis spp.",
+          "Fish tapeworm",
+          "SE Asia, S America, Europe",
+          "",
+          "Severe abdominal pain, nausea and vomiting",
+          "",
+          "",
+          "",
+          "Anaphylaxis"
+        ],
+        [
+          "Ascaris lumbricoides",
+          "Roundworm",
+          "Worldwide",
+          "Wheeze, dry cough (Loeffler's syndrome)",
+          "Abdominal pain, diarrhea",
+          "Biliary obstruction",
+          "",
+          "Urticarial rash (Loeffler's syndrome)",
+          "Fever (Loeffler's syndrome)"
+        ],
+        [
+          "Brugia malayi",
+          "Lymphatic filariasis",
+          "SE Asia, S Asia, Oceania",
+          "Dry cough, wheeze, breathlessness (tropical pulmonary eosinophilia)",
+          "",
+          "",
+          "",
+          "Lymphadenitis, lymphedema",
+          "Fever (tropical pulmonary eosinophilia)"
+        ],
+        [
+          "Clonorchis sinensis",
+          "Clonorchiasis",
+          "SE Asia",
+          "",
+          "Abdominal pain (acute)",
+          "Hepatomegaly, biliary obstruction, (acute) cholangiocarcinoma (chronic)",
+          "",
+          "Urticarial skin rash",
+          "Fever"
+        ],
+        [
+          "Coccidioides immitis",
+          "Coccidioidomycosis",
+          "South, Central and North America",
+          "Fever, cough, pleuritic chest pain",
+          "",
+          "",
+          "Chronic meningitis",
+          "Rash",
+          ""
+        ],
+        [
+          "Echinococcus granulosus",
+          "Cystic hydatid",
+          "Worldwide",
+          "Cough, pleuritic pain, breathlessness",
+          "",
+          "Asymptomatic/right upper quadrant pain",
+          "",
+          "",
+          "Anaphylaxis"
+        ],
+        [
+          "Echinococcus multilocularis",
+          "Alveolar hydatid",
+          "Middle East, SE Asia, Central Asia, Europe",
+          "",
+          "Diarrhea, abdominal pain, weight loss",
+          "Asymptomatic/right upper quadrant pain",
+          "",
+          "",
+          "Disseminated infection to any organ late in infection"
+        ],
+        [
+          "Enterobius vermicularis",
+          "Pinworm/threadworm",
+          "Worldwide",
+          "",
+          "Diarrhea, abdominal pain",
+          "",
+          "",
+          "Pruritus ani",
+          "Vaginal discharge"
+        ],
+        [
+          "Fasciola hepatica",
+          "Fascioliasis",
+          "Worldwide",
+          "",
+          "",
+          "Upper abdominal pain (acute), biliary obstruction and hepatic abscesses (chronic)",
+          "",
+          "",
+          "Fever"
+        ],
+        [
+          "Gnathostoma spinigerum",
+          "Gnathostomiasis",
+          "SE Asia, Central and South America, Caribbean",
+          "",
+          "Abdominal pain",
+          "",
+          "Severe meningoencephalitis and myelitis, focal neurology, subarachnoid and intracerebral hemorrhage",
+          "Intermittent subcutaneous swelling, pruritus, edema",
+          ""
+        ],
+        [
+          "Hymenolepis nana",
+          "Dwarf tapeworm",
+          "Worldwide, tropical only",
+          "",
+          "Diarrhea, abdominal pain",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Loa loa",
+          "Eye worm, Calabar swelling",
+          "Africa (Central and West predominantly)",
+          "",
+          "",
+          "",
+          "",
+          "Calabar swelling",
+          "Conjunctival worm migration"
+        ],
+        [
+          "Necator americanus",
+          "Hookworm",
+          "Worldwide",
+          "Wheeze, dry cough (Loeffler's syndrome)",
+          "Nausea, vomiting, diarrhea, abdominal pain",
+          "",
+          "",
+          "Transient itch/ maculopapular rash",
+          "Fever (Loeffler's syndrome)"
+        ],
+        [
+          "Onchocerca volvulus",
+          "Onchocerciasis/river blindness",
+          "Africa (Central and West predominantly), Middle East, Central Asia, Central and South America",
+          "",
+          "",
+          "",
+          "",
+          "Nodules, pruritic dermatitis, limb swelling",
+          "Keratitis, anterior uveitis, choroidoretinitis"
+        ],
+        [
+          "Opisthorchis spp.",
+          "Opisthorchiasis",
+          "SE Asia, Europe (Siberia)",
+          "",
+          "Abdominal pain (acute)",
+          "Hepatomegaly, biliary obstruction, (acute) cholangiocarcinoma (chronic)",
+          "",
+          "Urticarial skin rash",
+          "Fever"
+        ],
+        [
+          "Paracoccidioides brasiliensis",
+          "Paracoccidioidomycosis",
+          "South, Central and North America",
+          "Cough, night sweats, weight loss, malaise",
+          "",
+          "",
+          "Chronic meningitis",
+          "Ulcerative oral/nasal/ cutaneous lesions",
+          ""
+        ],
+        [
+          "Paragonimus spp.",
+          "Paragonimiasis",
+          "Africa (Central and West predominantly), SE Asia, Central and South America",
+          "Pleuritic chest pain, pleural effusion, cough, hemoptysis",
+          "",
+          "",
+          "Meningoencephalitis, transverse myelitis, myelopathy",
+          "Subcutaneous migratory nodules",
+          ""
+        ],
+        [
+          "Pseudoterranova decipiens",
+          "Fish tapeworm",
+          "SE Asia, South America and Europe",
+          "",
+          "Severe abdominal pain, nausea and vomiting",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Schistosoma haematobium",
+          "Bilharzia/Katayama fever",
+          "Africa (all), Middle East and Central Asia",
+          "Dry cough (Katayama fever)",
+          "Abdominal pain, diarrhea",
+          "Hepatosplenomegaly, portal hypertension",
+          "",
+          "Urticarial rash (Katayama fever)",
+          "Fever (Katayama fever), hematuria, proteinuria, dysuria, hematospermia"
+        ],
+        [
+          "Schistosoma japonicum",
+          "Bilharzia/Katayama fever",
+          "SE Asia",
+          "Dry cough (Katayama fever)",
+          "Abdominal pain, diarrhea",
+          "Hepatosplenomegaly, portal hypertension",
+          "Focal neurological signs/ seizures, paraplegia, spinal cord syndromes",
+          "Urticarial rash (Katayama fever)",
+          "Fever (Katayama fever)"
+        ],
+        [
+          "Schistosoma mansoni",
+          "Bilharzia/Katayama fever",
+          "Africa (all), South America, Caribbean, Middle East and Central Asia",
+          "Dry cough (Katayama fever)",
+          "Abdominal pain, diarrhea",
+          "Hepatosplenomegaly, portal hypertension",
+          "Paraplegia, spinal cord syndromes",
+          "Urticarial rash (Katayama fever)",
+          "Fever (Katayama fever)"
+        ],
+        [
+          "Schistosoma spp",
+          "Cercarial dermatitis",
+          "Worldwide",
+          "",
+          "",
+          "",
+          "",
+          "Itchy maculopapular rash",
+          ""
+        ],
+        [
+          "Strongyloides stercoralis",
+          "Strongyloidiasis",
+          "Worldwide",
+          "Wheeze, dry cough (Loeffler's syndrome), hyperinfestation syndrome",
+          "Diarrhea, abdominal pain, bloating, hyperinfestation syndrome",
+          "",
+          "",
+          "Itchy urticarial rash (larva currens)",
+          "Fever (Loeffler's syndrome)"
+        ],
+        [
+          "Taenia saginata",
+          "Beef tapeworm",
+          "Worldwide",
+          "",
+          "Abdominal pain, diarrhea, segments expelled per rectum",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Taenia solium",
+          "Pork tapeworm, cysticercosis",
+          "Worldwide, tropical only",
+          "",
+          "Abdominal pain, diarrhea, segments expelled per rectum",
+          "",
+          "Usually space-occupying lesions without eosinophilia. Rarely eosinophilic meningoencephalitis",
+          "",
+          ""
+        ],
+        [
+          "Toxocara canis/ cati",
+          "Visceral larva migrans",
+          "Worldwide",
+          "Wheeze, cough",
+          "Upper abdominal pain, fever, vomiting, diarrhea",
+          "Hepatosplenomegaly",
+          "Meningoencephalitis",
+          "Periorbital edema, urticaria, myalgia, muscle weakness",
+          "Myocarditis, cardiac conduction disturbances"
+        ],
+        [
+          "Trichinella spiralis",
+          "Trichinellosis/ trichinosis",
+          "Worldwide",
+          "",
+          "Dysphagia",
+          "",
+          "Meningoencephalitis",
+          "Myalgia, muscle weakness, edema, urticarial rash",
+          ""
+        ],
+        [
+          "Trichuris trichiura",
+          "Whipworm",
+          "Worldwide",
+          "",
+          "Diarrhea",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Wuchereria bancrofti",
+          "Lymphatic filariasis/ tropical pulmonary eosinophilia",
+          "Worldwide, tropical only",
+          "Dry cough, wheeze, breathlessness (tropical pulmonary eosinophilia)",
+          "Dysentery",
+          "",
+          "",
+          "Lymphadenitis, lymphedema",
+          "Fever (tropical pulmonary eosinophilia)"
+        ]
+      ]
+    }
+  ],
+  "figures": [],
+  "references": []
+}

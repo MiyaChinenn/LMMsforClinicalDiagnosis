@@ -1,0 +1,94 @@
+{
+  "patient_information": "A 31-year-old HIV-positive man.",
+  "chief_complaint": "Cough, shortness of breath, and night sweats.",
+  "history_of_present_illness": "A 6-week history of increasing shortness of breath on exertion, dry cough, and drenching night sweats, along with general fatigue and a weight loss of about 10kg over the past 5 months.",
+  "exposure_and_epidemiology": "He travels extensively for business, with work trips to Europe, China, Korea, Japan, Singapore, and the United States in the past 6 months; he lives with his male partner, denies recreational drug use, has never smoked tobacco, was diagnosed with HIV 6 years ago, and his CD4 count was 280/μL one month ago; he is not on ART or co-trimoxazole prophylaxis and has no other significant past medical history.",
+  "vitals": "Temperature 39.2°C (102.6°F), blood pressure 120/70 mmHg, pulse 100bpm, respiratory rate 26 breaths per minute, sO2 87% on air, and 97% on 15L O2.",
+  "physical_exam": "He is alert, short of breath at rest but able to complete full sentences; chest is clear on auscultation, and the rest of the physical examination is unremarkable.",
+  "labs_and_diagnostics": "Arterial blood gases (on air): pH 7.44, PaO2 7.6 kPa, PaCO2 3 kPa, HCO3 19 mmol/L, Base excess -3.8, Lactate 1.6 mmol/L; FBC normal; CRP 6.7 mg/dL; Creatinine, urea, bilirubin, ALT, AP, and albumin are normal; CD4 150/µL; HIV viral load 1 500000 copies/mL (fully sensitive); chest radiograph showed bilateral perihilar infiltrates; CT-pulmonary angiogram showed extensive \"ground-glass\" infiltrates in both lungs, especially in the lower lobes, but no evidence of pulmonary emboli or cavitations; serum β-glucan was >500 pg/mL; bronchoscopy was macroscopically normal; Grocott staining of BAL fluid revealed Pneumocystis jirovecii cystic forms, and PCR was strongly positive for P. jirovecii DNA.",
+  "differential_diagnosis": "Pneumocystis pneumonia (PCP), tuberculosis, atypical bacterial pneumonia, cryptococcosis, or histoplasmosis.",
+  "management_and_clinical_course": "He was treated with high-flow oxygen and started on high-dose co-trimoxazole plus prednisolone combined with a proton-pump inhibitor; his tachycardia settled with reversal of his hypoxia; oxygen was gradually weaned, and he was discharged on oral co-trimoxazole to complete a 21-day total course; 10 days into PCP treatment, he commenced antiretroviral therapy with tenofovir, emtricitabine, and efavirenz; he developed a widespread pruritic maculopapular rash, leading to co-trimoxazole being changed to clindamycin and primaquine, and efavirenz replaced by a boosted protease inhibitor; after completing PCP treatment, he was started on dapsone and pyrimethamine for secondary prophylaxis.",
+  "final_diagnosis": "Pneumocystis Pneumonia (PCP).",
+  "disease_name_short": "PCP",
+  "tables": [
+    {
+      "title": "Arterial Blood Gases on Ambient Air",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference Range"
+      ],
+      "rows": [
+        [
+          "pH",
+          "7.44",
+          "7.35-7.45"
+        ],
+        [
+          "Pa02 (kPa)",
+          "7.6",
+          "10.67-13.33"
+        ],
+        [
+          "Paco2 (kPa)",
+          "3",
+          "4.67-6.00"
+        ],
+        [
+          "HCO3 (mmol/L)",
+          "19",
+          "22-26"
+        ],
+        [
+          "Base excess (mmol/L)",
+          "-3.8",
+          "±2"
+        ],
+        [
+          "Lactate (mmol/L)",
+          "1.6",
+          "0.5-1.6"
+        ]
+      ]
+    },
+    {
+      "title": "Grading of Severity of Pneumocystis Pneumonia",
+      "headers": [
+        "",
+        "Mild",
+        "Moderate",
+        "Severe"
+      ],
+      "rows": [
+        [
+          "Clinical features",
+          "Increasing exertional dyspnoea ± cough and sweats",
+          "Dyspnoea on minimal exertion, occasional dyspnoea at rest, fever ± sweats",
+          "Dyspnoea at rest, tachypnoea at rest, persistent fever, cough"
+        ],
+        [
+          "Arterial blood gas (room air)",
+          "PaO2 normal, Sa02 falling on exercise",
+          "PaO2 = 8.1–11 kPa",
+          "PaO2 < 8.0 kPa"
+        ],
+        [
+          "Chest radiography",
+          "Normal or minor perihilar infiltrates",
+          "Diffuse interstitial shadowing",
+          "Extensive interstitial shadowing + diffuse alveolar shadowing ('white out'), sparing costophrenic angles and apices"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "extracted_images/23---A-31-Year-Old-HIV-Positive-Business-Traveller-W_2022_Clinical-Cases-in-/page1_img1.jpeg",
+      "caption": "Chest radiograph on admission, showing bilateral perihilar infiltrates."
+    },
+    {
+      "file_name": "extracted_images/23---A-31-Year-Old-HIV-Positive-Business-Traveller-W_2022_Clinical-Cases-in-/page3_img1.jpeg",
+      "caption": "CT scan of the chest showing bilateral ground-glass infiltrates, but no pulmonary emboli."
+    }
+  ]
+}

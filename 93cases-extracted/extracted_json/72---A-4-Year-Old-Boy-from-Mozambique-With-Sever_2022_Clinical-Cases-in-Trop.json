@@ -1,0 +1,24 @@
+{
+  "patient_information": "An HIV-negative 4-year-old boy from rural Mozambique.",
+  "chief_complaint": "Severe oedema and skin lesions, refusing to eat, and apathy.",
+  "history_of_present_illness": "Admitted 5 days prior with suspected nephrotic syndrome, started on furosemide and prednisolone, but oedema did not subside. Three weeks earlier, treated for pneumonia. Developed oedema after a severe bacterial infection. Infections often precede the onset of kwashiorkor, leading to low albumin levels, diarrhoeal diseases, and capillary leakage.",
+  "exposure_and_epidemiology": "From rural Mozambique, seen at a central hospital in Malawi. Kwashiorkor mainly occurs in areas where people live on a monotonous diet and the staple food has a low protein-to-energy ratio.",
+  "vitals": "not reported",
+  "physical_exam": "Miserable, refusing to eat, apathetic, puffy face, pitting oedema on lower legs. Hair is brittle, sparse, and fair. Skin is dry, hyperpigmented, peeling off like 'flaky paint', with ulcerative lesions most prominently in the groins.",
+  "labs_and_diagnostics": "Albumin 2.2 g/dL (reference range 3.0–5.2 g/dL), haemoglobin 7 g/dL (12-14 g/dL). Serum albumin is low.",
+  "differential_diagnosis": "Nephrotic syndrome (initially suspected), distinguished from kwashiorkor.",
+  "management_and_clinical_course": "Initially treated with furosemide and prednisolone, which did not subside oedema. Admitted to the high dependency area of the nutrition ward and treated according to WHO guidelines for severe acute malnutrition with meticulous feeds and close monitoring. Prophylactic antibiotics, fluid replacement, monitoring of temperature and haemoglobin were part of the scheme. Skin lesions became superinfected, successfully treated with Gentian violet solution. Initially required nasogastric tube feeding, then tolerated oral feeds. Oedema settled and was discharged on day 15 to a community feeding program.",
+  "final_diagnosis": "Kwashiorkor, a form of severe acute malnutrition.",
+  "disease_name_short": "Kwashiorkor",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "extracted_images/72---A-4-Year-Old-Boy-from-Mozambique-With-Sever_2022_Clinical-Cases-in-Trop/page1_img1.jpeg",
+      "caption": "A 5-year-old boy with generalized oedema. The skin is hyperpigmented and dry. It is peeling off like 'flaky paint'. Underneath, the skin is hypopigmented."
+    },
+    {
+      "file_name": "extracted_images/72---A-4-Year-Old-Boy-from-Mozambique-With-Sever_2022_Clinical-Cases-in-Trop/page1_img2.jpeg",
+      "caption": "Ulcerative skin lesions on the lower abdomen and in the groin (where zinc ointment and Gentian violet solution (\"GV paint\") has been applied)."
+    }
+  ]
+}

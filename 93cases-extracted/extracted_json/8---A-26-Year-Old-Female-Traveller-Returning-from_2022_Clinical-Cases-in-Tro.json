@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 26-year-old German female student.",
+  "chief_complaint": "Localized swelling on her left leg.",
+  "history_of_present_illness": "The swelling developed slowly over the past 3 weeks, is itchy but not painful, with no history of fever or arthropod bites.",
+  "exposure_and_epidemiology": "She just returned from a 6-week backpacking trip to Ghana.",
+  "vitals": "The patient is afebrile.",
+  "physical_exam": "There is localized swelling on the left leg, about 1.5cm in diameter, with slightly hyperaemic surrounding skin, a blackish scab, and no lymphadenopathy; the rest of the physical examination is normal.",
+  "labs_and_diagnostics": "not reported",
+  "differential_diagnosis": "Rickettsial disease, cutaneous anthrax, spider bites, localized bacterial skin and soft-tissue infections (folliculitides, furuncles, carbuncles, or abscesses), and infestation with fly maggots (myiasis).",
+  "management_and_clinical_course": "The scab was removed, revealing pulsating and oozing transparent fluid; the lesion was covered with white petroleum jelly and bandaged, and two days later, the maggot of a Tumbu fly was easily removed with forceps, resulting in a clean lesion requiring no further treatment.",
+  "final_diagnosis": "Cutaneous furuncular myiasis caused by Tumbu fly larvae (Cordylobia anthropophaga).",
+  "disease_name_short": "Myiasis",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "extracted_images/8---A-26-Year-Old-Female-Traveller-Returning-from_2022_Clinical-Cases-in-Tro/page1_img1.jpeg",
+      "caption": "Boil on the left leg covered with a dark scab."
+    },
+    {
+      "file_name": "extracted_images/8---A-26-Year-Old-Female-Traveller-Returning-from_2022_Clinical-Cases-in-Tro/page2_img1.jpeg",
+      "caption": "Larva of a botfly (Dermatobia hominis)."
+    }
+  ]
+}

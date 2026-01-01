@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 64-year-old Japanese man.",
+  "chief_complaint": "Generalized tonic-clonic seizures followed by weakness of the right lower extremity.",
+  "history_of_present_illness": "The patient has a medical history of hypertension and right cerebellar infarction, with recent simple partial seizures previously controlled by an antiepileptic agent.",
+  "exposure_and_epidemiology": "The patient's infection route was likely through consuming raw chicken meat approximately once a month; spargana are larvae of Spirometra tapeworms, which can infect humans by ingesting infected copepods, undercooked meat from infected snakes, frogs, or birds, or by applying poultices from infested flesh on open wounds or eyes.",
+  "vitals": "On admission, the patient was afebrile with a GCS of 15/15.",
+  "physical_exam": "Neurological examination on admission revealed no abnormality.",
+  "labs_and_diagnostics": "Laboratory results showed no abnormalities, including no eosinophilia or leukocytosis. Head CT revealed a small high-density nodule with an enhanced perifocal low-density area in the left occipital lobe; MRI showed a ring-enhancing, tunnel-shaped lesion in the left occipital lobe. Angiography findings were normal except for right vertebral artery occlusion. Post-surgical, Enzyme-linked immunosorbent assay (ELISA) results of serum and cerebrospinal fluid revealed strong positivity for Spirometra mansoni.",
+  "differential_diagnosis": "Brain tumors or metastases, neurocysticercosis, cerebral schistosomiasis, paragonimiasis, cerebral toxoplasmosis, cerebral cryptococcomas, and tuberculomas.",
+  "management_and_clinical_course": "Open surgery with craniotomy was performed to remove a live worm-like structure from the brain, after which the patient was well without seizures at the most recent examination.",
+  "final_diagnosis": "Cerebral sparganosis due to a sparganum (larva of Spirometra mansoni) removed from the brain.",
+  "disease_name_short": "Cerebral Sparganosis",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "extracted_images/84---A-64-Year-Old-Japanese-Man-With-Generalize_2022_Clinical-Cases-in-Tropi/page2_img1.jpeg",
+      "caption": "MRI A. T1-weighted MRI showing a ring-shaped nodule with gadolinium enhancement in the left occipital lobe. B. T2-weighted image showing an area of hyperintensity associated with an adjacent ventricular dilation. C, D. Post-contrast coronal and sagittal T1-weighted images demonstrating a tunnel-shaped enhancement, so-called tunnel sign."
+    },
+    {
+      "file_name": "extracted_images/84---A-64-Year-Old-Japanese-Man-With-Generalize_2022_Clinical-Cases-in-Tropi/page2_img2.jpeg",
+      "caption": "Images of the Sparganum A. Intraoperative photograph showing a live sparganum during removal from the cortex. B. Whole body of extracted sparganum with anterior end enclosed by red square. The sparganum was wrinkled and whitish, and measured 1 to 3 mm in width and up to 12.5 cm in length at maximum extension. C. Five successive images from video recording. The anterior end showed active repeated movements of extension and constriction."
+    }
+  ]
+}

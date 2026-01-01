@@ -1,0 +1,71 @@
+{
+  "patient_information": "A 74-year-old Japanese man.",
+  "chief_complaint": "Fever, joint pain, headache, and nausea over the past 5 days.",
+  "history_of_present_illness": "He has a history of cerebral infarction without neurological sequelae, hypertension and ulcerative colitis, and is taking antiplatelet, antihypertensive medicine, and subcutaneous injection of the TNF-alpha Blocker adalimumab once every 2 weeks.",
+  "exposure_and_epidemiology": "He lives in a suburb of a city in Kyushu district, southwestern Japan, and has opportunities to encounter wild animals such as boars and deer; he has no recent history of overseas travel.",
+  "vitals": "Body temperature 37\b0C (98.6\b0F), pulse rate 101 bpm, blood pressure 120/70 mmHg, SpO2 96% with 71 oxygen, and respiratory rate 32 breaths per minute.",
+  "physical_exam": "The patient looked unwell and drowsy, had a normal chest examination, Glasgow Coma Scale 13/15 (E3V4M6), livedo reticularis bilaterally on lower extremities, no rash, and an enlarged left inguinal lymph node.",
+  "labs_and_diagnostics": "Laboratory results showed elevated AST/ALT, LDH, CK, and low platelets, with the diagnosis of SFTS confirmed by detecting SFTS virus in blood serum by real-time RT-PCR, which is 98.6% sensitive and 99.1% specific.",
+  "differential_diagnosis": "Acute fever with respiratory distress and impaired consciousness suggested sepsis, with pneumonia, meningitis, infective endocarditis, and tick- and mite-borne infectious diseases (Japanese spotted fever, scrub typhus, and severe fever with thrombocytopenia syndrome) included in the differential diagnosis.",
+  "management_and_clinical_course": "The patient was intubated and admitted to ICU, received meropenem and vancomycin (later discontinued), symptomatic and supportive treatment including fluid administration, noradrenaline, and hydrocortisone for non-responsive septic shock, showed gradual improvement, and was discharged on day 35 without sequelae.",
+  "final_diagnosis": "Severe Fever With Thrombocytopenia Syndrome (SFTS).",
+  "disease_name_short": "SFTS",
+  "tables": [
+    {
+      "title": "Laboratory Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference Range"
+      ],
+      "rows": [
+        [
+          "WBC (\b7 10\b0/L)",
+          "5.3",
+          "3.3-8.6"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "17.7",
+          "13.7-16.8"
+        ],
+        [
+          "Platelets (\b7 10\b0/L)",
+          "90",
+          "158-348"
+        ],
+        [
+          "AST (U/L)",
+          "413",
+          "13-30"
+        ],
+        [
+          "ALT (U/L)",
+          "95",
+          "10-42"
+        ],
+        [
+          "LDH (U/L)",
+          "1025",
+          "124-222"
+        ],
+        [
+          "CK (U/L)",
+          "7442",
+          "59-248"
+        ],
+        [
+          "CK-MB (U/L)",
+          "41",
+          "0-15"
+        ],
+        [
+          "CRP (mg/dL)",
+          "0.1",
+          "0.00-0.14"
+        ]
+      ]
+    }
+  ],
+  "images": []
+}

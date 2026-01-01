@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 31-year-old Guatemalan man with no past medical history, immigrated to New York 5 years ago.",
+  "chief_complaint": "Acute weakness and numbness of the leg for several minutes.",
+  "history_of_present_illness": "Symptoms resolved just before arrival at the hospital; two weeks prior, he had two episodes of facial twitching that subsided without intervention after 10 seconds.",
+  "exposure_and_epidemiology": "Born and lived in a rural area of Guatemala where his family owned uncorralled pigs and his house lacked sanitation services.",
+  "vitals": "Vitals were normal.",
+  "physical_exam": "Cranial nerves were intact, motor and sensory examinations were normal, deep tendon reflexes and gait were normal, and the rest of the exam was unremarkable.",
+  "labs_and_diagnostics": "Cell blood count and serum chemistry were within normal limits; CT and MRI showed parenchymal calcified lesions, complex cystic structures in the subarachnoid space, an old lacunar infarct, and a normal CT angiography. A serum immunoblot for cysticercosis was positive, and serum cysticercosis antigen was positive.",
+  "differential_diagnosis": "Subarachnoid neurocysticercosis is the most likely diagnosis.",
+  "management_and_clinical_course": "Patient was started on a high dose of prednisone followed by a taper, and dual therapy with albendazole and praziquantel. After 9 months, his serum antigen was negative, and lesions resolved on imaging, with no recurrence.",
+  "final_diagnosis": "Subarachnoid Neurocysticercosis.",
+  "disease_name_short": "Neurocysticercosis",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "extracted_images/82---A-31-Year-Old-Man-from-Guatemala-With-Acute-_2022_Clinical-Cases-in-Tro/page1_img1.jpeg",
+      "caption": "CT of the head demonstrates multiple calcifications in the brain parenchyma (yellow arrows)."
+    },
+    {
+      "file_name": "extracted_images/82---A-31-Year-Old-Man-from-Guatemala-With-Acute-_2022_Clinical-Cases-in-Tro/page2_img1.jpeg",
+      "caption": "MRI of the head on T1 sequence reveals dilation of the suprasellar and Sylvian cistern (yellow arrow). Peripheral enhancement (orange arrow) is evidenced after the administration of gadolinium. Corresponding fluid filled septated cystic lesions (blue arrow) are seen surrounding the proximal middle cerebral arteries on T2 sequence. An old lacunar infarct in the right frontal white matter proximal to an interhemispheric cyst was also found (not shown)."
+    }
+  ]
+}

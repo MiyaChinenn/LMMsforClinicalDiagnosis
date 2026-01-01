@@ -1,0 +1,100 @@
+{
+  "chapter_title": "Viral Infections With Cutaneous Lesions",
+  "disease_name": "Measles",
+  "section_summaries": {
+    "epidemiology": "Measles is a highly contagious, directly transmitted pathogen, with outbreaks occurring even in populations with less than 10% susceptibility. Global incidence and mortality have declined significantly due to vaccination efforts, leading to elimination status in some regions, though recent outbreaks have challenged this. There are no latent infections or animal reservoirs; the virus is maintained by acute human infections. Infants become susceptible after losing maternal antibodies, with the average age of measles patients depending on contact rates, maternal antibody decline, and vaccine coverage. Endemic measles typically shows yearly seasonal epidemics superimposed on longer 2- to 5-year cycles due to susceptible person accumulation.",
+    "pathogenesis": "Measles virus is primarily transmitted by respiratory droplets and aerosols. Clinical disease appears approximately 10 days (fever) to 14 days (rash) after infection. Individuals are infectious for several days before and after rash onset, when virus levels are high and symptoms of cough, coryza, and sneezing are most severe. The host immune response at replication sites causes the signs and symptoms. Host immune responses are crucial for viral clearance, recovery, and lifelong immunity. Immunity is conferred by maternal antibodies and immune globulin. Measles infection causes immune suppression for weeks to months, increasing susceptibility to secondary bacterial and viral infections, which contribute significantly to morbidity and mortality. Vitamin A deficiency is a risk factor for severe measles, as the virus infects and damages epithelial tissues.",
+    "clinical_manifestations": "Measles begins with a prodromal illness featuring fever, cough, coryza, and conjunctivitis. Koplik's spots, small white lesions on the buccal mucosa, may appear during the prodrome. A characteristic erythematous and maculopapular rash first appears on the face and behind the ears, then spreads centrifugally to the trunk and extremities, lasting 3 to 4 days and fading in the same manner. Malnourished children may develop a deeply pigmented rash that desquamates. Uncomplicated measles resolves after the rash appears, but complications occur in up to 40% of cases, more often in very young or elderly patients and those who are malnourished. Respiratory complications, including pneumonia, croup, and otitis media, are common, with pneumonia being the leading cause of measles-associated deaths. Other complications include mouth ulcers, diarrhea, and keratoconjunctivitis, which can cause blindness, especially in vitamin A deficient children. Individuals with impaired cellular immunity, such as AIDS patients, may not develop the characteristic rash but can suffer from severe, fatal giant cell pneumonitis. Rare but serious central nervous system complications include post-measles encephalomyelitis, sub-acute measles encephalitis, and sub-acute sclerosing panencephalitis (SSPE).",
+    "diagnosis": "Measles should be considered in patients with fever and generalized rash, especially if the virus is circulating or there's a travel history to endemic areas. Physical examination focuses on Koplik's spots (pathognomonic, appearing before the rash), rash characteristics, and signs of secondary infections like pneumonia or otitis media. Appropriate precautions are necessary to prevent transmission in healthcare settings. Clinical diagnosis is reliable during outbreaks due to familiar clinicians, but challenging in low-incidence regions due to other fever-and-rash pathogens. The WHO clinical case definition includes fever and maculopapular rash (non-vesicular), plus cough, coryza, or conjunctivitis, primarily for surveillance. Laboratory confirmation involves detecting measles virus-specific IgM in serum or oral fluid, which is diagnostic of acute infection but may not be detectable until 4 days post-rash and typically falls undetectable after 4-8 weeks. Alternatively, acute infection is confirmed by a fourfold or greater increase in measles virus-specific IgG antibody levels. Presence of IgG alone indicates prior infection or immunization. Measles virus can also be isolated in cell culture or detected by RT-PCR, which, combined with nucleotide sequencing, allows for genotyping and distinction between wild-type and vaccine strains. Differential diagnosis includes rubella, roseola, dengue, scarlet fever, infectious mononucleosis, enterovirus/adenovirus infections, rickettsial infections, Kawasaki's disease, and drug reactions.",
+    "treatment": "Beyond general supportive measures (hydration, antipyretics), there is no specific antiviral therapy for measles. Secondary bacterial infections are a major cause of morbidity and mortality and require prompt treatment with antibiotics, especially for pneumonia and otitis media caused by common pathogens like Streptococcus pneumoniae and Haemophilus influenzae type b, though vaccines against these have likely reduced their incidence. Vitamin A treatment is effective in reducing measles morbidity and mortality. The WHO recommends daily doses of 200,000 IU for children 12 months or older, 100,000 IU for 6-12 months, and 50,000 IU for children younger than 6 months, for two consecutive days. A third dose is recommended 2-4 weeks later for children with evidence of vitamin A deficiency.",
+    "prevention": "Active immunization with measles vaccine is the most effective means of prevention. Measles vaccines are live, attenuated viral vaccines that replicate to induce protective immunity. The recommended age for first vaccination balances optimal seroconversion age and early measles acquisition risk, typically 6-15 months. Approximately 85% of children develop protective antibodies after vaccination at 9 months and 95% at 12 months. A second dose is recommended for all children as part of routine immunization to account for those who don't develop immunity after the first dose. Supplementary doses are also provided through mass vaccination campaigns to achieve high population immunity. Many countries are integrating rubella vaccine using combined measles-rubella vaccine. Vaccine-induced immunity lasts for several decades, with secondary vaccine failure rates estimated at around 5% 10-15 years post-immunization, likely lower if vaccinated after 12 months. Decreasing antibody titers do not necessarily mean complete loss of immunity, as a rapid secondary immune response typically occurs upon re-exposure. Measles vaccines are safe in immunocompetent children and adults, with fever (to 39.4°C) in ~5% and transient rash in ~2% of seronegative recipients. Mild transient thrombocytopenia has been reported in ~1 in 40,000 doses of MMR vaccine. Measles vaccines are well-tolerated and immunogenic in HIV-infected children and adults, though antibody levels may be lower and wane faster. Vaccination is recommended for HIV-infected children at 6 and 9 months (except for severely immunocompromised), with an additional dose after immune reconstitution."
+  },
+  "tables": [
+    {
+      "title": "Differential Diagnosis of Measles",
+      "headers": [
+        "Diagnosis",
+        "Distinguishing Characteristics"
+      ],
+      "rows": [
+        [
+          "Rubella",
+          "Mild illness with distinctive lymphadenopathy involving the posterior cervical, suboccipital, and posterior auricular nodes"
+        ],
+        [
+          "Roseola",
+          "Rash appears after fever subsides"
+        ],
+        [
+          "Dengue",
+          "Headache, myalgia, and hemorrhagic lesions are not seen with measles"
+        ],
+        [
+          "Scarlet fever",
+          "Often with evidence of streptococcal infection"
+        ],
+        [
+          "Infectious mononucleosis",
+          "Atypical lymphocytosis, in contrast to the lymphopenia of acute measles"
+        ],
+        [
+          "Enterovirus infection",
+          "Mild illness without the complications of measles"
+        ],
+        [
+          "Adenovirus infection",
+          "Epidemics of keratoconjunctivitis usually not associated with rash"
+        ],
+        [
+          "Rickettsial infection",
+          "Rash not as confluent as with measles, and patient may have exposure history"
+        ],
+        [
+          "Kawasaki's disease",
+          "Prolonged illness that evolves in stages; a number of characteristics not found in measles"
+        ],
+        [
+          "Drug sensitivity reaction",
+          "History of exposure to drugs, such as sulfonamides"
+        ]
+      ]
+    },
+    {
+      "title": "Vitamin A Treatment of Measles",
+      "headers": [
+        "Age",
+        "1st Day",
+        "2nd Day*"
+      ],
+      "rows": [
+        [
+          "≥12 months",
+          "200,000 IU",
+          "200,000 IU"
+        ],
+        [
+          "6-11 months",
+          "100,000 IU",
+          "100,000 IU"
+        ],
+        [
+          "<6 months",
+          "50,000 IU",
+          "50,000 IU"
+        ],
+        [
+          "Evidence: randomized controlled trials.",
+          "",
+          ""
+        ],
+        [
+          "*A third dose is recommended 2 to 4 weeks later in children with evidence of vitamin A deficiency.",
+          "",
+          ""
+        ]
+      ]
+    }
+  ],
+  "figures": [],
+  "references": []
+}

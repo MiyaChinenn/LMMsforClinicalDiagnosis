@@ -1,0 +1,51 @@
+{
+  "patient_information": "A 23-year-old male farmer from Myanmar.",
+  "chief_complaint": "Left-sided scrotal swelling.",
+  "history_of_present_illness": "The patient presented with a 3-year history of left-sided scrotal swelling that was non-tender and gradually increased in size, without fever, and previous attempts at traditional herbal medicine were unsuccessful.",
+  "exposure_and_epidemiology": "The patient is from the central part of Myanmar, a region where scrotal swelling is reported to be common.",
+  "vitals": "Normal vital signs and afebrile.",
+  "physical_exam": "Fair general condition with unilateral, non-tender, non-reducible scrotal swelling and no palpable inguinal lymph nodes.",
+  "labs_and_diagnostics": "Ultrasound was performed, which confirmed hydrocoele and can help distinguish testicular tumors or hernias, and may show adult worms (filarial dance sign) in lymphatic filariasis.",
+  "differential_diagnosis": "Inguinal hernia, hydrocoele, testicular tumor, lymphatic filariasis (caused by Wuchereria bancrofti), urogenital schistosomiasis (not endemic in Southeast Asia), and testicular tuberculosis.",
+  "management_and_clinical_course": "The patient underwent hydrocoelectomy, where 3 litres of clear fluid were drained, and received antifilarial treatment. He was subsequently lost to follow-up.",
+  "final_diagnosis": "Hydrocoele, confirmed by ultrasound, with lymphatic filariasis as the likely underlying cause.",
+  "disease_name_short": "Lymphatic Filariasis",
+  "tables": [
+    {
+      "title": "Direct Effect of Most Commonly Used Drugs on Different Stages of W. bancrofti and Brugia species",
+      "headers": [
+        "Drug",
+        "Microfilariae",
+        "Adults"
+      ],
+      "rows": [
+        [
+          "Diethylcarbamazine (DEC)",
+          "+",
+          "++"
+        ],
+        [
+          "Ivermectin",
+          "++",
+          "+"
+        ],
+        [
+          "Albendazole",
+          "-",
+          "++"
+        ],
+        [
+          "Doxycycline",
+          "-",
+          "++"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "extracted_images/36---A-23-Year-Old-Farmer-from-Myanmar-With-Uni_2022_Clinical-Cases-in-Tropi/page1_img1.jpeg",
+      "caption": "Massive unilateral scrotal swelling. The swelling is non-tender and non-reducible."
+    }
+  ]
+}

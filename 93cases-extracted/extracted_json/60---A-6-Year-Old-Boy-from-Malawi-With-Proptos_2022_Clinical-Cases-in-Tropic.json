@@ -1,0 +1,28 @@
+{
+  "patient_information": "A 6-year-old Malawian boy from the lakeshore of Lake Malawi.",
+  "chief_complaint": "Painless, proptosed left eye.",
+  "history_of_present_illness": "A painless, proptosed left eye was first noticed 3 weeks ago, worsened rapidly, and vision was still normal.",
+  "exposure_and_epidemiology": "The boy resides in an area endemic for malaria and schistosomiasis.",
+  "vitals": "Afebrile.",
+  "physical_exam": "The right eye was normal; the left eye was proptosed but non-pulsating, with a round, clear pupil responding well to light, but the eyeball hardly moved; no other swellings or abnormalities were noted, and he was thin but not malnourished.",
+  "labs_and_diagnostics": "Investigations included fine-needle aspirate (FNA) or biopsy, abdominal ultrasound, cytospun cerebrospinal fluid (CSF) for malignant cells, full blood count (FBC), bone marrow aspirate (BMA), chest radiograph, blood film, stool and urine samples, renal and liver function tests, lumbar puncture (LP), and HIV antibody test.",
+  "differential_diagnosis": "Burkitt's lymphoma, another type of B cell lymphoma, and rhabdomyosarcoma.",
+  "management_and_clinical_course": "The boy underwent an urgent work-up, received intrathecal methotrexate and hydrocortisone for CNS prophylaxis, oral allopurinol, hyperhydration, and chemotherapy; his eye normalized within a week, and after four courses of chemotherapy, he was disease-free and cured a year later.",
+  "final_diagnosis": "Burkitt's lymphoma.",
+  "disease_name_short": "Burkitt's lymphoma.",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "extracted_images/60---A-6-Year-Old-Boy-from-Malawi-With-Proptos_2022_Clinical-Cases-in-Tropic/page1_img1.jpeg",
+      "caption": "The boy before four courses of chemotherapy."
+    },
+    {
+      "file_name": "extracted_images/60---A-6-Year-Old-Boy-from-Malawi-With-Proptos_2022_Clinical-Cases-in-Tropic/page2_img1.jpeg",
+      "caption": "The boy after four courses of chemotherapy."
+    },
+    {
+      "file_name": "extracted_images/60---A-6-Year-Old-Boy-from-Malawi-With-Proptos_2022_Clinical-Cases-in-Tropic/page2_img2.jpeg",
+      "caption": "Histology of Burkitt's lymphoma (H&E stain) showing monomorphic tumour cells of intermediate size, indistinct nuclei with coarse chromatin and vacuoles in the cytoplasm (x100 high-power field)."
+    }
+  ]
+}

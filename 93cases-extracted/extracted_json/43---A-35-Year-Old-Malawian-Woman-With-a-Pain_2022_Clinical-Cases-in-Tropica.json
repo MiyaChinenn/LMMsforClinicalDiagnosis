@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 35-year-old HIV-positive Malawian woman on antiretroviral treatment for 3 years, with an unknown CD4 count.",
+  "chief_complaint": "A painful ocular tumour in her left eye, leading to referral for exenteration.",
+  "history_of_present_illness": "Eight months prior, she noticed a whitish lesion on her left conjunctiva, which grew bigger, turned reddish, and caused loss of eyesight in the affected eye, with increasing pain; prior treatments with non-specific and herbal eye drops were ineffective.",
+  "exposure_and_epidemiology": "The patient is from Malawi, an area where OSSN is commonly seen in HIV-positive individuals in sub-Saharan Africa; HIV infection, UV radiation, and HPV are strongly associated with OSSN.",
+  "vitals": "She is afebrile.",
+  "physical_exam": "Localized swelling of the left eyeball and orbit, incomplete lid closure, left preauricular lymph nodes are swollen, right eye visual acuity is 6/6, left eye has no light perception, and the rest of her physical examination is unremarkable.",
+  "labs_and_diagnostics": "The CD4 count is unknown; ultrasound biomicroscopy and Toluidine blue 0.05% vital staining are mentioned as diagnostic tools for OSSN, but no results are reported for this patient.",
+  "differential_diagnosis": "Advanced ocular surface squamous neoplasia (OSSN) is the most likely diagnosis, but early stages may be confused with pterygium, amelanotic naevus, lipoma, amelanotic melanomas, lymphomas, or adenocarcinomas.",
+  "management_and_clinical_course": "The patient was recommended analgesic treatment with nonsteroidal antiinflammatory drugs, counselling, and extended exenteration of the left eyeball and orbit; her HIV viral load should be checked, and her ART may be switched; she refused surgical intervention and was discharged with antibiotics and bandaging for pain control, with an offer to return.",
+  "final_diagnosis": "Advanced ocular surface squamous neoplasia (OSSN), specifically Squamous cell carcinoma of the conjunctiva (SCCC).",
+  "disease_name_short": "OSSN (Ocular Surface Squamous Neoplasia)",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "extracted_images/43---A-35-Year-Old-Malawian-Woman-With-a-Pain_2022_Clinical-Cases-in-Tropica/page1_img1.jpeg",
+      "caption": "Left eye with marked axial proptosis, nasal upper lid covered with tetracycline eye ointment."
+    },
+    {
+      "file_name": "extracted_images/43---A-35-Year-Old-Malawian-Woman-With-a-Pain_2022_Clinical-Cases-in-Tropica/page2_img1.jpeg",
+      "caption": "Squamous cell carcinoma of the conjunctiva (SCCC). The lesion is commonly seen in HIV patients in the tropics and should not be missed during routine clinical examination."
+    }
+  ]
+}

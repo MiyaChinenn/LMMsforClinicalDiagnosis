@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 42-year-old German man.",
+  "chief_complaint": "Fever, arthralgias, and retro-orbital pain for 6 days.",
+  "history_of_present_illness": "For 6 days, the patient experienced fever up to 40°C, arthralgias, and retro-orbital pain.",
+  "exposure_and_epidemiology": "Patient returned from a 10-week trip to Thailand (Little Koh Chang, Hua Hin, Bangkok) the day before presentation and had not taken antimalarial chemoprophylaxis.",
+  "vitals": "GCS 15/15, Temperature 39.1°C (102.4°F), BP 156/80 mmHg, pulse 106 bpm, respiratory rate 16 breaths/min, SpO2 95% on ambient air.",
+  "physical_exam": "No skin rash, no lymphadenopathy, clear chest auscultation, and no abdominal tenderness or organomegaly.",
+  "labs_and_diagnostics": "FBC showed thrombocytopenia (81 x 10^9/L), elevated CRP (55 mg/L), AST (62 U/L), and ALT (106 U/L; dengue NS1 antigen test and rapid malaria diagnostic test were negative.",
+  "differential_diagnosis": "Dengue fever, Chikungunya, Zika, Influenza, acute HIV infection, enteric fever, and malaria.",
+  "management_and_clinical_course": "Serology for arboviruses, nasopharyngeal swab for influenza, fourth-generation HIV tests, blood cultures for enteric fever, and microscopy (thick and thin films) for malaria were initiated. Initial thick blood film showed Plasmodium species trophozoites (920/uL), but species were unclear, leading to admission and treatment with atovaquone/proguanil for 3 days, resulting in rapid recovery and discharge. Repeated microscopy and species-specific PCR confirmed mono-infection with P. knowlesi.",
+  "final_diagnosis": "Plasmodium knowlesi mono-infection.",
+  "disease_name_short": "Knowlesi Malaria",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "extracted_images/92---A-42-Year-Old-Traveller-Returning-from-Thaila_2022_Clinical-Cases-in-Tr/page2_img1.jpeg",
+      "caption": "Young trophozoite (ring form) of P. knowlesi (Giemsa-stained thin film)."
+    },
+    {
+      "file_name": "extracted_images/92---A-42-Year-Old-Traveller-Returning-from-Thaila_2022_Clinical-Cases-in-Tr/page2_img2.jpeg",
+      "caption": "Late trophozoite (band form) of P. knowlesi (Giemsa-stained thin film)."
+    }
+  ]
+}

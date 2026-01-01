@@ -1,0 +1,63 @@
+{
+  "chapter_title": "Loiasis",
+  "disease_name": "Loiasis",
+  "section_summaries": {
+    "epidemiology": "Loa loa infects 3 to 13 million people in Central and West Africa, with a distribution mirroring its Chrysops vectors. Isolated cases are also reported in Uganda, Malawi, Zambia, Ethiopia, Ghana, and Guinea. Infection rates increase with age. Non-human primates harbor a form of Loa, but there is no evidence of human infection by this simian strain.",
+    "pathogenesis": "Loa loa is transmitted by Chrysops tabanid flies. Microfilariae ingested during a blood meal develop into infective filariform (L3) larvae in 10-12 days. When the fly bites a new host, larvae are injected and develop into adult worms over 6-12 months. Adult worms migrate through subcutaneous tissues, surviving up to 17 years. Microfilariae are released into the bloodstream with diurnal periodicity. Loa loa does not harbor the bacterial endosymbiont Wolbachia.",
+    "clinical_manifestations": "The clinical spectrum ranges from asymptomatic to life-threatening complications. Clinical signs are more common in visitors to endemic areas. Characteristic manifestations include recurrent episodes of localized angioedema (Calabar swellings) and subconjunctival migration of adult eye worms. Other non-specific symptoms include pruritus, urticaria, myalgia, arthralgia, fatigue, and malaise. Eosinophilia is marked. Complications can include meningoencephalitis, renal abnormalities (hematuria, proteinuria), and possibly endomyocardial fibrosis.",
+    "diagnosis": "Diagnosis is based on a compatible exposure history, unexplained eosinophilia, Calabar swellings, or migrating worms. Definitive diagnosis involves demonstration of Loa loa microfilariae in peripheral blood (drawn between 10 AM and 2 PM) or identification of an adult worm removed from subcutaneous tissue. Microfilariae are distinguished by diurnal periodicity, size, sheath, and nuclei extending to the tail. Concentration techniques, PCR, quantitative antigen assays, and rapid point-of-care quantification are used. Presumptive diagnosis can be made using immunodiagnostic tests for travelers. Differential diagnosis includes angioedema mimicking Calabar swellings (e.g., C1 esterase deficiency, other helminth infections, allergic diseases) and other causes of adult worm migration.",
+    "treatment": "Diethylcarbamazine (DEC) at 8-10 mg/kg/day for 21 days is the treatment of choice for patients with few or no circulating microfilariae, killing microfilariae and adult worms. DEC is curative in most cases but can cause severe side effects in patients with high microfilarial levels or concomitant onchocerciasis. Cytapheresis can reduce microfilarial load before DEC. Albendazole (200 mg twice daily for 21 days) affects adult parasites and reduces microfilaremia by ~80% over several months, and is used for DEC-refractory loiasis. Ivermectin is not curative for loiasis. Imatinib may slowly lower microfilarial levels. Doxycycline is ineffective.",
+    "prevention": "Prevention involves avoiding Chrysops fly bites through forest clearance around dwellings, screening houses, and protective clothing. Weekly DEC (300 mg) is effective for preventing loiasis in long-term travelers to endemic regions. Elimination of insect vectors with larvicides is hampered by inaccessible breeding sites. Mass treatment with ivermectin has shown no effect on Chrysops infection rates in highly endemic areas."
+  },
+  "tables": [
+    {
+      "title": "Treatment of Loiasis",
+      "headers": [
+        "Indication",
+        "Treatment",
+        "Dose",
+        "Comments",
+        "Evidence"
+      ],
+      "rows": [
+        [
+          "Treatment of choice",
+          "DEC",
+          "3 mg/kg three times daily for 21 days",
+          "Severe side effects in patients with high mf levels",
+          "Multiple anecdotal reports and small case series"
+        ],
+        [
+          "Pre-treatment of patients with high mf levels",
+          "Cytapheresis",
+          "N/A",
+          "Requires special settings",
+          "Case series"
+        ],
+        [
+          "Pre-treatment of patients with high mf levels",
+          "Albendazole",
+          "200 mg twice daily for 21 days",
+          "Peak reduction of 80% at 6 months",
+          "Double-blind trial"
+        ],
+        [
+          "Refractory disease",
+          "Albendazole",
+          "200 mg twice daily for 21 days",
+          "",
+          "Case series"
+        ],
+        [
+          "Prophylaxis",
+          "DEC",
+          "300 mg weekly",
+          "",
+          "Double-blind, placebo-controlled trial"
+        ]
+      ]
+    }
+  ],
+  "figures": [],
+  "references": []
+}

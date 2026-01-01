@@ -1,0 +1,90 @@
+{
+  "patient_information": "A 55-year-old female pig farmer from rural Vietnam with a history of type 2 diabetes and hypertension, on treatment for 4 years.",
+  "chief_complaint": "Fever and impaired consciousness.",
+  "history_of_present_illness": "A 55-year-old woman presented with a 1-day history of fever, headache and vomiting; her blood film was negative for malaria and she was treated with fluids and paracetamol; on the second day of illness, she developed confusion and was referred for further investigation.",
+  "exposure_and_epidemiology": "She raises pigs on her smallholding and works as a butcher in a local market selling pork and chicken in rural Vietnam, a malaria-endemic area.",
+  "vitals": "Glasgow Coma Score of 12/15 (E3 M5 V4), fever (38.5°C or 101.3°F), tachycardia (124 bpm), hypotension (85/60 mmHg), tachypnoea (32 breaths per minute), and hypoxia (O2 saturation 86% on ambient air).",
+  "physical_exam": "She is confused, has neck stiffness and photophobia, no focal neurological signs, a diffuse petechial rash over her trunk, and marked purpuric non-blanching lesions on her left leg; the rest of her examination is unremarkable.",
+  "labs_and_diagnostics": "Non-contrast-enhanced CT scan of the brain is unremarkable; electrocardiogram shows sinus tachycardia and is otherwise normal; chest x-ray is unremarkable; admission laboratory results are detailed in Table 85.1; CSF analysis revealed turbid fluid with 2870 cells/µL, 92% neutrophils, protein 541.16 mg/dL, glucose 2.44 mmol/l, and a CSF/serum glucose ratio of 0.12; Gram stain showed a Gram-positive coccus in short chains; negative India ink, mycobacterial GeneXpert, Herpes simplex virus PCR, repeat malaria film, and malaria rapid diagnostic tests.",
+  "differential_diagnosis": "Severe malaria, enteric fever, dengue fever, melioidosis, acute bacterial meningitis (Streptococcus pneumoniae, Neisseria meningitidis, Haemophilus influenzae), Streptococcus suis infection, tuberculous meningitis, and cryptococcal meningitis.",
+  "management_and_clinical_course": "The patient received empirical treatment with intravenous ceftriaxone and vancomycin, and supportive treatment including intravenous fluids; dexamethasone was administered for the first 4 days of treatment; she responded to treatment but had residual bilateral hearing impairment after 12 days of antibiotic therapy.",
+  "final_diagnosis": "Streptococcus suis meningitis.",
+  "disease_name_short": "Streptococcus suis meningitis",
+  "tables": [
+    {
+      "title": "Laboratory Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "WBC (× 10^9/L)",
+          "10.25",
+          "4-10"
+        ],
+        [
+          "% Neutrophils",
+          "86.5",
+          "45-75"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "11.8",
+          "12-17"
+        ],
+        [
+          "Platelets (x 10^9/L)",
+          "56",
+          "200-400"
+        ],
+        [
+          "Creatinine (mg/dL)",
+          "0.86",
+          "0.7-1.5"
+        ],
+        [
+          "Blood urea nitrogen (mg/dL)",
+          "7",
+          "7-20"
+        ],
+        [
+          "Na+ (mmol/l)",
+          "137",
+          "135-150"
+        ],
+        [
+          "K+ (mmol/l)",
+          "3.2",
+          "3.5-5.5"
+        ],
+        [
+          "Random blood glucose (mmol/L)",
+          "15.4",
+          "3.9-7.8"
+        ],
+        [
+          "HbA1c (%)",
+          "8.5",
+          "4-7"
+        ],
+        [
+          "Lactate (mmol/L)",
+          "11.2",
+          "0.5-2.2"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "extracted_images/85---A-55-Year-Old-Female-Pig-Farmer-from-Vietnam-_2022_Clinical-Cases-in-Tr/page1_img1.jpeg",
+      "caption": "Petechial rash on the trunk of the patient."
+    },
+    {
+      "file_name": "extracted_images/85---A-55-Year-Old-Female-Pig-Farmer-from-Vietnam-_2022_Clinical-Cases-in-Tr/page1_img2.jpeg",
+      "caption": "Purpuric, non-blanching rash on the leg."
+    }
+  ]
+}

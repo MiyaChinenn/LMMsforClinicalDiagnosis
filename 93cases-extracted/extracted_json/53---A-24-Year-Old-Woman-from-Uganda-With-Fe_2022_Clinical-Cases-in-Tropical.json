@@ -1,0 +1,15 @@
+{
+  "patient_information": "A 24-year-old woman from rural Uganda.",
+  "chief_complaint": "A 5-day history of a febrile illness with fever and shock.",
+  "history_of_present_illness": "The illness started with a sore throat, aching all over, abdominal pain, and diarrhoea, with the patient becoming increasingly unwell and weak.",
+  "exposure_and_epidemiology": "Her husband, who worked in a local gold mine, died 6 days before her illness from a severe febrile illness, and she had cared for him.",
+  "vitals": "Blood pressure 85/65 mmHg, pulse rate 105 bpm, temperature 38°C (100.4°F).",
+  "physical_exam": "Looks very unwell, has bilateral conjunctivitis, no rash or lymphadenopathy, normal heart sounds, clear chest, and normal abdominal examination.",
+  "labs_and_diagnostics": "Malaria slide showed a low level of Plasmodium falciparum parasitaemia, and a positive Marburg virus PCR result was confirmed post-discharge.",
+  "differential_diagnosis": "Malaria, typhoid fever, bacterial sepsis (including meningococcal disease), severe viral infections (adenovirus, influenza), measles, Zika virus, and viral haemorrhagic fever (VHF) such as Marburg virus disease.",
+  "management_and_clinical_course": "The patient was isolated and treated with IV artesunate, artemether/lumefantrine, empirical IV ceftriaxone, and IV fluids, improving after several days and discharged after 2 additional days in isolation.",
+  "final_diagnosis": "Marburg virus disease (MVD).",
+  "disease_name_short": "Marburg Virus Disease",
+  "tables": [],
+  "images": []
+}

@@ -1,0 +1,968 @@
+{
+  "chapter_title": "Group A Streptococcus",
+  "disease_name": "Group A Streptococcus",
+  "section_summaries": {
+    "epidemiology": "Group A Streptococcus (GAS) infections have the highest burden in resource-limited settings, driven by poverty, overcrowding, and reduced access to medical care, with geography and climate also playing a role. Pharyngitis is the most common manifestation, peaking in school-aged children, with incidence 4-8 times higher in resource-limited settings. Impetigo is also common, especially in humid tropical locations. Invasive GAS infections, including cellulitis, erysipelas, necrotizing fasciitis, and streptococcal toxic shock syndrome (STSS), occur sporadically, with increasing incidence of cellulitis with age and significant mortality (10-20%). Acute Rheumatic Fever (ARF) and Rheumatic Heart Disease (RHD) are uncommon in industrialized settings but remain a major burden in Indigenous populations and resource-limited countries, accounting for significant global morbidity and mortality (over 639,000 deaths annually). Acute post-streptococcal glomerulonephritis (APSGN) is declining in industrialized settings but persists in tropical regions, often linked to pyoderma.",
+    "pathogenesis": "The oropharynx and skin are the primary ecological niches for Group A Streptococcus (GAS) and major entry sites for infection. GAS adheres to mucosal or skin epithelium via surface proteins, notably M protein, which extends as hairlike filaments and, along with the hyaluronic acid capsule, helps GAS evade phagocytosis by blocking opsonization and complement fixation. Highly virulent strains can secrete superantigens, stimulating T lymphocytes and antigen-presenting cells, leading to overwhelming cytokine production and the shock seen in STSS. While antibodies to GAS proteins are important for protection, aberrant immune responses to benign GAS infections of the throat or skin can lead to immune-mediated sequelae like Acute Rheumatic Fever (ARF), Rheumatic Heart Disease (RHD), and Acute Post-Streptococcal Glomerulonephritis (APSGN). Genetic predispositions and cross-reactive antibodies are thought to play a role in ARF development, affecting endocardial, synovial, and neural tissues. APSGN involves activation of the alternative complement pathway.",
+    "clinical_manifestations": "GAS infections present with a diverse spectrum, from benign self-limited throat and skin infections to lethal multi-organ failure. Pharyngitis often causes high fever, lymphadenopathy, and tonsillar exudates, resolving in 3-5 days, with potential suppurative complications like abscesses. Scarlet fever manifests as a diffuse blanching sandpaper-like rash, desquamation, and 'strawberry tongue', historically lethal. Impetigo involves superficial crusted skin lesions, potentially forming pustular or ulcerative lesions in tropical settings. Invasive infections include erysipelas (painful, demarcated dermal inflammation) and cellulitis (deeper, diffuse subcutaneous tissue infection), often with systemic toxicity. Necrotizing fasciitis is a rapidly progressing deep tissue infection leading to shock and multi-organ failure. STSS, typically associated with necrotizing fasciitis, involves hypotension and multi-organ dysfunction. Non-suppurative sequelae include ARF, characterized by fever, arthritis, carditis, erythema marginatum, chorea, and subcutaneous nodules, which can progress to RHD. APSGN presents with hematuria, edema, and hypertension 1-2 weeks after infection, usually benign in children but potentially severe in adults.",
+    "diagnosis": "Diagnosis of GAS pharyngitis can be presumptive, based on culturing beta-hemolytic gram-positive cocci or using rapid antigen detection tests to differentiate from viral pharyngitis. Other beta-hemolytic streptococci (Groups C and G) must be differentiated. Staphylococcus aureus is a key differential for pyogenic and invasive GAS infections, especially skin, osteo-articular, and necrotizing pneumonia, with Table 40.2 providing distinguishing features. Clinical suspicion of necrotizing fasciitis or myonecrosis requires prompt surgical confirmation, as imaging is often non-definitive. The diagnosis of primary ARF relies on the 2015 revised Jones criteria, which include clinical and investigational findings, notably echocardiography for subclinical carditis, alongside risk stratification. APSGN diagnosis requires acute nephritis symptoms, evidence of recent GAS infection (culture or serology), and a compatible complement profile (depressed C3 and CH50).",
+    "treatment": "Penicillin remains the universally sensitive and preferred treatment for GAS infections, including pharyngitis. For penicillin hypersensitivity, erythromycin and newer macrolides can be used, though macrolide resistance is common in some areas. Treatment for pharyngitis aims to alleviate symptoms, shorten duration, and prevent complications like ARF and peritonsillar abscess, especially critical in high-incidence ARF populations. Impetigo can be treated with oral, intramuscular, or topical antibiotics, with trimethoprim/sulfamethoxazole being an alternative to penicillin. For invasive infections (e.g., erysipelas, perianal cellulitis), penicillin is the treatment of choice, but empirical broad-spectrum antimicrobials are often initiated before microbiologic confirmation. Severe infections like necrotizing fasciitis are managed with IV meropenem or piperacillin/tazobactam plus clindamycin (which reduces toxin production) and crucial surgical debridement, with vancomycin added if MRSA is suspected and IVIG for STSS.",
+    "prevention": "Primary prophylaxis for simple GAS pharyngitis contacts is rarely indicated, but for severe invasive GAS infections, experts recommend treating close contacts with regimens combining rifampin with penicillin, or using cephalosporins/azithromycin, due to increasing penicillin resistance for carriage eradication. Secondary prophylaxis with intramuscular benzathine penicillin G (BPG) administered four times weekly for 10 years (or longer for established valve disease) is central to preventing recurrences of ARF and progression of RHD. In APSGN outbreaks linked to pyoderma, community-based BPG treatment for infected individuals and contacts can reduce nephritogenic GAS transmission. Additionally, skin hygiene measures, including scabies control, are important for prevention in resource-limited settings. Vaccine development is ongoing, with multi-valent vaccines targeting common emm types in clinical trials and other candidate vaccines based on conserved antigens approaching clinical trial phases."
+  },
+  "tables": [
+    {
+      "title": "Summary of Estimated Global Burden of GAS Diseases",
+      "headers": [
+        "Disease",
+        "Year of Publication",
+        "Number of Existing Cases",
+        "Number of New Cases Each Year",
+        "Number of Deaths Each Year"
+      ],
+      "rows": [
+        [
+          "Rheumatic heart disease (RHD)",
+          "2017",
+          "33.4 million",
+          "",
+          "319,000Ω"
+        ],
+        [
+          "",
+          "2005",
+          "",
+          "282,000*",
+          ""
+        ],
+        [
+          "History of acute rheumatic fever without carditis, requiring secondary prophylaxis²",
+          "2005",
+          "1.88 million",
+          "188,000*",
+          ""
+        ],
+        [
+          "RHD-related infective endocarditis²Ω",
+          "2016",
+          "",
+          "78,000Ω",
+          "14,000"
+        ],
+        [
+          "RHD-related stroke",
+          "2016",
+          "640,000Ω",
+          "345,00011",
+          "134,00011"
+        ],
+        [
+          "",
+          "2005",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Acute post-streptococcal glomerulonephritis²",
+          "2005",
+          "§",
+          "472,000",
+          "9,000"
+        ],
+        [
+          "Invasive group A streptococcal diseases²",
+          "2005",
+          "",
+          "663,000",
+          "163,000"
+        ],
+        [
+          "Pyoderma",
+          "2015",
+          "162 million",
+          "",
+          ""
+        ],
+        [
+          "Pharyngitis²",
+          "2005",
+          "",
+          "616 million",
+          ""
+        ]
+      ]
+    },
+    {
+      "title": "Differential Diagnosis for Selected GAS Infections and GAS-Related Syndromes",
+      "headers": [
+        "Group",
+        "Primary",
+        "Secondary",
+        "Other",
+        "Comments"
+      ],
+      "rows": [
+        [
+          "GROUP A STREPTOCOCCUS Primary",
+          "Rhinoviruses",
+          "",
+          "",
+          "• Coryza, rhinorrhea, and hoarseness are prominent features of rhinovirus and coronavirus-associated pharyngitis, which is usually non-exudative."
+        ],
+        [
+          "",
+          "Coronaviruses",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Adenoviruses",
+          "",
+          "",
+          "• Adenovirus may be exudative and associated with conjunctivitis (i.e., “pharyngoconjunctival fever”)."
+        ],
+        [
+          "",
+          "Epstein-Barr virus (EBV)",
+          "",
+          "",
+          "• EBV-associated pharyngitis is often part of “infectious mononucleosis” and is associated with prominent lymphadenopathy and systemic features (e.g., myalgias and atypical lymphocytosis ± elevated transaminases)."
+        ],
+        [
+          "",
+          "Enteroviruses",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Influenza A and B",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Secondary",
+          "Group C and G streptococci",
+          "",
+          "",
+          "• CMV and HIV may both cause a “mononucleosis-like” illness."
+        ],
+        [
+          "",
+          "Cytomegalovirus (CMV)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Human immunodeficiency virus (HIV)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Cocksackie virus",
+          "",
+          "",
+          "• Enterovirus “herpangina” is associated with discrete ulcerative lesions of the posterior pharynx."
+        ],
+        [
+          "Other",
+          "Arcanobacterium haemolyticus",
+          "",
+          "",
+          "• A. haemolyticus is more common in adolescence and associated with a pleomorphic rash affecting the extensor surfaces and spreading to the neck and trunk."
+        ],
+        [
+          "",
+          "Neisseria gonorrhoeae",
+          "",
+          "",
+          "• N. gonorrhoeae throat infection is often asymptomatic, but should be considered in sexually active individuals."
+        ],
+        [
+          "",
+          "Mycoplasma pneumoniae",
+          "",
+          "",
+          "• M. pneumoniae and C. pneumoniae produce pharyngitis accompanied by lower respiratory symptoms."
+        ],
+        [
+          "",
+          "Chlamydophila pneumoniae",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Corynebacterium diphtheriae",
+          "",
+          "",
+          "• Diphtheria is marked by extreme toxicity and the development of a thick pharyngeal exudate. Death is commonly caused by toxin-mediated cardiac suppression or direct invasion of local structures and asphyxiation. Remains a risk in settings where vaccination programs are lacking."
+        ],
+        [
+          "",
+          "Fusobacterium necrophorum",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Herpes simplex virus (HSV)",
+          "",
+          "",
+          "• Primary HSV gingivostomatitis results in ulcerative lesions of the lips, tongue, and buccal mucosa associated with fever, pain, and drooling."
+        ],
+        [
+          "",
+          "Yersinia enterocolitica",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Francisella tularensis",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Mixed anaerobes and spirochetes",
+          "",
+          "",
+          "• Acute necrotizing ulcerative gingivitis is caused by infection with mixed anaerobes and oral spirochetes, results in painful inflammation and sloughing of the gums. Associated with limited nutrition and dental hygiene."
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "• F. necrophorum is implicated in the development of Lemierre's syndrome in otherwise healthy individuals (oropharyngeal infection, sepsis, jugular vein thrombosis, septic emboli). Associated with poor response to standard therapy/deterioration."
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          "• Cocksackie virus is associated with hand-foot-and-mouth disease"
+        ],
+        [
+          "SCARLET FEVER Primary",
+          "Measles",
+          "",
+          "",
+          "• Measles and rubella should be considered, especially if unvaccinated or history of recent contact. Measles is associated with prodromal conjunctivitis and coryzal symptoms and Koplik's spots. Rubella is associated with post-auricular lymphadenopathy."
+        ],
+        [
+          "",
+          "Rubella",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Roseola",
+          "",
+          "",
+          "• Roseola rash associated with defervescence and affects younger children (infants) more than scarlet fever."
+        ],
+        [
+          "",
+          "EBV",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Parvovirus B19",
+          "",
+          "",
+          "• Parvovirus “fifth disease or erythema infectiosum” associated with distinctive “slapped cheek” rash of face and reticular rash of limbs appearing after fever resolution."
+        ],
+        [
+          "Secondary",
+          "Kawasaki's disease (KD)",
+          "",
+          "",
+          "• KD and SD associated with multiple symptoms and prolonged fever (>5 days). KD is also associated with conjunctivitis, edema of the hands and feet, and stomatitis. SD is associated with transient or “evanescent” rash, lymphadenopathy, hepatosplenomegaly, uveitis, ± arthritis."
+        ],
+        [
+          "",
+          "Still's disease (SD)",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Enteroviruses",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Drug eruption",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Anti-convulsant hypersensitivity syndrome",
+          "",
+          "",
+          ""
+        ],
+        [
+          "IMPETIGO Primary",
+          "Staphylococcus aureus",
+          "",
+          "",
+          "• S. aureus impetigo is more commonly (but not always) bullous and may co-infect with GAS in pyodermatous impetigo."
+        ],
+        [
+          "",
+          "Group C and G beta-hemolytic streptococci",
+          "",
+          "",
+          "• Scabies may result in crusted lesions and burrows that are itchy and involve the interdigital spaces or diffusely involve the trunk. Infestation may predispose to pyoderma. Co-infection requires concurrent treatment with scabicidal agents."
+        ],
+        [
+          "",
+          "Scabies",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Tinea",
+          "",
+          "",
+          "• Tinea causes superficial, scaly, non-exudative lesions frequently with central sparing."
+        ],
+        [
+          "Secondary",
+          "Eczema",
+          "",
+          "",
+          "• Eczema is itchy, often in limb flexures."
+        ],
+        [
+          "",
+          "HSV",
+          "",
+          "",
+          "• HSV presents with localized vesicles and sometimes pain, ± local lymph gland enlargement."
+        ],
+        [
+          "CELLULITIS AND ERYSIPELAS Primary",
+          "S. aureus",
+          "",
+          "",
+          "• S. aureus usually associated with clear portal of entry (e.g., wound)."
+        ],
+        [
+          "",
+          "Group A/B/C/G Streptococcus",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Secondary",
+          "Enterobacteriaceae",
+          "",
+          "",
+          "• Enterobacteriaceae, Pseudomonas, and anaerobes are more common in immunocompromised hosts (e.g., diabetic foot infections) neutropenic hosts."
+        ],
+        [
+          "",
+          "Pseudomonas aeruginosa",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "HSV",
+          "",
+          "",
+          "• HSV associated with vesicular lesions."
+        ],
+        [
+          "",
+          "Anaerobes",
+          "",
+          "",
+          "• P. multocida, E. corrodens, and anaerobes after human or animal bites"
+        ],
+        [
+          "Other",
+          "Aeromonas species",
+          "",
+          "",
+          "• Aeromonas species may be rapidly progressive and associated with water exposure."
+        ],
+        [
+          "",
+          "Pasteurella multocida",
+          "",
+          "",
+          "• E. rhusiopathiae and contact dermatitis are not associated with toxicity and may be suspected because of distribution (e.g., on hands) and exposure history (e.g., meat worker)."
+        ],
+        [
+          "",
+          "Eikenella corrodens",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Erysipelothrix rhusiopathiae",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Contact dermatitis",
+          "",
+          "",
+          ""
+        ],
+        [
+          "NECROTIZING FASCIITIS Primary",
+          "Polymicrobial",
+          "",
+          "",
+          "• Unlike other forms of necrotizing fasciitis, group A Streptococcus necrotizing fasciitis is rarely associated with gas formation."
+        ],
+        [
+          "Secondary",
+          "Clostridium spp.",
+          "",
+          "",
+          "• Polymicrobial infection may be associated with abdominal surgery or an occult colonic source, typically involving the perineum and abdominal wall (Fournier’s gangrene) and in patients with diabetes or peripheral vascular disease."
+        ],
+        [
+          "",
+          "S. aureus",
+          "",
+          "",
+          "• S. aureus is typically associated with skin breakage. MRSA causes 10%–30% of S. aureus necrotizing fasciitis."
+        ],
+        [
+          "",
+          "Vibrio vulnificus",
+          "",
+          "",
+          "• Clostridial “gas gangrene”: usually secondary to traumatic interruption of vascular supply to affected limb, colonic or obstetric origin. More frequent in drug users."
+        ],
+        [
+          "",
+          "Enterobacteriaceae spp.",
+          "",
+          "",
+          "• V. vulnificus associated with underlying illnesses and water exposure."
+        ],
+        [
+          "Other",
+          "Aeromonas hydrophila",
+          "",
+          "",
+          "• Aeromonas is associated with water."
+        ],
+        [
+          "",
+          "Candida spp.",
+          "",
+          "",
+          "• Candida spp. and mucormycetes associated with immunosuppression/trauma."
+        ],
+        [
+          "",
+          "Mucormycetes",
+          "",
+          "",
+          ""
+        ],
+        [
+          "ACUTE RHEUMATIC FEVER Primary",
+          "S. aureus",
+          "",
+          "",
+          "• S. aureus is usually monoarticular. Associated with sepsis and moderate-to-severe toxicity if multifocal. Effusions are purulent and usually (but not always) culture-positive."
+        ],
+        [
+          "",
+          "Post-streptococcal reactive arthritis (PSRA)",
+          "",
+          "",
+          "• PSRA associated with small joints and absence of other clinical features of acute rheumatic fever or a propensity to rheumatic heart disease. A diagnosis of PSRA should rarely be made in populations with a high incidence of acute rheumatic fever, and all cases should be given at least 12 months of penicillin prophylaxis before re-evaluation."
+        ],
+        [
+          "Secondary",
+          "N. gonorrhoeae",
+          "",
+          "",
+          "• N. gonorrhoeae may be multi-focal and migratory and must be considered if sexually active. Associated with cutaneous lesions in disseminated disease. Culture of joint fluid is frequently negative."
+        ],
+        [
+          "",
+          "Juvenile idiopathic arthritis (JIA)",
+          "",
+          "",
+          "• JIA, previously juvenile rheumatoid arthritis, is usually symmetric, non-migratory, and has a more gradual onset. Other features (e.g., iritis and serositis) may be present."
+        ],
+        [
+          "",
+          "Transient synovitis",
+          "",
+          "",
+          "• Transient synovitis more frequently occurs in younger children, affects the hips, is self-resolving, and less associated with raised inflammatory markers and fever."
+        ],
+        [
+          "",
+          "Infective endocarditis",
+          "",
+          "",
+          "• SLE associated with raised antinuclear antibodies (ANA) and double-stranded DNA (dsDNA) autoantibodies."
+        ],
+        [
+          "Other",
+          "Systemic lupus erythematosus (SLE)",
+          "",
+          "",
+          "• Reactive arthritis is associated with rash of palms and soles, conjunctivitis, and urethritis."
+        ],
+        [
+          "",
+          "Reactive arthritis",
+          "",
+          "",
+          "• Infective endocarditis is diagnosed based on the modified Duke criteria."
+        ],
+        [
+          "ACUTE POST-STREPTOCOCCAL GLOMERULONEPHRITIS Primary",
+          "SLE",
+          "",
+          "",
+          "• Post-streptococcal glomerulonephritis distinguished by complement profile (low C3, low CH50, normal C4) and raised streptococcal serology titers, although these may be coincidentally raised in non-post-streptococcal glomerulonephritis. Anti-streptolysin O titer (ASOT) may be normal if post-streptococcal glomerulonephritis secondary to impetigo."
+        ],
+        [
+          "",
+          "IgA nephropathy",
+          "",
+          "",
+          "• SLE, MPGN, and glomerulonephritis of chronic disease are also associated with low C3, which resolves slowly if untreated over 8 weeks or more."
+        ],
+        [
+          "",
+          "Membranoproliferative glomerulonephritis (MPGN)",
+          "",
+          "",
+          "• SLE is associated with depressed C4 and other manifestations (e.g., arthritis and/or iritis), positive ANA and dsDNA autoantibodies."
+        ],
+        [
+          "",
+          "Rapidly progressive glomerulonephritis",
+          "",
+          "",
+          "• MPGN presents with proteinuria, hematuria, and pyuria. Patients also have increased risk of chronic kidney disease (CKD)."
+        ],
+        [
+          "Secondary",
+          "Benign familial hematuria",
+          "",
+          "",
+          "• Glomerulonephritis of chronic disease is associated with endocarditis, chronic hepatitis B or C, syphilis, and malaria. Distinguished from post-streptococcal glomerulonephritis by other features (e.g., fever, positive blood cultures, hepatitis, etc.)."
+        ],
+        [
+          "",
+          "Henoch-Schönlein purpura",
+          "",
+          "",
+          "• Rapidly progressive glomerulonephritis is associated with progression to end-stage renal failure. Occasionally secondary to post-streptococcal glomerulonephritis but may be secondary to SLE (ANA positive) or Wegener's granulomatosis (anti-neutrophil cytoplasmic antibody [ANCA] positive)."
+        ],
+        [
+          "",
+          "Sickle cell nephropathy",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Subacute endocarditis",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Other",
+          "Hemolytic-uremic syndrome",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Trauma",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Congenital anomalies",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Tumor",
+          "",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "title": "American Heart Association—2015 Revised Jones Criteria for the Diagnosis of Acute Rheumatic Fever in the Era of Doppler Echocardiography",
+      "headers": [
+        "MAJOR MANIFESTATIONS*",
+        "Low Risk^",
+        "Moderate/High Risk^"
+      ],
+      "rows": [
+        [
+          "Carditis—Clinical and/or subclinical‡",
+          "Carditis—Clinical and/or subclinical‡",
+          "Carditis—Clinical and/or subclinical‡"
+        ],
+        [
+          "Arthritis—Polyarthritis only",
+          "Arthritis—Polyarthritis only",
+          "Arthritis—Polyarthritis or polyarthralgia†"
+        ],
+        [
+          "Chorea",
+          "Chorea",
+          "Chorea"
+        ],
+        [
+          "Erythema marginatum",
+          "Erythema marginatum",
+          "Erythema marginatum"
+        ],
+        [
+          "Subcutaneous nodules",
+          "Subcutaneous nodules",
+          "Subcutaneous nodules"
+        ]
+      ]
+    },
+    {
+      "title": "American Heart Association—2015 Revised Jones Criteria for the Diagnosis of Acute Rheumatic Fever in the Era of Doppler Echocardiography",
+      "headers": [
+        "MINOR MANIFESTATIONS",
+        "Low Risk^",
+        "Moderate/High Risk^"
+      ],
+      "rows": [
+        [
+          "Polyarthralgia",
+          "Polyarthralgia",
+          "Monoarthralgia"
+        ],
+        [
+          "Fever >38.0°C",
+          "Fever >38.0°C",
+          "Fever >38.5°C"
+        ],
+        [
+          "ESR >30 mm/h and/or CRP >3.0 mg/L§",
+          "ESR >30 mm/h and/or CRP >3.0 mg/L§",
+          "ESR >60 mm/h and/or CRP 3.0 mg/L§"
+        ],
+        [
+          "Prolonged PR interval",
+          "Prolonged PR interval",
+          "Prolonged PR interval"
+        ]
+      ]
+    },
+    {
+      "title": "American Heart Association—2015 Revised Jones Criteria for the Diagnosis of Acute Rheumatic Fever in the Era of Doppler Echocardiography",
+      "headers": [
+        "DIAGNOSIS",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "Primary episode of acute rheumatic fever",
+          "Evidence of antecedent GAS infection†† and:• Two major manifestations or• One major and two minor manifestations or• Three minor manifestations and serologic evidence of GAS infection",
+          "Evidence of antecedent GAS infection†† and:• Two major manifestations or• One major and two minor manifestations or• Three minor manifestations"
+        ],
+        [
+          "Recurrent attack of acute rheumatic fever with or without evidence of RHD",
+          "Evidence of antecedent GAS infection†† and:• Two major manifestations or• One major and two minor manifestations or• Three minor manifestations",
+          "Evidence of antecedent GAS infection†† and:• Two major manifestations or• One major and two minor manifestations or• Three minor manifestations"
+        ],
+        [
+          "Possible ARF",
+          "High clinical suspicion in high-risk groups, although does not fulfill strict Jones criteria; refer to guidelines",
+          "High clinical suspicion in high-risk groups, although does not fulfill strict Jones criteria; refer to guidelines"
+        ]
+      ]
+    },
+    {
+      "title": "Antibiotic Treatment Guidelines for Selected GAS Infections",
+      "headers": [
+        "Rationale",
+        "Medication",
+        "Evidence*",
+        "Dose",
+        "Comments"
+      ],
+      "rows": [
+        [
+          "GROUP A STREPTOCOCCUS PHARYNGITIS • Prevention of ARF in moderate- to high-risk patients",
+          "Oral phenoxymethylpenicillin (penicillin V)",
+          "1",
+          "15 mg/kg up to 500 mg q12h for 10 days",
+          "Treatment may be primarily for symptom relief unless high risk of sequelae"
+        ],
+        [
+          "• Prevention of suppurative complications",
+          "IM benzathine penicillin G",
+          "1",
+          "<27 kg: 0.6 MIU once >27 kg: 1.2 MIU once",
+          "Preferred where risk of rheumatic fever is moderate/high and adherence to oral therapy not assured"
+        ],
+        [
+          "• Alleviation of symptoms",
+          "Cephalexin",
+          "1",
+          "20 mg/kg up to 500 mg q12h for 10 days",
+          "Hypersensitivity to penicillin (excluding immediate hypersensitivity)"
+        ],
+        [
+          "• Prevent secondary cases",
+          "Oral azithromycin†",
+          "1",
+          "12 mg/kg up to 500 mg daily for 5 days",
+          "If immediate hypersensitivity to penicillin"
+        ],
+        [
+          "IMPETIGO • Alleviate symptoms",
+          "Trimethoprim + sulfamethoxazole",
+          "1",
+          "4 + 20 mg/kg up to 160 mg + 800 mg q12h for 5 days",
+          "Alternative to BPG, also active against MRSA; use if allergy to penicillin"
+        ],
+        [
+          "• Prevent secondary cases",
+          "IM benzathine penicillin G",
+          "1",
+          "3–6 kg: 0.3 MIU once 6–10 kg: 0.45 MIU once 10–15 kg: 0.6 MIU once 15–20 kg: 0.9 MIU once >20 kg: 1.2 MIU once",
+          "Preferred in endemic settings where risk of APSGN is high and/or adherence to oral therapy not assured; exclude S. aureus infection if refractory to treatment"
+        ],
+        [
+          "• Possibly prevent invasive complications",
+          "Oral di/flucloxacillin",
+          "1",
+          "12.5 mg/kg up to 500 mg q6h for 10 days",
+          "First-line treatment if multiple lesions and S. aureus is likely"
+        ],
+        [
+          "• Treat scabies co-infection if present",
+          "Topical mupirocin 2% ointment",
+          "1",
+          "q8h for 7 days",
+          "For mild disease, not proven in high-endemic settings. Use saline, soap and water, or 0.1% potassium permanganate to remove crusts before applying. S. aureus may be or readily acquire resistance to topical antibiotics."
+        ],
+        [
+          "ERYSIPELAS AND CELLULITIS: MILD/EARLY • Alleviate symptoms",
+          "Oral di/flucloxacillin",
+          "1",
+          "12.5 mg/kg up to 500 mg q6h for 5–10 days",
+          "Switch to IV therapy if failure to respond and consider resistant pathogens (e.g., MRSA)"
+        ],
+        [
+          "• Prevent progression",
+          "Oral phenoxymethylpenicillin (penicillin V)",
+          "2",
+          "12.5 mg/kg up to 500 mg q6h for 5–10 days",
+          "If S. aureus is unlikely (e.g., early erysipelas or perianal cellulitis) or if GAS confirmed on culture; exclude S. aureus infection if refractory to treatment"
+        ],
+        [
+          "• Prevent complications",
+          "Oral cephalexin",
+          "1",
+          "12.5 mg/kg up to 500 mg q6h for 5–10 days",
+          "If non-immediate type hypersensitivity to penicillin"
+        ],
+        [
+          "",
+          "Oral clindamycin",
+          "1",
+          "10 mg/kg up to 450 mg q8h for 5–10 days",
+          "If immediate type hypersensitivity to penicillin or infection with clindamycin-sensitive MRSA likely"
+        ],
+        [
+          "ERYSIPELAS AND CELLULITIS: MODERATE TO SEVERE (POOR RESPONSE TO ORAL THERAPY OR SYSTEMIC FEATURES) • Alleviate symptoms",
+          "IV di/flucloxacillin",
+          "1",
+          "50 mg/kg up to 2 g q6h",
+          "Preferred treatment unless MRSA is likely"
+        ],
+        [
+          "• Prevent complications",
+          "IV cephazolin",
+          "2",
+          "50 mg/kg up to 2 g q8h",
+          "If non-immediate type hypersensitivity to penicillin"
+        ],
+        [
+          "",
+          "IV/oral clindamycin",
+          "1",
+          "15 mg/kg up to 600 mg q8h",
+          "If immediate type hypersensitivity to penicillin or infection with clindamycin-sensitive MRSA likely; oral bioavailability of clindamycin is high except in infants"
+        ],
+        [
+          "",
+          "IV vancomycin",
+          "1",
+          "25 mg/kg (<2 yr use 30 mg/kg) up to 1.5 g q12h",
+          "If infection with clindamycin-resistant MRSA likely; adjust dose on basis of trough blood levels"
+        ],
+        [
+          "NECROTIZING FASCIITIS/STREPTOCOCCAL TOXIC SHOCK SYNDROMES • Prevent death",
+          "IV meropenem",
+          "2",
+          "25 mg/kg up to 1 g q8h",
+          "Broad-spectrum cover is recommended in addition to surgical debridement until group A Streptococcus infection is confirmed; thereafter penicillin + clindamycin is recommended"
+        ],
+        [
+          "• Prevent complications",
+          "+ IV clindamycin until stabilized",
+          "1",
+          "15 mg/kg up to 600 mg q8h",
+          "Use as an adjunct to meropenem or penicillin if GAS infection is suspected or confirmed"
+        ],
+        [
+          "• Alleviate symptoms",
+          "+ IV vancomycin",
+          "2",
+          "25 mg/kg (<12 yr use 30 mg/kg) up to 1.5 g q12h",
+          "If infection with MRSA is suspected; adjust dose on basis of trough blood levels"
+        ],
+        [
+          "• Minimize disfigurement",
+          "+ intravenous immunoglobulin (IVIG)",
+          "2",
+          "1 g/kg as an immediate infusion, repeat on days 2 + 3 at 0.5 g/kg or 2 g/kg as a single dose",
+          "Adjunct to penicillin and clindamycin therapy ± debridement as recommended earlier for necrotizing fasciitis; dosage recommendations vary; see expert advice"
+        ],
+        [
+          "",
+          "IV benzylpenicillin",
+          "2",
+          "50 mg/kg up to 1.8 g q4h",
+          "If GAS infection is confirmed"
+        ],
+        [
+          "",
+          "IV cephazolin",
+          "5",
+          "50 mg/kg up to 2 g q8h",
+          "If GAS confirmed and non-immediate type hypersensitivity to penicillin; if there is a history of immediate-type hypersensitivity to ẞ-lactams, seek expert advice"
+        ],
+        [
+          "ACUTE RHEUMATIC FEVER: TREATMENT • Alleviate symptoms",
+          "Aspirin",
+          "1",
+          "50–100 mg/kg/day (up to 4–8 g/day) in 4–5 divided doses",
+          "For the control of pain of acute rheumatic fever arthritis; duration dependent on clinical response"
+        ],
+        [
+          "• Prevent death from acute cardiac failure",
+          "Naproxen",
+          "1",
+          "10–20 mg/kg/day in 2 divided doses (max 1250 mg/day)",
+          "For the control of pain of acute rheumatic fever arthritis; duration dependent on clinical response"
+        ],
+        [
+          "",
+          "IM benzathine penicillin G (BPG)",
+          "5",
+          "<20 kg: 0.6 MIU as a single dose ≥20 kg: 1.2 MIU as a single dose",
+          "Preferred where adherence to oral therapy not assured; treatment should focus on pain relief with salicylates and management of cardiac failure"
+        ],
+        [
+          "",
+          "Oral phenoxymethylpenicillin (penicillin V)",
+          "5",
+          "250 mg q12h for 10 days",
+          "An acceptable alternative to BPG if adherence can be assured (e.g., in hospital)"
+        ],
+        [
+          "",
+          "Oral prednisolone",
+          "5",
+          "1–2 mg/kg/day (up to 80 mg/day)",
+          "Not routinely recommended for carditis, but may be considered for severe carditis if surgery is not an option; some evidence of benefit in refractory chorea"
+        ],
+        [
+          "",
+          "Carbamazepine",
+          "3",
+          "7–10 mg/kg/day in 3 divided doses",
+          "Not routinely recommended for management of chorea, but may be considered in severe cases"
+        ],
+        [
+          "ACUTE RHEUMATIC FEVER: PROPHYLAXIS • Prevent further episodes of ARF",
+          "IM benzathine penicillin G",
+          "1",
+          "<20 kg: 0.6 MIU ≥20 kg: 1.2 MIU every 3–4 weekly",
+          "Preferred regimen; Four-weekly injections should be continued for at least 10 yr and patient at least 21 years old; established valve disease may necessitate longer duration. Refer to local guidelines"
+        ],
+        [
+          "• Prevent progressive carditis",
+          "Oral phenoxymethylpenicillin (penicillin V)",
+          "1",
+          "250 mg q12h",
+          "Associated with inferior adherence; only where IM injections are refused or risk of progressive carditis very low"
+        ],
+        [
+          "",
+          "Oral erythromycin",
+          "5",
+          "250 mg q12h",
+          "If hypersensitive to penicillin; dose for erythromycin ethyl succinate is 400 mg q12h"
+        ]
+      ]
+    }
+  ],
+  "figures": [],
+  "references": []
+}

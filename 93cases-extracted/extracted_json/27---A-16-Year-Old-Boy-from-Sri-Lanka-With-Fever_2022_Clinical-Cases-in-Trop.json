@@ -1,0 +1,86 @@
+{
+  "patient_information": "A 16-year-old Sri Lankan boy.",
+  "chief_complaint": "Fever, frontal headache, severe body aches for 2 days, two to three episodes of vomiting, and no urine output for the previous 12 hours.",
+  "history_of_present_illness": "A 16-year-old Sri Lankan boy presented to a local hospital with fever, frontal headache, and severe body aches for 2 days; he had vomited two to three times during the illness and had not passed any urine for the previous 12 hours. He did not have a cough, coryza, or shortness of breath and had been attending school until his illness.",
+  "exposure_and_epidemiology": "He had been fishing in an urban water stream 5 days before falling ill.",
+  "vitals": "Temperature is 38.3°C (100.9°F), pulse rate is 100 bpm (low in volume), and blood pressure is 90/60 mmHg.",
+  "physical_exam": "The boy appeared ill and drowsy, was jaundiced with subconjunctival haemorrhages, had severe muscle tenderness mainly involving the abdominal wall and calves, no neck stiffness or lymphadenopathy. Cardiac apex was not shifted, heart sounds were clear, lungs were normal, liver was palpable 4 cm below the right costal margin and tender, spleen was not palpable, and there was mild bilateral renal angle tenderness with normal neurological examination.",
+  "labs_and_diagnostics": "Laboratory findings included WBC 5.7 (\\u00d710^9/L), Haemoglobin 14.8 (g/dL), Platelets 96 (\\u00d710^9/L), AST 64 (IU/L), ALT 58 (IU/L), ALP 246 (IU/L), Serum bilirubin total 77 (\\u00b5mol/L), Serum bilirubin direct 54.7 (\\u00b5mol/L), Blood urea nitrogen 20.7 (\\u00b5mol/L), Serum creatinine 212.2 (\\u00b5mol/L), and C-reactive protein 48 (mg/L). Urine microscopy showed 20 red blood cells per high-power field, proteins '+' and granular casts '+', a chest radiograph was normal, and an ECG showed sinus tachycardia.",
+  "differential_diagnosis": "Leptospirosis, Scrub typhus, Hantavirus infection, and Dengue haemorrhagic fever (DHF).",
+  "management_and_clinical_course": "Severe leptospirosis was suspected, and the patient was started on empirical benzylpenicillin; he developed acute renal failure requiring haemodialysis and also developed myocarditis and atrial fibrillation, but recovered over 10 days with intensive care management.",
+  "final_diagnosis": "Leptospirosis.",
+  "disease_name_short": "Leptospirosis",
+  "tables": [
+    {
+      "title": "Laboratory Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "WBC (\\u00d710^9/L) (neutrophils: lymphocytes)",
+          "5.7 (68%: 31%)",
+          "4-10"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "14.8",
+          "12-16"
+        ],
+        [
+          "Platelets (\\u00d710^9/L)",
+          "96",
+          "150-350"
+        ],
+        [
+          "AST (IU/L)",
+          "64",
+          "13-33"
+        ],
+        [
+          "ALT (IU/L)",
+          "58",
+          "3-25"
+        ],
+        [
+          "ALP (IU/L)",
+          "246",
+          "40-130"
+        ],
+        [
+          "Serum bilirubin total (\\u00b5mol/L)",
+          "77",
+          "13.7-30.8"
+        ],
+        [
+          "Serum bilirubin direct (\\u00b5mol/L)",
+          "54.7",
+          "<5"
+        ],
+        [
+          "Blood urea nitrogen (\\u00b5mol/L)",
+          "20.7",
+          "2.5-6.4"
+        ],
+        [
+          "Serum creatinine (\\u00b5mol/L)",
+          "212.2",
+          "71-106"
+        ],
+        [
+          "C-reactive protein (mg/L)",
+          "48",
+          "<5"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "extracted_images/27---A-16-Year-Old-Boy-from-Sri-Lanka-With-Fever_2022_Clinical-Cases-in-Trop/page1_img1.jpeg",
+      "caption": "Jaundice and subconjunctival haemorrhages"
+    }
+  ]
+}

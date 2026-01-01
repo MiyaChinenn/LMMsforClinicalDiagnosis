@@ -1,0 +1,15 @@
+{
+  "patient_information": "A 28-year-old woman from Sierra Leone.",
+  "chief_complaint": "6-day history of fever, weakness, sore throat, and retrosternal chest pain.",
+  "history_of_present_illness": "She had loose stools for 2 days, was given artemether with amodiaquine and amoxicillin, but worsened. Initial examination showed mild pharyngitis. She was treated with IV ceftriaxone and antimalarials, but continued to worsen, with a negative malaria slide. On the second day after admission, she developed conjunctivitis, became very unwell, unable to walk unaided, and developed a cough and breathlessness.",
+  "exposure_and_epidemiology": "The patient is from a small rural hospital in eastern Sierra Leone, an area where Lassa fever is common, accounting for 16-20% of hospital admissions.",
+  "vitals": "Axillary temperature 38.2°C (100.8°F), blood pressure 80/55 mmHg, pulse rate 100 bpm.",
+  "physical_exam": "Initially, her examination was unremarkable except for some mild pharyngitis. Later, she had bilateral fine crepitations on chest auscultation, developed conjunctivitis, and was very unwell and unable to walk unaided.",
+  "labs_and_diagnostics": "Her chest radiograph revealed diffuse bilateral infiltrates. Blood chemistry showed mild renal impairment and raised transaminases (aspartate transaminase (AST/GOT) 514 U/L, normal <50 U/L). Her malaria slide was negative. Lassa fever was confirmed with antigen testing.",
+  "differential_diagnosis": "Adenovirus infections, measles, Mycoplasma pneumoniae, other forms of pneumonia, leptospirosis, typhoid, and Lassa fever.",
+  "management_and_clinical_course": "On arrival, she was treated with IV ceftriaxone and completed antimalarial medications, but continued to worsen. The patient was isolated and received IV ribavirin in a specialist isolation unit after Lassa fever was confirmed. She died 2 days later due to her very unwell state.",
+  "final_diagnosis": "Lassa fever",
+  "disease_name_short": "Lassa Fever",
+  "tables": [],
+  "images": []
+}

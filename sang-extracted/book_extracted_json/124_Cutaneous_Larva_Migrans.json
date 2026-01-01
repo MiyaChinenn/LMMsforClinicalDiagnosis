@@ -1,0 +1,61 @@
+{
+  "chapter_title": "Cutaneous Larva Migrans",
+  "disease_name": "Cutaneous Larva Migrans",
+  "section_summaries": {
+    "epidemiology": "Dog and cat hookworms occur throughout the world, although species like A. braziliense have specific warmer climatic ranges, found in the Americas, Africa, Australia, and Southeast Asia. CLM is most frequently reported among travelers to tropical or near-tropical areas, associated with unprotected skin exposure among tourists and younger age groups where dogs and cats are free-ranging and hookworm infection rates are high. Lesions are commonly found on areas of the body that contact soil, such as feet, buttocks, and thighs. In a rural Brazilian population, the prevalence of CLM was 14.9% among children younger than 5 years old and 0.7% among adults 20 years and older during the rainy season.",
+    "pathogenesis": "Cutaneous larva migrans (CLM) is caused by the migration of animal nematode larvae, primarily Ancylostoma braziliense, in the epidermis. Hookworm eggs are shed in animal feces, developing into infective filariform larvae in soil. When human skin contacts contaminated soil or sand, larvae attempt to penetrate the skin. Larvae of most animal hookworm species, including A. braziliense, cannot penetrate beyond the dermis and migrate in the epidermis for several weeks before dying and lesions resolving spontaneously. A. caninum and A. ceylanicum larvae can penetrate deeper, potentially causing eosinophilic enteritis or, rarely, eosinophilic pneumonitis. Allergic reactions can occur in multiply exposed individuals.",
+    "clinical_manifestations": "Signs and symptoms typically appear within a few days to several months after larval skin penetration, with a median onset of 10-15 days. The first symptom is intense pruritus, followed by a raised, erythematous, serpiginous track (creeping eruption) near the penetration site. Tracks are typically about 3 mm wide, up to 20 mm long, and can move several millimeters per day. Multiple tracks can occur in more intense infections. Vesiculobullous lesions and edema may accompany the track; folliculitis is uncommon. Eosinophilia is not consistently present but is more likely with deeper larval penetration or greater inflammatory reaction.",
+    "diagnosis": "CLM is a clinical diagnosis based on the presence of characteristic pruritus and an erythematous, moving track in the dermis, coupled with a history of skin exposure to contaminated soil or sand in endemic areas. Serologic testing to confirm infection is not widely available, and skin biopsy is not useful as the larva's location cannot be predicted by the visible track. Differential diagnoses include other parasitic infections such as human hookworm, gnathostomiasis, strongyloidiasis, dirofilariasis, and non-infectious conditions such as cutaneous pili migrans, myiasis, and scabies.",
+    "treatment": "Although CLM is self-limiting, with larvae dying after 5-6 weeks, treatment with albendazole or ivermectin can shorten clinical disease duration. Cryotherapy is not recommended. Topical anti-helminthics are effective but require repeated applications over large areas. Oral albendazole (400 mg/day for 3-7 days) or ivermectin (200 µg/kg single dose) eliminates symptoms and kills larvae. For severe folliculitis, additional doses may be necessary. In children over 15 kg, a single 200 µg/kg oral dose of ivermectin is effective. Children under 2 years should receive albendazole 200 mg orally for 3 days. Topical preparations of either drug are also suggested for children.",
+    "prevention": "CLM can be prevented by avoiding contact with potentially contaminated soil or sand, such as by wearing shoes or using protective mats when at the beach. Regular deworming of cats and dogs and prompt disposal of animal waste help to control sources of infective larvae."
+  },
+  "tables": [
+    {
+      "title": "Epidemiology and Clinical Characteristics of Parasites Associated With Cutaneous Disease Including Cutaneous Larva Migrans",
+      "headers": [
+        "Host Species",
+        "Geographic Distribution",
+        "Clinical Characteristics"
+      ],
+      "rows": [
+        [
+          "Cat, dog",
+          "Atlantic coast of SE United States, Caribbean, South America south to Uruguay; Africa; Australia; Asia",
+          "Linear tracks, which are often raised and pruritic; moves 1-2 cm/day; may persist up to 3 months."
+        ],
+        [
+          "Dog",
+          "Tropical to temperate climates worldwide",
+          "Linear tracks are rare, more often associated with folliculitis; occasional myositis or eosinophilic enteritis; persists up to 1 month."
+        ],
+        [
+          "Cat, dog",
+          "Colder climates of North America, South America, Europe, Asia, Australia, and New Zealand",
+          "Relationship with cutaneous larva migrans is unclear; may cause transient linear tracks."
+        ],
+        [
+          "Human",
+          "Tropical to temperate climates worldwide",
+          "Transient papular rash at sites of penetration, usually lasts less than 1 week. Urticarial rash can develop as larvae migrate in lungs."
+        ],
+        [
+          "Cat, dog",
+          "Asia and South Asia, especially Thailand and Japan; Central America and Mexico; Africa",
+          "Intermittent pruritic, erythematous, and painful swellings in subcutaneous tissues; lesions last 1-2 weeks but infection can persist for years."
+        ],
+        [
+          "Human",
+          "Tropical to temperate climates worldwide",
+          "Urticarial rashes, less commonly transient linear tracks with pruritus; lesions perianal with auto-infection; migrate several cm/day; lesions resolve within 7-14 days."
+        ],
+        [
+          "Dog, canids",
+          "Europe, Central Asia, South Asia",
+          "Subcutaneous nodules, rare report of creeping eruption."
+        ]
+      ]
+    }
+  ],
+  "figures": [],
+  "references": []
+}

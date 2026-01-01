@@ -1,0 +1,65 @@
+{
+  "patient_information": "A 46-year-old Thai woman, 158cm, 65kg (BMI 26kg/m²).",
+  "chief_complaint": "2-month history of recurrent cutaneous and subcutaneous abscesses, progressive lymphadenopathy and weight loss.",
+  "history_of_present_illness": "A 46-year-old Thai woman presented with a 2-month history of recurrent cutaneous and subcutaneous abscesses, progressive lymphadenopathy, and weight loss, which had deteriorated despite various antibiotic therapies, leading to hospital admission; pus and blood cultures yielded no growth, and a lymph node biopsy showed non-specific lymphadenitis.",
+  "exposure_and_epidemiology": "Symptoms started 6 to 8 weeks after her return from a family visit to northern Thailand, during which she experienced high fever, dry cough, and fatigue.",
+  "vitals": "Afebrile, blood pressure 130/80 mmHg, pulse 80bpm.",
+  "physical_exam": "Enlarged, tender cervical, nuchal, inguinal, and axillary lymph nodes; massive, tender swelling of the upper eyelids; disseminated fluctuant cutaneous and subcutaneous abscesses with surrounding erythema, discharging pus on slight pressure; painful swelling of the left elbow; otherwise normal physical examination.",
+  "labs_and_diagnostics": "Laboratory results on admission showed elevated WCC (30.8 x 10^9/L), low haemoglobin (8.2 g/dL), high platelets (592 x 10^9/L), high CRP (267 mg/L), and high ESR (>110 mm/h); a radiograph of the left elbow showed osteolytic lesions of the radial epicondylus, osteomyelitis and articular effusion.",
+  "differential_diagnosis": "Important differential diagnoses include fungal infections (e.g., histoplasmosis), mycobacterial infections, bacterial infections with special requirements for cultivation (e.g., Burkholderia pseudomallei, Brucella species, Francisella tularensis, Actinomyces species), underlying immunodeficiency (e.g., HIV, diabetes mellitus), and rare autoimmune syndromes (e.g., idiopathic nodular panniculitis, aseptic abscesses syndrome).",
+  "management_and_clinical_course": "Initially treated for suspected melioidosis with imipenem, leading to slight improvement in skin manifestations but persistently elevated inflammation markers. Fungal cells identified as Histoplasma capsulatum by PCR and later culture from a submandibular lymph node biopsy, with serology remaining negative. Patient received liposomal amphotericin B (3 mg/kg per day, total dose 3 g); developed a generalized seizure with lymphocytic pleocytosis in CSF, indicating cerebral histoplasmosis. Clinical state and laboratory findings dramatically improved, followed by itraconazole maintenance therapy for 6 months. No immunosuppression was found; follow-up showed fair general condition, post-inflammatory hyperpigmentation at former abscess sites, resolved lymphadenopathy, and partly recalcified osteolytic lesions.",
+  "final_diagnosis": "Disseminated Histoplasmosis",
+  "disease_name_short": "Histoplasmosis",
+  "tables": [
+    {
+      "title": "Laboratory Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "WCC (× 10^9/L)",
+          "30.8",
+          "3.8-11"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "8.2",
+          "12.3-15.3"
+        ],
+        [
+          "MCV (fL)",
+          "88",
+          "80-94"
+        ],
+        [
+          "Platelets (x 10^9/L)",
+          "592",
+          "150-400"
+        ],
+        [
+          "CRP (mg/L)",
+          "267",
+          "<5"
+        ],
+        [
+          "ESR (mm/h)",
+          ">110",
+          "<20"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "extracted_images/61---A-48-Year-Old-Woman-from-Thailand-With-Fever-_2022_Clinical-Cases-in-Tr/page1_img1.jpeg",
+      "caption": "Subcutaneous abscess on the left forearm."
+    },
+    {
+      "file_name": "extracted_images/61---A-48-Year-Old-Woman-from-Thailand-With-Fever-_2022_Clinical-Cases-in-Tr/page2_img1.jpeg",
+      "caption": "Radiograph of the left elbow, showing osteolytic lesions of the radial epicondylus, osteomyelitis and articular effusion."
+    }
+  ]
+}

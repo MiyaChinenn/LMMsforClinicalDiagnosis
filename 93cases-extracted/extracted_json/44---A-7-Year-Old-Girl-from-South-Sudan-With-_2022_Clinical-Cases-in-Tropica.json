@@ -1,0 +1,46 @@
+{
+  "patient_information": "A 7-year-old girl is presented at a clinic in South Sudan.",
+  "chief_complaint": "A 4-week history of undulating fever.",
+  "history_of_present_illness": "The fever occurs mainly in the afternoon hours accompanied by chills and sometimes convulsions. Between the febrile episodes she was initially fine and played normally, but over time she developed progressive anorexia, dry cough, chest pain, joint and back pain. She had previously received some unspecified tablets at another clinic that did not bring any improvement.",
+  "exposure_and_epidemiology": "The patient's family came from an area where visceral leishmaniasis was known; her uncle had been treated for VL before, and her sister had recently been treated for TB.",
+  "vitals": "Temperature 39.6°C (103.3°F), pulse 96bpm, blood pressure 100/60 mmHg.",
+  "physical_exam": "The girl is alert and pale, but not jaundiced, and is severely malnourished (Z-score <3). Her chest sounds clear, heart sounds normal, and a soft abdomen with a splenomegaly of 4 cm below the left costal margin. Multiple enlarged lymph nodes of about 1 cm are present in the cervical, axillary, inguinal and epitrochlear region. There are no skin lesions or peripheral oedema.",
+  "labs_and_diagnostics": "Plasmodium falciparum rapid diagnostic test (RDT) and a blood film for malaria parasites were negative. Brucella species serology (IgG and IgM) was negative. Visceral leishmaniasis rK39-antibody RDT was negative. Full blood count showed WBC 1.35 × 10^9/L, Haemoglobin 6.8 g/dL, and Platelets 98 × 10^9/L. The Direct Agglutination Test (DAT) came back positive with a high titre (≥1:6.400).",
+  "differential_diagnosis": "Visceral leishmaniasis, brucellosis, tuberculosis, HIV infection, malaria, hyperreactive malarial splenomegaly syndrome (HMS), typhoid fever, splenic abscess, chronic schistosomiasis, leukaemia, and lymphoma.",
+  "management_and_clinical_course": "The patient was started on liposomal amphotericin B and a broad-spectrum antibiotic (ceftriaxone), and received nutritional support with high-energy/high-protein ready-to-use therapeutic food (RUTF) and vitamin/mineral supplementation. After 5 days, the fever settled and the patient started to recover; two weeks later the girl had gained some weight and was again able to walk and play.",
+  "final_diagnosis": "Visceral Leishmaniasis.",
+  "disease_name_short": "Visceral Leishmaniasis (Kala-Azar)",
+  "tables": [
+    {
+      "title": "Laboratory Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "WBC (×10^9/L)",
+          "1.35",
+          "4-10"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "6.8",
+          "12-16"
+        ],
+        [
+          "Platelets (×10^9/L)",
+          "98",
+          "150-300"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "extracted_images/44---A-7-Year-Old-Girl-from-South-Sudan-With-_2022_Clinical-Cases-in-Tropica/page2_img1.jpeg",
+      "caption": "A child is receiving liposomal amphotericin B on a paediatric ward in South Sudan."
+    }
+  ]
+}

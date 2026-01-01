@@ -1,0 +1,1342 @@
+{
+  "chapter_title": "43 Tuberculosis",
+  "disease_name": "Tuberculosis",
+  "section_summaries": {
+    "epidemiology": "Tuberculosis (TB) is the leading infectious cause of death among adults and the primary killer of people with HIV, largely affecting low- to middle-income countries. About 2 billion people, or one-third of the world's population, have Mycobacterium tuberculosis infection. In 2016, 6.34 million new TB cases were reported globally, with Southeast Asia (42%), Western Pacific (26%), and sub-Saharan Africa (20%) being high-burden regions. High incidence rates are often linked to TB/HIV co-infection, with approximately 75% of HIV co-infected TB patients living in sub-Saharan Africa. The rise in multi-drug-resistant TB (MDR-TB, resistance to at least isoniazid and rifampin) and rifampin-resistant TB is a concerning trend, associated with lower cure rates. Extensively drug-resistant tuberculosis (XDR-TB) is also reported, though its epidemiology is underestimated due to limited testing access. Roughly 1 million children develop TB annually, often under-diagnosed and under-treated. Infants and young children are at higher risk of severe disease, especially with immunodeficiency or malnutrition.",
+    "pathogenesis": "TB is an airborne pathogen, transmitted via aerosolized droplet nuclei (1–5 µm) from an infectious host. Bacilli-containing droplets remain airborne for hours to days and are small enough to be inhaled into the terminal alveoli. After inhalation, bacilli may extend via lung lymphatics to other areas of the lungs and to other organs throughout the body. Cellular immunity develops approximately 6 to 12 weeks later, leading to eradication of bacilli or granuloma formation at infection sites. This cellular immunity is the basis for the tuberculin skin test (TST) and prevents progression to symptomatic disease in most infected individuals who are considered to have latent infection. However, approximately 10% of infected individuals will develop active disease: in the acute setting (primary TB, within 1-2 years of infection) or as reactivation TB (more than 2 years after infection), which occurs in approximately 5% to 10% of infected individuals over their lifetime. HIV infection increases this risk to approximately 5% to 10% per year. Without anti-TB chemotherapy, approximately 50% of patients with active disease die within 5 years, 30% recover spontaneously, and 20% remain infectious.",
+    "clinical_manifestations": "The diverse clinical presentations of TB result from the bacilli's ability to infect virtually any organ. Approximately 70% to 90% of active cases involve the lung, while 10% to 30% are extra-pulmonary, with up to 15% having both. Extra-pulmonary involvement is more common in immunocompromised individuals (e.g., up to 70% of AIDS patients) and children. Active TB manifestations are often sub-acute or chronic, developing over weeks to months, and include constitutional symptoms like fever, night sweats, anorexia, and weight loss. Immunosuppressed individuals may present with attenuated or absent signs. Pulmonary TB commonly presents with lower lobe infiltrates and/or hilar adenopathy in primary TB. Reactivation TB typically involves upper lobe cavities, fibrosis, and mediastinal retraction. Cavitary lesions are often associated with hemoptysis. Extra-pulmonary TB includes tuberculous adenitis (most common, often cervical lymphadenopathy/scrofula), pleural tuberculosis (pleural effusions), Central Nervous System (CNS) TB (mass lesions or meningoencephalitis with neurological deficits, seizures, fever, headache, nuchal rigidity), osteoarticular TB (frequently involving the spine, Pott's disease, with chronic back pain, deformities, or arthritis), and other manifestations like gastrointestinal TB, genitourinary TB, cutaneous TB, pericarditis, larynx, adrenal glands, and eye involvement. Disseminated TB may show a miliary pattern on chest radiographs.",
+    "diagnosis": "Accurate TB diagnosis remains a serious challenge; smear-negative pulmonary TB and extra-pulmonary TB are predominantly clinical diagnoses. Confirmation is particularly difficult in immunocompromised individuals and children, often necessitating a clinical diagnosis and empiric treatment. Novel diagnostic methods include: Genotypic Testing, with Xpert MTB/RIF (GeneXpert) recommended as the primary diagnostic test for all persons with possible TB. It detects M. tuberculosis DNA and rifampin resistance, producing rapid results (2 hours). Other genotypic tests, like molecular line probe assays, identify TB and resistance to multiple drugs. Sputum Smear Microscopy is often available in resource-limited settings but is not recommended as the initial diagnostic test for TB due to its insensitivity, though it's useful for monitoring treatment. Tuberculosis Culture is considered the 'gold standard' but can miss cases and is slow (6-8 weeks for solid culture; 8-16 days for liquid media). Culture allows for Drug Susceptibility Tests (DST), crucial for designing regimens in MDR-TB areas. Radiography (chest x-ray) is commonly used, but findings can mimic other pulmonary diseases; atypical presentations (miliary, intra-thoracic adenopathy, pleural effusions) are common in HIV-positive patients, where chest radiographs may even be normal. CT and ultrasound are useful for suspected extra-pulmonary TB. For extra-pulmonary TB, relevant samples (pleural fluid, CSF, ascetic fluid, lymph node aspirate/biopsy, blood, urine) should be obtained for Xpert MTB/RIF and TB culture, despite often low bacillary loads. Tests for Tuberculosis Infection include Tuberculin Skin Test (TST) and interferon-gamma release assays (IGRA), but neither distinguishes latent from active infection. Pediatric TB diagnosis is challenging due to lower bacillary load, difficult specimen collection, and common extra-pulmonary disease, often requiring empirical treatment. Xpert MTB/RIF is recommended as the primary diagnostic test for children.",
+    "treatment": "Tuberculosis treatment requires combination therapy to avoid drug-resistant pathogens. Novel therapeutic agents and regimens are being tested and implemented, though access remains a challenge. Empiric TB treatment is often necessary for smear-negative or difficult-to-confirm TB, especially in clinically unstable or HIV-positive patients. For drug-susceptible TB, standard first-line (Category I) treatment involves an intensive phase with at least four anti-tuberculous drugs daily, followed by a continuation phase with fewer drugs. WHO guidelines emphasize daily treatment for 6 months, prompt initiation of antiretroviral therapy (ART) for HIV co-infection, use of fixed-dose combination tablets, and community-based adherence support. TB meningitis and osteoarticular TB require 12 months of treatment. Treatment response monitoring includes observing rapid improvement in constitutional symptoms and sputum conversion to negative. Failure to respond by the second month triggers re-evaluation for adherence issues or drug-resistant TB. Paradoxical worsening (immune reconstitution syndrome), especially in HIV-positive patients on ART, may be managed with corticosteroids. For drug-resistant TB (MDR-TB, XDR-TB), individuals with rifampin resistance should undergo drug resistance testing and be treated with all-oral regimens, typically including bedaquiline, linezolid, and a third-generation fluoroquinolone, plus clofazimine and cycloserine. Delamanid is an alternative. Injectable agents are generally discouraged. Adjunctive treatments include steroids for meningeal TB and paradoxical worsening, and surgery for localized disease or extensive soft tissue involvement in select cases. Patient adherence is crucial for successful outcomes, supported by education, incentives, case management, and nutritional supplementation.",
+    "prevention": "Prevention strategies for tuberculosis include treating latent TB infection to prevent progression to active disease. Standard preventive therapy is isoniazid 300 mg daily for 6-9 months, effective and not associated with resistance. A 12-week regimen of high-dose isoniazid and rifapentine once a week can also improve completion rates. For latent MDR-TB infection, fluoroquinolone-based therapy has shown efficacy, with experts recommending at least two drugs to which the infecting isolate is susceptible. In children, prevention focuses on rapid diagnosis of adult infection sources, prompt treatment of infected adults, and assessment of household contacts. For children with no active disease, TB infection treatment should be initiated. The Bacille Calmette-Guérin (BCG) vaccine, a live attenuated M. bovis vaccine, reduces severe forms of TB (meningitis, disseminated TB) in childhood and is given as a single dose after birth in high TB burden countries. However, its effectiveness decreases over time, and booster doses are not indicated. BCG is contraindicated in HIV-infected children due to the risk of disseminated disease."
+  },
+  "tables": [
+    {
+      "title": "Estimated Burden of Tuberculosis in 2015 Estimated epidemiological burden of TB in 2015 for 30 high TB burden countries, WHO regions and globally. Numbers in thousands.a",
+      "headers": [
+        "Population",
+        "HIV-Negative TB Mortality Best Estimate",
+        "HIV-Negative TB Mortality Uncertainty Interval",
+        "HIV-Positive TB Mortality Best Estimate",
+        "HIV-Positive TB Mortality Uncertainty Interval",
+        "Total TB Incidence Best Estimate",
+        "Total TB Incidence Uncertainty Interval",
+        "HIV-Positive TB Incidence Best Estimate",
+        "HIV-Positive TB Incidence Uncertainty Interval"
+      ],
+      "rows": [
+        [
+          "Angola",
+          "25000",
+          "11",
+          "6.6-17",
+          "7.2",
+          "1.6-17",
+          "93",
+          "60-132",
+          "28",
+          "17-41"
+        ],
+        [
+          "Bangladesh",
+          "161000",
+          "73",
+          "43-110",
+          "0.23",
+          "0.19-0.29",
+          "362",
+          "234-517",
+          "0.63",
+          "0.39-0.94"
+        ],
+        [
+          "Brazil",
+          "208000",
+          "5.5",
+          "5.2-5.9",
+          "2.2",
+          "1.2-3.6",
+          "84",
+          "72-97",
+          "13",
+          "11-15"
+        ],
+        [
+          "Cambodia",
+          "15600",
+          "8.6",
+          "6.1-12",
+          "0.44",
+          "0.19-0.79",
+          "59",
+          "38-85",
+          "1.4",
+          "0.92-2.1"
+        ],
+        [
+          "Central African Republic",
+          "4900",
+          "2.2",
+          "1.3-3.4",
+          "2.7",
+          "1.0-5.3",
+          "19",
+          "12-27",
+          "8.6",
+          "5.3-13"
+        ],
+        [
+          "China",
+          "1380000",
+          "35",
+          "34-37",
+          "2.6",
+          "1.2-4.5",
+          "918",
+          "788-1060",
+          "15",
+          "12-19"
+        ],
+        [
+          "Congo",
+          "4620",
+          "2.3",
+          "1.3-3.5",
+          "2.4",
+          "2.0-2.9",
+          "18",
+          "11-25",
+          "6.4",
+          "3.9-9.5"
+        ],
+        [
+          "DPR Korea",
+          "25200",
+          "15",
+          "10-22",
+          "0.04",
+          "0.02-0.06",
+          "141",
+          "109-178",
+          "0.45",
+          "0.32-0.60"
+        ],
+        [
+          "DR Congo",
+          "77300",
+          "51",
+          "30-77",
+          "16",
+          "13-20",
+          "250",
+          "162-357",
+          "39",
+          "23-57"
+        ],
+        [
+          "Ethiopia",
+          "99400",
+          "25",
+          "15-38",
+          "3.9",
+          "1.6-7.3",
+          "191",
+          "141-249",
+          "16",
+          "10-23"
+        ],
+        [
+          "India",
+          "1310000",
+          "480",
+          "380-590",
+          "37",
+          "21-57",
+          "2840",
+          "1470-4650",
+          "113",
+          "58-186"
+        ],
+        [
+          "Indonesia",
+          "258000",
+          "100",
+          "67-150",
+          "26",
+          "20-34",
+          "1020",
+          "658-1450",
+          "78",
+          "48-116"
+        ],
+        [
+          "Kenya",
+          "46100",
+          "9",
+          "6.1-12",
+          "7.2",
+          "0.71-21",
+          "107",
+          "87-129",
+          "36",
+          "29-43"
+        ],
+        [
+          "Lesotho",
+          "2140",
+          "1.2",
+          "0.63-1.9",
+          "4.8",
+          "3.0-7.0",
+          "17",
+          "11-24",
+          "12",
+          "7.7-18"
+        ],
+        [
+          "Liberia",
+          "4500",
+          "3.2",
+          "1.9-4.8",
+          "0.84",
+          "0.70-1.0",
+          "14",
+          "9.0-20",
+          "1.8",
+          "1.1-2.6"
+        ],
+        [
+          "Mozambique",
+          "28000",
+          "21",
+          "12-32",
+          "34",
+          "21-50",
+          "154",
+          "100-220",
+          "79",
+          "50-115"
+        ],
+        [
+          "Myanmar",
+          "53900",
+          "27",
+          "16-40",
+          "4.8",
+          "3.5-6.5",
+          "197",
+          "144-258",
+          "17",
+          "11-25"
+        ],
+        [
+          "Namibia",
+          "2460",
+          "0.78",
+          "0.51-1.1",
+          "0.88",
+          "0.06-2.8",
+          "12",
+          "9.3-15",
+          "4.9",
+          "3.8-6.2"
+        ],
+        [
+          "Nigeria",
+          "182000",
+          "180",
+          "96-290",
+          "57",
+          "43-74",
+          "586",
+          "345-890",
+          "100",
+          "56-155"
+        ],
+        [
+          "Pakistan",
+          "189000",
+          "44",
+          "9.3-110",
+          "1.6",
+          "1.1-2.1",
+          "510",
+          "330-729",
+          "8.8",
+          "5.4-13"
+        ],
+        [
+          "Papua New Guinea",
+          "7600",
+          "3.1",
+          "1.8-4.6",
+          "0.67",
+          "0.40-1.0",
+          "33",
+          "27-40",
+          "4.9",
+          "3.0-7.3"
+        ],
+        [
+          "Philippines",
+          "101000",
+          "14",
+          "8.8-19",
+          "0.44",
+          "0.24-0.70",
+          "324",
+          "279-373",
+          "4.3",
+          "3.3-5.4"
+        ],
+        [
+          "Russian Federation",
+          "143000",
+          "15",
+          "15-16",
+          "1.5",
+          "<0.01-7.4",
+          "115",
+          "98-132",
+          "11",
+          "9.3-13"
+        ],
+        [
+          "Sierra Leone",
+          "6450",
+          "3.3",
+          "1.9-4.9",
+          "0.82",
+          "0.40-1.4",
+          "20",
+          "13-28",
+          "2.6",
+          "1.7-3.8"
+        ],
+        [
+          "South Africa",
+          "54500",
+          "25",
+          "21-29",
+          "73",
+          "27-140",
+          "454",
+          "294-649",
+          "258",
+          "165-370"
+        ],
+        [
+          "Thailand",
+          "68000",
+          "8.4",
+          "6.9-10",
+          "5.4",
+          "3.3-8.1",
+          "117",
+          "69-176",
+          "15",
+          "8.0-25"
+        ],
+        [
+          "UR Tanzania",
+          "53500",
+          "30",
+          "13-53",
+          "25",
+          "16-35",
+          "164",
+          "78-281",
+          "57",
+          "27-100"
+        ],
+        [
+          "Viet Nam",
+          "93400",
+          "16",
+          "11-22",
+          "1.1",
+          "0.20-2.7",
+          "128",
+          "103-155",
+          "5.5",
+          "3.5-7.9"
+        ],
+        [
+          "Zambia",
+          "16200",
+          "5",
+          "2.9-7.7",
+          "12",
+          "6.9-20",
+          "63",
+          "41-91",
+          "38",
+          "24-55"
+        ],
+        [
+          "Zimbabwe",
+          "15600",
+          "1.7",
+          "0.99-2.5",
+          "6.3",
+          "2.2-13",
+          "38",
+          "28-49",
+          "26",
+          "17-37"
+        ],
+        [
+          "High TB burden countries",
+          "4630000",
+          "1200",
+          "1100-1400",
+          "340",
+          "280-410",
+          "9050",
+          "7410-10800",
+          "1000",
+          "859-1160"
+        ],
+        [
+          "Africa",
+          "989000",
+          "450",
+          "350-560",
+          "300",
+          "230-360",
+          "2720",
+          "2360-3110",
+          "834",
+          "710-969"
+        ],
+        [
+          "The Americas",
+          "991000",
+          "19",
+          "17-20",
+          "5.9",
+          "4.2-7.9",
+          "268",
+          "250-287",
+          "32",
+          "29-35"
+        ],
+        [
+          "Eastern Mediterranean",
+          "648000",
+          "80",
+          "38-140",
+          "3",
+          "2.5-3.5",
+          "749",
+          "561-965",
+          "13",
+          "9.5-17"
+        ],
+        [
+          "Europe",
+          "910000",
+          "32",
+          "31-33",
+          "4.9",
+          "1.5-10",
+          "323",
+          "299-349",
+          "27",
+          "23-31"
+        ],
+        [
+          "South-East Asia",
+          "1930000",
+          "710",
+          "600-830",
+          "74",
+          "56-95",
+          "4740",
+          "3230-6540",
+          "227",
+          "159-307"
+        ],
+        [
+          "Western Pacific",
+          "1860000",
+          "89",
+          "81-98",
+          "5.7",
+          "3.8-8.1",
+          "1590",
+          "1440-1740",
+          "34",
+          "29-40"
+        ],
+        [
+          "Global",
+          "7320000",
+          "1400",
+          "1200-1600",
+          "390",
+          "320-460",
+          "10400",
+          "8740-12200",
+          "1170",
+          "1020-1320"
+        ]
+      ]
+    },
+    {
+      "title": "Differential Diagnosis for Chest Radiograph Features",
+      "headers": [
+        "Presentation",
+        "Alternative Diagnoses",
+        "Notes"
+      ],
+      "rows": [
+        [
+          "Cavities",
+          "Fungal infections (e.g., aspergilloma), old TB, acute bacterial infection",
+          "Active TB cavities typically present in upper lobes with adjacent infiltrates."
+        ],
+        [
+          "Infiltrate",
+          "Bacterial pneumonia, aspiration (can present in upper lobes)",
+          "Alternative diagnoses more acute in presentation."
+        ],
+        [
+          "Fibrosis",
+          "Silicosis and other occupational exposures, idiopathic pulmonary fibrosis, old TB",
+          "Consider exposure history and location of lesions (TB presents as apical fibrosis or fibrothorax)."
+        ],
+        [
+          "Pleural effusion",
+          "Parapneumonic effusion, neoplastic, congestive heart failure",
+          "Consider co-morbid conditions, constitutional symptoms; sampling of pleural fluid often informative."
+        ],
+        [
+          "Lymphadenopathy",
+          "Neoplastic, other mycobacterial infections",
+          "Consider co-morbid conditions, regional epidemiology of other mycobacterial infections. Tissue sampling often informative."
+        ],
+        [
+          "Miliary/ disseminated",
+          "Pneumocystis jirovecii, lymphocytic interstitial pneumonitis, endemic fungi (e.g., histoplasmosis)",
+          "Consider exposure history and regional epidemiology. Bronchoalveolar lavage often informative."
+        ]
+      ]
+    },
+    {
+      "title": "Diagnostic Features of Extra-Pulmonary Samples",
+      "headers": [
+        "Bodily Fluid or Tissue Sample",
+        "Findings Associated With Tuberculosis Infection"
+      ],
+      "rows": [
+        [
+          "Pleural fluid",
+          "Exudative effusion, elevated adenosine deaminase (ADA), lymphocytic predominance, pH 7.3-7.4. ADA sensitivity and specificity in pleural fluid of 58%-92% and 60%-90%, respectively. Combined analysis of pleural fluid and pleural biopsy may increase diagnostic yield to 95%, compared with 25%-75% for fluid alone."
+        ],
+        [
+          "Cerebrospinal fluid (CSF)",
+          "Low glucose, high protein, usually \n\t≤1000 cells/mm³ with \n\t≥50% lymphocytes. Positive acid-fast bacilli in 10%-40%. TB PCR on CSF has a sensitivity of 73%-100%. Neutrophilic predominance may be seen in up to one-third of cases, particularly in early stages of infection. Centrifuged samples, large volume (i.e., 10 mL), and serial examinations may increase diagnostic confirmation."
+        ],
+        [
+          "Ascitic fluid",
+          "Lymphocytic predominance; a third may have positive smear or culture. CA-125 may be elevated in TB patients."
+        ],
+        [
+          "Lymph node aspirate or biopsy",
+          "Granulomas in biopsy; AFB and/or culture often confirmatory. TB PCR may be positive in up to one-third of samples."
+        ],
+        [
+          "Pleural, peritoneal, or pericardial biopsy",
+          "Granulomas; presence of AFB is rare; culture confirmation may be obtained in up to 66%."
+        ],
+        [
+          "Blood culture",
+          "Greater yield with disseminated disease; positive in 19%-96% of HIV-positive individuals."
+        ],
+        [
+          "Urine",
+          "Large volume (at least 80 mL) of first morning void optimizes yield. Urine PCR has good sensitivity and specificity."
+        ]
+      ]
+    },
+    {
+      "title": "Characteristics of Novel Methods to Diagnose Tuberculosis and Drug-Resistant Tuberculosis",
+      "headers": [
+        "Method",
+        "Characteristics"
+      ],
+      "rows": [
+        [
+          "Nitrate reductase method",
+          "Low-cost, simple assay in which Mycobacterium tuberculosis reduces nitrate to nitrite, resulting in color change when detection reagent added to tube. Pooled sensitivity/specificity for direct drug susceptibility testing (DST) 99%/100% for rifampin (R) and 94%/100% for isoniazid (H). Pooled sensitivity/specificity for indirect DST 97%/100% for R and 96%/99% for H. Turn-around time 14-21 days."
+        ],
+        [
+          "Microscopic observation drug susceptibility assay (MODS)",
+          "Low-cost, simple assay in which liquid culture allows early visualization of cordlike structures using inverted microscope. Performs well on smear-negative samples. Pooled sensitivity/specificity for direct DST for detecting resistance to R and H: 96%/96% and 92%/96%, respectively. Turn-around time approximately 21 days."
+        ],
+        [
+          "INNO-LIPA Rif TB assay (Immunogenetics, Ghent, Belgium)",
+          "Line probe assay to detect most common rpoB mutations associated with R resistance. Specialized equipment required. Risk of DNA contamination in laboratory. Pooled sensitivity/specificity of both direct and indirect assays were 97%/99% for detecting R resistance. Turnaround time 1-2 days."
+        ],
+        [
+          "Loop-mediated isothermal amplification [TB LAMP], (Eiken Chemical Company Ltd., Tokyo, Japan)",
+          "Temperature-independent DNA amplification and genotypic detection of M. tuberculosis with visual optic readout; could be used in peripheral labs. Could be used to replace smear microscopy but does not detect drug resistance."
+        ]
+      ]
+    },
+    {
+      "title": "Common Causes of Failure to Respond to Tuberculosis Treatment",
+      "headers": [
+        "Causes",
+        "Evaluations",
+        "Action"
+      ],
+      "rows": [
+        [
+          "Drug-resistant TB",
+          "Repeat culture and drug susceptibility testing (DST); close clinical monitoring",
+          "Empiric second-line TB treatment if patient is clinically unstable or once drug resistance confirmed"
+        ],
+        [
+          "Poor adherence",
+          "Interview patient, family, health workers; count pills; verify signs and symptoms associated with drug ingestion (e.g., dark urine-rifampin)",
+          "Reinforce education, directly observed treatment (DOT)"
+        ],
+        [
+          "HIV-related opportunistic infections",
+          "HIV testing; CD4; viral load; symptom-directed diagnosis of opportunistic infections",
+          "Early initiation of HAART; treatment of opportunistic infections"
+        ],
+        [
+          "Malnutrition",
+          "Close monitoring of weight (and height in children); serum albumin",
+          "Nutritional supplementation"
+        ],
+        [
+          "Paradoxical response",
+          "Rule out other causes of deterioration",
+          "Continue with treatment; for HIV-positive individuals consider use of corticosteroids"
+        ]
+      ]
+    },
+    {
+      "title": "Anti-Tuberculous Medications and Their Side Effects",
+      "headers": [
+        "Drug Name (Abbreviation)",
+        "Description and Adult Dose",
+        "Side Effects",
+        "Monitoring Requirements and Comments"
+      ],
+      "rows": [
+        [
+          "Isoniazid (H)",
+          "Description: bactericidal; inhibits mycolic acid synthesis most effectively in dividing cells; hepatically metabolized Dose: 300 mg/day or 900 mg/day",
+          "Common: hepatitis (10%-20% have elevated transaminases), peripheral neuropathy (dose related; increased risk with malnutrition, alcoholism, diabetes, concurrent use of aminoglycoside (AG) or ethionamide (ETO)) Less common: gynecomastia, rash, psychosis, seizure",
+          "Monitoring: consider baseline and monthly aspartate aminotransferase (SGOT), especially if age greater than 50 yr Comments: give with pyridoxine 50 mg/day if using large dose or if patient is at risk for peripheral neuropathy (diabetes, alcoholism, HIV, etc.)"
+        ],
+        [
+          "Rifamycins Rifampicin (R) (Rifampin) Rifabutin (Rfb)",
+          "Description: bactericidal; inhibits protein synthesis by blocking mRNA transcription and synthesis; hepatically metabolized Dose: R: 600 mg/day; Rfb: 300 mg/day",
+          "Common: orange-colored bodily secretions, transient transaminitis, hepatitis, gastrointestinal (GIT) distress Less common: cholestatic jaundice",
+          "Monitoring: baseline SGOT and bilirubin, repeat if symptoms (jaundice, fatigue, anorexia, weakness, or nausea and vomiting for more than 3 days)"
+        ],
+        [
+          "Pyrazinamide (Z)",
+          "Description: bactericidal; mechanism unclear; effective in acidic milieu (e.g. cavitary disease, intracellular organisms); hepatically metabolized, renally excreted Dose: 30-40 mg/kg/day",
+          "Common: arthritis/arthralgias, hepatotoxicity, hyperuricemia, abdominal distress Less common: impaired diabetic control, rash",
+          "Monitoring: baseline and monthly SGOT; uric acid can be measured if arthralgias, arthritis, or symptoms of gout are present Comments: usually given once daily, but can split dose initially to improve tolerance"
+        ],
+        [
+          "Ethambutol (E)",
+          "Description: bacteriostatic at conventional dosing (15 mg/kg); inhibits lipid and cell wall metabolism; renally excreted Dose: 15-25 mg/kg, consider decreasing to 15 mg/kg once patient is culture negative",
+          "Common: generally well tolerated Less common: optic neuritis, GI distress, arthritis/arthralgia",
+          "Monitoring: baseline and monthly visual acuity and red/green color vision test when dosed at greater than 15 mg/kg/day (more than 10% loss is considered significant); regularly question patient about visual symptoms"
+        ],
+        [
+          "Aminoglycosides (AG) Amikacin (AMK) Kanamycin (K) Streptomycin (S) Polypeptides Capreomycin (CM) Viomycin (VM)",
+          "Description: bactericidal; aminoglycosides inhibit protein synthesis through disruption of ribosomal function; less effective in acidic, intracellular environments; polypeptides appear to inhibit translocation of the peptidyl-tRNA and the initiation of protein synthesis; renally excreted Dose: 15-20 mg/kg/day",
+          "Common: pain at injection site, proteinuria, serum electrolyte disturbances Less common: cochlear ototoxicity (hearing loss, dose-related to cumulative and peak concentrations, increased risk with renal insufficiency, may be irreversible), nephrotoxicity (dose-related to cumulative and peak concentrations, increased risk with renal insufficiency, often irreversible), peripheral neuropathy, rash, vestibular toxicity (nausea, vomiting, vertigo, ataxia, nystagmus), eosinophilia Ototoxicity potentiated by certain diuretics, especially loop diuretics",
+          "Monitoring: baseline and then bi-weekly creatinine, urea, and serum potassium; more frequently in high-risk patients. If potassium is low, check magnesium and calcium. Baseline audiometry and monthly monitoring in high risk patients (high risk patients = elderly, diabetic or HIV-positive patients, or patients with renal insufficiency) Comments: observe for problems with balance; increase dosing interval or reduce dose and monitor serum drug concentrations as needed to control side effects Electrolyte disturbances are more common in patients receiving CM"
+        ],
+        [
+          "Fluoroquinolones Ofloxacin (OFX) Levofloxacin (LFX) Moxifloxacin (MFX)",
+          "Description: bactericidal; DNA-gyrase inhibitor; renally excreted Dose: Ofloxacin 800 mg/day Levofloxacin 750 mg/day Moxifloxacin 400 mg/day",
+          "Common: generally well tolerated, well absorbed Less common: diarrhea, dizziness, GI distress, headache, insomnia, photosensitivity, rash, vaginitis, psychosis, seizure (central nervous system [CNS] effects seen almost exclusively in elderly); synotenovitis",
+          "Monitoring: no laboratory monitoring requirements Comments: do not administer with antacids, sucralfate, iron, zinc, calcium, or oral potassium and magnesium replacements; LFX, MFX have the most activity against Mycobacterium tuberculosis"
+        ],
+        [
+          "Cycloserine (CS)",
+          "Description: bacteriostatic; alanine analog; interferes with cell wall proteoglycan synthesis; renally excreted Dose: 500-1000 mg/day (initiate at 500 mg/day for 2-3 days then gradually increase to full dose)",
+          "Common: neurologic and psychiatric disturbances, including headaches, irritability, sleep disturbances, aggression, and tremors Less common: psychosis, peripheral neuropathy, seizures (increased risk of CNS effects with concurrent use of ethanol, H, ETO, or other centrally acting medications), hypersensitivity",
+          "Monitoring: consider serum drug monitoring to establish optimal dosing Comments: give 50 mg for every 250 mg of CS (to lessen neurologic adverse effects)"
+        ],
+        [
+          "Thiamides Ethionamide (ETO) Prothionamide (PTO)",
+          "Description: may be bactericidal or bacteriostatic depending on susceptibility and concentrations attained at the infection site; the carbotionamide group, also found on thiacetazone, and the pyridine ring, also found on H, appear essential for activity; hepatically metabolized, renally excreted Dose: 500-1000 mg/day (initiate at 500 mg/day for 2-3 days then gradually increase to full dose)",
+          "Common: GI distress (nausea, vomiting, diarrhea, abdominal pain, loss of appetite), dysgeusia (metallic taste), hypothyroidism (especially when taken with PAS) Less common: arthralgias, dermatitis, gynecomastia, hepatitis, impotence, peripheral neuropathy, photosensitivity",
+          "Monitoring: consider baseline and monthly SGOT Comments: may split dose or give at bedtime to improve tolerability; ETO and PTO efficacies are considered similar; PTO may cause fewer GI side effects"
+        ],
+        [
+          "Para-aminosalicylic acid (PAS)",
+          "Description: bacteriostatic; disrupts folic acid metabolism (thought to inhibit the biosynthesis of co-enzyme F in the folic acid pathway); hepatic acetylation, renally excreted. Dose: 8-12 g/day divided into 2-3 doses",
+          "Common: GI distress (nausea, vomiting, diarrhea), hypersensitivity, hypothyroidism (especially when taken with ETO) Less common: hepatitis, electrolyte abnormalities Drug interactions: decreased H acetylation, decreased R absorption in non-granular preparation, decreased B12 uptake",
+          "Monitoring: no laboratory monitoring requirements Comments: some formulas of enteric coated granules need to be administered with an acidic food or beverage (i.e., yogurt or acidic juice)"
+        ]
+      ]
+    },
+    {
+      "title": "Pediatric Dosing of Tuberculosis Drugs",
+      "headers": [
+        "Medication (Abbreviation)",
+        "Dose",
+        "Maximum Daily Dose"
+      ],
+      "rows": [
+        [
+          "Isoniazid (H)",
+          "7-20 mg/kg daily",
+          "900 mg"
+        ],
+        [
+          "Rifampin (R)",
+          "10-20 mg/kg daily",
+          "600 mg"
+        ],
+        [
+          "Ethambutol (E)",
+          "15-25 mg/kg daily",
+          "1200 mg"
+        ],
+        [
+          "Pyrazinamide (Z)",
+          "30-40 mg/kg daily",
+          "2000 mg"
+        ],
+        [
+          "Streptomycin (S)",
+          "20-30 mg/kg daily",
+          "1000 mg"
+        ],
+        [
+          "Kanamycin (Km)",
+          "15-20 mg/kg daily",
+          "1000 mg"
+        ],
+        [
+          "Capreomycin (Cm)",
+          "15-20 mg/kg daily",
+          "1000 mg"
+        ],
+        [
+          "Ofloxacin (Ofx)",
+          "15-20 mg/kg daily",
+          "800 mg"
+        ],
+        [
+          "Levofloxacin (Lfx)",
+          "15-20 mg/kg daily",
+          "1000 mg"
+        ],
+        [
+          "Moxifloxacin (Mfx)",
+          "10-15 mg/kg daily",
+          "400 mg"
+        ],
+        [
+          "Ethionamide (Eto)",
+          "15-20 mg/kg daily",
+          "1000 mg"
+        ],
+        [
+          "Cycloserine (Cs)",
+          "15-20 mg/kg daily",
+          "1000 mg"
+        ],
+        [
+          "Para-aminosalicylic acid (PAS)",
+          "150 mg/kg daily",
+          "8 g"
+        ],
+        [
+          "Linezolid (LZD)",
+          "10 mg/kg/daily",
+          "600 mg"
+        ],
+        [
+          "Clofazimine (CFZ)",
+          "2-5 mg/kg daily",
+          "100 mg"
+        ],
+        [
+          "Delamanid (DLM)",
+          "3-4 mg/kg/day",
+          "200 mg"
+        ],
+        [
+          "Bedaquiline (BDQ)",
+          "Loading dose: 6 mg/kg/day for 14 days Maintenance dose: 3-4 mg/kg three times a WEEK",
+          "400 mg 200 mg three times a WEEK"
+        ]
+      ]
+    },
+    {
+      "title": "World Health Organization Recommended Use of Fixed-Dose Combinations for First-Line Treatment for Adults",
+      "headers": [
+        "Weight",
+        "Initial Phase (2 Months)",
+        "Continuation Phase (4 Months)"
+      ],
+      "rows": [
+        [
+          "",
+          "2 (HRZE) Daily 56 total doses (Isoniazid 75 mg + rifampin 150 mg + pyrazinamide 400 mg + ethambutol 275 mg)",
+          "4 (HR) Daily 112 total doses (Isoniazid 75 mg + rifampin 150 mg)"
+        ],
+        [
+          "30-39 kg",
+          "2",
+          "2"
+        ],
+        [
+          "40-54 kg",
+          "3",
+          "3"
+        ],
+        [
+          "55-70 kg",
+          "4",
+          "4"
+        ],
+        [
+          "Over 70 kg",
+          "5",
+          "5"
+        ]
+      ]
+    },
+    {
+      "title": "Recommendations for Concomitant Treatment of Tuberculosis and HIV Infection",
+      "headers": [
+        "Combined Regimen for Treatment of HIV and Tuberculosis",
+        "PK Effect of the Rifamycin",
+        "Tolerability/Toxicity",
+        "Antiviral Activity When Used With Rifampin",
+        "Recommendation (Comments)"
+      ],
+      "rows": [
+        [
+          "Efavirenz-based ART* with rifampin-based TB treatment",
+          "Well-characterized, modest effect",
+          "Low rates of discontinuation",
+          "Excellent",
+          "Preferred"
+        ],
+        [
+          "Protease inhibitor-based ART* with rifabutin-based TB treatment",
+          "Little effect of rifabutin on PI concentrations, but marked increases in rifabutin concentrations",
+          "Low rates of discontinuation (if rifabutin is appropriately dose-reduced)",
+          "Favorable, though published clinical experience is not extensive",
+          "Preferred for patients unable to take efavirenzt"
+        ],
+        [
+          "Nevirapine-based ART with rifampin-based TB treatment",
+          "Moderate effect",
+          "Concern about hepatotoxicity when used with isoniazid, rifampin, and pyrazinamide",
+          "Favorable",
+          "Alternative for patients who cannot take efavirenz and if rifabutin not available"
+        ],
+        [
+          "Zidovudine/lamivudine/abacavir/tenofovir with rifampin-based TB treatment",
+          "50% decrease in zidovudine, possible effect on abacavir not evaluated",
+          "Anemia",
+          "No published clinical experience",
+          "Alternative for patients who cannot take efavirenz and if rifabutin not available"
+        ],
+        [
+          "Zidovudine/lamivudine/tenofovir with rifampin-based TB treatment",
+          "50% decrease in zidovudine, no other effects predicted",
+          "Anemia",
+          "Favorable, but not evaluated in a randomized trial",
+          "Alternative for patients who cannot take efavirenz and if rifabutin not available"
+        ],
+        [
+          "Zidovudine/lamivudine/abacavir with rifampin-based TB treatment",
+          "50% decrease in zidovudine, possible effect on abacavir not evaluated",
+          "Anemia",
+          "Early favorable experience, but this combination is less effective than efavirenz-based regimens in persons not taking rifampin",
+          "Alternative for patients who cannot take efavirenz and if rifabutin not available"
+        ],
+        [
+          "Super-boosted lopinavir-based ART with rifampin-based TB treatment",
+          "Little effect",
+          "Hepatitis among healthy adults, but favorable experience among young children (<3 years)",
+          "Good among young children (<3 years)",
+          "Alternative if rifabutin not available; preferred for young children when rifabutin not available"
+        ],
+        [
+          "Raltegravir",
+          "Data still pending but likely interacts with rifampicin",
+          "",
+          "Use with rifampicin likely decreases the AUC for raltegravir and dolutegravir",
+          ""
+        ],
+        [
+          "Dolutegravir",
+          "Interacts with rifampicin",
+          "",
+          "",
+          "Studies show that when used with rifampicin, the dose of dolutegravir should be doubled (50 mg twice daily).52"
+        ]
+      ]
+    },
+    {
+      "title": "Recommendations for Co-administration of Antiretroviral Drugs With Rifampin",
+      "headers": [
+        "",
+        "Recommended Change in Dose of Antiretroviral Drug",
+        "Recommended Change in Dose of Rifampin",
+        "Comments"
+      ],
+      "rows": [
+        [
+          "NON-NUCLEOSIDE REVERSE TRANSCRIPTASE INHIBITORS",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Efavirenz",
+          "None",
+          "No change (600 mg/day)",
+          "Efavirenz AUC↓ by 22%; no change in rifampin concentration. Efavirenz should not be used during the first trimester of pregnancy"
+        ],
+        [
+          "Nevirapine",
+          "No change",
+          "No change (600 mg/day)",
+          "Nevirapine AUC↓ 37%-58% and Cmin↓ 68% with 200 mg 2x/day dose"
+        ],
+        [
+          "Delavirdine",
+          "Rifampin and delavirdine should not be used together",
+          "",
+          "Delavirdine AUC↓ by 95%"
+        ],
+        [
+          "Etravirine",
+          "Rifampin and etravirine should not be used together",
+          "",
+          "Marked decrease in etravirine predicted, based on data on the interaction with rifabutin"
+        ],
+        [
+          "SINGLE PROTEASE INHIBITORS",
+          "",
+          "",
+          ""
+        ],
+        [
+          "fos-Amprenavir",
+          "Rifampin and fos-amprenavir should not be used together",
+          "",
+          "No published clinical experience"
+        ],
+        [
+          "Atazanavir",
+          "Rifampin and atazanavir should not be used together",
+          "",
+          "Atazanavir AUC↓ by >95%"
+        ],
+        [
+          "Indinavir",
+          "Rifampin and indinavir should not be used together",
+          "",
+          "Indinavir AUC↓ by 89%"
+        ],
+        [
+          "Nelfinavir",
+          "Rifampin and nelfinavir should not be used together",
+          "",
+          "Nelfinavir AUC↓ by 82%"
+        ],
+        [
+          "Saquinavir",
+          "Rifampin and saquinavir should not be used together",
+          "",
+          "Saquinavir AUC↓ by 84%"
+        ],
+        [
+          "DUAL PROTEASE-INHIBITOR COMBINATIONS",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Saquinavir/ritonavir",
+          "Saquinavir 400 mg plus ritonavir 400 mg twice daily",
+          "No change (600 mg/day)",
+          "Use with caution; the combination of saquinavir (1000 mg twice daily), ritonavir (100 mg twice daily), and rifampin caused unacceptable rates of hepatitis among healthy volunteers"
+        ],
+        [
+          "Lopinavir/ritonavir (Kaletra)",
+          "Increase the dose of lopinavir/ritonavir (Kaletra)-4 tablets (200 mg of lopinavir with 50 mg of ritonavir) twice daily",
+          "No change (600 mg/day)",
+          "Use with caution; this combination resulted in hepatitis in all adult healthy volunteers in an initial study"
+        ],
+        [
+          "\"Super-boosted\" lopinavir/ritonavir (Kaletra)",
+          "Lopinavir/ ritonavir (Kaletra)-2 tablets (200 mg of lopinavir with 50 mg of ritonavir) + 300 mg of ritonavir twice daily",
+          "No change (600 mg/day)",
+          "Use with caution; this combination resulted in hepatitis among adult healthy volunteers; however, there are favorable pharmacokinetic and clinical data among young children"
+        ],
+        [
+          "CCR-5 RECEPTOR AGONISTS",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Maraviroc",
+          "Increase maraviroc to 600 mg twice daily",
+          "No change (600 mg/day)",
+          "Maraviroc Cmin↓ by 78%; no reported clinical experience with increased dose of maraviroc with rifampin"
+        ],
+        [
+          "INTEGRASE INHIBITORS",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Raltegravir",
+          "Do not administer together",
+          "",
+          "Raltegravir concentrations↓ by 40%-61%"
+        ],
+        [
+          "Dolutegravir",
+          "Administer 50 mg twice daily (double dose)",
+          "",
+          "No clinical experience; a significant interaction is unlikely, but this has not yet been studied."
+        ]
+      ]
+    },
+    {
+      "title": "Recommendations for Co-administration of Antiretroviral Drugs With Rifabutin",
+      "headers": [
+        "",
+        "Antiretroviral Dose Change",
+        "Rifabutin Dose Change",
+        "Comments"
+      ],
+      "rows": [
+        [
+          "NON-NUCLEOSIDE REVERSE-TRANSCRIPTASE INHIBITORS",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Efavirenz",
+          "No change",
+          "↑ to 450-600 mg (daily or intermittent)",
+          "Rifabutin AUC↓ by 38%. Effect of efavirenz + protease inhibitor(s) on rifabutin concentration has not been studied. Efavirenz should not be used during the first trimester of pregnancy."
+        ],
+        [
+          "Nevirapine",
+          "No change",
+          "No change (300 mg daily or thrice weekly)",
+          "Rifabutin and nevirapine AUC not significantly changed."
+        ],
+        [
+          "Delavirdine",
+          "Rifabutin and delavirdine should not be used together",
+          "",
+          "Delavirdine AUC↓ by 70%; rifabutin AUC↑ by 100%."
+        ],
+        [
+          "Etravirine",
+          "No change",
+          "No change (300 mg daily or thrice weekly)",
+          "No clinical experience; etravirine Cmin↓ by 45%, but this was not thought to warrant a change in dose."
+        ],
+        [
+          "SINGLE PROTEASE INHIBITORS",
+          "",
+          "",
+          ""
+        ],
+        [
+          "fos-Amprenavir",
+          "No change",
+          "↓ to 150 mg/day or 300 mg 3x/week",
+          "No published clinical experience"
+        ],
+        [
+          "Atazanavir",
+          "No change",
+          "↓ to 150 mg every other day or 3x/week",
+          "No published clinical experience. Rifabutin AUC↑ by 250%."
+        ],
+        [
+          "Indinavir",
+          "1000 mg every 8 hr",
+          "↓ to 150 mg/day or 300 mg 3x/week",
+          "Rifabutin AUC↑ by 170%; indinavir concentrations↓ by 34%."
+        ],
+        [
+          "Nelfinavir",
+          "No change",
+          "↓ to 150 mg/day or 300 mg 3x/week",
+          "Rifabutin AUC↑ by 207%; insignificant change in nelfinavir concentration"
+        ],
+        [
+          "DUAL PROTEASE-INHIBITOR COMBINATIONS",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Lopinavir/ritonavir (Kaletra)",
+          "No change",
+          "↓ to 150 mg every other day or 3x/week",
+          "Rifabutin AUC↑ by 303%; 25-O-des-acetyl rifabutin AUC↑ by 47.5-fold"
+        ],
+        [
+          "Ritonavir (any dose), with saquinavir, indinavir, amprenavir, fos-amprenavir, atazanavir, tipranavir, or darunavir",
+          "No change",
+          "↓ to 150 mg every other day or 3x/week",
+          "Rifabutin AUC↑ and 25-O-des-acetyl rifabutin AUC↑, by varying degrees."
+        ],
+        [
+          "CCR-5 RECEPTOR AGONISTS",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Maraviroc",
+          "No change",
+          "No change",
+          "No clinical experience; a significant interaction is unlikely, but this has not yet been studied."
+        ],
+        [
+          "INTEGRASE INHIBITORS",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Raltegravir",
+          "No change",
+          "No change",
+          "No clinical experience; a significant interaction is unlikely, but this has not yet been studied."
+        ]
+      ]
+    },
+    {
+      "title": "Overlapping Toxicities of Antiretroviral and Tuberculosis Drugs",
+      "headers": [
+        "Toxicity",
+        "Antiretroviral Agent (ARV)",
+        "Anti-Tuberculosis Agent",
+        "Comments"
+      ],
+      "rows": [
+        [
+          "Peripheral neuropathy",
+          "Stavudine (D4T), didanosine (ddI), zalcitabine (ddC)",
+          "Linezolid (Lzd), Cs, H, Aminoglycosides, Eto/Pto, E",
+          "Avoid use of D4T, ddI, and ddC in combination with Cs or Lzd because of theoretically increased peripheral neuropathy. If these agents must be used and peripheral neuropathy develops, replace the antiretroviral agent with a less neurotoxic agent."
+        ],
+        [
+          "Central nervous system (CNS) toxicity",
+          "Efavirenz (EFV)",
+          "Cs, H, Eto/Pto, Fluoroquinolones",
+          "Efavirenz has a high rate of CNS side effects (confusion, impaired concentration, depersonalization, abnormal dreams, insomnia, and dizziness) in the first 2-3 wk, which typically resolve on their own. If the CNS side effects do not resolve on their own, consider substitution of the agent. At present, there are limited data on the use of EFV with Cs; concurrent use is accepted practice with frequent monitoring for CNS toxicity. Frank psychosis is rare with EFV alone."
+        ],
+        [
+          "Depression",
+          "EFV",
+          "Cs, Fluoroquinolones, H, Eto/Pto",
+          "Severe depression can be seen in 2.4% of patients receiving EFV*; Consider substituting EFV if severe depression develops. The severe socioeconomic circumstances of many patients with chronic disease can also contribute to depression."
+        ],
+        [
+          "Headache",
+          "Zidovudine (AZT), EFV",
+          "Cs",
+          "Rule out more serious causes of headache such as bacterial meningitis, cryptococcal meningitis, CNS toxoplasmosis, etc. Use of analgesics (ibuprofen, paracetamol) and hydration may help. Headache secondary to AZT, EFV, and Cs is usually self-limited."
+        ],
+        [
+          "Nausea and vomiting",
+          "Ritonavir (RTV), D4T, nevirapine (NVP), and most others",
+          "Eto/Pto, PAS, H, E, Z, and others",
+          "Nausea and vomiting are common adverse effects and can be managed. Persistent vomiting and abdominal pain may be a result of developing lactic acidosis and/or hepatitis secondary to medications."
+        ],
+        [
+          "Abdominal pain",
+          "All HAART has been associated with abdominal pain",
+          "Eto/Pto, PAS",
+          "Abdominal pain is a common adverse effect and often benign; however, abdominal pain may be an early symptom of severe adverse effects such as pancreatitis, hepatitis, or lactic acidosis."
+        ],
+        [
+          "Pancreatitis",
+          "D4T, ddI, ddC",
+          "Lzd",
+          "Avoid use of these agents together. If an agent causes pancreatitis, suspend it permanently and do not use any of the pancreatitis-producing anti-HIV medications (D4T, ddI, or ddC) in the future. Also consider gallstones or alcohol as a potential cause of pancreatitis."
+        ],
+        [
+          "Diarrhea",
+          "All protease inhibitors, ddI (buffered formula)",
+          "Eto/Pto, PAS, fluoroquinolones",
+          "Diarrhea is a common adverse effect. Also consider opportunistic infections as a cause of diarrhea or Clostridium difficile (a cause of pseudomembranous colitis)."
+        ],
+        [
+          "Hepatotoxicity",
+          "NVP, EFV, all protease inhibitors (RTV > other protease inhibitors), all nucleoside reverse transcriptase inhibitors (NRTIs)",
+          "H, R, E, Z, PAS, Eto/Pto, fluoroquinolones",
+          "Also consider TMP/SMX as a cause of hepatotoxicity if the patient is receiving this medication. Also rule out viral etiologies as cause of hepatitis (hepatitis A, B, C, and cytomegalovirus)."
+        ],
+        [
+          "Skin rash",
+          "Abacavir (ABC), NVP, EFV, D4T, and others",
+          "H,R, Z, PAS, fluoroquinolones, and others",
+          "Do not re-challenge with ABC (can result in life-threatening anaphylaxis). Do not re-challenge with an agent that caused Stevens-Johnson syndrome. Also consider TMP/SMX as a cause of skin rash if the patient is receiving this medication. Thioacetazone is contraindicated in HIV because of life-threatening rash."
+        ],
+        [
+          "Lactic acidosis",
+          "D4T, ddI, AZT, lamivudine (3TC)",
+          "Lzd",
+          "If an agent causes lactic acidosis, replace it with an agent less likely to cause lactic acidosis."
+        ],
+        [
+          "Renal toxicity",
+          "Tenofovir (TDF) (rare)",
+          "Aminoglycosides, Cm",
+          "TDF may cause renal injury with the characteristic features of Fanconi's syndrome, hypophosphatemia, hypouricemia, proteinuria, normoglycemic glycosuria, and in some cases acute renal failure. There are no data on the concurrent use of TDF with aminoglycosides or Cm. Use TDF with caution in patients receiving aminoglycosides or Cm. Even without the concurrent use of TDF, HIV-infected patients have an increased risk of renal toxicity secondary to aminoglycosides and Cm. Frequent creatinine and electrolyte monitoring every 1-3 wk is recommended. Many anti-virals and anti-tuberculosis medications need to be dose adjusted for renal insufficiency."
+        ],
+        [
+          "Nephrolithiasis",
+          "Indinavir (IDV)",
+          "None",
+          "No overlapping toxicities regarding nephrolithiasis have been documented between antiretroviral therapy (ART) and anti-tuberculosis medications. Adequate hydration prevents nephrolithiasis in patients taking IDV. If nephrolithiasis develops while on IDV, substitute with another protease inhibitor if possible."
+        ],
+        [
+          "Electrolyte disturbances",
+          "TDF (rare)",
+          "Cm, Aminoglycosides",
+          "Diarrhea and/or vomiting can contribute to electrolyte disturbances. Even without the concurrent use of TDF, HIV-infected patients have an increased risk of both renal toxicity and electrolyte disturbances secondary to aminoglycosides and Cm."
+        ],
+        [
+          "Bone marrow suppression",
+          "AZT",
+          "Lzd, R, Rfb, H",
+          "Monitor blood counts regularly. Replace AZT if bone marrow suppression develops. Consider suspension of Lzd. Also consider TMP/SMX as a cause if the patient is receiving this medication. Consider adding folinic acid supplements, especially if receiving TMP/SMX."
+        ],
+        [
+          "Optic neuritis",
+          "ddI",
+          "E, Eto/Pto (rare)",
+          "Suspend agent responsible for optic neuritis permanently and replace with an agent that does not cause optic neuritis."
+        ],
+        [
+          "Hyperlipidemia",
+          "Protease inhibitors, EFV",
+          "None",
+          "No overlapping toxicities regarding hyperlipidemia have been documented between ART and anti-tuberculosis medications. Follow World Health Organization (WHO) ART guidelines for management of hyperlipidemia."
+        ],
+        [
+          "Lipodystrophy",
+          "NRTIs (especially D4T and ddI)",
+          "None",
+          "No overlapping toxicities regarding lipodystrophy have been documented between ART and anti-tuberculosis medications. Follow WHO ART guidelines for management of lipodystrophy."
+        ],
+        [
+          "Dysglycemia (disturbed blood sugar regulation)",
+          "Protease inhibitors",
+          "Gatifloxacin (Gfx), Eto/Pto",
+          "Protease inhibitors tend to cause insulin resistance and hyperglycemia. Eto/Pto tend to make insulin control in diabetics more difficult, and can result in hypoglycemia and poor glucose regulation. Gatifloxacin is no longer recommended for use in treatment of TB because of this side effect."
+        ],
+        [
+          "Hypothyroidism",
+          "D4T",
+          "Eto/Pto, PAS",
+          "There is potential for overlying toxicity; however, evidence is mixed. Several studies show subclinical hypothyroidism associated with HAART, particularly stavudine. PAS and Eto/Pto, especially in combination, can commonly cause hypothyroidism."
+        ],
+        [
+          "QTcF prolongation",
+          "Lopinavir/ritonavir, EFV",
+          "MFX, BDQ, DLM, CFZ",
+          "Monthly monitoring of QTcF recommended."
+        ]
+      ]
+    },
+    {
+      "title": "Common First-Line Tuberculosis Treatment Regimens",
+      "headers": [
+        "World Health Organization Diagnostic Category",
+        "Types of TB Patients in Which It Is Commonly Used",
+        "Initial Phase",
+        "Continuation Phase",
+        "Notes"
+      ],
+      "rows": [
+        [
+          "Pan-susceptible TB",
+          "New pulmonary and extra-pulmonary TB, with or without HIV infection",
+          "2HRZE",
+          "4HR",
+          "12 months of treatment are recommended for TB meningitis and osteoarticular TB, 2HREZ followed by 10 HR"
+        ],
+        [
+          "",
+          "",
+          "2(HRZES)3/1(HRZE)3",
+          "5(HRE)3",
+          "Thrice-weekly administration in the intensive phase has been associated with increased risk of acquired drug resistance in clinical trials."
+        ]
+      ]
+    },
+    {
+      "title": "World Health Organization Recommended Use of Fixed-Dose Combinations for First-Line Treatment for Children",
+      "headers": [
+        "Weight",
+        "Initial Phase (2 mo)",
+        "Continuation Phase (4 mo)"
+      ],
+      "rows": [
+        [
+          "",
+          "2 (HRZ)* Daily 56 total doses (Isoniazid 50 mg + rifampin 75 mg + pyrazinamide 150 mg)",
+          "4 (HR) Daily 112 total doses (Isoniazid 50 mg + rifampin 75 mg)"
+        ],
+        [
+          "4-7 kg",
+          "1",
+          "1"
+        ],
+        [
+          "8-11 kg",
+          "2",
+          "2"
+        ],
+        [
+          "12-15 kg",
+          "3",
+          "3"
+        ],
+        [
+          "16-24 kg",
+          "4",
+          "4"
+        ],
+        [
+          ">=25 kg",
+          "Adult dosage recommended",
+          "Adult dosage recommended"
+        ]
+      ]
+    }
+  ],
+  "figures": [],
+  "references": []
+}

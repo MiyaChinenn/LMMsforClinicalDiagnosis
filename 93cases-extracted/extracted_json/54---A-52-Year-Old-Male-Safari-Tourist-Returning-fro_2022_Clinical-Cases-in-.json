@@ -1,0 +1,68 @@
+{
+  "patient_information": "A 52-year-old German man presents to a tropical medicine clinic in Germany.",
+  "chief_complaint": "fever for the past 2 days, night sweats, and a frontal headache.",
+  "history_of_present_illness": "There are no joint pains and he has not noticed a rash. His past medical history is unremarkable.",
+  "exposure_and_epidemiology": "Ten days ago, he returned from a 2-week holiday trip to South Africa, having visited Cape Town, the Garden Route, KwaZulu-Natal, Kruger Park, and other game reserves. He did not take any antimalarial chemoprophylaxis.",
+  "vitals": "Fair general condition. Tympanic temperature 37.5°C (99.5°F) (after taking 1g of paracetamol), pulse 80bpm, blood pressure 130/70 mmHg.",
+  "physical_exam": "No jaundice; neck supple. Enlarged lymph nodes in the left groin. A small necrotic skin lesion (about 0.7 cm in diameter) with surrounding inflammation and lymphangiitis on the left upper thigh.",
+  "labs_and_diagnostics": "The malaria rapid diagnostic test, as well as thick and thin film for malaria, came back negative. PCR from the eschar scab may confirm the diagnosis. Serodiagnosis using seroconversion and fourfold antibody titre increases remains the gold standard for spotted-fever group rickettsial infections.",
+  "differential_diagnosis": "Malaria has to be ruled out.",
+  "management_and_clinical_course": "The patient was prescribed doxycycline at 100 mg bid PO for 1 week. The fever settled within the next few days and the lymphadenopathy subsided. The eschar eventually healed after about 2 weeks.",
+  "final_diagnosis": "African tick-bite fever.",
+  "disease_name_short": "African Tick-Bite Fever",
+  "tables": [
+    {
+      "title": "Overview of Rickettsial Infections and their Vectors",
+      "headers": [
+        "Characteristic",
+        "Tick-borne",
+        "Mite-borne",
+        "Louse-borne",
+        "Flea-borne"
+      ],
+      "rows": [
+        [
+          "Synonyms",
+          "Spotted fevers",
+          "Scrub typhus, Tsutsugamushi fever, Japanese river fever",
+          "Epidemic typhus",
+          "Murine typhus, Endemic typhus, Shop typhus"
+        ],
+        [
+          "Classification",
+          "Spotted Fever (SF) Group",
+          "Scrub typhus Group",
+          "Typhus Group",
+          "Typhus Group"
+        ],
+        [
+          "Pathogens",
+          "Many, e.g. R. africae (African tick bite fever) R. conorii (Mediterranean SF) R. rickettsii (Rocky mountain SF) R. australis (Queensland tick typhus)",
+          "Orientia tsutsugamushi O. sp. nov. chuto (UAE)",
+          "R. prowazekii",
+          "R. typhi"
+        ],
+        [
+          "Vector",
+          "Ticks",
+          "Trombiculid mites (chigger mites, jungle mites)",
+          "Pediculus humanus corporis (human body lice)",
+          "Xenopsylla cheopis (rat flea)"
+        ],
+        [
+          "Reservoir",
+          "Mammals Rodents Marsupials....",
+          "Mites (transovarian) Rodents",
+          "Humans",
+          "Rodents"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "extracted_images/54---A-52-Year-Old-Male-Safari-Tourist-Returning-fro_2022_Clinical-Cases-in-/page1_img1.jpeg",
+      "caption": "Small necrotic skin lesion (about 0.7 cm in diameter) with surrounding inflammation and lymphangiitis on the left upper thigh of the patient."
+    }
+  ]
+}

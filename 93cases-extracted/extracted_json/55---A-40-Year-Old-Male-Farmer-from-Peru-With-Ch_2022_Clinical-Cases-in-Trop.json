@@ -1,0 +1,60 @@
+{
+  "patient_information": "A 40-year-old male farmer from the Peruvian Amazon.",
+  "chief_complaint": "Chronic productive cough and chest pain, dyspnoea on exertion and weight loss of about 20 kg.",
+  "history_of_present_illness": "A 40-year-old farmer presented with a 4-month history of chronic productive cough, chest pain, dyspnoea on exertion, and weight loss of 20 kg. Three and a half months earlier, he was hospitalized for similar complaints, received a presumptive diagnosis of pulmonary tuberculosis (TB) despite negative acid-fast bacilli (AFB) sputum smears, and was treated with first-line TB therapy (isoniazid, rifampicin, pyrazinamide, ethambutol) but showed no clinical improvement, with persistent productive cough and streaking of blood in the sputum, leading to referral for suspected multi-drug resistant TB (MDR TB).",
+  "exposure_and_epidemiology": "The patient had been found to be HTLV-1-positive 10 years previously. A recent HIV ELISA test was negative. The patient denies recent travels. His origin is from a rural area in the central Peruvian Amazon.",
+  "vitals": "Temperature 37.2°C (98.96°F), blood pressure 120/75 mmHg, pulse 70bpm regular, respiratory rate 15 breaths per minute.",
+  "physical_exam": "The patient appeared fatigued and cachectic. Few small, mobile, soft, non-tender cervical and retroauricular lymph nodes were palpable. Lungs showed crackles and rhonchi bilaterally. No hepatosplenomegaly. The rest of the physical examination was normal.",
+  "labs_and_diagnostics": "Platelets were 1093 × 10º/L (reference range: 150–450); the rest of the full blood count was within normal limits. Three sputum smears for acid-fast bacilli (AFB) were negative. Tuberculin skin test (PPD) was negative. Chest radiograph showed bilateral confluent reticulonodular infiltrates predominantly in the central and upper zones of both lungs, with cavities in the right lung. Sputum KOH preparation revealed characteristic yeast forms of Paracoccidioides brasiliensis, and culture grew P. brasiliensis.",
+  "differential_diagnosis": "MDR TB, histoplasmosis, paracoccidioidomycosis, paragonimiasis, or pulmonary hydatid cyst.",
+  "management_and_clinical_course": "Initial management included first-line TB therapy, which was discontinued due to lack of clinical improvement. Given the extensive pulmonary lesions and HTLV-1 co-infection, the patient was started on amphotericin B followed by itraconazole.",
+  "final_diagnosis": "Chronic (adult) paracoccidioidomycosis.",
+  "disease_name_short": "Paracoccidioidomycosis",
+  "tables": [
+    {
+      "title": "Differences Between the Main Clinical Forms of Paracoccidioidomycosis",
+      "headers": [
+        "Paracoccidioidomycosis",
+        "Chronic (Adult) Form",
+        "Acute (Juvenile) Form"
+      ],
+      "rows": [
+        [
+          "Epidemiology",
+          ">90% of cases",
+          "<10% of cases"
+        ],
+        [
+          "Infected Population",
+          "Men >30 years old (male:female ratio 14:1)",
+          "Children and young adults, both sexes HIV patients (rare)"
+        ],
+        [
+          "Clinical Characteristics",
+          "Chronic Slow progression Reactivation years after initial exposure Lung (always) Dissemination to liver and lymph nodes can occur Mucocutaneous lesions (~70%) (face, nasal and oral cavity)",
+          "Acute or sub-acute Rapidly progressive Develops after recent exposure Systemic disease of reticuloendothelial system with dissemination from lung to liver, spleen, lymph nodes and bone marrow Mucosal lesions (rarely) HIV patients: similar plus cutaneous lesions and severe pulmonary involvement"
+        ],
+        [
+          "Differential Diagnoses",
+          "Mimics other chronic fungal infections and pulmonary TB",
+          "Mimics leukaemia, lymphoma, severe disseminated TB"
+        ],
+        [
+          "Treatment",
+          "Azoles (itraconazole) Co-trimoxazole",
+          "Azoles (itraconazole) Amphotericin B (HIV or severe disease)"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "extracted_images/55---A-40-Year-Old-Male-Farmer-from-Peru-With-Ch_2022_Clinical-Cases-in-Trop/page2_img1.jpeg",
+      "caption": "Chest radiograph showing bilateral confluent reticulonodular infiltrates predominantly in the central and upper zones of both lungs. Cavities are seen in the right lung. There is no hilar lymphadenopathy."
+    },
+    {
+      "file_name": "extracted_images/55---A-40-Year-Old-Male-Farmer-from-Peru-With-Ch_2022_Clinical-Cases-in-Trop/page2_img2.jpeg",
+      "caption": "Large budding yeast (range: 8-40 µm) with multiple surrounding smaller buds around (arrows) seen on KOH preparation of the patient's sputum."
+    }
+  ]
+}

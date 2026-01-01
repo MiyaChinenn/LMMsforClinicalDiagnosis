@@ -1,0 +1,278 @@
+{
+  "chapter_title": "Toxoplasmosis",
+  "disease_name": "Toxoplasmosis",
+  "section_summaries": {
+    "epidemiology": "Human infection is acquired by ingesting oocysts from cat feces in contaminated food or water, or tissue cysts in undercooked meat. Oocysts, shed by cats, sporulate and become infectious. Warm-blooded animals serve as intermediate hosts, acquiring infection from oocysts; tachyzoites multiply rapidly causing acute illness before transforming into bradyzoites within tissue cysts, which cause latency and reactivation. Transmission to humans can occur through ingesting tissue cysts (raw/undercooked meat), oocysts (contaminated food/water), contact with cat litter, blood transfusion, organ transplantation, and transplacentally. The worldwide prevalence varies widely, influenced by local eating habits, environmental conditions, and definitive hosts, generally declining in some developed countries but remaining high in tropical regions. Genetic diversity of Toxoplasma gondii, including clonal lineages (I, II, III) and atypical strains, influences the clinical expression and severity of infection.",
+    "pathogenesis": "The primary route of infection is oral ingestion, leading to dissemination through the lymphatics. Asexual multiplication of the parasite occurs within intestinal epithelial cells, causing peripheral parasitemia with circulating tachyzoites. Tachyzoites multiply rapidly, localize in neural and muscle tissue, and cause acute illness by destroying host cells and inducing inflammation. After 3-6 weeks, with the development of an effective immune response, tachyzoites differentiate into slowly dividing bradyzoites within tissue cysts, leading to latency. In T-cell immune deficiency, these bradyzoites can reactivate into tachyzoites, causing severe disease. The genetic background and immune status of the host, particularly effective T-cell immunity in the fetus, influence the risk and gravity of the disease.",
+    "clinical_manifestations": "In immunocompetent individuals, 80% of T. gondii infections are asymptomatic, but 10%–20% may present as mild, self-limited cervical lymphadenopathy or flu-like illness. Atypical strains, particularly from the Amazon region, can cause severe infectious syndromes with pulmonary involvement. Ocular toxoplasmosis, a leading cause of retinochoroiditis, can result from congenital or postnatal infection, often manifesting as lesions in adulthood. Congenital toxoplasmosis results from maternal primary infection during pregnancy, with incidence and severity varying by trimester, and can cause intracranial calcifications, hydrocephalus, and chorioretinitis at birth or later. Immunodeficient patients (e.g., HIV with CD4 <100/mm³) commonly develop central nervous system (CNS) disease, often multifocal necrotizing encephalitis, but also retinochoroiditis, pneumonitis, or other systemic disease. Toxoplasmic encephalitis is the most common cause of intracerebral mass lesions in AIDS patients.",
+    "diagnosis": "Laboratory confirmation is essential, especially in immunocompromised or severely ill patients. Diagnosis is achieved by direct parasite detection in tissue specimens (e.g., biopsies, biologic fluids like CSF, amniotic fluid) or serology. T. gondii tachyzoites or cysts can be visualized in stained samples, or DNA detected using real-time PCR, which is highly sensitive for antenatal diagnosis and disseminated toxoplasmosis. Serologic testing relies on detecting T. gondii-specific IgG and IgM antibodies; avidity assays help distinguish acute from chronic infection. In immunocompetent patients, acute infection is diagnosed by seroconversion or a significant rise in IgG titers with positive IgM. In immunocompromised hosts, positive serology indicates possible diagnosis, but parasite detection (biopsy, PCR) is needed, or a therapeutic trial for cerebral lesions. Antenatal diagnosis uses PCR on amniotic fluid, while neonatal diagnosis involves child/mother immunoblot comparison and detection of IgM/IgA in infant serum. Ocular toxoplasmosis is diagnosed via ophthalmologic examination, or by specific antibody production or PCR in aqueous humor.",
+    "treatment": "Treatment is generally not needed for healthy, non-pregnant individuals with mild symptoms. It is recommended for pregnant women, immunocompromised individuals, persons with ocular disease, or severe illness. The drug of choice for symptomatic toxoplasmosis is pyrimethamine plus a sulfa drug (e.g., sulfadiazine). Trimethoprim-sulfamethoxazole (TMP-SMX) is also used and may be preferred for its availability. Adjunctive corticosteroids may be used for local inflammation (ocular, cerebral abscess). Maintenance therapy is necessary for immunocompromised individuals until immune reconstitution. Treatment recommendations in pregnancy vary, with spiramycin often used in early pregnancy and pyrimethamine-sulfonamide in later stages if antenatal diagnosis is positive. Adverse effects include bone marrow suppression (pyrimethamine), rash/hepatitis (sulfadiazine), and diarrhea (clindamycin).",
+    "prevention": "Prevention of primary T. gondii infection involves hygienic measures: thoroughly cooking meat (or freezing raw meat at -20°C for at least 3 days), washing hands and surfaces after handling raw meat or soil, and thoroughly washing fruits and vegetables. For cat owners, changing litter boxes every 2 days (preferably by another person, wearing mask/gloves) and keeping cats indoors fed commercial food are advised. These recommendations are also crucial for seronegative immunocompromised patients. Some countries implement serologic screening for pregnant women, with monthly testing to detect peripartum infection and prevent congenital toxoplasmosis. In France, serologic testing is repeated monthly until delivery, with a final sample 2-3 weeks postpartum."
+  },
+  "tables": [
+    {
+      "title": "TABLE 106.1 Interpretation of Toxoplasma Antibody Tests",
+      "headers": [
+        "IgG Result",
+        "IgM Result",
+        "Report/Interpretation for Humans*"
+      ],
+      "rows": [
+        [
+          "Negative",
+          "Negative",
+          "No serologic evidence of infection with Toxoplasma."
+        ],
+        [
+          "Negative",
+          "Equivocal",
+          "Possible early acute infection or false-positive IgM reaction. Obtain a new specimen for IgG and IgM testing. If results for the second specimen remain the same, the patient is probably not infected with Toxoplasma."
+        ],
+        [
+          "Negative",
+          "Positive",
+          "Possible acute infection or false-positive IgM result. Obtain a new specimen for IgG and IgM testing. If results for the second specimen remain the same, the IgM reaction is probably a false-positive."
+        ],
+        [
+          "Equivocal",
+          "Negative",
+          "Indeterminate: obtain a new specimen for testing or retest this specimen for IgG in a different assay."
+        ],
+        [
+          "Equivocal",
+          "Equivocal",
+          "Indeterminate: obtain a new specimen for both IgG and IgM testing."
+        ],
+        [
+          "Equivocal",
+          "Positive",
+          "Possible acute infection with Toxoplasma. Obtain a new specimen for IgG and IgM testing. If results for the second specimen remain the same or if the IgG becomes positive, both specimens should be sent to a reference laboratory with experience in diagnosis of toxoplasmosis for further testing."
+        ],
+        [
+          "Positive",
+          "Negative",
+          "Chronically infected with Toxoplasma (not acute)."
+        ],
+        [
+          "Positive",
+          "Equivocal",
+          "Probably chronically infected with Toxoplasma or false-positive IgM reaction. Obtain a new specimen for IgM testing. If results with the second specimen remain the same, both specimens should be sent to a reference laboratory with experience in the diagnosis of toxoplasmosis for further testing."
+        ],
+        [
+          "Positive",
+          "Positive",
+          "Possible recent infection or false-positive IgM reaction. Send the specimen to a reference laboratory with experience in the diagnosis of toxoplasmosis for further testing."
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 106.2 Current Treatment Recommendations for Toxoplasmosis",
+      "headers": [
+        "Clinical Syndrome",
+        "Recommended Drug Regimen",
+        "Comments",
+        "Alternative Drug Regimen",
+        "Comments",
+        "References"
+      ],
+      "rows": [
+        [
+          "Asymptomatic infection or mild illness",
+          "No treatment",
+          "Exception is pregnant women (see text). Mild illness resolves spontaneously.",
+          "Spiramycin 1 gram (about 3-4 million Units) orally three times a day (adult)",
+          "Spiramycin is not an FDA-approved drug.",
+          "[42]"
+        ],
+        [
+          "Severe illness (visceral involvement or severe or persistent symptoms)",
+          "Adults: 200 mg of pyrimethamine given for 1 day as a loading dose followed by 50-75 mg per day plus 1-1.5 g sulfadiazine four times per day. Treatment may be indicated for 2-4 wk.",
+          "To avoid the hematologic toxicity of pyrimethamine, folinic acid (leucovorin) is administered in a dose of 5-10 mg daily for adults and 1 mg daily for children.",
+          "If sulfa allergic or intolerant then use pyrimethamine plus clindamycin at 600 mg orally or intravenously four times daily.",
+          "TMP-SMX 10 mg/kg/day (trimethoprim component) in 2-3 doses",
+          ""
+        ],
+        [
+          "Encephalitis in HIV-infected patients with AIDS",
+          "Adults: 200 loading mg of pyrimethamine given for 1 day followed by 50-75 mg per day plus sulfadiazine at 100-150 mg/kg (e.g., 4-6 g/day for an adult in 1-1.5 g four times per day plus folinic acid [leucovorin] 5-10 mg with each dose of pyrimethamine) Children: pyrimethamine 1 mg/kg plus sulfadiazine 100-150 mg/kg given in four divided daily doses. To avoid the hematologic toxicity of this regimen, folinic acid is administered in a dose of 25 mg daily for adults and 7.5 mg for children daily for children.",
+          "Pyrimethamine penetrates the brain even in the absence of inflammation. Adjunctive corticosteroids (e.g., dexamethasone) should be administered to patients with TE when clinically indicated only for treatment of a mass effect associated with focal lesions or associated edema. Anticonvulsants should be administered to patients with TE who have a history of seizures, but should not be administered as prophylaxis to all patients. Anticonvulsants, if administered, be continued at least through the period of acute therapy. Acute therapy for TE should be continued for at least 6 wk, if there is clinical and radiologic improvement. Longer courses might be appropriate if clinical or radiologic disease is extensive or response is incomplete at 6 wk. Because of the potential immunosuppressive effects of corticosteroids, they should be discontinued as soon as clinically feasible. Patients receiving corticosteroids should be monitored closely for the development of other Ols, including CMV retinitis and TB disease.",
+          "The preferred alternative regimen for patients who are unable to tolerate or who fail to respond to first-line therapy is pyrimethamine plus clindamycin plus leucovorin TMP/SMX is 10/50 mg/kg/day given bid, or 15/75 mg/kg/day. Atovaquone at 1500 mg orally bid plus pyrimethamine.",
+          "Add folinic acid if mental status is altered and until clinical improvement is seen (generally 3-5 days). If the patient is comatose, treatment is initially given intravenously at the same dose. TMP-SMX was reported in a small (77 patients) randomized trial to be effective and better tolerated than pyrimethamine- sulfadiazine. Great inter- individual variability in drug atovaquone absorption.",
+          "[43, 44]"
+        ],
+        [
+          "Maintenance therapy in the immunocompromised",
+          "Pyrimethamine 25-50 mg daily plus sulfadiazine 2-4 g daily plus leucovorin 5 mg/kg daily",
+          "Suppressive treatment should be continued for duration of immunosuppression. Regimen also protects against Pneumocystis jirovecii pneumonia. All HIV-positive patients with positive Toxoplasma serology and CD4 T lymphocyte counts less than 200/μL. If CD4 counts are above 200/µL and viral load is controlled, maintenance therapy can be stopped.",
+          "Clindamycin 300-450 mg three times daily. TMP/SMX, give half the treatment dose, 5 mg/kg/day trimethoprim component. Dapsone at 50 mg daily plus pyrimethamine 50 mg/week and leucovorin 10 mg/week 750 mg atovaquone twice daily.",
+          "",
+          ""
+        ],
+        [
+          "Pregnant women",
+          "Spiramycin is traditionally used during the first and second trimesters in pregnant women who seroconverted during the first trimester of pregnancy. The dose is 3-4 g daily in divided doses. Pyrimethamine/ sulfadiazine and leucovorin (for late-second and third trimesters) for women with acute T. gondii infection diagnosed at a reference laboratory during gestation.",
+          "Pyrimethamine is teratogenic and should not be used in the first trimester.",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Congenital toxoplasmosis in the neonate",
+          "Pyrimethamine plus a sulfonamide, given to the neonate for 3-12 mo depending on the severity of the disease and local recommendations. Sulfadiazine can be replaced by sulfadoxine with an intake every 10 days.",
+          "No uniform or consensus recommendations.",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Ocular toxoplasmosis",
+          "Combination pyrimethamine- sulfonamide (same regimen as used in immunocompromised) and corticosteroids depending of the intensity of local inflammation (hyalitis).",
+          "Maintenance therapy with TMP/SMX should be given if a lesion is considered vision-threatening or for mono-ocular patients. Long-term maintenance treatment reduces the rate of recurrence. The best regimen is not determined, but should be one tablet (80 mg/400 mg) per day if adequately tolerated.",
+          "Many other drug combinations are cited in the literature, principally pyrimethamine plus a macrolide, but there is no randomized study evaluating these regimens against TMP/SMX.",
+          "",
+          "[45, 46]"
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 106.2 Current Treatment Recommendations for Toxoplasmosis",
+      "headers": [
+        "Clinical Syndrome",
+        "Recommended Drug Regimen",
+        "Comments",
+        "Alternative Drug Regimen",
+        "Comments",
+        "References"
+      ],
+      "rows": [
+        [
+          "Asymptomatic infection or mild illness",
+          "No treatment",
+          "Exception is pregnant women (see text). Mild illness resolves spontaneously.",
+          "Spiramycin 1 gram (about 3-4 million Units) orally three times a day (adult)",
+          "Spiramycin is not an FDA-approved drug.",
+          "[42]"
+        ],
+        [
+          "Severe illness (visceral involvement or severe or persistent symptoms)",
+          "Adults: 200 mg of pyrimethamine given for 1 day as a loading dose followed by 50-75 mg per day plus 1-1.5 g sulfadiazine four times per day. Treatment may be indicated for 2-4 wk.",
+          "To avoid the hematologic toxicity of pyrimethamine, folinic acid (leucovorin) is administered in a dose of 5-10 mg daily for adults and 1 mg daily for children.",
+          "If sulfa allergic or intolerant then use pyrimethamine plus clindamycin at 600 mg orally or intravenously four times daily.",
+          "TMP-SMX 10 mg/kg/day (trimethoprim component) in 2-3 doses",
+          ""
+        ],
+        [
+          "Encephalitis in HIV-infected patients with AIDS",
+          "Adults: 200 loading mg of pyrimethamine given for 1 day followed by 50-75 mg per day plus sulfadiazine at 100-150 mg/kg (e.g., 4-6 g/day for an adult in 1-1.5 g four times per day plus folinic acid [leucovorin] 5-10 mg with each dose of pyrimethamine) Children: pyrimethamine 1 mg/kg plus sulfadiazine 100-150 mg/kg given in four divided daily doses. To avoid the hematologic toxicity of this regimen, folinic acid is administered in a dose of 25 mg daily for adults and 7.5 mg for children daily for children.",
+          "Pyrimethamine penetrates the brain even in the absence of inflammation. Adjunctive corticosteroids (e.g., dexamethasone) should be administered to patients with TE when clinically indicated only for treatment of a mass effect associated with focal lesions or associated edema. Anticonvulsants should be administered to patients with TE who have a history of seizures, but should not be administered as prophylaxis to all patients. Anticonvulsants, if administered, be continued at least through the period of acute therapy. Acute therapy for TE should be continued for at least 6 wk, if there is clinical and radiologic improvement. Longer courses might be appropriate if clinical or radiologic disease is extensive or response is incomplete at 6 wk. Because of the potential immunosuppressive effects of corticosteroids, they should be discontinued as soon as clinically feasible. Patients receiving corticosteroids should be monitored closely for the development of other Ols, including CMV retinitis and TB disease.",
+          "The preferred alternative regimen for patients who are unable to tolerate or who fail to respond to first-line therapy is pyrimethamine plus clindamycin plus leucovorin TMP/SMX is 10/50 mg/kg/day given bid, or 15/75 mg/kg/day. Atovaquone at 1500 mg orally bid plus pyrimethamine.",
+          "Add folinic acid if mental status is altered and until clinical improvement is seen (generally 3-5 days). If the patient is comatose, treatment is initially given intravenously at the same dose. TMP-SMX was reported in a small (77 patients) randomized trial to be effective and better tolerated than pyrimethamine- sulfadiazine. Great inter- individual variability in drug atovaquone absorption.",
+          "[43, 44]"
+        ],
+        [
+          "Maintenance therapy in the immunocompromised",
+          "Pyrimethamine 25-50 mg daily plus sulfadiazine 2-4 g daily plus leucovorin 5 mg/kg daily",
+          "Suppressive treatment should be continued for duration of immunosuppression. Regimen also protects against Pneumocystis jirovecii pneumonia. All HIV-positive patients with positive Toxoplasma serology and CD4 T lymphocyte counts less than 200/μL. If CD4 counts are above 200/µL and viral load is controlled, maintenance therapy can be stopped.",
+          "Clindamycin 300-450 mg three times daily. TMP/SMX, give half the treatment dose, 5 mg/kg/day trimethoprim component. Dapsone at 50 mg daily plus pyrimethamine 50 mg/week and leucovorin 10 mg/week 750 mg atovaquone twice daily.",
+          "",
+          ""
+        ],
+        [
+          "Pregnant women",
+          "Spiramycin is traditionally used during the first and second trimesters in pregnant women who seroconverted during the first trimester of pregnancy. The dose is 3-4 g daily in divided doses. Pyrimethamine/ sulfadiazine and leucovorin (for late-second and third trimesters) for women with acute T. gondii infection diagnosed at a reference laboratory during gestation.",
+          "Pyrimethamine is teratogenic and should not be used in the first trimester.",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Congenital toxoplasmosis in the neonate",
+          "Pyrimethamine plus a sulfonamide, given to the neonate for 3-12 mo depending on the severity of the disease and local recommendations. Sulfadiazine can be replaced by sulfadoxine with an intake every 10 days.",
+          "No uniform or consensus recommendations.",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Ocular toxoplasmosis",
+          "Combination pyrimethamine- sulfonamide (same regimen as used in immunocompromised) and corticosteroids depending of the intensity of local inflammation (hyalitis).",
+          "Maintenance therapy with TMP/SMX should be given if a lesion is considered vision-threatening or for mono-ocular patients. Long-term maintenance treatment reduces the rate of recurrence. The best regimen is not determined, but should be one tablet (80 mg/400 mg) per day if adequately tolerated.",
+          "Many other drug combinations are cited in the literature, principally pyrimethamine plus a macrolide, but there is no randomized study evaluating these regimens against TMP/SMX.",
+          "",
+          "[45, 46]"
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 106.2 Current Treatment Recommendations for Toxoplasmosis",
+      "headers": [
+        "Clinical Syndrome",
+        "Recommended Drug Regimen",
+        "Comments",
+        "Alternative Drug Regimen",
+        "Comments",
+        "References"
+      ],
+      "rows": [
+        [
+          "Asymptomatic infection or mild illness",
+          "No treatment",
+          "Exception is pregnant women (see text). Mild illness resolves spontaneously.",
+          "Spiramycin 1 gram (about 3-4 million Units) orally three times a day (adult)",
+          "Spiramycin is not an FDA-approved drug.",
+          "[42]"
+        ],
+        [
+          "Severe illness (visceral involvement or severe or persistent symptoms)",
+          "Adults: 200 mg of pyrimethamine given for 1 day as a loading dose followed by 50-75 mg per day plus 1-1.5 g sulfadiazine four times per day. Treatment may be indicated for 2-4 wk.",
+          "To avoid the hematologic toxicity of pyrimethamine, folinic acid (leucovorin) is administered in a dose of 5-10 mg daily for adults and 1 mg daily for children.",
+          "If sulfa allergic or intolerant then use pyrimethamine plus clindamycin at 600 mg orally or intravenously four times daily.",
+          "TMP-SMX 10 mg/kg/day (trimethoprim component) in 2-3 doses",
+          ""
+        ],
+        [
+          "Encephalitis in HIV-infected patients with AIDS",
+          "Adults: 200 loading mg of pyrimethamine given for 1 day followed by 50-75 mg per day plus sulfadiazine at 100-150 mg/kg (e.g., 4-6 g/day for an adult in 1-1.5 g four times per day plus folinic acid [leucovorin] 5-10 mg with each dose of pyrimethamine) Children: pyrimethamine 1 mg/kg plus sulfadiazine 100-150 mg/kg given in four divided daily doses. To avoid the hematologic toxicity of this regimen, folinic acid is administered in a dose of 25 mg daily for adults and 7.5 mg for children daily for children.",
+          "Pyrimethamine penetrates the brain even in the absence of inflammation. Adjunctive corticosteroids (e.g., dexamethasone) should be administered to patients with TE when clinically indicated only for treatment of a mass effect associated with focal lesions or associated edema. Anticonvulsants should be administered to patients with TE who have a history of seizures, but should not be administered as prophylaxis to all patients. Anticonvulsants, if administered, be continued at least through the period of acute therapy. Acute therapy for TE should be continued for at least 6 wk, if there is clinical and radiologic improvement. Longer courses might be appropriate if clinical or radiologic disease is extensive or response is incomplete at 6 wk. Because of the potential immunosuppressive effects of corticosteroids, they should be discontinued as soon as clinically feasible. Patients receiving corticosteroids should be monitored closely for the development of other Ols, including CMV retinitis and TB disease.",
+          "The preferred alternative regimen for patients who are unable to tolerate or who fail to respond to first-line therapy is pyrimethamine plus clindamycin plus leucovorin TMP/SMX is 10/50 mg/kg/day given bid, or 15/75 mg/kg/day. Atovaquone at 1500 mg orally bid plus pyrimethamine.",
+          "Add folinic acid if mental status is altered and until clinical improvement is seen (generally 3-5 days). If the patient is comatose, treatment is initially given intravenously at the same dose. TMP-SMX was reported in a small (77 patients) randomized trial to be effective and better tolerated than pyrimethamine- sulfadiazine. Great inter- individual variability in drug atovaquone absorption.",
+          "[43, 44]"
+        ],
+        [
+          "Maintenance therapy in the immunocompromised",
+          "Pyrimethamine 25-50 mg daily plus sulfadiazine 2-4 g daily plus leucovorin 5 mg/kg daily",
+          "Suppressive treatment should be continued for duration of immunosuppression. Regimen also protects against Pneumocystis jirovecii pneumonia. All HIV-positive patients with positive Toxoplasma serology and CD4 T lymphocyte counts less than 200/μL. If CD4 counts are above 200/µL and viral load is controlled, maintenance therapy can be stopped.",
+          "Clindamycin 300-450 mg three times daily. TMP/SMX, give half the treatment dose, 5 mg/kg/day trimethoprim component. Dapsone at 50 mg daily plus pyrimethamine 50 mg/week and leucovorin 10 mg/week 750 mg atovaquone twice daily.",
+          "",
+          ""
+        ],
+        [
+          "Pregnant women",
+          "Spiramycin is traditionally used during the first and second trimesters in pregnant women who seroconverted during the first trimester of pregnancy. The dose is 3-4 g daily in divided doses. Pyrimethamine/ sulfadiazine and leucovorin (for late-second and third trimesters) for women with acute T. gondii infection diagnosed at a reference laboratory during gestation.",
+          "Pyrimethamine is teratogenic and should not be used in the first trimester.",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Congenital toxoplasmosis in the neonate",
+          "Pyrimethamine plus a sulfonamide, given to the neonate for 3-12 mo depending on the severity of the disease and local recommendations. Sulfadiazine can be replaced by sulfadoxine with an intake every 10 days.",
+          "No uniform or consensus recommendations.",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Ocular toxoplasmosis",
+          "Combination pyrimethamine- sulfonamide (same regimen as used in immunocompromised) and corticosteroids depending of the intensity of local inflammation (hyalitis).",
+          "Maintenance therapy with TMP/SMX should be given if a lesion is considered vision-threatening or for mono-ocular patients. Long-term maintenance treatment reduces the rate of recurrence. The best regimen is not determined, but should be one tablet (80 mg/400 mg) per day if adequately tolerated.",
+          "Many other drug combinations are cited in the literature, principally pyrimethamine plus a macrolide, but there is no randomized study evaluating these regimens against TMP/SMX.",
+          "",
+          "[45, 46]"
+        ]
+      ]
+    }
+  ],
+  "figures": [],
+  "references": []
+}

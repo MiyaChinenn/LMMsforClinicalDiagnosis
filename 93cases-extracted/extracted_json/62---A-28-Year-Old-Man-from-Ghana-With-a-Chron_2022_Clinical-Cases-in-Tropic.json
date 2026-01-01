@@ -1,0 +1,60 @@
+{
+  "patient_information": "A 28-year-old West African man from Ghana.",
+  "chief_complaint": "A painful ulcer on his left ankle.",
+  "history_of_present_illness": "The ulcer has been present for 4 months and is not healing; he had a previous ulcer on his right ankle some years ago which took about a year to heal, and he also complains of pain in his right thigh and in both knees.",
+  "exposure_and_epidemiology": "In the West African context, sickle cell disease is the most likely diagnosis for hereditary haemolytic anaemias.",
+  "vitals": "Temperature 36.6°C, pulse 88 bpm, blood pressure 110/70 mmHg.",
+  "physical_exam": "The patient is short for an adult, pale, and has a tinge of jaundice; the ulcer is on his left ankle, next to the medial malleolus, with hyperpigmented skin surrounding it; there is tenderness in both knee joints and his right thigh.",
+  "labs_and_diagnostics": "A full blood count and peripheral blood film were done, a sickling test was positive, haemoglobin electrophoresis showed a homozygous HbSS-type, a wound swab grew Pseudomonas species sensitive to levofloxacin, and radiography showed a periosteal reaction with slightly sclerotic bones.",
+  "differential_diagnosis": "Venous ulcer, hereditary haemolytic anaemias (thalassaemia, sickle cell disease, spherocytosis, pyruvate kinase deficiency), tropical ulcer, diabetic ulcer, chronic osteomyelitis, Buruli ulcer, other mycobacterial infections, pyoderma gangrenosum, and malignant diseases.",
+  "management_and_clinical_course": "Managed with alternate daily wound dressing using normal saline irrigation and povidone-iodine, systemic antibiotic treatment for Pseudomonas, conservative management of recurrent bone pain with good hydration, treatment of infections, daily folic acid supplementation, and pain relief with paracetamol and tramadol; however, the ulcer was still not healed after 3 and 6 years, and skin grafting was under consideration.",
+  "final_diagnosis": "Sickle cell disease with a chronic ankle ulcer.",
+  "disease_name_short": "Sickle Cell Disease",
+  "tables": [
+    {
+      "title": "Laboratory Results",
+      "headers": [
+        "Parameter",
+        "Patient initial visit",
+        "Patient 6 years later",
+        "Reference Range"
+      ],
+      "rows": [
+        [
+          "WBC (\nx\n109/L)",
+          "17.6",
+          "9.2",
+          "4-10"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "6.9",
+          "8.3",
+          "13-15"
+        ],
+        [
+          "Platelet (\nx\n109/L)",
+          "Adequate",
+          "364",
+          "150-400"
+        ],
+        [
+          "Fasting blood glucose (mmol/L)",
+          "4.8",
+          "Not done",
+          "4.4-6.1"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "extracted_images/62---A-28-Year-Old-Man-from-Ghana-With-a-Chron_2022_Clinical-Cases-in-Tropic/page1_img1.jpeg",
+      "caption": "The patient's left leg showing an ulcer surrounded by hyperpigmented skin on the medial malleolus."
+    },
+    {
+      "file_name": "extracted_images/62---A-28-Year-Old-Man-from-Ghana-With-a-Chron_2022_Clinical-Cases-in-Tropic/page2_img1.jpeg",
+      "caption": "Patient's blood film: irreversibly sickled cells (S), polychromasia (P), target cells (TC), nucleated red cells (NRC) – note similarity with lymphocyte (L). Adequate platelets."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 35-year-old male farmer from the Peruvian highlands, presenting to a reference hospital in Lima.",
+  "chief_complaint": "A 2-month history of a slowly growing ulcer and multiple painless nodules on his left arm.",
+  "history_of_present_illness": "Two months prior to presentation, the patient sustained a scratch on his left hand from a tree branch, developing a small painless erythematous papule that progressed to a pustule, then new pustules and ulceration, followed by painless firm nodules on his left forearm, with no improvement from antibiotics, traditional medicines, or empirical pentavalent antimonials.",
+  "exposure_and_epidemiology": "The patient is a farmer who sustained a scratch on his left hand from a tree branch while working in the fields; he denied recent contact with animals or travel.",
+  "vitals": "Normal, afebrile.",
+  "physical_exam": "Single ulcerative lesion (20 × 30 mm) with irregular elevated borders on the left hand, and multiple subcutaneous erythematous nodules (10 × 10 mm) along the lymphatic tract of the left arm; the rest of the physical examination is normal.",
+  "labs_and_diagnostics": "WBC 4.5 × 10^9/L (normal differential), hemoglobin 11.3g/dL; normal full blood count otherwise. Chest x-ray was normal, PPD skin test negative. Direct microscopy for leishmania was negative, leishmanin skin test was negative, and mycobacterial cultures were negative. Culture of ulcer scraping and nodule aspiration was positive for S. schenckii.",
+  "differential_diagnosis": "Cutaneous leishmaniasis, sporotrichosis, mycobacterial infection by Mycobacterium tuberculosis or M. marinum, nocardiosis (Nocardia brasiliensis), and tularaemia (Francisella tularensis).",
+  "management_and_clinical_course": "Empirical treatment with a 20-day course of pentavalent antimonials for cutaneous leishmaniasis showed no improvement. Diagnostic workup included microscopy (Gram, Giemsa, Ziehl-Neelsen stains), culture, PCR for Leishmania, Mycobacterium, and Sporothrix schenckii from ulcer scraping, biopsy, and nodule aspiration, chest radiography, and PPD skin test. Following diagnosis, the patient was treated with itraconazole 200 mg/day orally for 8 months, resulting in resolution of lesions and cure.",
+  "final_diagnosis": "Lymphocutaneous sporotrichosis.",
+  "disease_name_short": "Sporotrichosis",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "extracted_images/34---A-35-Year-Old-Male-Farmer-from-Peru-With-a-Chro_2022_Clinical-Cases-in-/page1_img1.jpeg",
+      "caption": "Initial ulcerated lesion on the left hand. Note the pustular lesion near the ulcer."
+    },
+    {
+      "file_name": "extracted_images/34---A-35-Year-Old-Male-Farmer-from-Peru-With-a-Chro_2022_Clinical-Cases-in-/page2_img1.jpeg",
+      "caption": "Multiple subcutaneous nodules along the lymphatic tract."
+    }
+  ]
+}

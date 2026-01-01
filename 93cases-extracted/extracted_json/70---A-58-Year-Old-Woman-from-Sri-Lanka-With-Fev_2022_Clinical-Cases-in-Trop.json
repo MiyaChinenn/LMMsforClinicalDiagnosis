@@ -1,0 +1,101 @@
+{
+  "patient_information": "A 58-year-old Sri Lankan woman residing in a rural area.",
+  "chief_complaint": "High-grade fever, chills, body aches, non-productive cough, progressive shortness of breath, tinnitus, hearing loss, and confusion.",
+  "history_of_present_illness": "Patient presented with fever, chills, body aches, non-productive cough, and progressive shortness of breath for 10 days, followed by tinnitus and hearing loss 2 days prior to admission, and increasing confusion 1 day prior to admission.",
+  "exposure_and_epidemiology": "Patient resides in a rural area in Sri Lanka, where scrub typhus is common; infection is caused by Orientia tsutsugamushi transmitted by an infected chigger (trombiculid mite), whose larvae are found in various habitats, with rodents as reservoirs.",
+  "vitals": "Temperature 39.3\nD7C (102.7\nD7F), heart rate 120 bpm, blood pressure 90/60 mmHg, Glasgow Coma Scale score of 13/15 (E4 V4 M5).",
+  "physical_exam": "Confused, severely impaired hearing (WHO grade 3), enlarged axillary lymph nodes on the right side, no rash, no neck stiffness, negative Kernig's and Brudzinski's signs, scattered crackles over both lung bases, liver enlarged to 5 cm below the right costal margin, and palpable spleen.",
+  "labs_and_diagnostics": "Blood cultures showed no organisms; Leptospira and Salmonella serologies were negative; thick film for malaria parasites was negative. Chest radiography showed no pathological changes; ECG showed sinus tachycardia; EEG revealed widespread slowing; CT scan of the brain was normal. Laboratory and cerebrospinal fluid results are detailed in tables 70.1 and 70.2.",
+  "differential_diagnosis": "Scrub typhus, other rickettsial infections, leptospirosis, Salmonella, malaria, and undifferentiated febrile illness.",
+  "management_and_clinical_course": "On day 2, patient developed coarse tremors, saccadic eye oscillations, and GCS decreased to 8; a crater-like lesion was found in the right axilla; Doxycycline therapy was commenced, leading to improvement within 48 hours; patient was discharged on day 6 with normal hearing and no neurological deficits.",
+  "final_diagnosis": "Scrub typhus, supported by high O. tsutsugamushi IFA-IgG titre (>1:4096).",
+  "disease_name_short": "Scrub Typhus",
+  "tables": [
+    {
+      "title": "Laboratory Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "WBC (x 10^9/L)",
+          "8.5",
+          "4-10"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "12.4",
+          "12-16"
+        ],
+        [
+          "Platelets (\nD7 10^9/L)",
+          "98",
+          "150-350"
+        ],
+        [
+          "AST (U/L)",
+          "74",
+          "13-33"
+        ],
+        [
+          "ALT (U/L)",
+          "68",
+          "3-25"
+        ],
+        [
+          "ALP (U/L)",
+          "126",
+          "40-130"
+        ],
+        [
+          "Total bilirubin (\nD5mol/L)",
+          "25.7",
+          "13.7-30.8"
+        ],
+        [
+          "Blood urea nitrogen (mmol/L)",
+          "6.4",
+          "2.5-6.4"
+        ],
+        [
+          "Creatinine (\nD5mol/L)",
+          "123.8",
+          "71-106"
+        ],
+        [
+          "C-reactive protein (mg/L)",
+          "48",
+          "<6"
+        ]
+      ]
+    },
+    {
+      "title": "Cerebrospinal Fluid Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "Leukocytes (cells/\nD5L)",
+          "35 (80% lymphocytes)",
+          "0-5/\nD5L"
+        ],
+        [
+          "Protein (g/L)",
+          "0.64",
+          "0.15-0.45"
+        ],
+        [
+          "Glucose (mmol/L)",
+          "3.25*",
+          "50-75% of serum glucose"
+        ]
+      ]
+    }
+  ],
+  "images": []
+}

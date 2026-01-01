@@ -1,0 +1,15 @@
+{
+  "patient_information": "A 62-year-old woman from rural Ethiopia, normally fit and well, physically active, working on a smallholding in Ethiopia, flew to Europe to visit her daughter and meet her new grandchild.",
+  "chief_complaint": "Difficulty chewing, described as 'stiffness of the mouth', started three days after arrival in Europe.",
+  "history_of_present_illness": "Three days after arriving in Europe, the patient began to experience difficulty chewing, which she described as 'stiffness of the mouth'. This had never happened before.",
+  "exposure_and_epidemiology": "Risk factors for early tetanus include agricultural work and being from a country and age group where vaccination is unlikely to have occurred. The time between high-risk injury and symptoms is often unknown in agricultural populations.",
+  "vitals": "Her pulse, blood pressure, and respiratory rate were within normal limits.",
+  "physical_exam": "No abnormal findings were discovered on examination, and her physical examination was unremarkable.",
+  "labs_and_diagnostics": "An ESR was suggested to exclude giant cell arteritis (GCA); no results were reported. The diagnosis of tetanus is purely clinical.",
+  "differential_diagnosis": "Early tetanus and giant cell arteritis (GCA).",
+  "management_and_clinical_course": "On day 1, the woman received metronidazole and antitoxin. On day 2, she presented again with two generalized spasms. Over the next 2 days, she was nursed in a dark, quiet environment, but her spasms increased in frequency, severity, and duration over the next 5 days, and she developed dysphagia. She was treated with diazepam and intrathecal antitoxin, and a prophylactic tracheotomy was performed. Her symptoms did not worsen after 7 days, she did not require paralysis or ventilation, and her respiration was not severely compromised. She made a slow recovery over 3 weeks and experienced residual stiffness 3 months later.",
+  "final_diagnosis": "Tetanus, specifically generalized tetanus with trismus and spasms.",
+  "disease_name_short": "Tetanus",
+  "tables": [],
+  "images": []
+}

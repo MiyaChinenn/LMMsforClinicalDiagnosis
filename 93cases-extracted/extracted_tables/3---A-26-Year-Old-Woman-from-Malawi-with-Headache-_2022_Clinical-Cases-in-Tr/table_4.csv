@@ -1,0 +1,21 @@
+Pillar,Criteria
+Clinical Criteria,Symptom duration >5 days
+Clinical Criteria,"Systemic symptoms suggestive of tuberculosis (one or more of the following): weight loss (or poor weight gain in children), night sweats, or persistent cough for more than 2 weeks"
+Clinical Criteria,History of close contact with an individual with pulmonary tuberculosis or a positive tuberculin skin test within the past year
+Clinical Criteria,Focal neurological deficit
+Clinical Criteria,Cranial nerve palsy
+Clinical Criteria,Altered consciousness
+CSF Criteria,Clear appearance
+CSF Criteria,Leukocytes: 10-500/μL
+CSF Criteria,Lymphocytic predominance (>50%)
+CSF Criteria,Protein concentration > 1 g/L
+CSF Criteria,CSF to plasma-glucose ratio <50% or absolute CSF glucose concentration <2.2 mmol/L
+Neuroimaging Criteria,Hydrocephalus
+Neuroimaging Criteria,Basal meningeal enhancement
+Neuroimaging Criteria,Tuberculoma
+Neuroimaging Criteria,Infarct
+Neuroimaging Criteria,Pre-contrast basal hyperdensity
+Evidence of TB Elsewhere,Chest radiography suggestive of active TB
+Evidence of TB Elsewhere,"Evidence for TB outside the CNS on CT, MRI or ultrasound"
+Evidence of TB Elsewhere,"AFB identified or M. tuberculosis cultured from another source (sputum, lymph node, gastric washing, urine, blood culture)"
+Evidence of TB Elsewhere,Positive commercial M. tuberculosis-PCR from extraneural specimen

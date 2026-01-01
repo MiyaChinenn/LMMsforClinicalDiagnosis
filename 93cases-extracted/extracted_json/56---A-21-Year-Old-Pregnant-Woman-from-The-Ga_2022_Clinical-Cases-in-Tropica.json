@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 21-year-old woman from The Gambia, 32 weeks pregnant with her first pregnancy, and no significant past medical history.",
+  "chief_complaint": "Generalized, non-itchy rash for 5 days.",
+  "history_of_present_illness": "The patient developed a generalized, non-itchy rash 5 days prior to presentation, involving the palms of both hands; she was otherwise well and had no significant past medical history.",
+  "exposure_and_epidemiology": "The patient is from The Gambia. Syphilis in pregnancy affects pregnancy outcomes, and screening pregnant women for syphilis is crucial for prevention of adverse outcomes.",
+  "vitals": "not reported",
+  "physical_exam": "Generalized macular rash on the palms of both hands, normal mouth, no lymphadenopathy, not anaemic or jaundiced, and general examination unremarkable.",
+  "labs_and_diagnostics": "not reported",
+  "differential_diagnosis": "Syphilis, given the generalized, non-itchy rash affecting the palms of the hands in a pregnant woman.",
+  "management_and_clinical_course": "The patient was treated with a single intramuscular dose of 2.4 million units of benzathine penicillin. Her infant also required a course of treatment for congenital syphilis (IM procaine penicillin 50000 units/kg daily for 10-14 days) due to the treatment occurring after 28 weeks' gestation. The patient made an uneventful recovery and delivered a normal infant at term.",
+  "final_diagnosis": "Syphilis (likely secondary syphilis, given the rash characteristics).",
+  "disease_name_short": "Syphilis",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "extracted_images/56---A-21-Year-Old-Pregnant-Woman-from-The-Ga_2022_Clinical-Cases-in-Tropica/page1_img1.jpeg",
+      "caption": "Generalized, non-itchy macular rash in a pregnant Gambian woman."
+    },
+    {
+      "file_name": "extracted_images/56---A-21-Year-Old-Pregnant-Woman-from-The-Ga_2022_Clinical-Cases-in-Tropica/page2_img1.jpeg",
+      "caption": "Congenital syphilis in a 3-month-old infant: desquamating lesion of the palms."
+    }
+  ]
+}

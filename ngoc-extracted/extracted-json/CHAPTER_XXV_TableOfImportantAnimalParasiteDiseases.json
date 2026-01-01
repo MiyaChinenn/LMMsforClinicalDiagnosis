@@ -1,0 +1,453 @@
+{
+  "history_of_present_illness": "Amoebic dysentery is the clinical manifestation. Details on symptom progression and other clinical features are not provided.",
+  "exposure_and_epidemiology": "The definitive host is man. The important reservoir is man in the carrier stage, shedding cysts in feces. Transmission occurs through ingestion of cysts present in contaminated food or water. Flies may also act as mechanical carriers.",
+  "vitals": "not reported",
+  "physical_exam": "not reported",
+  "labs_and_diagnostics": "not reported",
+  "differential_diagnosis": "not reported",
+  "management_and_clinical_course": "not reported",
+  "final_diagnosis": "Amoebic dysentery",
+  "disease_name_short": "AmoebicDysentery",
+  "tables": [
+    {
+      "title": "Protozoal Diseases",
+      "headers": [
+        "Parasite",
+        "Defin. host",
+        "Intermediate host",
+        "Important reservoir of virus",
+        "Transmission and pathogenicity"
+      ],
+      "rows": [
+        [
+          "Entamoeba histolytica.",
+          "Man.",
+          "Not required.",
+          "Man-carrier stage (feces).",
+          "Cysts in food or water. Flies may act as carriers. Ingestive. Amoebic dysentery."
+        ],
+        [
+          "Balantidium coli.",
+          "Man (hogs).",
+          "Not required.",
+          "Man-carrier stage (hogs).",
+          "Transmission probably same as for E. histolytica. Found in those having care of hogs. Ingestive. Balantidium dysentery. Anaemia."
+        ],
+        [
+          "Lamblia (Giardia) intestinalis.",
+          "Man (mice and rats).",
+          "Not required.",
+          "Man-carrier stage (mice and rats).",
+          "Transmission probably same as for E. histolytica. Rat feces on human food important. Ingestive. Lamblia dysentery. Giardiasis."
+        ],
+        [
+          "Spiroschaudinnia (Spironema) recurrentis, carteri, etc. (louse group.)",
+          "Louse (P. vestimenti).",
+          "Man.(*)",
+          "Man (blood).",
+          "Cyclical development in louse. Bite puncture contaminated by crushed louse. Relapsing fever."
+        ],
+        [
+          "Spiroschaudinnia (Spironema) duttoni, novyi. (Tick group.)",
+          "Tick (species of Ornithdorus or Argas).",
+          "Man.(*)",
+          "Man (blood).",
+          "Excretions of tick contaminating tick-bite. Tick fevers. Relapsing fever."
+        ],
+        [
+          "Treponema (pallidum and pertenue).",
+          "Man.",
+          "Not required.",
+          "Man.",
+          "T. pallidum. Usually venereal. Syphilis. T. pertenue. Flies or contact. Yaws."
+        ],
+        [
+          "Leptospira icterohaemorrhagiae.",
+          "Man (rat).",
+          "Not required.",
+          "Rat.",
+          "Common infection of rats. Present in blood. Excreted in urine. Ingestion. Weil’s disease."
+        ],
+        [
+          "Leptospira icteroides.",
+          "Mosquito (Stegomyia calopus)",
+          "Man.",
+          "Man (blood).",
+          "Cyclical development in mosquito—12 days. Inoculative. Yellow fever."
+        ]
+      ]
+    },
+    {
+      "title": "Protozoal Diseases (Continued)",
+      "headers": [
+        "Parasite",
+        "Defin. host",
+        "Intermediate host",
+        "Important reservoir of virus",
+        "Transmission and pathogenicity"
+      ],
+      "rows": [
+        [
+          "Leptospira morsus-muris.",
+          "Man (rat).",
+          "Not required.",
+          "Rat.",
+          "Man inoculated by bite of infected rat. Rat bite fever."
+        ],
+        [
+          "Trypanosoma gambiense and rhodesiense.",
+          "Fly (Glossina species)",
+          "Man.",
+          "Man—game animals? (blood).",
+          "Cyclical development in tsetse fly. Inoculative. Sleeping sickness."
+        ],
+        [
+          "Schizotrypanum cruzi.",
+          "Lamus megistus",
+          "Man.",
+          "Man.",
+          "Cyclical development in bug. Inoculative. Brazilian trypanosomiasis."
+        ],
+        [
+          "Leishmania (donovani, infantum, and tropica).",
+          "Not surely known.",
+          "Man.",
+          "Man.",
+          "L. donovani—Bed bug? kala-azar. L. infantum—dog flea? infantile leishmaniasis. L. tropicum—biting insects? Oriental sore; American leishmaniasis."
+        ],
+        [
+          "Plasmodium malariae, vivax and falciparum.",
+          "Mosquito (Anopheline species)",
+          "Man (with schizonts).",
+          "Man (blood) (with gametes).",
+          "Cyclical development in mosquito—12 days. Inoculative. Malaria."
+        ],
+        [
+          "Rickettsia prowazeki.",
+          "Man.",
+          "Louse (P. vestimenti).",
+          "Man (blood)",
+          "Cyclical development in louse. Bite puncture inoculated by louse feces. Typhus fever."
+        ],
+        [
+          "Dermacentroxenus rickettsi.",
+          "Man (goats, rodents, etc.).",
+          "Tick (Dermacentor andersoni). D. venustus.",
+          "Goats and rodents.",
+          "Excretions of tick contaminating tick-bite. Rocky Mountain fever."
+        ],
+        [
+          "Bartonella bacilliformis.",
+          "Man.",
+          "Unknown.",
+          "Man (blood)",
+          "Transmission unknown. Species of Phlebotomus suggested. Oroya fever."
+        ]
+      ]
+    },
+    {
+      "title": "Helminthic Diseases—Trematodes",
+      "headers": [
+        "Parasite",
+        "Defin. host",
+        "Intermediate host",
+        "Important reservoir of virus",
+        "Transmission and pathogenicity"
+      ],
+      "rows": [
+        [
+          "Clonorchis sinensis.",
+          "Man (cats, dogs and hogs).",
+          "1st, snail (Melania libertina)? and 2d, fish",
+          "Man.",
+          "Not definitely known. Eating raw fish. Ingestive. Human liver fluke disease."
+        ],
+        [
+          "Opisthorchis felineus.",
+          "Man (cats and dogs).",
+          "1st, mollusc. 2d, fish.",
+          "Cats and dogs.",
+          "Man infected by eating raw fish. Ingestive. Liver fluke disease."
+        ],
+        [
+          "Fasciolopsis buski.",
+          "Man (pig).",
+          "Possibly 1st, mollusc. Cercariae encyst on grass.",
+          "Hog.",
+          "Not definitely known. Intestinal Distomiasis."
+        ],
+        [
+          "Heterophyes heterophyes.",
+          "Man (dogs and cats).",
+          "1st, probably mollusc. 2d, probably fish.",
+          "Dogs and cats.",
+          "Not definitely known. Intestinal Distomiasis."
+        ],
+        [
+          "Paragonimus ringeri.",
+          "Man (dogs, cats and hogs).",
+          "1st, snail. 2d, crab.",
+          "Cats, dogs and hogs.",
+          "Eating raw crabs containing cercariae. Ingestive. Lung fluke disease."
+        ],
+        [
+          "Schistosoma haematobium.",
+          "Man.",
+          "Snail (Bullinus).",
+          "Man (urine).",
+          "Bathing or drinking water containing cercariae. Penetrative. Vesical bilharziasis."
+        ],
+        [
+          "Schistosoma mansoni.",
+          "Man.",
+          "Snail (Planorbis).",
+          "Man (feces).",
+          "Bathing or drinking water containing cercariae. Penetrative. Rectal bilharziasis."
+        ],
+        [
+          "Schistosoma japonicum.",
+          "Man.",
+          "Snail (Blanifordia).",
+          "Man (feces) domesticated animals).",
+          "Bathing or drinking water containing cercariae. Penetrative. Katayama disease."
+        ]
+      ]
+    },
+    {
+      "title": "Helminthic Diseases (Continued). Nematodes",
+      "headers": [
+        "Parasite",
+        "Defin. host",
+        "Intermediate host",
+        "Important reservoir of virus",
+        "Transmission and pathogenicity"
+      ],
+      "rows": [
+        [
+          "Filaria bancrofti.",
+          "Man.",
+          "Mosquito (various species).",
+          "Man infected (blood).",
+          "Indirect in mosquito. Mature larva penetrates skin. Elephantiasis, etc."
+        ],
+        [
+          "Loa loa (F. loa).",
+          "Man.",
+          "Fly. Species of Chrysops (mangrove flies).",
+          "Man infected (blood).",
+          "Probably indirect (cyclical) in Chrysops. Probably inoculative. Ocular filariasis, etc."
+        ],
+        [
+          "Acanthocheilonema perstans (F. perstans).",
+          "Man.",
+          "Not definitely known.",
+          "Man infected (blood).",
+          "Transmission by mosquitoes and ticks suggested. No pathogenicity."
+        ],
+        [
+          "Dracunculus medinensis.",
+          "Man.",
+          "Species of cyclops.",
+          "Man infected (subcutaneous tissue).",
+          "Larvae enter cyclops. Infected cyclops in drinking water. Ingestive. Guinea worm infection."
+        ],
+        [
+          "Onchocerca volvulus (F. volvulus).",
+          "Man.",
+          "Not definitely known.",
+          "Man (blood?).",
+          "Possibly Glossina. Subcutaneous tumor and lymphangitis."
+        ],
+        [
+          "Strongyloides stercoralis.",
+          "Man.",
+          "Not required.",
+          "Man (feces).",
+          "Parasitic filariform larva penetrates skin. Pathogenicity doubtful."
+        ],
+        [
+          "Necator americanus and Ancylostoma duodenale.",
+          "Man.",
+          "Not required.",
+          "Man (feces).",
+          "Encysted strongyloid larvae penetrate skin. Ancylostomiasis."
+        ],
+        [
+          "Trichinella spiralis.",
+          "Man (rat and hog).",
+          "Hog (man and rat).",
+          "Hog (muscle).",
+          "Encysted larva in raw or insufficiently cooked pork. Ingestive. Trichinosis."
+        ]
+      ]
+    },
+    {
+      "title": "Helminthic Diseases. Cestodes",
+      "headers": [
+        "Parasite",
+        "Defin. host",
+        "Intermediate host",
+        "Important reservoir of virus",
+        "Transmission and pathogenicity"
+      ],
+      "rows": [
+        [
+          "Dibothriocephalus latus.",
+          "Man.",
+          "1st, cyclops? 2d, fish.",
+          "Man (feces), dog and cats.",
+          "Eating raw fish containing pleocercoid larvae. Broad Russian tapeworm disease."
+        ],
+        [
+          "Hymenolepis nana.",
+          "Man.",
+          "Not required.",
+          "Children (feces).",
+          "Man intermediate and definitive host. Ingestive. Dwarf tapeworm disease."
+        ],
+        [
+          "Taenia saginata.",
+          "Man.",
+          "Cattle (ox).",
+          "Man (feces).",
+          "Eating insufficiently cooked beef containing cysticerci. Ingestive. Beef tapeworm disease."
+        ],
+        [
+          "Taenia solium.",
+          "Man.",
+          "Hog.",
+          "Man (feces).",
+          "Eating insufficiently cooked pork containing cysticerci. Ingestion. Pork tapeworm disease."
+        ],
+        [
+          "Taenia echinococcus.",
+          "Dog.",
+          "Man, sheep and hogs.",
+          "Dog (feces).",
+          "Dogs infected at abattoir. Hydatid disease."
+        ]
+      ]
+    },
+    {
+      "title": "Arthropodan Diseases",
+      "headers": [
+        "Parasite",
+        "Life history",
+        "Disease and manifestations and remarks"
+      ],
+      "rows": [
+        [
+          "Linguatula serrata (Linguatulidae).",
+          "Adult in nasal cavity of dogs, etc. Eggs in nasal mucus contaminate grass. Rabbits, cattle infected. Larvae in liver, lungs.",
+          "Porocephaliasis. Man may harbor adult or larva. Larvae usually in lungs or liver and do not seem to cause symptoms."
+        ],
+        [
+          "Porocephalus armillatus (Linguatulidae).",
+          "Adults in lungs of snakes. Eggs contaminate water or food. Larvae in liver, lungs, etc., of lions, monkeys, man, etc.",
+          "Porocephaliasis. Larvae wander in abdominal cavity or lungs in which latter they produce a chronic bronchitis which may resemble phthisis."
+        ],
+        [
+          "Demodex folliculorum (Demodicidae).",
+          "All stages passed within hair follicles or sebaceous cysts especially about nose. Adult may wander.",
+          "Demodectic acariasis. Causes a resistant itch in dogs. In man, may invade eyelids or meibomian glands, and has been reported as causing various forms of dermatitis."
+        ],
+        [
+          "Sarcoptes scabei (Sarcoptidae).",
+          "Female lives in burrow of skin giving off eggs which hatch into larvae.",
+          "Scabies. Burrows show as blackish lines, especially between fingers, flexor surfaces of arms and penis. Itching worse at night."
+        ],
+        [
+          "Pediculoides ventricosus (Tarsonemidae).",
+          "Female lives on wheat straw worm or grain moth. Larval mites develop inside mother.",
+          "Grain itch. The mites leave wheat straw or grain and attack harvesters or those sleeping on straw mattresses. Attack upper trunk, neck and arms. Erythematous or vesicular eruption with constitutional symptoms."
+        ],
+        [
+          "Microtrombidium pusillum (Trombidoidae).",
+          "Adults live in fields or woods. The larval mite lives on grasshoppers or small rodents.",
+          "Autumnal erythema. The larval mites known as red bug or jigger attack man causing a severe itch."
+        ],
+        [
+          "Dermanyssus gallinae (Gamasidae).",
+          "Mites live in chicken houses and feed on fowls.",
+          "Poultryman’s itch. The mites attack man producing eczematous dermatitis on backs of hands and forearms."
+        ],
+        [
+          "Dermacentor venustus (Ixodidae).",
+          "Adults live on cattle, sheep, etc. May bite man.",
+          "Tick paralysis. The bite of this tick or Ixodes holocyclus may produce paralysis in sheep. An ascending type of paralysis due to tick bites has been several times noted in man, chiefly in children."
+        ],
+        [
+          "Pediculus humanus (Insecta, Pediculidae).",
+          "Adults live on clothing or hair and feed on man.",
+          "Pediculosis—Phthiriasis. Produce skin irritation with later on pigmentation (Vagabondismus)."
+        ],
+        [
+          "Dermatophilus penetrans. (Sarcopsyllidae).",
+          "Impregnated female penetrates skin of man or animals, especially toes and feet.",
+          "Sandflea or chigoe infestation. Site of penetration shows as black spot with whitish induration surrounding it. Apt to form ulcers."
+        ]
+      ]
+    },
+    {
+      "title": "Arthropodan Diseases (Continued)",
+      "headers": [
+        "Parasite",
+        "Life history",
+        "Disease and manifestations and remarks"
+      ],
+      "rows": [
+        [
+          "Dermatobia cyaniventris (Oestridae: Bot Flies).",
+          "Eggs of fly become attached to mosquitoes or ticks. These latter bite man and larva penetrates skin.",
+          "A cutaneous myiasis. Larva at first club shaped (ver macaque), later worm shaped (torcel). Larva causes a swelling with black opening. May invade eye."
+        ],
+        [
+          "Hypoderma lineata (Oestridae).",
+          "Larvae of this or other flies burrow under skin.",
+          "Creeping eruption. Larva migrans. The burrows make zig-zag lines on face or soles of feet. Causes itching."
+        ],
+        [
+          "Chrysomyia macellaria, and C. dux Muscidae). Oestrus ovis (Oestridae).",
+          "Fly deposits eggs in nostrils. Larvae wander to nasal sinuses. May invade aural canal.",
+          "Screw worm infection. Nasal myiasis. Larvae in their wandering destroy tissues of nasal cavities, or of ear, and may cause death. May infest wounds or vagina. C. macellaria causes American nasal myiasis, C. dux causes Indian nasal myiasis and O. ovis causes African nasal myiasis."
+        ],
+        [
+          "Ochromyia (Cordylobia) anthropophaga (Muscidae).",
+          "An African fly, which deposits eggs on children and animals.",
+          "Larvae bore under skin, causing boil-like lesions with central opening. Larvae mature in two weeks."
+        ],
+        [
+          "Auchmeromyia luteola (Muscidae).",
+          "An African fly deposits eggs on floors of native huts. Larvae bite man.",
+          "Congo floor maggot. The bite is not painful."
+        ],
+        [
+          "Calliphora vomitoria and Lucilia caesar and L. serricata (Muscidae).",
+          "Blow and bluebottle flies, depositing eggs on tainted meats. Larvae may be found in feces.",
+          "Larvae may be cause of obscure abdominal conditions; may be found in nasal cavities, causing serious symptoms, or in ear."
+        ],
+        [
+          "Musca domestica (Muscidae).",
+          "Eggs presumably deposited near genitalia or ear.",
+          "Larvae have been found in male urethra and in the ear."
+        ],
+        [
+          "Sarcophaga carnaria (Sarcophagidae).",
+          "Viviparous. Larvae are deposited on decaying flesh (wounds, orifices of body).",
+          "Larvae gain access to wounds, nasal cavities, etc., at times causing death. Commonly found in intestinal myiases. May occur in vagina."
+        ],
+        [
+          "Anthomyia pluvialis (Anthomyidae).",
+          "Larvae deposited in body orifices.",
+          "Occasionally reported as found in ear."
+        ],
+        [
+          "Fannia canicularis (Anthomyidae).",
+          "Eggs deposited near external genitalia and larva penetrates urethra.",
+          "Symptoms of urinary irritation or obstruction. Has been found in gastro-intestinal tract."
+        ]
+      ]
+    }
+  ],
+  "images": []
+}

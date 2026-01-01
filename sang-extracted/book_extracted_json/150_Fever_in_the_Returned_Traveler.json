@@ -1,0 +1,542 @@
+{
+  "chapter_title": "Fever in the Returned Traveler",
+  "disease_name": "Fever in the Returned Traveler",
+  "section_summaries": {
+    "epidemiology": "Fever in returned travelers is largely associated with travel to low-income regions, where there is an increased risk of infections not typically seen in high-income countries. The epidemiology reflects individual traveler factors and a wide spectrum of etiologic pathogens. While some pathogens have a global distribution (e.g., influenza), others are localized to specific geographic locations. Malaria, dengue, and enteric fever are the most common tropical diagnoses. Key factors influencing risk include the purpose and duration of travel (e.g., individuals visiting friends and relations, long-stay travelers), immune status, and specific risk activities (e.g., freshwater swimming, unprotected sexual intercourse). Pathogen factors such as geographic distribution and incubation period also play a crucial role; for instance, most travelers become symptomatic within 21 days, though some pathogens have much longer incubation periods.",
+    "pathogenesis": "not discussed",
+    "clinical_manifestations": "Patients may present with undifferentiated fever or organ-specific symptoms like gastroenteritis or respiratory infection. Common symptoms across various infections include headache, myalgia, arthralgia, and malaise. Malaria can present with fever, confusion, seizures, reduced consciousness, hypoxia, tachypnea, and pulmonary edema. Enteric fever often involves headache, constipation/diarrhea, dry cough, and in severe cases, encephalopathy, gastrointestinal bleeding, or intestinal perforation. Rickettsial infections typically cause fever, headache, and myalgia, sometimes with an inoculation eschar, rash, and lymphadenitis. Arboviruses commonly result in systemic febrile illness, hemorrhagic fever, acute encephalitis, or polyarthralgia/arthritis. Other manifestations include fever with rash (e.g., dengue, chikungunya, Zika, secondary syphilis), jaundice (e.g., viral hepatitis, leptospirosis, malaria), abdominal pain (e.g., amebic liver abscess, enteric fever), and neurological symptoms like meningitis and encephalitis (e.g., cerebral malaria, Japanese encephalitis).",
+    "diagnosis": "Diagnosis requires a detailed travel history, including geographic destinations, dates of risk exposures, time of onset, and duration of symptoms. This helps in understanding the epidemiology of potential pathogens and estimating incubation periods. While many infections have similar clinical presentations, specific symptoms and signs (e.g., rash, eschar, hepatosplenomegaly, jaundice) can provide clues for differential diagnosis. Initial investigations for undifferentiated fever include malaria film and dipstick antigen tests (RDTs), complete blood count, blood cultures, liver function tests, serum save (for HIV and other serologies), EDTA sample for PCR, and urinalysis. Further specific studies (e.g., PCR for arboviral infections, serology for brucellosis, imaging for liver abscesses) are pursued based on the clinical picture and travel history. Malaria diagnosis relies on parasitic confirmation (smears, RDTs, or PCR), while viral hemorrhagic fevers are diagnosed by PCR of blood.",
+    "treatment": "Treatment strategies are specific to individual infections, with presumptive therapy sometimes initiated pending laboratory confirmation. For suspected malaria, parasitic confirmation is preferred over empiric treatment, though diagnostic facilities must ensure accurate and timely results. Amebic liver abscess is empirically treated with metronidazole or tinidazole, followed by a luminal amebicide to prevent relapse. Enteric fever, if strongly suspected, may be initiated with a parenteral third-generation cephalosporin (e.g., ceftriaxone), with ciprofloxacin or azithromycin used based on fluoroquinolone resistance. Leptospirosis is treated with penicillin or doxycycline. Rickettsial infections are typically treated empirically with doxycycline. Acute schistosomiasis is managed with praziquantel, often repeated, and corticosteroids may alleviate acute symptoms. For bacterial sepsis, especially in travelers from high-risk regions, extended-spectrum β-lactamase-producing gram-negative pathogens should be considered when selecting empiric antibiotics.",
+    "prevention": "not discussed"
+  },
+  "tables": [
+    {
+      "title": "Causes of Fever Associated With Geographic Areas and Specific Risk Factors",
+      "headers": [
+        "Risk Factor",
+        "Common",
+        "Occasional",
+        "Rare but Important"
+      ],
+      "rows": [
+        [
+          "GEOGRAPHIC AREA",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Sub-Saharan Africa",
+          "HIV-associated infections (including seroconversion)MalariaRickettsiae",
+          "Acute schistosomiasis (Katayama)Amebic liver abscessBrucellosisDengueEnteric feverMeningococcus",
+          "HistoplasmosisOther arbovirus (e.g., Rift Valley,West Nile fever, yellow fever)TrypanosomiasisViral hemorrhagic fever (Lassa,Ebola, Marburg, CCHF)Visceral leishmaniasis"
+        ],
+        [
+          "North Africa, Middle East, andMediterranean",
+          "",
+          "BrucellosisQ feverToscana (sandfly fever)MERS",
+          "Visceral leishmaniasis"
+        ],
+        [
+          "Eastern Europe and Scandinavia",
+          "",
+          "Lyme disease",
+          "HantavirusTick-borne encephalitisTularemia"
+        ],
+        [
+          "Central Asia",
+          "",
+          "Q feverRickettsiaSandfly fever",
+          ""
+        ],
+        [
+          "South Asia",
+          "DengueEnteric feverMalaria",
+          "ChikungunyaVisceral leishmaniasis",
+          "CCHFJapanese encephalitisOther arbovirus (Nipah virus)Rickettsiae"
+        ],
+        [
+          "Southeast Asia",
+          "ChikungunyaDengueZika (emerging)Enteric feverMalaria",
+          "LeptospirosisMelioidosis",
+          "HantavirusJapanese encephalitisOther arbovirusNipah virusParagonimiasisPenicilliosisScrub typhus"
+        ],
+        [
+          "North Australia",
+          "",
+          "DengueMurray ValleyQ feverRickettsiaeRoss River fever",
+          "Barmah ForestMelioidosis"
+        ],
+        [
+          "Latin America and Caribbean",
+          "DengueEnteric feverMalariaChikungunyaZika",
+          "BrucellosisParacoccidioidomycosisHistoplasmosisLeptospirosis",
+          "Acute trypanosomiasis (Chagas)Hanta virusYellow fever"
+        ],
+        [
+          "North America",
+          "",
+          "CoccidioidomycosisHistoplasmosisLyme diseaseRocky Mountain spotted fever",
+          "BabesiosisAnaplasmosisEhrlichiosisWest Nile fever"
+        ],
+        [
+          "SPECIFIC RISK FACTORS",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Game parks",
+          "African tick typhus",
+          "",
+          "AnthraxTrypanosomiasis"
+        ],
+        [
+          "Freshwater exposure",
+          "",
+          "Acute schistosomiasisLeptospirosis",
+          "MarburgRabies"
+        ],
+        [
+          "Caves",
+          "",
+          "Histoplasmosis",
+          "BlastomycosisCoccidioidomycosisHistoplasmosisPenicilliosis"
+        ],
+        [
+          "HIV",
+          "AmebiasisNon-typhoidal salmonellaTuberculosis",
+          "STI (e.g., syphilis)Visceral leishmaniasis",
+          ""
+        ]
+      ]
+    },
+    {
+      "title": "Incubation Periods of Infections",
+      "headers": [
+        "Incubation Period",
+        "Infection"
+      ],
+      "rows": [
+        [
+          "Short (<10 days)",
+          "Arboviral infections (e.g., dengue,chikungunya, Zika)Gastroenteritis, acute (bacterial, viral)MelioidosisMeningitis (bacterial, viral)Relapsing fever (Borrelia spp.)Respiratory tract infection (bacterial, viralincluding H1N1, avian influenza, and MERS)Rickettsial infection (e.g., tick typhus,scrub typhus)"
+        ],
+        [
+          "Medium (10-21 days)",
+          "Bacterial• Brucellosis• Enteric fever (typhoid and paratyphoid fever)• Leptospirosis• Melioidosis• Q fever (Coxiella burnetii)Fungal• Coccidioidomycosis• Histoplasmosis (can be as short as 3 days)Protozoal• Chagas disease, acute• Malaria (Plasmodium falciparum)• Trypanosoma rhodesienseViral• CMV, EBV, HIV, viral hemorrhagic fevers"
+        ],
+        [
+          "Long (>21 days)",
+          "Bacterial• Brucellosis• TuberculosisFluke• Schistosomiasis, acuteProtozoal• Amebic liver abscess• Malaria (including P. falciparum)• T. gambiense• Visceral leishmaniasisViral• HIV• Viral hepatitis (A-E)"
+        ]
+      ]
+    },
+    {
+      "title": "Infectious Causes of Fever and Jaundice",
+      "headers": [
+        "Hepatic",
+        "Post-hepatic",
+        "Hemolytic"
+      ],
+      "rows": [
+        [
+          "EBV, CMVEnteric fever (typhoid and paratyphoid)Hepatitis A-E*Leptospirosis (Weil's disease)Non-typhoidal Salmonella plus HIVP. falciparum malaria, severeRelapsing fevers (Borrelia spp.)Septicemia, including pneumococcal sepsisTyphusYellow fever and other viral hemorrhagic fevers",
+          "Ascending cholangitis (including occasionallyhelminths)",
+          "BartonellosisHemolytic-uremic syndrome (Shigella spp.,Escherichia coli)MalariaMycoplasma pneumoniaeSickle cell crisis with infective trigger"
+        ]
+      ]
+    },
+    {
+      "title": "Infectious Causes of Acute Fever and Rash or Ulcer",
+      "headers": [
+        "Rash",
+        "Infection"
+      ],
+      "rows": [
+        [
+          "Maculopapular",
+          "Arboviral infection (e.g., dengue,chikungunya, Zika)\"Childhood viral illness\" (e.g., measles,rubella, parvovirus)Drug hypersensitivity reactionFungal infection (papule/nodules) (e.g.,histoplasmosis, penicilliosis)Infectious mononucleosis group, e.g.,EBV, CMV, HIV seroconversionLeprosy (reaction)Rickettsial infection (e.g., tick typhus)SyphilisViral hemorrhagic fever (e.g., Ebola)"
+        ],
+        [
+          "Vesicular",
+          "Herpes simplex virus, disseminatedHerpes zoster virus (chickenpox ordisseminated zoster)Monkey poxRickettsial infection"
+        ],
+        [
+          "Erythroderma",
+          "DengueChikungunyaZikaStaphylococcal or streptococcal toxin-related syndromes (e.g., toxic shocksyndrome, scarlet fever)SunburnVibrio vulnificus"
+        ],
+        [
+          "Purpuric",
+          "Dengue hemorrhagic syndromeGonococcal infectionHerpes zoster virus, hemorrhagicMeningococcal infectionPlagueRickettsial infection, severeSevere sepsis ± disseminatedintravascular coagulationViral hemorrhagic fever (e.g., Lassa,Ebola, CCHF, Rift Valley fever)"
+        ],
+        [
+          "Pustule",
+          "Herpes simplex virus, disseminatedHerpes zoster virus (chickenpox ordisseminated zoster)PVL-associated Staphylococcus aureus"
+        ],
+        [
+          "Ulcer",
+          "Chancre: Trypanosoma rhodesiense,Yersinia pestis (bubonic plague)Eschar: African tick typhus, anthraxGenital ulcer: syphilis, herpes simplex virusSkin ulcer: anthrax, diphtheria, fungalinfection, superinfected bacterial ulcer,tropical ulcer, Buruli ulcer"
+        ]
+      ]
+    },
+    {
+      "title": "Infections Associated With Fever and Hepatomegaly, Splenomegaly, or Hepatosplenomegaly",
+      "headers": [
+        "Bacterial",
+        "Flukes",
+        "Protozoal",
+        "Viral",
+        "Non-infectious"
+      ],
+      "rows": [
+        [
+          "BrucellosisEnteric fever (typhoid and paratyphoid)LeptospirosisQ fever (Coxiella burnetii)Relapsing fever (borreliosis)Rickettsial infection (e.g., tick typhus)",
+          "FascioliasisSchistosomiasis, acute (Katayama syndrome)",
+          "Amebic liver abscessMalaria (acute)*TrypanosomiasisVisceral leishmaniasis*",
+          "DengueHepatitis, acute (A, B, E)HIV, CMV, or EBV seroconversion",
+          "Chronic myeloid leukemia*HemoglobinopathyLymphoma*Myelofibrosis*"
+        ]
+      ]
+    },
+    {
+      "title": "Infections Causing Chronic Fever (>14 Days)",
+      "headers": [
+        "Bacterial",
+        "Fungal",
+        "Helminth",
+        "Protozoal",
+        "Viral",
+        "Non-infectious"
+      ],
+      "rows": [
+        [
+          "BrucellosisInfective endocarditisEnteric fever (typhoid and paratyphoid)Pyogenic deep-seated abscessQ fever (Coxiella burnetii)Tuberculosis",
+          "CoccidioidomycosisCryptococcosisHistoplasmosisParacoccidioidomycosisPenicilliosis",
+          "Schistosomiasis, acute (Katayama syndrome)Strongyloides hyper-infestation syndrome",
+          "Amebic liver abscessToxoplasmosisVisceral leishmaniasis",
+          "HIV plus opportunistic infection",
+          "Autoimmune disordersDrugsMalignancyPulmonary embolusVasculitis"
+        ]
+      ]
+    },
+    {
+      "title": "Recommended Initial Investigations in Returning Travelers Presenting With (Undifferentiated) Fever*",
+      "headers": [
+        "Investigation",
+        "Guidance and Interpretation"
+      ],
+      "rows": [
+        [
+          "Malaria film and dipstickantigen test (RDT)",
+          "• Perform in all patients who have visited a tropical country within 1 year of presentation• The sensitivity of a thick film read by an expert is equivalent to that of an RDT; however, blood films arenecessary for speciation and parasite count• Three thick films/RDTs over 72 hours (as an outpatient if appropriate) should be performed to exclude malariawith confidence• Positive blood films (thick and thin) should be sent to the reference laboratory for confirmation• Patients returned from Asia (particularly Malaysia) with a high P. malariae parasite count should havethe potentially lethal P. knowlesi excluded by PCR"
+        ],
+        [
+          "Complete blood count",
+          "• Lymphopenia: common in viral infection (dengue, HIV) and typhoid• Eosinophilia (>0.45 × 10⁹/L): incidental findings or indicative of infectious (e.g., parasitic, fungal) or non-infectiouscause (see Table 150.8)• Thrombocytopenia: malaria, dengue, acute HIV, typhoid; also seen in severe sepsis"
+        ],
+        [
+          "Blood cultures",
+          "• Two sets should be taken before any antibiotic therapy• Sensitivity of up to 80% in typhoid• Notify the laboratory if the diagnosis of brucellosis is being considered"
+        ],
+        [
+          "Liver function tests",
+          "See Table 150.5"
+        ],
+        [
+          "Serum savet",
+          "• HIV testing should be offered to all patients, especially those with pneumonia, aseptic meningitis/encephalitis,diarrhea, viral hepatitis, mononucleosis-like syndrome, unexplained lymphadenopathy, fever, or blood dyscrasia• Other: consider a \"geographic panel\" for relevant other infections (e.g., arboviral, brucella, Q fever serology) ifindicated"
+        ],
+        [
+          "EDTA sample for PCR+",
+          "• Consider if other features suggestive of arboviral infection, VHF"
+        ],
+        [
+          "Urinalysis",
+          "• Proteinuria and hematuria in leptospirosis• Hemoglobinuria in malaria (rare)"
+        ],
+        [
+          "CXR ± liver U/S",
+          ""
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Diagnostic Tools and Presumptive Therapy by Geographic Area of Travel and Clinical Presentation",
+      "headers": [
+        "",
+        "SSA",
+        "SEA",
+        "SCA",
+        "ME/NA",
+        "SA",
+        "Diagnostics",
+        "Comments/empirical Rx"
+      ],
+      "rows": [
+        [
+          "Undifferentiated fever",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Amebic liver abscess",
+          "Common",
+          "",
+          "",
+          "",
+          "",
+          "Serology (>92% sensitive atpresentation): U/Sabdomen",
+          "Empirical tinidazole/metronidazole if suggestiveclinical and travel history with abscess onU/S. Serology is positive in 25% ofasymptomatic individuals in endemic areas"
+        ],
+        [
+          "Brucellosis",
+          "Common",
+          "",
+          "Common",
+          "Serious/very common",
+          "Rare",
+          "Extended BC, serology",
+          "Suspect if contact with livestock/unpasteurizedmilk.Discuss treatment with ID unit"
+        ],
+        [
+          "Chikungunya",
+          "Common",
+          "Serious/very common",
+          "Rare",
+          "",
+          "Common",
+          "PCR (1-4 d) or IgM (>5days)",
+          "Manage symptomatically as an outpatient"
+        ],
+        [
+          "Dengue",
+          "Rare",
+          "Serious/very common",
+          "Common",
+          "",
+          "Common",
+          "Dengue PCR (1-8 days postsymptom onset)IgM ELISA (>4 days)",
+          "Manage symptomatically as outpatient withdaily FBC unless high risk of shock (highhematocrit, falling platelets). Supportivemanagement but avoid aspirin. Vaccination(YF, JE, TBE) history required to interpretresults."
+        ],
+        [
+          "Enteric fever(typhoid/paratyphoid)",
+          "Serious/very common",
+          "Serious/very common",
+          "Serious/very common",
+          "Serious/very common",
+          "Serious/very common",
+          "BC (up to 80% sensitive in1st wk)",
+          "If clinically unstable Rx empirically withceftriaxone. If traveled from SSAciprofloxacin remains an alternative. Ifconfirmed sensitive switch to ciprofloxacin:if resistant use azithromycin empirically asoral follow-on agent. Rx 7 days."
+        ],
+        [
+          "HIV",
+          "Serious/very common",
+          "Common",
+          "Common",
+          "Common",
+          "Common",
+          "HIV (antigen and antibody)",
+          "Many rapid tests do not pick upseroconversion illness"
+        ],
+        [
+          "Leptospirosis",
+          "Common",
+          "Common",
+          "Rare",
+          "",
+          "Common",
+          "CSF + BC <5 daysEIA IgM >5 days",
+          "Rx on suspicion doxycycline/penicillin (may notbe helpful after jaundice developed).Transfer BC at room temp to reference lab"
+        ],
+        [
+          "Fever with rash",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Rickettsiae",
+          "Common",
+          "Common",
+          "Rare",
+          "Common",
+          "Rare",
+          "Acute phase + 3-6 wkserum",
+          "Consider empirical Rx doxycycline if exposureto ticks in game park, headache, fever+/- rash/eschar"
+        ],
+        [
+          "Schistosomiasis,acute",
+          "Serious/very common",
+          "Rare",
+          "Rare",
+          "",
+          "",
+          "Not helpful",
+          "Empirical Rx praziquantel if appropriatepresentation and exposure 4-8 wksprevious. Consider steroids."
+        ],
+        [
+          "Dengue",
+          "Rare",
+          "Serious/very common",
+          "Common",
+          "",
+          "Common",
+          "Dengue PCR (1-8 days postsymptom onset)IgM ELISA (>4 days)",
+          "Manage symptomatically as outpatient withdaily FBC unless high risk of shock (highhematocrit, falling platelets). Supportivemanagement but avoid aspirin. Vaccination(YF, JE, TBE) history required to interpretresults."
+        ],
+        [
+          "HIV",
+          "Serious/very common",
+          "Common",
+          "Common",
+          "Common",
+          "Common",
+          "HIV (antigen and antibody)",
+          "Many rapid tests do not pick upseroconversion illness"
+        ],
+        [
+          "Rickettsiae",
+          "Common",
+          "Common",
+          "Rare",
+          "Common",
+          "Rare",
+          "Acute phase + 3-6 wkserum",
+          "Consider empirical Rx doxycycline if exposureto ticks in game park, headache, fever+/- rash/eschar"
+        ],
+        [
+          "Schistosomiasis,acute",
+          "Serious/very common",
+          "Rare",
+          "Rare",
+          "",
+          "",
+          "Not helpful",
+          "Empirical Rx praziquantel if appropriatepresentation and exposure 4-8 wksprevious. Consider steroids"
+        ],
+        [
+          "VHF",
+          "Rare",
+          "Rare",
+          "Rare",
+          "Rare",
+          "Rare",
+          "PCR to ref lab",
+          "Always contact regional center. VHF are alsoendemic in South America (arenaviruses)and Europe/Asia (Crimean-Congohemorrhagic fever), however are rarelyencountered in travelers"
+        ],
+        [
+          "Fever with jaundice",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Leptospirosis",
+          "Common",
+          "Common",
+          "Rare",
+          "",
+          "Common",
+          "CSF + BC <5 daysEIA IgM >5 days",
+          "Rx on suspicion doxycycline/penicillin (may notbe helpful after jaundice has developed).Transfer BC at room temp to reference lab"
+        ],
+        [
+          "Viral hepatitis",
+          "Common",
+          "Common",
+          "Common",
+          "Common",
+          "Common",
+          "Anti-HAV IgM, HBsAg,anti-HEV IgM",
+          "Acute hepatitis C should also be considered inmen who have sex with men"
+        ],
+        [
+          "VHF",
+          "Rare",
+          "Rare",
+          "Rare",
+          "Rare",
+          "Rare",
+          "PCR to ref lab",
+          "Always contact regional center. VHF are alsoendemic in South America (arenaviruses)and Europe/Asia (Crimean-Congohemorrhagic fever), however are rarelyencountered in travelers"
+        ],
+        [
+          "Yellow fever",
+          "Common",
+          "",
+          "",
+          "",
+          "Common",
+          "EDTA (blood) +/- CSF forPCR; IgG/IgM serology",
+          "Require confirmation of YF vaccine history"
+        ],
+        [
+          "Fever with hepato (and/or) splenomegally",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Amebic liverabscess",
+          "Common",
+          "",
+          "",
+          "",
+          "",
+          "Serology (>92% sensitive atpresentation) U/Sabdomen",
+          "Empirical tinidazole/metronidazole if suggestiveclinical and travel history with abscess onU/S. Serology is positive in 25% individualsin endemic areas"
+        ],
+        [
+          "Brucellosis",
+          "Common",
+          "Rare",
+          "Common",
+          "Serious/very common",
+          "Rare",
+          "Extended BC, serology",
+          "Suspect if contact with livestock/unpasteurizedmilk.Discuss treatment with ID unit"
+        ],
+        [
+          "Trypanosomiasis",
+          "Rare",
+          "",
+          "",
+          "",
+          "",
+          "CSF + BC <5 daysEIA IgM >5 daysBlood film",
+          "Rx on suspicion doxycycline/penicillin (may notbe helpful after jaundice has developed).Transfer BC at room temp to reference labTravel to game parks in SSA; discuss withtropical center"
+        ],
+        [
+          "Visceral leishmaniasis",
+          "Serious/very common",
+          "Common",
+          "Serious/very common",
+          "Common",
+          "Serious/very common",
+          "Leishmaniasis serology,bone marrow",
+          "Travel to Mediterranean, Horn of Africa, Bihar,Nepal, Bangladesh, Brazil"
+        ]
+      ]
+    }
+  ],
+  "figures": [],
+  "references": []
+}

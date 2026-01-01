@@ -1,0 +1,20 @@
+{
+  "patient_information": "A 35-year-old Caucasian male, postal worker.",
+  "chief_complaint": "Fatigue and a rash on his neck that started as a papule 2 days earlier, associated with significant non-painful swelling and a pressure sensation in the neck.",
+  "history_of_present_illness": "The lesion began as a papule 2 days prior, associated with non-painful swelling and pressure sensation; patient experienced diaphoresis with mild confusion and headache; recalls a skin break 3 days prior while shaving; initially received one dose of a first-generation cephalosporin and discharged, but returned due to worsening malaise and neck swelling with mild difficulty breathing.",
+  "exposure_and_epidemiology": "Patient is a postal worker; no insect bite, animal contact, or foreign travel reported; later identified exposure through handling contaminated mail as a postal worker.",
+  "vitals": "Temperature is 36.9°C (98.4°F), pulse 118 bpm, blood pressure 138/90 mmHg, and respiratory rate 20 breath cycles per minute.",
+  "physical_exam": "Examination reveals a 2cm irregularly shaped, indurated non-tender patch on the left anterior neck with mild overlying erythema and several 2 to 3 mm vesicles; the main lesion has a 6 mm shallow ulceration; massive neck oedema making lymph nodes difficult to assess; neck circumference increased from 57cm at baseline to a peak of 81 cm.",
+  "labs_and_diagnostics": "Full blood count, Na+, K+, Cl¯ HCO3, BUN, creatinine and random glucose were normal except for a mildly elevated haemoglobin at 18.7g/dL; blood cultures initially grew gram-positive rods; Gram stain and culture of skin lesion obtained at second visit were negative for B. anthracis; stains for bacteria and IHC of skin biopsy showed abundant bacilli and B. anthracis antigens; serology revealed antibody to protective antigen in convalescent serum.",
+  "differential_diagnosis": "Bacterial ecthyma (Streptococcus pyogenes, Staphylococcus aureus), rickettsial diseases, necrotic arachnidism (bite by brown recluse spider), rat-bite fevers (Streptococcus moniliformis and Spirillum minus), ulceroglandular tularaemia, and bubonic plague, with cutaneous anthrax being the most important consideration in the setting of bioterrorism investigation.",
+  "management_and_clinical_course": "Initially given one dose of a first-generation cephalosporin; later admitted and received intravenous levofloxacin and ampicillin-sulbactam, and recovered; empirical antibacterial treatment with a quinolone or doxycycline is recommended while awaiting microbiological results for limited cutaneous infection.",
+  "final_diagnosis": "Cutaneous anthrax.",
+  "disease_name_short": "Anthrax",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "extracted_images/21---A-35-Year-Old-American-Man-With-Fatigue-_2022_Clinical-Cases-in-Tropica/page1_img1.jpeg",
+      "caption": "Papulovesicular lesion with extensive neck oedema 2 days after the onset of a small papule."
+    }
+  ]
+}

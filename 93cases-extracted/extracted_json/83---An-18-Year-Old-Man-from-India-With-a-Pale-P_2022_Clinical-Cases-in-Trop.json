@@ -1,0 +1,61 @@
+{
+  "patient_information": "An 18-year-old right-handed man from India.",
+  "chief_complaint": "A pale patch on his right arm and forearm with reduced sensation and mild numbness of the little finger.",
+  "history_of_present_illness": "An 18-year-old man from India noticed a pale patch on his right arm and forearm for 3 months; it was not itchy or painful but had reduced sensation in the affected area, along with mild numbness of the right little finger without weakness; no family history of skin problems was reported.",
+  "exposure_and_epidemiology": "The patient is from India, a leprosy-endemic country, where people are often advised to get pale patches checked due to concern about leprosy.",
+  "vitals": "not reported",
+  "physical_exam": "A 20 cm by 10 cm hypopigmented macule was observed on the outer aspect of the right arm extending to the forearm, with dry skin and reduced sensation within the affected area compared to normally pigmented skin; both ulnar nerves were palpable, but the right ulnar nerve was thickened, and reduced sensation was present on the tip and ulnar border of the right little finger, with no other neurological abnormalities.",
+  "labs_and_diagnostics": "No additional investigations were required due to the presence of two cardinal signs of leprosy; however, a skin biopsy (likely showing granulomatous dermatitis with destruction of cutaneous nerves) and slit-skin smears (likely negative) could be considered if available.",
+  "differential_diagnosis": "Common skin conditions causing hypopigmentation include pityriasis alba, pityriasis versicolor, seborrheic dermatitis, and nonspecific sequelae of inflammatory or traumatic processes such as dermatitis or burns; vitiligo causes depigmentation.",
+  "management_and_clinical_course": "The patient was diagnosed with paucibacillary leprosy and treated for 6 months with rifampicin and dapsone; sensory neuropathy was managed with oral prednisolone, initially 30 mg daily and gradually reduced by 5 mg each month; he was counseled about leprosy, infection risk, hand care, and trauma avoidance, leading to a full recovery.",
+  "final_diagnosis": "Paucibacillary leprosy.",
+  "disease_name_short": "Leprosy",
+  "tables": [
+    {
+      "title": "WHO Classification of Leprosy and Recommended Duration of Treatment",
+      "headers": [
+        "Classification",
+        "Number of Patches",
+        "Duration of Treatment"
+      ],
+      "rows": [
+        [
+          "Paucibacillary",
+          "<5",
+          "6 months"
+        ]
+      ]
+    },
+    {
+      "title": "WHO Treatment of Leprosy (2018)",
+      "headers": [
+        "",
+        "Once Monthly",
+        "All Other Days Daily"
+      ],
+      "rows": [
+        [
+          "Rifampicin",
+          "600 mg",
+          "-"
+        ],
+        [
+          "Clofazimine",
+          "300 mg",
+          "50 mg"
+        ],
+        [
+          "Dapsone",
+          "100 mg",
+          "100 mg"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "extracted_images/83---An-18-Year-Old-Man-from-India-With-a-Pale-P_2022_Clinical-Cases-in-Trop/page1_img1.jpeg",
+      "caption": "A hypopigmented macular skin lesion with reduced sensation on the right arm of an 18-year-old Indian male."
+    }
+  ]
+}

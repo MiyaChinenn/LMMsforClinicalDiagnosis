@@ -1,0 +1,98 @@
+{
+  "chapter_title": "117 Miscellaneous Filariae",
+  "disease_name": "Miscellaneous Filariae",
+  "section_summaries": {
+    "epidemiology": "Mansonella perstans is endemic throughout much of tropical Africa and along the Atlantic coast of South America, transmitted by Culicoides midges, with high prevalence in endemic areas. Mansonella ozzardi is restricted to Central America, South America, and the Caribbean islands, transmitted by Culicoides midges and Simulium amazonicum black flies, with humans as the only major reservoir. Mansonella streptocerca is limited to tropical rainforests of western and central Africa, transmitted by C. grahamii midges, showing focal prevalence up to 90%. Dirofilariasis has a worldwide distribution, with human infection influenced by the prevalence in natural hosts (e.g., dogs, raccoons) and exposure to mosquito vectors; pulmonary dirofilariasis is cosmopolitan, and subcutaneous dirofilariasis is reported worldwide.",
+    "pathogenesis": "Mansonella perstans is transmitted by biting Culicoides midges; larvae penetrate the skin and develop over 9-12 months into adult worms residing in pleural, peritoneal, pericardial, mesenteric, perirenal, and retroperitoneal cavities. Microfilariae are unsheathed, blood-circulating without periodicity, and some isolates harbor Wolbachia. Mansonella ozzardi is transmitted by Culicoides midges and Simulium amazonicum black flies; larvae mature into adult worms found in thoracic and peritoneal cavities and lymphatics. Microfilariae are unsheathed, circulating in skin and blood without periodicity, and M. ozzardi harbors Wolbachia. Mansonella streptocerca is transmitted by C. grahamii midges; larvae develop into adult worms in the dermis of the upper trunk and shoulder girdle, with small, unsheathed dermal microfilariae characterized by a sharp curving (shepherd's crook) of the posterior end. There are no published data on Wolbachia in M. streptocerca. Dirofilaria species are transmitted by mosquito vectors; all examined Dirofilaria harbor Wolbachia. In pulmonary dirofilariasis (D. immitis), parasites develop partially in the right ventricle before dying and being swept into small pulmonary arteries, without mature adult worms or microfilariae found in humans. In subcutaneous dirofilariasis, humans are not definitive hosts, adult worms are found but microfilariae are not detected.",
+    "clinical_manifestations": "Mansonella perstans infection is mostly asymptomatic, but can cause transient subcutaneous swellings, urticaria, pruritus, arthralgia, abdominal pain, fatigue, serositis, meningoencephalitis, neuropsychiatric disturbances, hepatitis, granulomatous conjunctival nodules, retinal lesions, and periorbital inflammation, with common eosinophilia and elevated serum IgE. Mansonella ozzardi infection is also mostly asymptomatic, but can manifest as urticaria, pruritic skin eruptions, edema, lymphadenopathy, articular pains, fever, headache, vertigo, pulmonary symptoms, and nummular keratitis, with common peripheral eosinophilia. Mansonella streptocerca clinical manifestations are restricted to the skin and lymph nodes, often asymptomatic, but can include chronic pruritus (especially over the shoulder girdle and thorax), dermal thickening, non-anesthetic hypopigmented macules, and axillary or inguinal adenopathy, with common peripheral blood eosinophilia. Dirofilariasis typically presents as asymptomatic coin lesions on chest radiography for pulmonary forms, or as a moving adult worm in the conjunctiva (with associated swelling and burning sensation) or small, painless (or painful, erythematous) subcutaneous nodules in various body parts for subcutaneous forms. Systemic signs are unusual.",
+    "diagnosis": "Diagnosis of Mansonella perstans involves detecting microfilariae in peripheral blood via thick smears or concentration techniques; anti-filarial antibody testing is generally positive but not species-specific, and PCR (research only) is more sensitive. For Mansonella ozzardi, definitive diagnosis is by demonstrating microfilariae in blood or skin snips, though morphological distinction from Onchocerca volvulus can be difficult; serology is not species-specific, and PCR is research-only. Mansonella streptocerca diagnosis is made by identifying microfilariae from skin snips or biopsies; PCR is more sensitive, serology is not helpful, and skin histology may be needed to distinguish lesions from early leprosy. Dirofilariasis diagnosis for pulmonary forms involves considering a coin lesion on radiography and definitive identification of the worm in a biopsy or autopsy specimen (filarial serology is not species-specific); histopathology shows a central zone of necrosis with a coiled worm in an artery lumen. For subcutaneous forms, definitive diagnosis is also by identification of the worm in biopsy. Species-specific PCR can identify and differentiate Dirofilaria species in tissues.",
+    "treatment": "Mansonella perstans infection is relatively refractory to most anti-filarial therapies, with best efficacy (37% microfilarial clearance) seen with a combination of DEC and mebendazole; doxycycline (200 mg daily for 6 weeks) is 100% effective in clearing microfilariae from Wolbachia-harboring strains. For Mansonella ozzardi, DEC and albendazole are ineffective, but ivermectin has shown resolution of clinical symptoms and reduction of microfilarial levels; doxycycline efficacy has not been studied. For Mansonella streptocerca, DEC (6 mg/kg/day for 14-21 days) kills both microfilariae and adult worms, but can cause transient clinical exacerbation (managed symptomatically); ivermectin reduces microfilarial levels but is not macrofilaricidal, and doxycycline use has not been explored. The only known treatment for dirofilariasis is surgical removal of the worm, which is often performed during diagnostic workup, but is not essential unless inflammation causes permanent damage (e.g., in the eye), as most worms die without treatment and are absorbed.",
+    "prevention": "not discussed"
+  },
+  "tables": [
+    {
+      "title": "TABLE 117.1 Characteristics of Mansonella and Dirofilaria Species That Infect Humans",
+      "headers": [
+        "Feature",
+        "M. perstans",
+        "M. ozzardi",
+        "M. streptocerca",
+        "D. immitis"
+      ],
+      "rows": [
+        [
+          "Distribution",
+          "Africa; South America",
+          "Central America; Caribbean",
+          "Africa",
+          "Worldwide"
+        ],
+        [
+          "Vector",
+          "Culicoides",
+          "Culicoides; Simulium",
+          "Culicoides",
+          "Mosquitoes"
+        ],
+        [
+          "Location of adult",
+          "Serosal cavities; mesentery, perirenal and retroperitoneal tissues",
+          "Serosal cavities; lymphatics",
+          "Dermis",
+          "Pulmonary; subcutaneous"
+        ],
+        [
+          "Size of adult",
+          "35-45 mm x 50-70 μm (male) 60-80 mm x 100-150 μm (female)",
+          "Unknown (male) 65-81 mm x 210-250 μm (female)",
+          "17 mm × 50 µm (males) 27 mm × 85 µm (females)",
+          "Varied"
+        ],
+        [
+          "Location of mf",
+          "Blood",
+          "Blood and skin",
+          "Skin",
+          "Varied"
+        ],
+        [
+          "Size of mf",
+          "3.5-4.5 µm × 100-200 μm",
+          "3-5 μm x 170-240 μm",
+          "2.5-5 μm x 180-240 μm",
+          "Varied"
+        ],
+        [
+          "Features of mf",
+          "No sheath Round terminal nucleus at tail tip",
+          "No sheath Cephalic space (2-6 µm) with two to three overlapping nuclei Caudal space (3-8 µm) with oval terminal nucleus",
+          "No sheath Cephalic space (3-5 µm) with four oval nuclei in single file followed by seven to ten smaller rounder nuclei Curved tail (shepherd's crook)",
+          "Not detected in humans"
+        ],
+        [
+          "Wolbachia",
+          "In some strains",
+          "Yes",
+          "Unknown",
+          "Yes"
+        ],
+        [
+          "mf periodicity",
+          "No",
+          "No",
+          "No",
+          "No"
+        ],
+        [
+          "mf, Microfilariae.",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ]
+    }
+  ],
+  "figures": [],
+  "references": []
+}
