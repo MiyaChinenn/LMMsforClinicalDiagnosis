@@ -1,6 +1,6 @@
 # Large Multimodal Models for Clinical Diagnosis
 
-AI-powered system to help clinicians diagnose tropical and infectious diseases using multimodal Retrieval-Augmented Generation (RAG) and model adaptation (fine-tuning).
+Built AI-powered diagnostic support system for tropical diseases using multimodal RAG and Fine-tune with dual-source knowledge base from structured clinical cases and disease references.
 
 ## Project Overview
 - **Goal**: Assist clinicians with differential diagnosis and management suggestions for tropical and infectious diseases.
@@ -37,5 +37,5 @@ AI-powered system to help clinicians diagnose tropical and infectious diseases u
 - **Evaluation**: Compare model-only vs. RAG (text + multimodal); measure diagnostic quality.
 - **Engineering**: CI/CD, experiment tracking, and deployment readiness.
 
-## Usage (placeholder)
-- Coming soon: setup instructions, environment, and run commands for training, retrieval, and inference.
+## Stack
+- PyTorch, HuggingFace, LLaVA, FAISS, BioClinicalBERT, CLIP, BitsAndBytesConfig, PIL, pandas, Jupyter, Google Colab, CUDA.
