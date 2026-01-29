@@ -6,12 +6,12 @@ Built AI-powered diagnostic support system for tropical diseases using multimoda
 Dr. Tran Duc Khanh
 
 ## Group Members
-Vo Tan Sang - 10422114
-Nguyen Thanh Tu - 10422080
-Luong Tieu Cuong - 10422089
-Nguyen Thanh Son - 10422072
-Nguyen Thien Nguyen - 10422059
-Nguyen Hoang Yen Ngoc - 10422056
+- Vo Tan Sang - 10422114
+- Nguyen Thanh Tu - 10422080
+- Luong Tieu Cuong - 10422089
+- Nguyen Thanh Son - 10422072
+- Nguyen Thien Nguyen - 10422059
+- Nguyen Hoang Yen Ngoc - 10422056
 
 ## Project Overview
 - **Goal**: Assist clinicians with differential diagnosis and management suggestions for tropical and infectious diseases.
