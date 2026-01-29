@@ -1,0 +1,259 @@
+{
+  "chapter_title": "105 Babesiosis",
+  "disease_name": "Babesiosis",
+  "section_summaries": {
+    "epidemiology": "Babesiosis is an emerging tick-borne infectious disease caused by hemoprotozoan parasites of the genus Babesia, primarily occurring in temperate climates across the Northern Hemisphere. In the United States, approximately 2000 cases are reported annually, mainly caused by Babesia microti in the Northeast and upper Midwest, with B. duncani on the Pacific Coast and B. divergens-like organisms elsewhere. The number of cases and geographic range have increased over two decades. In Europe, about 40 cases are linked to B. divergens, mostly in cattle-farming regions of France and Ireland, with isolated B. microti and B. venatorum cases elsewhere. In Asia, B. microti is documented in Taiwan, Japan, and mainland China; B. venatorum in Xinjiang and Heilongjiang; B. crassa-like organisms in Heilongjiang; and a novel Babesia sp. XXB/HangZhou in Zhejiang. B. microti has also been documented in Australia, Canada, and Mexico, with asymptomatic infections reported in Bolivia and Brazil (B. bovis or B. bigemina). Three cases were reported from Africa. Transmission primarily occurs via Ixodes ticks (I. scapularis for B. microti, I. ricinus for B. divergens/venatorum/microti, I. persulcatus for B. venatorum/microti/crassa, I. ovatus for B. microti) from May through September in endemic areas, typically 1-4 weeks after a tick bite. Blood transfusion is another significant route, accounting for over 200 cases, with symptoms developing 3-7 weeks post-transfusion. Rare cases of transmission from mother to fetus and through solid organ transplantation have also been reported.",
+    "pathogenesis": "After being deposited in the dermis by a tick, sporozoites of Babesia parasites enter the bloodstream and invade red blood cells. Inside the red blood cells, the parasitophagous membrane disappears, and sporozoites differentiate into trophozoites. These trophozoites then undergo binary fission, producing two to four merozoites. The release of merozoites causes host cell lysis, leading to anemia due to both direct destruction of infected red blood cells and clearance of uninfected red blood cells, along with suppression of erythropoiesis. Acute symptoms like fever, chills, and myalgia are likely triggered by inflammatory cytokines. Resolution of parasitemia depends on intact innate and adaptive immune responses. Antibodies are critical for parasite clearance in immunocompromised patients, though their role in immunocompetent individuals is less clear. The production of autoantibodies can exacerbate thrombocytopenia or prolong anemia.",
+    "clinical_manifestations": "Babesiosis symptoms commonly include fever, fatigue, chills, sweats, headache, and myalgia. Young and healthy individuals often experience mild or no symptoms, while the elderly or immunocompromised are at higher risk for severe illness. B. microti infection typically presents with a gradual onset of fatigue, followed by high fever (up to 40.9°C/105.6°F) and one or more of the aforementioned symptoms. Less common symptoms include arthralgia, anorexia, neck stiffness, non-productive cough, sore throat, nausea, and emotional lability, with vomiting, joint swelling, swollen glands, conjunctivitis, and photophobia being rare. Severe hemolytic anemia is indicated by dark urine and jaundice. Shortness of breath suggests pulmonary involvement or severe anemia. Severe babesiosis often requires hospitalization and can lead to complications such as acute respiratory distress syndrome, disseminated intravascular coagulation, congestive heart failure, renal failure, splenic infarct or rupture, and shock. B. duncani infection severity varies from asymptomatic to fatal, with symptoms similar to B. microti. B. divergens infection in asplenic patients typically causes fulminant illness characterized by high fever, shaking chills, intense sweats, headache, myalgia, lumbar and abdominal pain, dark urine, and jaundice. B. venatorum infection is usually mild but can be severe in splenectomized individuals.",
+    "diagnosis": "Babesiosis should be considered in symptomatic individuals from or travelers to endemic areas during late spring to early autumn, or in those who received a blood transfusion within the past 6 months. Physical examination often reveals fever, pallor or yellowish skin, and occasionally splenomegaly or hepatomegaly. Concurrent Lyme disease may present with an erythematous skin lesion, while abdominal pain or unexplained hypotension with increased heart rate may suggest splenic rupture. Routine laboratory tests show low hemoglobin, hematocrit, and red blood cell count, elevated reticulocyte count, low platelet count, and normal to slightly decreased leukocyte count with a 'left shift'. Neutropenia is common in infants (75%) and adults (33%). Hemolytic anemia is indicated by low haptoglobin and elevated lactate dehydrogenase. Moderate to severe cases may show elevated liver enzymes and bilirubin. Urinalysis can reveal hemoglobinuria, hematuria, urobilinogen, and proteinuria; elevated BUN and creatinine indicate renal compromise. Definitive diagnosis relies on microscopic analysis of Giemsa- or Wright-stained thin blood smears to visualize Babesia parasites (typically ring forms, sometimes pear-shaped merozoites or Maltese crosses). Thick smears are informative, but small Babesia parasites can be missed. If blood smears are negative but babesiosis is suspected, a Babesia polymerase chain reaction (PCR) test is ordered; real-time PCR can detect as few as 0.1 to 10 parasites/µL and allows speciation. A single positive serology cannot distinguish active from past infection. Thin blood smear, PCR, and serology are available from commercial and reference laboratories.",
+    "treatment": "Standard treatment for babesiosis is a 7- to 10-day course of oral atovaquone plus oral azithromycin, which is the recommended regimen and has fewer adverse effects than clindamycin plus quinine. Intravenous azithromycin can be used with oral atovaquone for severe babesiosis or in patients unable to take oral antibiotics. Intravenous clindamycin plus oral quinine is an alternative for severe babesiosis or if atovaquone plus azithromycin fails. If quinine intolerance or toxicity is a concern, clindamycin plus atovaquone (with or without azithromycin) is an option. Highly immunocompromised individuals, prone to persistent or relapsing babesiosis, require treatment for at least 6 consecutive weeks, including two parasite-negative weeks. Partial or complete exchange transfusion is recommended for high parasitemia (≥10%), severe anemia (hemoglobin <10 g/dL), or organ compromise (pulmonary, renal, or hepatic). Post-babesiosis warm autoimmune hemolytic anemia may require immunosuppressive drugs (e.g., prednisone) or blood transfusion. Despite treatment, B. microti infection can be fatal in 3-9% of hospitalized patients and 20% of transfusion-acquired or immunocompromised cases. B. duncani infection has been treated with clindamycin plus quinine. Severe B. divergens infection, common in asplenic patients, is managed with immediate exchange transfusion and clindamycin plus quinine. B. venatorum infections are treated with clindamycin plus quinine, often with exchange transfusion and hemodialysis for severe cases, or atovaquone plus azithromycin for mild cases.",
+    "prevention": "Currently, there is no vaccine available for human babesiosis, nor has an antibiotic regimen been proven effective for prophylaxis. Individuals residing in or traveling to endemic areas, especially those at higher risk for severe babesiosis, should avoid tick-infested environments. It is advised to use tick repellents such as DEET on exposed skin and to impregnate clothing with permethrin. After outdoor activities, thorough skin examination for ticks and careful removal with tweezers are recommended. In the United States, individuals with a history of babesiosis or who are seropositive for B. microti are permanently deferred from donating blood."
+  },
+  "tables": [
+    {
+      "title": "Diagnosis of babesiosis",
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "EPIDEMIOLOGY",
+          ""
+        ],
+        [
+          "",
+          "Residence in, or travel to, an area endemic for human babesiosis or its tick vectors"
+        ],
+        [
+          "",
+          "Tick bite within 1-4 weeks"
+        ],
+        [
+          "",
+          "Blood transfusion within 1 week to 6 months"
+        ],
+        [
+          "SYMPTOMS",
+          ""
+        ],
+        [
+          "",
+          "Typical (>80% of patients): fever, fatigue"
+        ],
+        [
+          "",
+          "Common (50%-80%): chills, sweats, headache, myalgia"
+        ],
+        [
+          "",
+          "Less common (20%-50%): arthralgia, anorexia, neck stiffness, non-productive cough, sore throat, nausea, emotional lability"
+        ],
+        [
+          "",
+          "Rare (<20%): vomiting, joint swelling, swollen glands, conjunctivitis, photophobia"
+        ],
+        [
+          "SIGNS ON PHYSICAL EXAMINATION",
+          ""
+        ],
+        [
+          "",
+          "Fever"
+        ],
+        [
+          "",
+          "Pallor, jaundice"
+        ],
+        [
+          "",
+          "Splenomegaly, hepatomegaly"
+        ],
+        [
+          "LABORATORY DIAGNOSTIC PROCEDURES",
+          ""
+        ],
+        [
+          "Confirmatory evidence of acute infection",
+          ""
+        ],
+        [
+          "",
+          "Visualization of Babesia parasites on peripheral blood smears"
+        ],
+        [
+          "",
+          "Amplification of Babesia DNA in blood using PCR"
+        ],
+        [
+          "",
+          "Four-fold rise in Babesia IgG antibody titers by IFA (seroconversion)"
+        ],
+        [
+          "Supportive evidence of acute infection",
+          ""
+        ],
+        [
+          "",
+          "Serum Babesia IgG antibody titers ≥1: 1024 by IFA"
+        ],
+        [
+          "IFA, Indirect fluorescence antibody assay; IgG, immunoglobulin G; PCR, polymerase chain reaction.",
+          ""
+        ]
+      ]
+    },
+    {
+      "title": "Treatment of babesiosis",
+      "headers": [
+        "Antibiotic",
+        "Patient",
+        "Route",
+        "Dose",
+        "Frequency"
+      ],
+      "rows": [
+        [
+          "ATOVAQUONE PLUS AZITHROMYCIN",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Atovaquone",
+          "Adult",
+          "PO",
+          "750 mg",
+          "Every 12 h"
+        ],
+        [
+          "",
+          "Child",
+          "PO",
+          "20 mg/kg",
+          "Every 12 h"
+        ],
+        [
+          "",
+          "",
+          "",
+          "(max. 750 mg/dose)",
+          ""
+        ],
+        [
+          "Azithromycin",
+          "Adult",
+          "PO",
+          "500 mg",
+          "On day 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "250 mg",
+          "On subsequent days"
+        ],
+        [
+          "",
+          "IV",
+          "500 mg",
+          "On day 1 and subsequent days"
+        ],
+        [
+          "",
+          "Child",
+          "PO",
+          "10 mg/kg",
+          "On day 1"
+        ],
+        [
+          "",
+          "",
+          "",
+          "(max. 500 mg/dose)",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "5 mg/kg",
+          "On subsequent days"
+        ],
+        [
+          "",
+          "",
+          "",
+          "(max. 250 mg/dose)",
+          ""
+        ],
+        [
+          "",
+          "IV",
+          "10 mg/kg",
+          "On day 1 and subsequent days"
+        ],
+        [
+          "",
+          "",
+          "",
+          "(max. 500 mg/dose)",
+          ""
+        ],
+        [
+          "CLINDAMYCIN PLUS QUININE",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Clindamycin",
+          "Adult",
+          "IV or PO",
+          "600 mg",
+          "Every 6-8 h"
+        ],
+        [
+          "",
+          "Child",
+          "IV or PO",
+          "Child: 7-10 mg/kg",
+          "Every 6-8 h"
+        ],
+        [
+          "",
+          "",
+          "",
+          "(max. 600 mg/dose)",
+          ""
+        ],
+        [
+          "Quinine",
+          "Adult",
+          "PO",
+          "650 mg",
+          "Every 6-8 h"
+        ],
+        [
+          "",
+          "Child",
+          "PO",
+          "8 mg/kg",
+          "Every 8 h"
+        ],
+        [
+          "",
+          "",
+          "",
+          "(max. 650 mg/dose)",
+          ""
+        ]
+      ]
+    }
+  ],
+  "figures": [],
+  "references": []
+}

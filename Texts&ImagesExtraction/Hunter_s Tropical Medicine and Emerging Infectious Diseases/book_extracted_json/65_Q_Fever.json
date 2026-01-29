@@ -1,0 +1,347 @@
+{
+  "chapter_title": "Anthrax",
+  "disease_name": "Anthrax",
+  "section_summaries": {
+    "epidemiology": "Anthrax is an acute bacterial zoonosis of herbivores caused by Bacillus anthracis. It is rare in developed countries but endemic in many developing nations (Africa, India, Southeast Asia, Middle East, parts of Europe and the Americas). Humans are infected via contact with animals or contaminated products (inoculation, ingestion, inhalation), or intentionally through spores. Annually, 20,000-100,000 human cases occur worldwide. Industrial acquisition accounts for ~80% of cutaneous anthrax and almost all inhalational anthrax in developed countries, often from imported animal products. Agricultural anthrax, from contact with infected animals, accounts for ~20% of cutaneous cases. Human-to-human transmission is very rare.",
+    "pathogenesis": "B. anthracis is a large, non-motile, gram-positive rod that produces highly resistant dormant spores in soil or culture, but not in vivo. Virulence factors include a poly-y-D-glutamic acid capsule (anti-phagocytic) and two protein exotoxins: edema toxin and lethal toxin, which interfere with cell function and innate immunity. Cutaneous anthrax results from spore inoculation into skin, germinating and multiplying locally, then disseminating hematogenously in 5-20% of untreated cases. Inhalational anthrax spores (1-5 \bµm) are ingested by alveolar phagocytes, transported to lymph nodes, germinate, and produce toxins, causing hemorrhagic edema and necrosis. Gastrointestinal anthrax follows ingestion of contaminated meat, leading to ulcers, hemorrhage, and edema in regional lymphatics. Septicemic anthrax involves generalized sepsis, vascular injury, widespread capillary thrombosis, circulatory failure, shock, and potentially hemorrhagic meningitis and cerebral edema.",
+    "clinical_manifestations": "Cutaneous anthrax (>95% of human infections) typically involves the face, neck, hands, and arms, with an incubation of 12 hours to 7 days. It begins as a papule, develops into a vesicle, then a black eschar, often surrounded by non-pitting, gelatinous edema (malignant edema), with mild systemic symptoms. Inhalational anthrax (<5% of cases) starts with non-specific flu-like symptoms (mild fever, malaise, fatigue, myalgia) for 1-5 days, progressing to severe respiratory distress, mediastinal widening, pleural effusions, and hemorrhagic meningitis in ~50% of cases. Oropharyngeal anthrax presents with sore throat, oral ulcers, dysphagia, and neck edema. Gastrointestinal anthrax causes generalized abdominal pain, anorexia, nausea, vomiting, and, in severe cases, hematemesis, ascites, bloody diarrhea, and shock, with an incubation of 2-5 days. Central nervous system anthrax (meningitis) typically follows bacteremia, presenting with fever, meningismus, rapidly deteriorating mental status, and often hemorrhagic spinal fluid.",
+    "diagnosis": "Differential diagnosis for cutaneous anthrax considers epidemiologic exposure, pruritic then painless lesion progression to a black eschar with extensive non-pitting edema. Inhalational anthrax initial symptoms resemble flu but lack upper respiratory symptoms; later stages show mediastinal widening on chest radiographs. Anthrax meningitis is differentiated from other bacterial meningitides or sub-arachnoid hemorrhage. Intestinal anthrax diagnosis requires appropriate epidemiologic history. Direct diagnosis involves identifying encapsulated bacilli from Gram/Giemsa-stained smears and culturing on sheep blood agar, confirmed by fluorescent antibody stains, bacteriophage susceptibility, and PCR. Serologic diagnosis (ELISA for protective antigen or capsule antibodies) is useful retrospectively. Rapid diagnostic tests for toxins and capsule in body fluids are being developed.",
+    "treatment": "Consensus treatment recommendations are available for adults and children. Uncomplicated cutaneous anthrax is treated for 7-10 days with oral fluoroquinolones (ciprofloxacin, levofloxacin, moxifloxacin) or doxycycline; clindamycin or penicillin are alternatives. Bioterrorism-related cutaneous anthrax requires 60 days of treatment. Systemic anthrax (including cutaneous with bacteremia, inhalational, and gastrointestinal) historically received high-dose IV penicillin, but current CDC guidelines recommend multi-drug IV antibiotics. If meningitis is suspected, three or more antimicrobials with good CNS penetration (fluoroquinolone, \bβ-lactam, protein synthesis inhibitor) are used for \b≥2 weeks. If meningitis is excluded, two or more antimicrobials (one bactericidal, one protein synthesis inhibitor) are used for \b≥2 weeks. Anti-toxins (raxibacumab, AIGIV, obiltoxaximab) are recommended for systemic anthrax. Supportive therapy, including pleural fluid drainage and possibly IV dexamethasone for meningitis, is also used.",
+    "prevention": "Post-exposure prophylaxis (PEP) for aerosolized B. anthracis spores involves 60 days of oral antibiotics (ciprofloxacin or doxycycline, with levofloxacin, moxifloxacin, or clindamycin as second-line) combined with three doses of anthrax vaccine (BioThrax) at 0, 2, and 4 weeks. Penicillins can be used if the strain is penicillin-susceptible. Human-to-human transmission is not observed for inhalational or gastrointestinal anthrax, requiring standard infection control. Respiratory isolation is needed if bloody sputum is present; contact and secretion precautions for untreated cutaneous or gastrointestinal anthrax."
+  },
+  "tables": [
+    {
+      "title": "TABLE 65.1 Treatment of Anthrax in Adults and Children",
+      "headers": [
+        "Cutaneous Anthrax",
+        "Systemic Anthrax With Possible or Confirmed Meningitis",
+        "Systemic Anthrax When Meningitis Has Been Excluded"
+      ],
+      "rows": [
+        [
+          "Ciprofloxacin 500 mg PO q12h",
+          "Ciprofloxacin 400 mg IV q8h",
+          "Ciprofloxacin 400 mg IV q8h"
+        ],
+        [
+          "or",
+          "or",
+          "or"
+        ],
+        [
+          "Doxycycline 100 mg PO q12h",
+          "Levofloxacin 750 mg IV q24h",
+          "Levofloxacin 750 mg IV q24h"
+        ],
+        [
+          "or",
+          "or",
+          "or"
+        ],
+        [
+          "Levofloxacin 750 mg PO q24h",
+          "Moxifloxacin 400 mg IV q24h",
+          "Moxifloxacin 400 mg IV q24h"
+        ],
+        [
+          "or",
+          "PLUS",
+          "or"
+        ],
+        [
+          "Moxifloxacin 400 mg PO q24h",
+          "Meropenem 2 g IV q8h",
+          "Meropenem 2 g IV q8h"
+        ],
+        [
+          "or",
+          "or",
+          "or"
+        ],
+        [
+          "Clindamycin 600 mg PO q8h",
+          "Imipenem 1 g IV q6h",
+          "Imipenem 1 g IV q6h"
+        ],
+        [
+          "or",
+          "or",
+          "or"
+        ],
+        [
+          "Amoxicillin (1) 1 g PO q8h",
+          "Doripenem 500 mg IV q8h",
+          "Doripenem 500 mg IV q8h"
+        ],
+        [
+          "or",
+          "or",
+          "or"
+        ],
+        [
+          "Penicillin VK(1) 500 mg PO q6h",
+          "Penicillin G(1) 4 million units IV q4h",
+          "Vancomycin 60 mg/kg/d IV divided q8h"
+        ],
+        [
+          "",
+          "or",
+          "or"
+        ],
+        [
+          "",
+          "Ampicillin(1) 3 g IV q6h",
+          "Penicillin G(1) 4 million units IV q4h"
+        ],
+        [
+          "",
+          "PLUS",
+          "or"
+        ],
+        [
+          "",
+          "Linezolid 600 mg IV q12h",
+          "Ampicillin(1) 3 g IV q6h"
+        ],
+        [
+          "",
+          "or",
+          "PLUS"
+        ],
+        [
+          "",
+          "Clindamycin 900 mg IV q8h",
+          "Clindamycin 900 mg IV q8h"
+        ],
+        [
+          "",
+          "or",
+          "or"
+        ],
+        [
+          "",
+          "Rifampin 600 mg IV q12h",
+          "Linezolid 600 mg IV q12h"
+        ],
+        [
+          "",
+          "or",
+          "or"
+        ],
+        [
+          "",
+          "Chloramphenicol 1 g IV q6-8h",
+          "Doxycycline 200 mg IV initially, then 100 mg IV q12h"
+        ],
+        [
+          "",
+          "",
+          "or"
+        ],
+        [
+          "",
+          "",
+          "Rifampin 600 mg IV q12h"
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 65.1 Treatment of Anthrax in Adults and Children-cont'd",
+      "headers": [
+        "Cutaneous Anthrax",
+        "Systemic Anthrax With Possible or Confirmed Meningitis",
+        "Systemic Anthrax When Meningitis Has Been Excluded"
+      ],
+      "rows": [
+        [
+          "Ciprofloxacin 30 mg/kg/day PO divided q12h (max 500 mg/dose)",
+          "Ciprofloxacin 30 mg/kg/day IV divided q8h (max 400 mg/dose)",
+          "Ciprofloxacin 30 mg/kg/day IV divided q8h (max 400 mg/dose)"
+        ],
+        [
+          "or",
+          "or",
+          "or"
+        ],
+        [
+          "Doxycycline <45 kg: 4.4 mg/kg/day PO divided q12h (max 100 mg/dose); \b≥45 kg: 100 mg/dose PO given q12h",
+          "Levofloxacin <50 kg: 16 mg/kg/day IV divided q12h (max 250 mg/dose); >50 kg: 500 mg IV given q24h",
+          "Meropenem 60 mg/kg/day IV divided q8h (max 2 g/dose)"
+        ],
+        [
+          "or",
+          "or",
+          "or"
+        ],
+        [
+          "Clindamycin 30 mg/kg/day PO divided q8h (max 600 mg/dose)",
+          "Moxifloxacin 3 mo to <2 yr: 12 mg/kg/day IV divided q12h (max 200 mg/dose); 2-5 yr: 10 mg/kg/day IV divided q12h (max 200 mg/dose); 6 to 11 yr: 8 mg/kg/day IV divided q12h (max 200 mg/dose); 12 to 17 yr, \b≥45 kg body weight: 400 mg IV q day; 12-17 yr, <45 kg body weight: 8 mg/kg/day IV divided q12h (max 200 mg/dose)",
+          "Levofloxacin <50 kg: 20 mg/kg/day IV divided q12h (max 250 mg/dose); >50 kg: 500 mg IV given q24h"
+        ],
+        [
+          "or",
+          "PLUS",
+          "or"
+        ],
+        [
+          "Levofloxacin (2) <50 kg: 16 mg/kg/day PO divided q12h (max 250 mg/dose); >50 kg: 500 mg PO given q24h",
+          "Meropenem 120 mg/kg/day IV divided q8h (max 2 g/dose)",
+          "Imipenem/cilastatin 100 mg/kg/day IV divided q6h (max 1 g/dose)"
+        ],
+        [
+          "or",
+          "or",
+          "or"
+        ],
+        [
+          "Amoxicillin (1) 75 mg/kg/day PO divided q8h (max 1 g/dose)",
+          "Imipenem/cilastatin 100 mg/kg/day IV divided q6h (max 1 g/dose)",
+          "Vancomycin 60 mg/kg/day IV divided q8h"
+        ],
+        [
+          "or",
+          "or",
+          "or"
+        ],
+        [
+          "Penicillin VK(1) 50-75 mg/kg/day PO divided q6 to 8 h",
+          "Doripenem 120 mg/kg/day IV divided q8h (max 1 g/dose)",
+          "Penicillin G(1) 400,000 U/kg/day IV divided q4h (max 4 MU/dose)"
+        ],
+        [
+          "",
+          "or",
+          "or"
+        ],
+        [
+          "",
+          "Vancomycin 60 mg/kg/day IV divided q8h",
+          "Ampicillin(1) 200 mg/kg/day IV divided q6h (max 3 g/dose)"
+        ],
+        [
+          "",
+          "or",
+          "PLUS"
+        ],
+        [
+          "",
+          "Penicillin G(1) 400,000 U/kg/day IV divided q4h (max 4 MU/dose)",
+          "Clindamycin 40 mg/kg/day IV divided q8h (max 900 mg/dose)"
+        ],
+        [
+          "",
+          "or",
+          "or"
+        ],
+        [
+          "",
+          "Ampicillin(1) 400 mg/kg/day IV divided q6h (max 3 g/dose)",
+          "Linezolid <12 years old: 30 mg/kg/day IV divided q8h; >12 years old: 30 mg/kg/day IV divided q12h (max 600 mg/dose)"
+        ],
+        [
+          "",
+          "PLUS",
+          "or"
+        ],
+        [
+          "",
+          "Linezolid <12 years old: 30 mg/kg/day IV divided q8h; >12 years old: 30 mg/kg/day IV divided q12h (max 600 mg/dose)",
+          "Doxycycline <45 kg: 4.4 mg/kg/day IV, loading dose (not to exceed 200 mg), then 4.4 mg/kg/day IV, divided q12h (max 100 mg/dose); \b≥45 kg: 200 mg IV loading dose, then 100 mg IV given q12h"
+        ],
+        [
+          "",
+          "or",
+          "or"
+        ],
+        [
+          "",
+          "Clindamycin 40 mg/kg/day IV divided q8h (max 900mg/dose)",
+          "Rifampin 20 mg/kg/day IV divided q12h (max 300 mg/dose)"
+        ],
+        [
+          "",
+          "or",
+          ""
+        ],
+        [
+          "",
+          "Rifampin 20 mg/kg/day IV divided q12h (max 300 mg/dose)",
+          ""
+        ],
+        [
+          "",
+          "or",
+          ""
+        ],
+        [
+          "",
+          "Chloramphenicol 100 mg/kg/day IV divided q6h",
+          ""
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 65.2 Post-exposure Prophylaxis After Bacillus anthracis Exposure in Adults and Children*",
+      "headers": [
+        "ADULTS",
+        "CHILDREN (1 MONTH OF AGE AND OLDER)"
+      ],
+      "rows": [
+        [
+          "Ciprofloxacin 500 mg PO q12h",
+          "Ciprofloxacin 30 mg/kg/day PO divided q12h (max 500 mg/dose)"
+        ],
+        [
+          "or",
+          "or"
+        ],
+        [
+          "Doxycycline 100 mg PO q12h",
+          "Doxycycline <45 kg: 4.4 mg/kg/day PO divided q12h (max 100 mg/dose); >45 kg: 100 mg/dose PO given q12h"
+        ],
+        [
+          "or",
+          "or"
+        ],
+        [
+          "Levofloxacin 750 mg PO q24h",
+          "Levofloxacin (2) <50 kg: 16 mg/kg/day PO divided q12h (max 250 mg/dose); >50 kg: 500 mg PO given q24h"
+        ],
+        [
+          "or",
+          "or"
+        ],
+        [
+          "Moxifloxacin 400 mg PO q24h",
+          "Clindamycin 30 mg/kg/day PO divided q8h (max 900 mg/dose)"
+        ],
+        [
+          "or",
+          "or"
+        ],
+        [
+          "Clindamycin 600 mg PO q8h",
+          "Amoxicillin (1) 75 mg/kg/day, PO divided q8h (max 1 g/dose)"
+        ],
+        [
+          "or",
+          "or"
+        ],
+        [
+          "Penicillin VK(1) 500 mg PO q6h",
+          "Penicillin VK(1) 50-75 mg/kg/day PO divided q6-8h"
+        ],
+        [
+          "or",
+          ""
+        ],
+        [
+          "Amoxicillin (1) 1 g PO q8h",
+          ""
+        ]
+      ]
+    }
+  ],
+  "figures": [],
+  "references": []
+}

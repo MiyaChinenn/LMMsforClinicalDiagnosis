@@ -1,0 +1,674 @@
+{
+  "chapter_title": "101 Malaria",
+  "disease_name": "Malaria",
+  "section_summaries": {
+    "epidemiology": "Malaria affects about 3 billion people globally, with 216 million cases and 445,000 deaths in 2016, primarily in sub-Saharan Africa. P. vivax accounts for 4% of global cases, rising to 41% outside Africa. Control efforts over the last two decades have reduced malaria mortality by 57%. Transmission is primarily through infected female Anopheles mosquitoes, but can also occur via blood transfusion or contaminated needles. Transmission intensity is influenced by vector abundance, longevity, temperature (optimal 20-30°C), rainfall, humidity, and proximity of human habitation to breeding sites. Changing conditions, such as irrigation schemes and new water reservoirs, can alter stable transmission patterns. The burden of severe disease has shifted from younger to older populations in some areas, and school-aged children are a significant reservoir for transmission.",
+    "pathogenesis": "Pathophysiological changes in malaria are mainly caused by blood-stage parasites, while exoerythrocytic stages, gametocytes, and sporozoites do not induce such changes. Infection begins with sporozoites invading hepatocytes, where asexual replication occurs asymptomatically. Merozoites are then released into the bloodstream, invading erythrocytes. P. falciparum and P. knowlesi can invade erythrocytes of any age, while P. vivax and P. ovale prefer younger cells and P. malariae prefers senescent ones. P. falciparum is unique due to sequestration, where late-stage parasitized erythrocytes bind to vascular endothelial cells in capillaries and venules of various organs, compromising blood flow. Fever is thought to result from schizont rupture. Anemia is caused by hemolysis, splenic clearance of infected RBCs, immune-mediated destruction of uninfected cells, bone marrow suppression, and dyserythropoiesis. Hypoglycemia results from parasite glucose consumption and inadequate hepatic gluconeogenesis, and can also be precipitated by antimalarial treatment. Metabolic acidosis is a significant marker of severity, often improving with effective IV treatment. Acute respiratory distress and acute kidney injury (more common in adults) are also observed, with renal failure linked to acute tubular necrosis and intravascular hemolysis.",
+    "clinical_manifestations": "Uncomplicated malaria typically presents as a non-specific febrile illness with headache, chills, rigors, anemia, and splenomegaly. Prodromal symptoms like malaise, myalgia, and mild fever may precede acute paroxysms. Periodic fevers, such as tertian (every 48 hours for P. vivax/falciparum) or quartan (every 72 hours for P. malariae), develop after several days. In endemic areas, older children and adults often acquire immunity, leading to asymptomatic parasitemia or milder illness. Non-immune individuals (e.g., young children, travelers) are at higher risk for severe and complicated malaria, which is a medical emergency. Complicated malaria can include cerebral malaria (coma, convulsions), severe anemia, metabolic acidosis, acute respiratory distress, acute kidney injury, and algid malaria (septic shock-like presentation). Clinical features vary between adults and children; cerebral malaria is more characteristic of pediatric severe malaria, while multi-organ involvement is frequent in adults. Post-malaria neurologic syndrome is a rare, transient complication.",
+    "diagnosis": "The diagnosis of malaria infection must be confirmed parasitologically by visualizing parasites microscopically on a peripheral blood smear, detecting parasite antigens with a rapid diagnostic test (RDT), or by polymerase chain reaction (PCR). Light microscopy, using thick and thin blood films, is considered the \"gold standard\"; thick films are superior for detecting parasites, while thin films are better for species identification and parasite morphology. RDTs are antigen-based dipstick or cassette tests that are simple to use and do not require electricity, though their performance varies in species differentiation and ability to distinguish new from recent infections. The choice of diagnostic method depends on the clinical context and available resources. Malarial retinopathy, observed via ocular funduscopic examination, is a highly specific and sensitive diagnostic sign for \"true\" cerebral malaria. Differential diagnosis for uncomplicated malaria is broad and includes viral syndromes, bacterial pneumonia, meningitis, dengue, leptospirosis, typhus, and viral hemorrhagic fevers.",
+    "treatment": "Artemisinin-based combination therapies (ACTs) are the first-line treatment for all malarial infections, recommended by WHO to combat drug resistance. For uncomplicated falciparum malaria, five oral ACTs are recommended (e.g., artemether + lumefantrine) for a 3-day course, with primaquine often added in low-transmission areas to reduce transmission. Chloroquine is the recommended treatment for chloroquine-sensitive P. vivax, P. ovale, and P. malariae; however, chloroquine-resistant P. vivax (e.g., in Indonesia and Papua New Guinea) requires ACTs. Radical cure for liver-stage P. vivax and P. ovale requires a second drug, such as tafenoquine or primaquine, after screening for G6PD deficiency. Severe malaria requires parenteral anti-malarials for at least 24 hours, followed by oral ACTs. IV artesunate is the first-line treatment for complicated malaria, with IM artemether as second-line. Supportive care includes monitoring vital signs, blood glucose, and addressing complications like hypoglycemia, acidosis, seizures, severe anemia, pulmonary edema, and renal failure.",
+    "prevention": "Prevention strategies include intermittent preventive treatment during pregnancy (IPTp) with sulfadoxine-pyrimethamine (SP), recommended for pregnant women in malaria-endemic areas during the second trimester and onward. Intermittent preventive treatment in infants (IPTi) with SP is also recommended in medium-to-high transmission areas, aligning with scheduled vaccine visits, provided parasite resistance is below 50%. Seasonal malarial chemoprevention (SMC) using amodiaquine and SP is advised for children under 6 in areas with short transmission seasons, like the Sahel. Additionally, significant efforts are underway to develop malaria vaccines. Pre-erythrocytic vaccines, like RTS,S (based on circumsporozoite protein), target the sporozoite/liver stage and have shown moderate efficacy. Blood-stage vaccines aim to reduce clinical severity, while transmission-blocking vaccines target mosquito-stage antigens to prevent parasite development in the vector."
+  },
+  "tables": [
+    {
+      "title": "TABLE 101.1 Endemicity",
+      "headers": [
+        "Criterion",
+        "Hypoendemic",
+        "Mesoendemic",
+        "Hyperendemic",
+        "Holoendemic",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "Spleen rate: 2-9 yr",
+          "0%-10%",
+          "11%-50%",
+          ">50%",
+          ">75%",
+          "[108]"
+        ],
+        [
+          "Parasite prevalence: 2-9 yr",
+          "0%-10%",
+          "11%-50%",
+          ">50%",
+          ">75%",
+          "[1]"
+        ],
+        [
+          "Stability",
+          "Unstable",
+          "",
+          "Stable",
+          "",
+          ""
+        ],
+        [
+          "Types of epidemic",
+          "True",
+          "Exaggerated seasonal",
+          "",
+          "",
+          "[109]"
+        ],
+        [
+          "Entomologic inoculation rate (EIR)",
+          "<0.25",
+          "0.25-10",
+          "11-140",
+          ">140",
+          "[110]"
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 101.2 Parasite Characteristics",
+      "headers": [
+        "Characteristic",
+        "P. falciparum",
+        "P. vivax",
+        "P. malariae",
+        "P. ovale",
+        "P. knowlesi"
+      ],
+      "rows": [
+        [
+          "Geographic distribution",
+          "Widespread",
+          "Widespread, but rare in West Africa",
+          "Africa, Southeast Asia, Oceania, South America",
+          "West Africa, Western Pacific",
+          "South Asia"
+        ],
+        [
+          "Clinical disease",
+          "Can be severe",
+          "Generally mild, occasionally severe",
+          "Generally mild*",
+          "Generally mild",
+          "Generally mild, but can be severe"
+        ],
+        [
+          "Pre-patent period (days)",
+          "11–12",
+          "11–12",
+          "33",
+          "11–12",
+          "9–12 days"
+        ],
+        [
+          "Incubation period (days)",
+          "13–14",
+          "13–14",
+          "35",
+          "13–14",
+          "12–16 days"
+        ],
+        [
+          "Exoerythrocytic (liver) cycle (days)",
+          "5.5–7",
+          "6–8",
+          "9",
+          "12",
+          "16"
+        ],
+        [
+          "Intra-erythrocytic cycle (hr)",
+          "43–52",
+          "48",
+          "72",
+          "48",
+          "24"
+        ],
+        [
+          "Sequestration-cytoadherence",
+          "Yes",
+          "Probably not, but may accumulate in extravascular tissues (e.g., bone marrow)106",
+          "No",
+          "No",
+          "Sequestration vs. accumulation is debated"
+        ],
+        [
+          "Earliest appearance of gametocytes (days)",
+          "10",
+          "3",
+          "Unknown",
+          "Unknown",
+          "Unknown"
+        ],
+        [
+          "Hypnozoite stage (i.e., potential for relapse from liver stage)",
+          "No",
+          "Yes",
+          "No",
+          "Yes",
+          "No"
+        ],
+        [
+          "Age of red blood cell infected by the parasite",
+          "All ages",
+          "Reticulocytes",
+          "Older red cells",
+          "Reticulocytes",
+          "All ages"
+        ],
+        [
+          "Peripheral parasitemia",
+          "High; multiply infected cells common",
+          "Low",
+          "Low",
+          "Low",
+          "May be high"
+        ],
+        [
+          "Schizonts",
+          "Rarely seen in peripheral blood, 16–20 merozoites",
+          "20–24 merozoites – generally more than 12",
+          "6–12 merozoites",
+          "6–14 merozoites",
+          "8–16 merozoites, usually <12"
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 101.3 Differential Diagnosis of Uncomplicated Malaria*",
+      "headers": [
+        "Symptoms",
+        "Physical Examination",
+        "Laboratory Tests",
+        "Geography"
+      ],
+      "rows": [
+        [
+          "Malaria",
+          "Fever, Non-specific myalgias, arthralgias, malaise nausea, vomiting",
+          "Hepatomegaly, Splenomegaly",
+          "Malaria smear positive, Thrombocytopenia, Hyperbilirubinemia",
+          "Primarily tropical areas"
+        ],
+        [
+          "Viral syndromes (flu, pneumonia, early gastroenteritis)",
+          "Fever, Non-specific myalgias, arthralgias, malaise Nausea, vomiting",
+          "Lymphadenopathy",
+          "Low white cell count, lymphocyte predominant",
+          "Worldwide, frequently seen in local epidemics"
+        ],
+        [
+          "Bacterial pneumonia",
+          "Fever, Productive cough",
+          "Tachypnea, Increased respiratory effort (intercostal and subcostal recession, use of accessory muscles) Crepitations (rales), Decreased oxygen saturation (<90%)",
+          "Leukocytosis",
+          "Worldwide"
+        ],
+        [
+          "Meningitis (bacterial or viral)",
+          "Fever, Altered mental status",
+          "Neck stiffness",
+          "Concomitant parasitemia uncommon in bacterial meningitis WBCs in CSF (>5-10/µl, or >10 times higher than the predicted CSF WBC count†)",
+          "Worldwide"
+        ],
+        [
+          "Dengue",
+          "Retro-orbital pain, Pain/tenderness of the extraocular eye muscles, particularly on extreme lateral gaze",
+          "Skin rash develops in at least 50% by day 2-3",
+          "Leukopenia, Thrombocytopenia",
+          "Less common in sub-Saharan Africa"
+        ],
+        [
+          "Leptospirosis",
+          "Fever, headache, dry cough, shaking, chills, nausea, vomiting, diarrhea, muscle pain, abdominal pain",
+          "Muscle tenderness (myositis), conjunctivitis, hepatosplenomegaly",
+          "Elevated creatinine kinase, abnormal urine sediment, proteinuria, normal to elevated WBC counts",
+          "Worldwide distribution, Association with freshwater exposure"
+        ],
+        [
+          "Typhus",
+          "High fever, dry cough, low back pain, headache, nausea, vomiting, abdominal pain, diarrhea, nausea, chills, delirium, photophobia, myalgia",
+          "Rash begins on the chest and spreads to the rest of the body (except the palms of the hands and soles of the feet) The early rash is a light rose color and fades when pressed Later, the rash becomes dull and red and does not fade People with severe typhus may also develop petechiae",
+          "Anemia, Thrombocytopenia, Twofold to fivefold elevation of liver enzymes",
+          "Worldwide distribution, murine typhus (Rickettsia typhi) seen in areas of poor hygiene and cold temperatures Epidemic typhus (Rickettsia prowzekii) associated with exposure to rat fleas or rat feces"
+        ],
+        [
+          "Viral hemorrhagic fevers",
+          "Fever, bleeding diathesis, malaise, fatigue, myalgias, headache, vomiting, diarrhea, hypotension, shock",
+          "Flushing of the face and chest, frank bleeding, ecchymoses, renal failure, edema",
+          "Cytopenias seen early in illness with elevated WBC seen in late disease, coagulation abnormalities",
+          "Worldwide distribution and caused by several families of RNA viruses"
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 101.4 Features of Complicated Malaria",
+      "headers": [
+        "Physical Findings",
+        "Laboratory Investigations"
+      ],
+      "rows": [
+        [
+          "• Impaired consciousness/unrousable coma (Blantyre Coma Score ≤2) (children > adults)",
+          "• Hypoglycemia (<2.2 mmol/L or 40 mg/dL) (children > adults)"
+        ],
+        [
+          "• Prostration (unable to walk or sit up)",
+          "• Metabolic acidosis (plasma bicarbonate <15 mmol/L) (children > adults)"
+        ],
+        [
+          "• Failure to feed",
+          "• Severe anemia (hemoglobin <5 g/dL, PCV <15%) (children > adults)"
+        ],
+        [
+          "• Convulsions (more than 2 in 24 h) (children > adults)",
+          "• Hemoglobinuria"
+        ],
+        [
+          "• Acidotic breathing (children > adults)",
+          "• Hyperparasitemia (>2%, or 100,000/µl in low transmission setting, >5%, or 250,000/µl in high-transmission settings)"
+        ],
+        [
+          "• Shock (systolic blood pressure <70 mmHg in adults, <50 mmHg in children)",
+          "• Hyperlactatemia (>5 mmol/L)"
+        ],
+        [
+          "• Clinical jaundice + evidence of another organ dysfunction (adults > children)",
+          "• Renal impairment (creatinine >265 µmol/L) (adults > children)"
+        ],
+        [
+          "• Abnormal spontaneous bleeding",
+          ""
+        ],
+        [
+          "• Pulmonary edema (radiologic evidence) (adults > children)",
+          ""
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 101.5 Coma Scales for Adults and Children",
+      "headers": [
+        "Glasgow Coma Scale (GCS; Adults)",
+        "Blantyre Coma Score (BCS; Children)"
+      ],
+      "rows": [
+        [
+          "Motor Response (to painful stimuli: pressure on nail bed, sternum, supraorbital ridge)",
+          "Obeys commands",
+          "6",
+          "Localizes",
+          "2"
+        ],
+        [
+          "",
+          "Localizes",
+          "5",
+          "Withdraws",
+          "1"
+        ],
+        [
+          "",
+          "Flexion/withdraws",
+          "4",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Abnormal flexion (decorticate)",
+          "3",
+          "Extension (decerebrate)",
+          "0"
+        ],
+        [
+          "",
+          "Extension (decerebrate)",
+          "2",
+          "No response",
+          "0"
+        ],
+        [
+          "",
+          "No response",
+          "1",
+          "",
+          ""
+        ],
+        [
+          "Verbal Response (to painful stimuli or speech)",
+          "Oriented, converses normally",
+          "5",
+          "Normal cry, appropriate speech",
+          "2"
+        ],
+        [
+          "",
+          "Confused, disoriented",
+          "4",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Utters inappropriate words",
+          "3",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Incomprehensible sounds",
+          "2",
+          "Abnormal cry",
+          "1"
+        ],
+        [
+          "",
+          "Makes no sounds",
+          "1",
+          "Makes no sounds",
+          "0"
+        ],
+        [
+          "Eyes",
+          "Opens eyes spontaneously",
+          "4",
+          "",
+          ""
+        ],
+        [
+          "",
+          "Opens eyes in response to voice",
+          "3",
+          "Follows moving objects",
+          "1"
+        ],
+        [
+          "",
+          "Opens eyes in response to pain",
+          "2",
+          "Unable to follow moving objects",
+          "0"
+        ],
+        [
+          "",
+          "Does not open eyes",
+          "1",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 101.6 Microscopy Versus Malaria Rapid Diagnostic Tests",
+      "headers": [
+        "Characteristic",
+        "Thick Film Microscopy",
+        "Thin Film Microscopy",
+        "RDTS"
+      ],
+      "rows": [
+        [
+          "Speciation",
+          "Yes",
+          "Possible",
+          "Yes"
+        ],
+        [
+          "Quantification",
+          "Yes",
+          "Optimal",
+          "RDTs give qualitative \"yes\" or \"no\" results, but intensity of the parasite line correlates to antigen present"
+        ],
+        [
+          "Can use to follow response to treatment",
+          "Yes",
+          "Yes",
+          "No; HRP2-based tests specific for P. falciparum can remain positive for days after successful treatment"
+        ],
+        [
+          "Electricity required",
+          "Yes",
+          "Yes",
+          "No"
+        ],
+        [
+          "Training and skill required",
+          "Extensive training; acquired skill",
+          "Limited training; can be used in remote settings"
+        ],
+        [
+          "Sensitivity",
+          "Varies by skill of microscopist",
+          "Varies among tests"
+        ],
+        [
+          "Cost",
+          "May be less expensive in busy settings",
+          "$0.50–$1 per test"
+        ],
+        [
+          "Storage",
+          "",
+          "",
+          "Temperature ranges; humidity a problem unless individually foil-wrapped"
+        ],
+        [
+          "Detects other pathogens in blood",
+          "White cell count, platelet count, Borrelia, Trypanosoma, Babesia spp.",
+          "",
+          "No"
+        ],
+        [
+          "Malaria parasites detected",
+          "All species, Species differentiation on the basis of different morphologies",
+          "All species",
+          "P. falciparum only and P. falciparum/P. vivax combinations"
+        ],
+        [
+          "Mixed infections",
+          "Yes",
+          "Yes",
+          "Usually no"
+        ],
+        [
+          "False-positives",
+          "Artifact",
+          "Artifact",
+          "Antigenemia can persist after parasitemia has cleared"
+        ],
+        [
+          "False-negatives",
+          "Low parasite density",
+          "",
+          "Prozone effect, Low parasite density"
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 101.7 Oral Antimalarial Drugs",
+      "headers": [
+        "Parasite",
+        "Treatment Regimens",
+        "Clinical Caveats"
+      ],
+      "rows": [
+        [
+          "P. falciparum",
+          "WHO-recommended ACT: • Artemether + lumefantrine (AL) Given at 0, 8, 24, 36, 48, and 60 h: 5-15 kg: 1 tablet 16-25 kg: 2 tablets 26-35 kg: 3 tablets >35 kg: 4 tablets (adult dose)",
+          "Generally very well tolerated"
+        ],
+        [
+          "",
+          "• Artesunate + amodiaquine (AS + AQ) 4 mg/kg/day AS and 10 mg/kg/day AQ daily for 3 days",
+          ""
+        ],
+        [
+          "",
+          "• Artesunate + mefloquine (AS + MQ) 4 mg/kg/day AS daily for 3 days MQ can be taken as 15 mg/kg on day 1 and 10 mg/kg on day 2, or as 8.3 mg/kg/daily for 3 days",
+          ""
+        ],
+        [
+          "",
+          "• Artesunate + sulfadoxine-pyrimethamine (AS + SP) 4 mg/kg AS daily for 3 days; 25 mg/1.25 mg/kg SP on day 1",
+          ""
+        ],
+        [
+          "",
+          "• Dihydroartemisinin + piperaquine (DHA + PPQ) 4 mg/kg AS plus 18 mg/kg PPQ daily for 3 days",
+          ""
+        ],
+        [
+          "",
+          "Other options: • Chloroquine (if known to be chloroquine sensitive) Adults: 600 mg base (= 1000 mg salt) PO, (= followed by 600 mg base (=1000 mg salt) on day 2, and 300 mg base (=500 mg salt) on day 3 Children: 10 mg base/kg PO, followed by 10 mg base/kg on day 2 and 5 mg base/kg on day 3",
+          "• Chloroquine can cause significant pruritus in dark-skinned individuals • Overdoses (>2 g) can be fatal; adrenaline and diazepam are antidotes • Bitter taste"
+        ],
+        [
+          "",
+          "• Oral quinine sulfate plus doxycycline, tetracycline, or clindamycin",
+          "• Frequent dosing needed because of a short half-life • Cinchonism: tinnitus, nausea, headaches, dizziness, and disturbed vision • Overdosing leads to cardiotoxicity, more so with quinidine"
+        ],
+        [
+          "",
+          "• Quinine sulfate: 542 mg base (= 650 mg salt) PO three times a day for 3 days (7 days for infections acquired in Southeast Asia)",
+          "• Rapid IV or IM administration can precipitate hypoglycemia"
+        ],
+        [
+          "",
+          "• Doxycycline: 100 mg PO twice a day for 7 days",
+          "• Doxycycline is preferred over other tetracyclines because it does not accumulate in renal failure and has a longer half-life"
+        ],
+        [
+          "",
+          "• Tetracycline: 250 mg PO four times a day for 7 days",
+          "• Tetracycline may be used as an alternative to doxycycline (adult dosing: 250 mg PO four times daily for seven days; pediatric dosing: 6.25 mg/kg [maximum 250 mg] PO every six hours for seven days)"
+        ],
+        [
+          "",
+          "• Clindamycin: 20 mg base/kg/day, PO, divided three times a day for 7 days",
+          "• Tetracycline antibiotics may cause permanent tooth discoloration for children <8 years old if used repeatedly. However, doxycycline binds less readily to calcium than other tetracyclines and may be used for ≤21 days in children of all ages • Clindamycin is preferred to tetracyclines in pregnancy • Doxycycline should be taken with food to minimize the risk of esophageal erosions • Both doxycycline and tetracycline may cause photosensitivity and disrupt normal flora enough to precipitate vaginal yeast infections"
+        ],
+        [
+          "",
+          "• Atovaquone-proguanil (take with food) Adult tablet: 250 mg atovaquone, 100 mg proguanil Pediatric tablet: 62.5 mg atovaquone, 25 mg proguanil 5-8 kg: two 25-mg pediatric tablets daily for 3 days 9-10 kg: three 25-mg pediatric tablets daily for 3 days 11-20 kg: one adult 100-mg tablet daily for 3 days 21-30 kg: two adult 100-mg tablets daily for 3 days 31-40 kg: three adult 100-mg tablets daily for 3 days >40 kg: four adult 100-mg tablets daily for 3 days",
+          "• Atovaquone targets an element of the parasite mitochondrial electron transport chain and is thus well tolerated by the host • Proguanil interferes with folate metabolism and has been associated with aphthous oral ulcers"
+        ],
+        [
+          "",
+          "• Mefloquine (take with food and at least 240 mL of water) Adults: 684 mg base (= 750 mg salt) PO, followed by 456 mg base (= 500 mg salt) PO, 6-12 h later Children: 13.7 mg base/kg (= 15 mg salt/kg) PO, followed by 9.1 mg base/kg (= 10 mg salt/kg) PO, 6-12 h later",
+          "• Mefloquine side effects include vomiting, dizziness, and exacerbation of cardiac conduction abnormalities • Mefloquine is not recommended for individuals with a history of psychiatric disorders • May disrupt sleep or cause vivid dreams"
+        ],
+        [
+          "",
+          "Treatment failure within 14 days Second-line treatment: • A different ACT known to be effective in the region • AS + tetracycline, doxycycline, or clindamycin for 7 days • Quinine + tetracycline, doxycycline, or clindamycin for 7 days See earlier for details on dosage regimens",
+          ""
+        ],
+        [
+          "P. vivax, P. ovale",
+          "Treatment failure after 14 days Repeat the original ACT unless it contained MQ; in that case, use a different ACT",
+          ""
+        ],
+        [
+          "",
+          "Either ACT or chloroquine See earlier for details on dosage regimens Radical cure (liver stages)",
+          ""
+        ],
+        [
+          "",
+          "• Single dose of tafenoquine Adult: 300 mg administered in conjunction with an appropriate antimalarial therapy",
+          "• Tafenoquine is contraindicated in patients with G6PD deficiency, in patients under 16 years of age and in pregnant or lactating women"
+        ],
+        [
+          "",
+          "• 14-day course of tafenoquine Adult: 15 mg daily for 14 days; in Oceania and Southeast Asia, the dose of primaquine or tafenoquine should be 30 mg daily for 14 days Children: 0.25 mg base/kg body weight, taken with food once daily for 14 days; in Oceania and Southeast Asia, the dose of primaquine or tafenoquine should be 0.5 mg/kg body weight",
+          "• Primaquine is contraindicated in individuals with G6PD deficiency and during pregnancy • Malaria infection as a result of blood transfusion or organ transplantation does not require radical cure"
+        ],
+        [
+          "",
+          "In mild/moderate G6PD deficiency: Adult: 45-60 mg weekly for 8 wk Children: 0.75 mg base/kg body weight should be given once a week for 8 wk",
+          "• Primaquine or tafenoquine are gametocytocidal drugs"
+        ],
+        [
+          "Chloroquine-resistant P. vivax (Papua New Guinea, Indonesia)",
+          "Artemisinin-based combination therapy: • DHA + PPQ • AL • AS + MQ followed by primaquine or tafenoquine Quinine + doxycycline or tetracycline, followed by primaquine or tafenoquine Atovaquone-proguanil followed by primaquine or tafenoquine Mefloquine followed by primaquine or tafenoquine See earlier for details on dosage regimens",
+          "AS + SP is not effective in many locales"
+        ],
+        [
+          "P. malariae, P. knowlesi",
+          "ACT or chloroquine See earlier for details on dosage regimens",
+          "Effective against gametocytes"
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 101.8 Parenteral Antimalarial Drugs",
+      "headers": [
+        "Treatment Regimens",
+        "Clinical Caveats"
+      ],
+      "rows": [
+        [
+          "For all regimens:",
+          "• Continue parenteral treatment for at least 24 h • When the patient is able to swallow, administer a treatment dose of a locally effective ACT",
+          ""
+        ],
+        [
+          "Artesunate",
+          "• 2.4 mg/kg IV at 0, 12, and 24 h, then daily until oral medication can be given",
+          "Well tolerated"
+        ],
+        [
+          "",
+          "• Children <20 kg: 3.0 mg/kg IV at 0, 12, and 24 h, then daily until oral medications can be given",
+          "Rapid Effective against a broad range of life cycle stages (early ring stages up to schizonts and gametocytes) In the United States obtain from CDC Malaria Hotline (770) 488-7788, off-hours (770) 488-7100"
+        ],
+        [
+          "Artemether",
+          "• Loading dose: 3.2 mg/kg body weight IM",
+          "Well tolerated"
+        ],
+        [
+          "",
+          "• Maintenance dose: 1.6 mg/kg IM per day until oral medication can be given",
+          "Effective against a broad range of life cycle stages (early ring stages up to schizonts and gametocytes)"
+        ],
+        [
+          "Quinine dihydrochloride: IV",
+          "• Loading dose: 12.5 mg base/kg (= 20 mg salt/kg), IV, over 4 h",
+          "Cardiotoxic"
+        ],
+        [
+          "",
+          "• Maintenance dose: 20-30 mg/kg salt/day (divided into two to three daily doses, every 8-12 h)",
+          "Can induce hypoglycemia"
+        ],
+        [
+          "",
+          "• Quinine should be used with caution in patients on mefloquine prophylaxis",
+          "Most effective against late rings and early trophozoites"
+        ],
+        [
+          "Quinine dihydrochloride: IM",
+          "• Loading dose: 6.25 mg base/kg (= 10 mg/kg salt), IM (dilute quinine to 60 mg/mL), repeat after 4 h",
+          ""
+        ],
+        [
+          "",
+          "• Maintenance doses: 6.25 mg base/kg (= 10 mg/kg salt), IM, every 8-12 h",
+          ""
+        ],
+        [
+          "Quinidine gluconate",
+          "• Loading dose: 24 mg salt/kg loading dose, IV, over 4 h",
+          ""
+        ],
+        [
+          "",
+          "• Maintenance dose: 12 mg salt/kg, IV over 4 h, every 8 h, for at least 24 h or until oral medication can be given",
+          ""
+        ]
+      ]
+    }
+  ],
+  "figures": [],
+  "references": []
+}

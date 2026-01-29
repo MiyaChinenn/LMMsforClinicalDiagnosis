@@ -1,0 +1,105 @@
+{
+  "chapter_title": "Tapeworm Infections",
+  "disease_name": "Tapeworm Infections",
+  "section_summaries": {
+    "epidemiology": "Taeniasis is most prevalent where cattle and swine have access to human fecal contamination and raw/undercooked meat is consumed, with global distribution for T. saginata (estimated 50 million infected) and T. solium (estimated 5 million infected), and T. asiatica limited to Asia. Diphyllobothriasis is associated with cold-water regions like Scandinavia and North America, caused by consuming raw or undercooked fish, with decreasing trends over the last 20 years but potential for re-emergence. Hymenolepiasis, particularly H. nana, is a worldwide infection affecting 50-75 million people, most common in children and associated with poor hygiene. Dipylidiasis is acquired by young children (6 months-5 years) through accidental ingestion of infected fleas or lice from pets, with prevalence in dogs ranging from 1% to 60%.",
+    "pathogenesis": "Tapeworms, including Taenia, Diphyllobothrium, Hymenolepis, and Dipylidium species, are characterized by segmented bodies (proglottids) and scolexes with attachment structures. Life cycles vary: Taenia species involve mammalian definitive hosts (humans, after ingesting undercooked meat with larvae) and intermediate hosts (cattle/swine, after ingesting eggs), with larval cysticerci developing in tissues. Diphyllobothrium involves two intermediate hosts (copepods, then fish) before human infection from eating raw/undercooked fish. Hymenolepis nana has a direct life cycle in humans (ingestion of eggs), with autoinfection possible, while H. diminuta involves insects as intermediate hosts. Dipylidium caninum is transmitted to humans by accidental ingestion of infected fleas or lice from pets. All adult worms reside in the human intestine, shedding eggs or proglottids in feces.",
+    "clinical_manifestations": "Most adult tapeworm infections are asymptomatic. Taeniasis can cause mild abdominal discomfort, cramps, nausea, vomiting, fatigue, anorexia, and weight loss, with motile proglottids in T. saginata. Diphyllobothriasis can lead to gastrointestinal symptoms, fatigue, pernicious anemia due to vitamin B12 malabsorption (though clinical anemia is rare), and occasionally intestinal obstruction or cholecystitis. Hymenolepiasis, especially H. nana in children, can cause abdominal discomfort, irritability, diarrhea, and malabsorption with heavy worm burdens. Dipylidiasis is often asymptomatic but may present with anal irritation, loss of appetite, abdominal pain, or diarrhea, particularly in young children.",
+    "diagnosis": "Diagnosis primarily involves identifying eggs or proglottids in stool samples. For Taeniasis, distinguishing motile proglottids (T. saginata) or examining uterine branches via microscopy (T. solium fewer than 12, T. saginata/T. asiatica 12+) is key. Immunologic coproantigen ELISAs are more sensitive than microscopy but can't differentiate species, while PCR methods offer species-specific diagnosis. Diphyllobothriasis is diagnosed by ovoid eggs with an operculum; molecular tools are best for species differentiation. Hymenolepiasis diagnosis relies on ova identification in stool, with high egg counts indicating heavy infection. Dipylidiasis is detected by motile, rice-like segments in clothing, confirmed by microscopic identification of characteristic egg packets/sacs.",
+    "treatment": "Praziquantel (5-25 mg/kg PO) and niclosamide (single oral doses, 2g for adults) are highly effective treatments for Taeniasis, Diphyllobothriasis, Hymenolepiasis, and Dipylidiasis. For Taeniasis due to T. solium, niclosamide may be preferred over praziquantel due to the risk of activating viable brain cysts; a bowel purge after treatment is recommended to prevent autoinfection. Nitazoxanide is an alternative for resistant Taeniasis and effective for Hymenolepiasis. Intraduodenal gastrographin can be used for Diphyllobothriasis to recover intact worms. Successful treatment is confirmed by absence of eggs in stool 1 month post-treatment. Family/household members of carriers should also be treated for Hymenolepiasis.",
+    "prevention": "Prevention strategies include adequate cooking or freezing of beef, pork, or fish to kill Taenia and Diphyllobothrium cysticerci. For Taenia solium, regional health control strategies like mass treatment, human/pig screening, and porcine vaccination can interrupt transmission. Diphyllobothriasis can also be prevented by brining fish. Hymenolepiasis prevention focuses on improved environmental and personal hygiene. For Dipylidiasis, regular anti-helminthic treatment and anti-flea collars for pets are key preventive measures."
+  },
+  "tables": [
+    {
+      "title": "TABLE 130.1.1 A Comparison of Common Tapeworm Infections",
+      "headers": [
+        "Species",
+        "Intermediate Host",
+        "Exposure to Humans",
+        "Clinical Features",
+        "Diagnosis"
+      ],
+      "rows": [
+        [
+          "T. solium",
+          "Pigs, occasionally humans",
+          "Consumption of undercooked pork, autoinfection possible",
+          "Asymptomatic, but may see mild GI signs. Infection by T. solium larvae may cause neurocysticercosis",
+          "Motile proglottid in undergarments (Taenia saginata or Dipylidium caninum); microscopy or CoAg tests recommended to determine risk of neurocysticercosis"
+        ],
+        [
+          "T. saginata",
+          "Cows",
+          "Consumption of undercooked beef",
+          "Asymptomatic, but may see mild GI signs. Infection by T. solium larvae may cause neurocysticercosis",
+          "Motile proglottid in undergarments (Taenia saginata or Dipylidium caninum); microscopy or CoAg tests recommended to determine risk of neurocysticercosis"
+        ],
+        [
+          "T. asiatica",
+          "Pigs",
+          "Consumption of undercooked pork offal",
+          "Asymptomatic, but may see mild GI signs. Infection by T. solium larvae may cause neurocysticercosis",
+          "Motile proglottid in undergarments (Taenia saginata or Dipylidium caninum); microscopy or CoAg tests recommended to determine risk of neurocysticercosis"
+        ],
+        [
+          "D. latum",
+          "First host: Crustaceans (>40 species); Second host: Fish",
+          "Consumption of undercooked fish, including raw, salted, or marinated fish",
+          "Asymptomatic, 40% have B12 deficiency, 20% see GI signs such as diarrhea and abdominal pain; fatigue, constipation, anemia, and headache may occur; obstruction, cholecystitis or cholangitis possible but rare",
+          "Unembryonated eggs are released in stool, occasional segments"
+        ],
+        [
+          "D. nihonkaiense",
+          "First host: Crustaceans (>40 species); Second host: Fish",
+          "Consumption of undercooked fish, including raw, salted, or marinated fish",
+          "Asymptomatic, 40% have B12 deficiency, 20% see GI signs such as diarrhea and abdominal pain; fatigue, constipation, anemia, and headache may occur; obstruction, cholecystitis or cholangitis possible but rare",
+          "Unembryonated eggs are released in stool, occasional segments"
+        ],
+        [
+          "D. pacificum",
+          "First host: Crustaceans (>40 species); Second host: Fish",
+          "Consumption of undercooked fish, including raw, salted, or marinated fish",
+          "Asymptomatic, 40% have B12 deficiency, 20% see GI signs such as diarrhea and abdominal pain; fatigue, constipation, anemia, and headache may occur; obstruction, cholecystitis or cholangitis possible but rare",
+          "Unembryonated eggs are released in stool, occasional segments"
+        ],
+        [
+          "D. dendriticum",
+          "First host: Crustaceans (>40 species); Second host: Piscivorous birds",
+          "Consumption of undercooked fish, including raw, salted, or marinated fish",
+          "Asymptomatic, 40% have B12 deficiency, 20% see GI signs such as diarrhea and abdominal pain; fatigue, constipation, anemia, and headache may occur; obstruction, cholecystitis or cholangitis possible but rare",
+          "Unembryonated eggs are released in stool, occasional segments"
+        ],
+        [
+          "D. dalliae",
+          "First host: Crustaceans (>40 species); Second host: Arctic fox, domestic dog",
+          "Consumption of undercooked fish, including raw, salted, or marinated fish",
+          "Asymptomatic, 40% have B12 deficiency, 20% see GI signs such as diarrhea and abdominal pain; fatigue, constipation, anemia, and headache may occur; obstruction, cholecystitis or cholangitis possible but rare",
+          "Unembryonated eggs are released in stool, occasional segments"
+        ],
+        [
+          "H. nana",
+          "Not obligatory, beetles, fleas",
+          "Fecal-oral human to human transmission; accidental ingestion of beetles, fleas, insects; autoinfection possible",
+          "Clinical signs rare, but heavy burden can cause diarrhea and abdominal discomfort. Infection self-limiting in adults, not children",
+          "Microscopy can detect ova in stool"
+        ],
+        [
+          "H. diminuta",
+          "Beetles, fleas",
+          "Accidental ingestion of beetles, fleas, insects",
+          "Clinical signs rare, but heavy burden can cause diarrhea and abdominal discomfort. Infection self-limiting in adults, not children",
+          "Microscopy can detect ova in stool"
+        ],
+        [
+          "D. caninum",
+          "Fleas, lice",
+          "Accidental ingestion of a flea or louse",
+          "Mostly asymptomatic, but may cause anal irritation, loss of appetite, abdominal pain, or diarrhea",
+          "Motile proglottid in undergarments (Taenia saginata or Dipylidium caninum); confirmation with microscopy"
+        ]
+      ]
+    }
+  ],
+  "figures": [],
+  "references": []
+}

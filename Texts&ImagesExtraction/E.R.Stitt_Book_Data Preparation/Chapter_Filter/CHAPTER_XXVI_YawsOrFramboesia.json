@@ -1,0 +1,123 @@
+{
+  "history_of_present_illness": "Yaws progresses through distinct stages. Following an incubation period averaging three weeks (or 3 to 6 weeks for naturally acquired cases, 2 to 5 weeks for primary stage), patients may experience vague digestive troubles, nocturnal headache, joint pains, and an irregular fever, which often abate upon the appearance of the initial papule at the inoculation site. There may be enlargement and tenderness of lymphatic glands. The primary lesion, typically extra-genital, starts as a papule, enlarging into a conical, inflammatory fungoid tubercle, often described as raspberry-like (framboesia) or a fig turned inside out. It exudes a yellowish sero-purulent fluid, bleeds easily, and is generally not painful unless on palms or soles. These can form a large, fungating granulation mass, 1 to 2 inches in diameter, known as a “mother yaw.” Six weeks to three months after the initial lesion, a secondary stage begins with malaise, headache, joint pains, and an irregular, inconstant fever, followed by a generalized eruption of lesions similar to the primary tubercle. These secondary lesions are frequent at skin-mucous membrane junctions (mouth, nose, anus), neck, arms, legs, and buttocks, but rare on the trunk and scalp. They are painful when located on the palms or soles due to pressure from thick skin. This stage can last from 3-4 months to 2-3 years, with successive crops of tubercles. Mucous membranes and viscera are generally not affected in the secondary stage. Some authorities recognize a tertiary stage, characterized by gumma-like nodules, deep ulcerations (potentially leading to contractures), destructive lesions of the nasopharyngeal region (known as gangosa), lupus-vulgaris-like cutaneous lesions, tibial involvement, joint swellings, and dactylitis. These can involve destruction of the uvula, velum palati, and septum nasi. Peculiar forms include \"crab yaws,\" where painful, incapacitating lesions on the palms and soles give a worm-eaten appearance and hinder walking, and \"ringworm yaws,\" where tubercles form circles enclosing unaffected skin. A moderate anaemia may also be present.",
+  "exposure_and_epidemiology": "Yaws, or framboesia, is a disease of tropical regions. Historically, it may have been described by Arabian physicians in the 10th century, but Oviedo provided the first definitive description in the West Indies in the 16th century, with Bontius later noting its presence in the East Indies. Epidemics occurred on slave ships, suggesting an African origin brought to the new world. Geographically, it is highly prevalent in equatorial Africa (especially the Congo Free State), the West Indies, tropical America, the Malay Peninsula, Siam, the East Indian Islands, the Philippines, many Pacific islands (particularly Samoa), and Northern Australia. It is rare in Tripoli, Algiers, and the Sudan region, and absent in Japan. Yaws is caused by *Treponema pertenue* (also known as *Spirochaeta pallidula*), discovered by Castellani in 1905. This organism is morphologically similar to the syphilitic spirochaete (*T. pallidum*), but clinical and pathological evidence indicates yaws and syphilis are distinct entities. The organism is found in the epidermis of yaws granulomas, lymphatic glands, and spleen, and exists in the blood. Yaws is highly communicable by direct contact, with infection occurring through skin abrasions that come into contact with yaws lesions. The incubation period for naturally acquired yaws is typically 3 to 6 weeks. The disease shows a striking limitation to tropical, low-level areas and does not readily spread to temperate regions. There is a vastly greater susceptibility among colored races, with individuals of mixed white blood showing some immunity. Congenital transmission of yaws has not been observed. Flies are important vectors, transferring secretions from yaws lesions to skin abrasions or ulcers on healthy persons. Improved personal hygiene reduces its spread, making Europeans rarely infected. In endemic countries, it is chiefly a disease of children, with adults often acquiring immunity from childhood attacks.",
+  "vitals": "An irregular fever may be noted during the primary stage, and an irregular, inconstant fever may recur in the secondary stage.",
+  "physical_exam": "The primary yaws lesion appears as a papule that rapidly enlarges to a small pea-sized, conical, fungoid tubercle, surrounded by an inflammatory areola. The thickened epidermis cracks, exuding a yellowish sero-purulent fluid from its fungoid base. These lesions bleed easily and are typically not painful unless subjected to pressure, such as on the palms or soles. They can develop into large, ulcerated masses (1-2 inches in diameter) known as \"mother yaw.\" Lymphatic glands may be enlarged and tender. Secondary lesions resemble the primary tubercles but are part of a generalized eruption, often appearing at the junctions of skin and mucous membranes (mouth, nose, anus), where they can be moist and resemble syphilitic mucous patches. They are numerous on the neck, arms, legs, and buttocks, but rare on the trunk and scalp. Pain is a notable feature of lesions on palms and soles. Tertiary manifestations include gumma-like nodules, deep ulcerations (which may lead to contractures), destructive ulcerations of the nasopharyngeal region (gangosa), lupus-vulgaris-like cutaneous lesions, tibial involvement, joint swellings, and dactylitis, potentially causing severe destruction of the uvula, velum palati, and septum nasi. \"Crab yaws\" describes painful, incapacitating lesions on the palms and soles that result in a 'worm-eaten' appearance and difficulty walking. \"Ringworm yaws\" refers to lesions forming a circular pattern. Histologically, yaws lesions show significant thickening of the interpapillary pegs of the epidermis, dipping deeply into the corium, with areas containing swollen, degenerated epithelial cells, polymorphonuclears, and granular debris. There is marked oedema in the corium with dilated blood vessels and lymphatics, though less oedema than in syphilitic condylomas, contributing to the drier appearance of yaws lesions. Spirochaetes are predominantly found in the epidermal layers.",
+  "labs_and_diagnostics": "The causative organism, *Treponema pertenue* (*Spirochaeta pallidula*), is characterized by sharp-cut, corkscrew spirals and can be found in the epidermis of yaws granulomas, lymphatic glands, and spleen. Diagnostic procedures involve staining the juice from yaws tubercles using the India ink method or Giemsa’s stain. In Levaditi-stained tissue sections, treponemata are visible in the region of the thickened interpapillary pegs of the epidermis. Blood tests reveal a high incidence of positive Wassermann reactions: 80-100% in untreated, clinically positive cases; 50% in treated cases; and 35-40% in latent cases. For example, 37.3% of gangosa cases in Guam yielded positive Wassermann reactions. A moderate anaemia may be noted. Differentiation from American cutaneous leishmaniasis, especially for nasopharyngeal ulcerations, relies on finding *Leishmania tropica* in the lesions.",
+  "differential_diagnosis": [
+    "Bromide eruptions",
+    "Syphilis",
+    "American cutaneous leishmaniasis"
+  ],
+  "management_and_clinical_course": "The prognosis for yaws is almost entirely favorable regarding danger to life, with a death rate of approximately ½ of 1%, mainly occurring in young children due to secondary infections at ulcerating lesion sites. Prophylaxis focuses on preventing direct transmission by avoiding the exchange of contaminated articles (e.g., food particles among children), careful handling of clothing contaminated with yaws discharges, and, crucially, protecting all skin abrasions or sores from flies with dressings, as intact skin acts as a barrier to infection. Treatment involves specific therapies. Salvarsan is an absolute specific for yaws, producing almost miraculous results within days, significantly shortening the protracted normal course of the disease. It is typically administered intravenously, though neosalvarsan intramuscularly offers a convenient alternative. Doses of 0.4 gram of salvarsan are usually sufficient, often achieving a cure with a single dose; smaller doses are recommended for women, children, and thin individuals. While about 4% of cases treated with salvarsan or neosalvarsan may relapse, the average time to effect a cure is eleven days. Atoxyl is not effective. Although older writers valued mercury, current views suggest it has little to no place in therapy. Potassium iodide is a useful alternative when arsphenamine products are unavailable. In such cases, Castellani’s yaws mixture is recommended, composed of: Tartar emetic (1 grain / 0.06 gm), Potassium iodide (20 grains / 1.3 gms), Sodium salicylate (10 grains / 0.6 gm), Sodium bicarbonate (15 grains / 1 gm), and Chloroform water and syrup (1 ounce / 30 cc). This single dose is given well diluted, about three times daily for approximately one week, and then resumed after a one-week interval, adjusted based on patient response and tolerance; doses are reduced for children. Local treatment includes antiseptic dusting powders such as iodoform or boric acid.",
+  "final_diagnosis": "Yaws or Framboesia",
+  "disease_name_short": "Yaws",
+  "tables": [
+    {
+      "title": "Degorce's points of difference between syphilis and yaws",
+      "headers": [
+        "Yaws",
+        "Syphilis"
+      ],
+      "rows": [
+        [
+          "1. Primary lesion of soft consistency, or very little infiltrated, with granulating or pimply surface, situated almost invariably extragenitally, resembling the secondary lesions. Lymphadenitis not marked.",
+          "1. Primary lesion infiltrated and indurated, with flat and smooth surface, ordinarily situated on the genital organs; often accompanied by abundant lymphadenitis. Phagedenic processes frequent."
+        ],
+        [
+          "2. Roseola resembling that of syphilis but rarer.",
+          "2. Roseola present."
+        ],
+        [
+          "3. Secondary cutaneous lesions at first in the form of conical elevations of a light red color, not infiltrated at base, appearing in close groups. The lesions are similar to those of syphilis, namely, on the scalp in the form of encrusted papules; on thin-skinned regions in the form of ulcerating papules, and in the case of the palm of the hands and plantar surface of the feet, in the form of simple papules.",
+          "3. Secondary cutaneous lesions papular from the first, dark red, infiltrated and fairly regularly scattered."
+        ],
+        [
+          "4. Circinate lesions with the edges more raised than in syphilis, covered with yellow crusts.",
+          "4. Circinate lesions with pink edges, slightly raised, with fine scales."
+        ],
+        [
+          "5. On the face lesions of the same type, but more striking and with irregular projections.",
+          "5. Seborrheic syphilides on the face."
+        ],
+        [
+          "6. Cutaneous lesions do not itch.",
+          "6. Cutaneous lesions do not itch."
+        ],
+        [
+          "7. Perionychia similar to that of syphilis, but occasionally giving rise to pimply lesions.",
+          "7. Perionychia present."
+        ],
+        [
+          "8. Alopecia has not been described.",
+          "8. In syphilis, alopecia rather the exception."
+        ],
+        [
+          "9. Lesions in the buccal and pharyngeal mucosa often absent. No erythema. No typical mucous patches. Sometimes fissures at the angles of the mouth. The typical lesions are raised, pure white and occasionally covered with intact epithelium.",
+          "9. Lesions in the buccal and pharyngeal mucosa are not numerous and are slight in degree. Erythema of the soft palate and pharynx occurs. Mucous patches. Ulcers of the lips and at the angles of the mouth."
+        ],
+        [
+          "10. Lesions with prominent edges or even pustular with yellowish crusts, occasionally also ulcerations resembling mucous patches.",
+          "10. In the glans, prepuce or vulva, the lesions are more or less typical mucous patches."
+        ],
+        [
+          "11. Similar condylomata, but larger and more raised.",
+          "11. Moist condylomata at the margin of the anus."
+        ]
+      ]
+    },
+    {
+      "title": "Castellani’s yaws mixture formula",
+      "headers": [
+        "Ingredient",
+        "Quantity",
+        "Metric Equivalent"
+      ],
+      "rows": [
+        [
+          "Tartar emetic",
+          "one grain",
+          "(0.06 gm.)"
+        ],
+        [
+          "Potassium iodide",
+          "twenty grains",
+          "(1.3 gms.)"
+        ],
+        [
+          "Sodium salicylate",
+          "ten grains",
+          "(0.6 gm.)"
+        ],
+        [
+          "Sodium bicarbonate",
+          "fifteen grains",
+          "(1 gm.)"
+        ],
+        [
+          "Chloroform water and syrup",
+          "one ounce",
+          "(30 cc.)"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "i400.jpg",
+      "caption": "Fig. 121.—Yaws. This case shows an abundance of yaws tubercles on face. Distribution on trunk and extremities less extensive. (From Ruge and zur Verth.)"
+    },
+    {
+      "file_name": "i401.jpg",
+      "caption": "Fig. 122.—Child with yaws. (From U. S. Naval Medical Bulletin.)"
+    },
+    {
+      "file_name": "i403.jpg",
+      "caption": "Fig. 123.—Tertiary jaws, “Gomma”. (Johns Hopkins Bull., Moss and Bigelow.)"
+    },
+    {
+      "file_name": "i404.jpg",
+      "caption": "Fig. 124.—Tertiary yaws. Clavus or Crab-yaws. (Johns Hopkins Bull., Moss and Bigelow.)"
+    }
+  ]
+}

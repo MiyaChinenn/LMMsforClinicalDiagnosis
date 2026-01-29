@@ -1,0 +1,57 @@
+{
+  "chapter_title": "Bacterial Pneumonia",
+  "disease_name": "Bacterial Pneumonia",
+  "section_summaries": {
+    "epidemiology": "Pneumonia is the leading global cause of death among children younger than 5 years of age, with over 70% of deaths occurring in low- and middle-income countries (LMIC). Between 1990 and 2010, pneumonia incidence in children <5 years decreased by 25% in LMIC, while severe pneumonia increased from 8.6% to 11.5%. Risk factors for pneumonia mortality include malnutrition, low birth weight, non-exclusive breastfeeding, solid fuel use, crowding, lack of measles vaccination, and indoor air pollution. Streptococcus pneumoniae and Haemophilus influenzae type b (Hib) together account for 30% to 50% of severe pneumonia among children in LMIC.",
+    "pathogenesis": "Pathogen invasion into the respiratory tract, often receptor-mediated for pneumococcus, leads to inflammation, congestion, and compromise of gas exchange in the lungs. Alveoli become inflamed and fluid-filled, causing them to collapse due to surface tension. During inspiration, these air sacs are forcibly reopened, creating crackling sounds and lower airway obstruction. The body's initial compensatory reaction is increased respiratory rate (tachypnea). As more alveoli fill with fluid, accessory muscles are recruited, leading to signs like lower chest wall in-drawing. Other compensatory mechanisms include grunting or laryngeal braking to maintain positive airway pressure and prevent alveolar collapse. Young children's respiratory muscles, particularly the diaphragm, have limited reserve and are prone to fatigue and respiratory failure. Maladaptive responses, such as cessation of feeding, hasten respiratory failure. Progressive hypoxia and hypercapnia can lead to agitation, convulsions, lethargy, obtundation, and eventually death.",
+    "clinical_manifestations": "Clinical features of pneumonia vary with age, with tachypnea (fast breathing) and cough being nearly universal indicators. WHO age-specific cutoffs for tachypnea are ≥60 breaths/minute for <2 months, ≥50/min for 2-11 months, and ≥40/min for 12-59 months. Children with pneumonia are categorized as fast breathing and/or chest in-drawing pneumonia (manageable at home) or severe pneumonia (requiring referral and parenteral therapy). Signs of severe pneumonia include grunting, lower chest wall in-drawing, central cyanosis, inability to drink or feed (or vomiting anything ingested), lethargy, obtundation, and convulsions. Auscultation may reveal crepitations or reduced breath sounds. Lower chest wall in-drawing is caused by a sharp decrease in intrathoracic pressure during inspiration. Other severe signs include nasal flaring, head nodding, and chest-abdominal see-sawing.",
+    "diagnosis": "Diagnosis begins with a thorough history of symptom onset and progression, followed by physical examination observing breathing rate and effort, cyanosis, alertness, and responsiveness. Key organ systems to assess are the respiratory tract, neurologic status, and signs of bacterial infection (temperature, perfusion, toxic appearance). Hypoxia, with oxygen saturation <90%, has prognostic significance and requires pulse oximetry for reliable detection. Laboratory investigations like blood cultures are insensitive (<15%) and further reduced by prior antibiotic exposure; however, a positive blood culture is generally considered diagnostic. Quantitative RT-PCR for nasopharyngeal swabs can measure colonization density, with certain thresholds correlating with pneumococcal or H. influenzae pneumonia, but is not routinely used. Chest roentgenograms (CXRs) have moderate sensitivity but poor specificity for bacterial pneumonia, and findings can lag clinical presentation. Differential diagnoses include reactive airways disease (asthma), bronchiolitis, tuberculosis, malaria, foreign body aspiration, and pertussis, which require careful distinction based on specific symptoms and tests.",
+    "treatment": "Early antibiotic intervention reduces pneumonia mortality by 36%. WHO guidelines for children 2-59 months old recommend oral amoxicillin (40 mg/kg/dose twice daily for 5 days) for fast breathing pneumonia, with or without chest in-drawing. For severe pneumonia (with danger signs), first-line parenteral therapy is ampicillin or penicillin plus gentamicin. Ceftriaxone is a second-line option. HIV-infected/exposed children with severe pneumonia receive ampicillin (or penicillin) plus gentamicin, or ceftriaxone if first-line fails. For suspected P. jirovecii pneumonia in HIV-infected/exposed children aged 2 months to 1 year, empiric cotrimoxazole is added for 21 days. Suspected staphylococcal pneumonia is treated with cloxacillin and gentamicin. Continuous supplemental oxygen is provided for moderate or severe hypoxia. Breastfeeding is encouraged, along with beta agonists for wheezing and antipyretics for fever, and oral rehydration solution for hydration support.",
+    "prevention": "Appropriate administration of currently available Hib and pneumococcal protein-conjugate vaccines is estimated to decrease global mortality from pneumonia by 50%. As of 2016, the Hib vaccine was introduced in 191 countries with 70% worldwide coverage, and the pneumococcal conjugate vaccine in 134 countries with 42% global coverage. Studies are ongoing for RSV and influenza vaccines. Other effective interventions include zinc supplementation, handwashing, exclusive breastfeeding for the first 6 months (reduces mortality fivefold), and continued breastfeeding for infants 6-11 months. Ensuring adequate nutrition is also crucial to reduce pneumonia mortality, as malnutrition is a significant contributing factor."
+  },
+  "tables": [
+    {
+      "title": "Doses of Amoxicillin for Children 2–59 Months of Age With Pneumonia",
+      "headers": [
+        "Tools",
+        "Category of Pneumonia",
+        "Age/Weight of Child",
+        "Dosage of Amoxicillin Dispersible Tablets (250 mg)"
+      ],
+      "rows": [
+        [
+          "iCCM tool for community health workers: no change",
+          "Fast breathing pneumonia",
+          "2 months up to 12 months (4-<10 kg)",
+          "1 tab twice a day x 5 days (10 tabs)"
+        ],
+        [
+          "",
+          "",
+          "12 months up to 5 years (10-19 kg)",
+          "2 tabs twice a day x 5 days (20 tabs)"
+        ],
+        [
+          "IMCI tool for professional health workers at health facilities: revised",
+          "Fast breathing and chest in-drawing pneumonia",
+          "2 months up to 12 months (4-<10 kg)",
+          "1 tab twice a day x 5 days (10 tabs)"
+        ],
+        [
+          "",
+          "",
+          "12 months up to 3 years (10-<14 kg)",
+          "2 tabs twice a day x 5 days (20 tabs)"
+        ],
+        [
+          "",
+          "",
+          "3 years up to 5 years (14-19 kg)",
+          "3 tabs twice a day x 5 days (30 tabs)"
+        ]
+      ]
+    }
+  ],
+  "figures": [],
+  "references": []
+}

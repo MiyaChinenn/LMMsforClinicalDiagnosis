@@ -1,0 +1,192 @@
+{
+  "chapter_title": "Cholera and Other Vibrios",
+  "disease_name": "Cholera",
+  "section_summaries": {
+    "epidemiology": "Cholera is a significant health burden globally, with seven pandemics since the early 19th century. The current seventh pandemic, caused by Vibrio cholerae O1 biotype El Tor, began in 1961 in Indonesia. The disease is endemic in Africa, Asia, Central and South America, and Haiti, with the Ganges River Delta being an ancestral epicenter. Explosive epidemics occur in areas with limited access to clean water. Cholera exhibits seasonal patterns, and risk factors for severe disease include younger age, lack of pre-existing immunity, and blood group O status. Vibrio species, including V. cholerae, are environmental organisms found in freshwater and marine habitats, spread by contaminated water and food. V. parahaemolyticus causes food-borne illness from raw/partially cooked seafood, while V. vulnificus is associated with soft tissue infections and sepsis in immunocompromised individuals or those with liver disease, often from seawater exposure.",
+    "pathogenesis": "Vibrios are motile, curved, rod-shaped, gram-negative bacteria found in brackish water, often associated with zooplankton. Humans become infected by ingesting contaminated water. Stool-shed organisms are transiently hyperinfectious, contributing to epidemic spread. V. cholerae strains are serologically differentiated by O antigen; O1 serogroup, primarily the El Tor biotype, causes most disease. The O139 serogroup is mostly limited to Asia. Pathogenic V. cholerae possess virulence factors: cholera toxin (a prototypical AB subunit toxin) and toxin co-regulated pilus (TCP). TCP aggregates organisms in the small intestine, and cholera toxin's A subunit increases cyclic AMP activity, leading to massive fluid and electrolyte efflux and the characteristic diarrhea.",
+    "clinical_manifestations": "The incubation period for V. cholerae ranges from hours to 3-5 days. Most cases are mild or asymptomatic. Severe cholera is characterized by frequent, profuse 'rice-water' stool with mucus flecks and a fishy odor, potentially reaching 1 L/hour. Common symptoms include abdominal discomfort, lethargy, and vomiting; fever is rare. Physical examination may reveal sunken eyes, dry mouth, cold clammy skin, decreased skin turgor, and wrinkled hands/feet due to dehydration. Complications include electrolyte abnormalities, Kussmaul breathing (acidosis), muscle cramping (potassium/calcium loss), rapid thready pulse, decreased urine output, and renal failure. Children may experience severe hypoglycemia and coma. Bloodstream invasion is rare. 'Cholera sicca' is an unusual form where fluid accumulates in the intestinal lumen, causing circulatory collapse without diarrhea. V. parahaemolyticus typically causes mild, self-limiting gastroenteritis with nausea, vomiting, abdominal pain, and diarrhea after a 4-48 hour incubation. V. vulnificus infections can be severe, causing septicemia with thrombocytopenia, disseminated intravascular coagulation, and bullous skin lesions, carrying a mortality rate over 50% if untreated.",
+    "diagnosis": "Immediate recognition of cholera outbreaks is crucial, especially in areas with poor sanitation where acute watery diarrhea with profound dehydration occurs in adults or children over 5 years. Mild-to-moderate cases may resemble infections by other pathogens like enterotoxigenic E. coli, Campylobacter, or Salmonella. Confirmation of V. cholerae O1 or O139 infection is done by isolating the organism in stool culture, followed by biochemical tests and serogrouping with specific antisera. Selective media like thiosulfate citrate bile salts sucrose agar or tellurite taurocholate gelatin agar are used. Rapid dipstick tests (e.g., Crystal VC) offer good sensitivity (65%-85% specificity) in field settings. Direct dark-field microscopy of stool can also rapidly diagnose cholera by revealing motile Vibrio organisms appearing like 'shooting stars.'",
+    "treatment": "Cholera treatment is simple, inexpensive, and life-saving, with a near-zero case fatality rate when appropriate. The cornerstone is correction of dehydration through fluid replacement and maintenance, typically in rescue and maintenance phases. Fluid therapy is guided by assessing the level of dehydration. Intravenous fluids (e.g., Ringer's lactate) are used for severe dehydration, while oral rehydration solution (ORS) is critical for mild-to-moderate cases and ongoing losses. Hypo-osmolar ORS, recommended by WHO, leverages glucose-mediated sodium-water co-transport. If commercial ORS packets are unavailable, a homemade sugar-salt solution can be used. Encouraging food intake and continued breastfeeding are important. Zinc supplementation is effective in children for reducing diarrhea duration and recurrence. Antibiotic therapy is an adjunct, reducing illness duration and bacterial shedding, and is recommended for severe dehydration. Choice of antibiotic depends on local susceptibility patterns, with single-dose regimens preferred in outbreaks. V. parahaemolyticus is typically self-limiting, treated with oral rehydration, but severe cases may require tetracycline or ciprofloxacin. V. vulnificus infections may require tetracycline, supportive treatments, and in severe cases, tissue debridement or amputation.",
+    "prevention": "A clean water supply is essential for cholera prevention. Breastfeeding offers protection for young infants in endemic regions. Three oral, whole-cell, killed cholera vaccines are pre-qualified by the WHO and available in various countries. The WHO recommends cholera vaccines in high-risk areas and during epidemics, alongside improved water supplies, adequate sanitation, and health education. Observational data support vaccination in epidemic settings, and oral cholera vaccines are increasingly deployed for epidemic prevention. In 2017, the WHO launched a global strategy aiming to reduce cholera deaths by 90% by 2030."
+  },
+  "tables": [
+    {
+      "title": "Assessing Level of Dehydration",
+      "headers": [
+        "Assess degree of dehydration",
+        "None (<5%)",
+        "Some (5%-10%)",
+        "Severe (>10%)"
+      ],
+      "rows": [
+        [
+          "Mentation",
+          "Alert",
+          "Restless, irritable",
+          "Lethargic or unconscious"
+        ],
+        [
+          "Eyes",
+          "Normal",
+          "Sunken",
+          "Sunken"
+        ],
+        [
+          "Skin turgor",
+          "Normal recoil",
+          "Slow recoil",
+          "Very slow recoil (>2 sec)"
+        ],
+        [
+          "Pulse",
+          "Normal",
+          "Rapid, low volume",
+          "Weak or absent"
+        ],
+        [
+          "Thirst",
+          "Drinks normally",
+          "Thirsty, drinks eagerly",
+          "Drinks poorly or unable to drink"
+        ]
+      ]
+    },
+    {
+      "title": "Recipe for Making One Liter of Hypo-osmolar ORS",
+      "headers": [
+        "Component",
+        "Amount"
+      ],
+      "rows": [
+        [
+          "Sodium chloride (NaCl)",
+          "2.6 g"
+        ],
+        [
+          "Sodium citrate",
+          "2.9 g"
+        ],
+        [
+          "Potassium chloride (KCl)",
+          "1.5 g"
+        ],
+        [
+          "Glucose",
+          "13.5 g"
+        ]
+      ]
+    },
+    {
+      "title": "Electrolyte Content of Cholera Stool and Fluids Used in the Treatment of Cholera",
+      "headers": [
+        "Stool or Solution",
+        "Sodium",
+        "Potassium",
+        "Chloride",
+        "Acetate/Lactate",
+        "Other"
+      ],
+      "rows": [
+        [
+          "Cholera stool (adult)",
+          "135",
+          "15",
+          "100",
+          "40",
+          "-"
+        ],
+        [
+          "Cholera stool (child)",
+          "100",
+          "30",
+          "90",
+          "30",
+          "-"
+        ],
+        [
+          "Ringer's lactate",
+          "130",
+          "4",
+          "111",
+          "29",
+          "3 (calcium)"
+        ],
+        [
+          "Dhaka solution",
+          "133",
+          "13",
+          "98",
+          "48",
+          "-"
+        ],
+        [
+          "Standard ORS",
+          "90",
+          "20",
+          "80",
+          "10",
+          "111 (glucose)"
+        ],
+        [
+          "Rice-based ORS",
+          "90",
+          "20",
+          "80",
+          "10",
+          "88 (rice powder)"
+        ],
+        [
+          "Hypo-osmolar ORS",
+          "75",
+          "20",
+          "65",
+          "10",
+          "75 (glucose)"
+        ]
+      ]
+    },
+    {
+      "title": "Antibiotics for the Management of Cholera",
+      "headers": [
+        "Antibiotic",
+        "Older Children and Adults",
+        "Child*",
+        "Comments"
+      ],
+      "rows": [
+        [
+          "Tetracycline",
+          "500 mg every 6 hours for 3 days",
+          "50 mg/kg/day divided every 6 hours for 3 days",
+          "In endemic areas, resistance is common. Not recommended in pregnant women and children less than 8 years of age."
+        ],
+        [
+          "Doxycycline",
+          "300 mg single dose",
+          "4-6 mg/kg single dose",
+          "Same as above."
+        ],
+        [
+          "Erythromycin",
+          "500 mg every 6 hours for 3 days",
+          "50 mg/kg/day divided every 6 hours for 3 days",
+          "Widely used in pediatric population."
+        ],
+        [
+          "Azithromycin",
+          "1 g single dose",
+          "20 mg/kg single dose",
+          "Preferred therapy in areas of resistance to fluoroquinolones; reports of resistance are rare."
+        ],
+        [
+          "Ciprofloxacin",
+          "500 mg twice daily for 3 days OR 1 g single dose",
+          "20 mg/kg body weight single dose",
+          "Reduced susceptibility in Asia and Africa."
+        ]
+      ]
+    }
+  ],
+  "figures": [],
+  "references": []
+}

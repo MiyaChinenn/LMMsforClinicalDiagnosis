@@ -1,0 +1,196 @@
+{
+  "chapter_title": "Persistent Abdominal Symptoms in the Returned Traveler",
+  "disease_name": "Persistent Abdominal Symptoms in the Returned Traveler",
+  "section_summaries": {
+    "epidemiology": "Acute diarrheal disease is common among travelers to tropical regions of the world, with incidence rates ranging from 10% to 40%. Persistent diarrhea (lasting ≥14 days) is reported in 3% to 10% of travelers, with 1% to 3% experiencing symptoms for a month or more, especially in expatriates and longer-term travelers. Military personnel deployed to high-risk areas also show similar rates. Non-diarrheal gastrointestinal complaints, including bloating, abdominal pain, and loose stools, are frequently reported post-travel, with their likelihood associated with acute diarrhea during travel and an inverse association with age.",
+    "pathogenesis": "The syndrome complex of persistent abdominal symptoms (PAS) in returned travelers can be broadly divided into categories of infectious, post-infectious process, and structural or organic disease. Infectious causes can include giardiasis, cryptosporidiosis, cyclosporiasis, amebiasis, cystoisosporiasis, chronic campylobacteriosis, and Strongyloides stercoralis. Blastocystis hominis is a debated pathogen, possibly reflecting an altered microbiota. Post-infectious processes, more likely with symptom chronicity, include secondary dietary intolerances (e.g., lactose intolerance), small intestinal bacterial overgrowth (SIBO) often triggered by enteric infection, and idiopathic bile acid malabsorption (BAM). Functional bowel disorders, such as Post-Infectious Irritable Bowel Syndrome (PI-IBS), are diagnoses of exclusion linked to motility disturbances, visceral hypersensitivity, altered gut microbiota, and central nervous system processing. Rare unmasking of organic or structural gastrointestinal disorders (e.g., inflammatory bowel disease, celiac disease, colon cancer) should also be considered, particularly in older travelers.",
+    "clinical_manifestations": "Persistent abdominal symptoms in returned travelers commonly include diarrhea lasting 14 days or more. Other persistent abdominal symptoms beyond diarrhea include bloating, abdominal pain, and loose stools not meeting IBS definition. Gastrointestinal complaints after enteric infection can include loss of appetite, constipation, nausea, abdominal pain and cramps, vomiting, and flatulence or burping. The quality and quantity of diarrhea (watery, greasy, bloody) are important indicators. Secretory diarrhea is often associated with large-volume stools despite fasting, while greasy and malodorous stools may represent a malabsorptive process. Blood in stool can indicate an invasive infectious process or inflammatory bowel disease.",
+    "diagnosis": "Diagnosis requires a thorough history of travel location, duration, itinerary, symptom onset relative to travel, acute diarrhea, antibiotic use, pre-existing conditions, stool characteristics (Bristol Scale, greasy, bloody, volume, frequency), food associations, and alarm features (fever, night sweats, weight loss, nocturnal symptoms). Initial investigations include stool studies for common protozoal pathogens and bacterial causes (e.g., Giardia, Cryptosporidium, Entamoeba histolytica, C. difficile, Campylobacter, Salmonella), utilizing traditional methods or rapid molecular diagnostics. If stool tests are unrevealing, hematologic testing (WBC, eosinophilia) may suggest helminthic infections or allergies. Further studies for malabsorptive etiologies (bile acid malabsorption, SIBO breath testing) may be helpful. A blood test measuring antibody levels to cytolethal distending toxin and vinculin can help discriminate diarrhea-predominant IBS. Upper endoscopy/colonoscopy is indicated to rule out structural or organic diseases.",
+    "treatment": "Treatment is tailored to the identified etiology. Infectious agents are treated with targeted antimicrobials: azithromycin for bacterial causes; metronidazole, tinidazole, or nitazoxanide for giardiasis; nitazoxanide for cryptosporidiosis; metronidazole followed by a luminal agent (diloxanide furoate, paromomycin) or nitazoxanide for amebiasis; and ivermectin for Strongyloides. Empiric anti-protozoal/anti-helminthic therapy (tinidazole, albendazole, or nitazoxanide) may be considered if initial studies are negative. For post-infectious processes, management involves reassurance, dietary modifications, and bile acid sequestrants for bile acid malabsorption. Functional bowel disorders like IBS-D are managed with patient education, lifestyle and dietary modifications (e.g., low-FODMAP diet), and symptomatic therapies (anti-motility agents, bile acid sequestrants, rifaximin, probiotics, anti-spasmodics, eluxadoline, TCAs). Rifaximin is particularly warranted for SIBO or IBS-D with bloating.",
+    "prevention": "not discussed"
+  },
+  "tables": [
+    {
+      "title": "Leading Causes of Persistent Abdominal Symptoms in Returned Travelers",
+      "headers": [
+        "Infectious",
+        "Post-Infectious Process",
+        "Structural or Organic Disease"
+      ],
+      "rows": [
+        [
+          "Giardia spp.",
+          "Malabsorption",
+          "Celiac sprue"
+        ],
+        [
+          "Cryptosporidium spp.",
+          "Secondary lactose intolerance",
+          "Inflammatory bowel disease"
+        ],
+        [
+          "Cyclospora",
+          "Small intestinal bacteria overgrowth",
+          "Colon cancer"
+        ],
+        [
+          "Isospora",
+          "Irritable bowel syndrome",
+          "Microscopic colitis"
+        ],
+        [
+          "Microsporidium",
+          "Functional dyspepsia",
+          "Peptic ulcer disease"
+        ],
+        [
+          "Entamoeba histolytica",
+          "Functional bowel disorder, not otherwise specified",
+          ""
+        ],
+        [
+          "Strongyloides stercoralis",
+          "Tropical sprue",
+          ""
+        ],
+        [
+          "Schistosoma mansoni",
+          "Brainerd's diarrhea",
+          ""
+        ],
+        [
+          "Campylobacter spp.",
+          "",
+          ""
+        ],
+        [
+          "Salmonella spp.",
+          "",
+          ""
+        ],
+        [
+          "Yersinia spp.",
+          "",
+          ""
+        ],
+        [
+          "Helicobacter pylori",
+          "",
+          ""
+        ],
+        [
+          "Blastocystis spp.",
+          "",
+          ""
+        ]
+      ]
+    },
+    {
+      "title": "Management Strategies for the Ill-Returning Traveler With Persistent Abdominal Symptoms",
+      "headers": [
+        "Category",
+        "Description"
+      ],
+      "rows": [
+        [
+          "History",
+          "Location and duration of travel and particular features of travel that might be high risk for soil-transmitted helminths or water-borne protozoa"
+        ],
+        [
+          "History",
+          "Timing of the symptom onset in relation to travel, development of acute traveler's diarrhea, and/or antibiotic use"
+        ],
+        [
+          "History",
+          "Careful history of gastrointestinal symptoms preceding recent travel, which may indicate the pre-existing nature of a functional bowel disorder or other organic/structural disorder"
+        ],
+        [
+          "History",
+          "Quantitative and phenotypic features of stool, including spectrum from solid to liquid (Bristol Scale Chart may be useful), greasy, floating, malodorous, containing blood or mucus, etc., as well as frequency, volume, and association with any other GI symptoms"
+        ],
+        [
+          "History",
+          "Association with particular food types (e.g., milk or fatty foods) and relationship in time to taking in meals"
+        ],
+        [
+          "History",
+          "Any alarm features to include fever, night sweats, weight loss, and nocturnal symptoms"
+        ],
+        [
+          "Diagnostics",
+          "Stool studies for common protozoal pathogens and bacterial causes of persistent abdominal symptoms (e.g., Giardia, Cryptosporidium, Entamoeba hystolitica, Clostridium difficile, Campylobacter spp., Salmonella spp.)"
+        ],
+        [
+          "Diagnostics",
+          "Serologies directed toward patient history, exposure, and clinical symptomatology to include Strongyloides"
+        ],
+        [
+          "Diagnostics",
+          "Hematology—WBC and particularly eosinophilia would be directive toward an extraintestinal protozoa"
+        ],
+        [
+          "Diagnostics",
+          "Additional blood chemistries—C-reactive protein, erythrocyte sedimentation rate, liver function tests"
+        ],
+        [
+          "Diagnostics",
+          "Other—intestinal malabsorption studies, breath testing for SIBO"
+        ],
+        [
+          "Diagnostics",
+          "Upper endoscopy/colonoscopy to rule out structural and organic disease as indicated"
+        ],
+        [
+          "Suggested Treatments (Adult Doses Listed)",
+          "Anti-bacterial therapy: Azithromycin 500 mg qd × 3 days"
+        ],
+        [
+          "Suggested Treatments (Adult Doses Listed)",
+          "Giardiasis: Metronidazole 250 mg tid 5–7 days OR tinidazole 2 g one dose OR nitazoxanide 500 mg bid × 3 days"
+        ],
+        [
+          "Suggested Treatments (Adult Doses Listed)",
+          "Cryptosporidiosis: Nitazoxanide 500 mg bid × 3 days"
+        ],
+        [
+          "Suggested Treatments (Adult Doses Listed)",
+          "Amebiasis: Metronidazole 750 mg tid 5–10 days followed by luminal agent (diloxanide furoate 500 mg tid × 10 days OR paromomycin 25–35 mg/kg/d tid × 7 days) OR nitazoxanide 500 mg bid for 3 days"
+        ],
+        [
+          "Suggested Treatments (Adult Doses Listed)",
+          "Strongyloides: Ivermectin 200 µg/kg/d × 2 days"
+        ],
+        [
+          "Suggested Treatments (Adult Doses Listed)",
+          "Empiric anti-protozoal/anti-helminthic therapy: Tinidazole 1000 mg bid × 2 days followed by oral albendazole 400 mg bid × 5 days (NOTE: in locations where albendazole is cost-prohibitive, tinidazole alone may be tried) OR nitazoxanide 500 mg bid × 3 days"
+        ],
+        [
+          "Suggested Treatments (Adult Doses Listed)",
+          "Functional bowel disorder (IBS-D most common): Identify key patient characteristics"
+        ],
+        [
+          "Suggested Treatments (Adult Doses Listed)",
+          "Functional bowel disorder (IBS-D most common): Educate and reassure the patient, trial of lifestyle/dietary modification"
+        ],
+        [
+          "Suggested Treatments (Adult Doses Listed)",
+          "Functional bowel disorder (IBS-D most common): Optimize treatment for predominant symptoms (e.g., diarrhea, bloating, pain), preference, and availability. May include anti-motility, bile acid sequestrants, rifaximin, probiotics, anti-spasmodics, eluxadoline, TCAs, low-FODMAP diet (bloating)"
+        ],
+        [
+          "Suggested Treatments (Adult Doses Listed)",
+          "Functional bowel disorder (IBS-D most common): Follow-up: Reassess every 4–8 weeks (until stable) to assess response, tolerability, and reassurances"
+        ],
+        [
+          "Suggested Treatments (Adult Doses Listed)",
+          "Small intestinal bacterial overgrowth/IBS-D: Rifaximin 550 mg three times daily for 2 weeks (repeat dosing may be necessary for recurrent symptoms)"
+        ],
+        [
+          "Suggested Treatments (Adult Doses Listed)",
+          "Food-associated symptoms: Avoid and slowly reintroduce; bile-acid sequestrants if indicated"
+        ]
+      ]
+    }
+  ],
+  "figures": [],
+  "references": []
+}

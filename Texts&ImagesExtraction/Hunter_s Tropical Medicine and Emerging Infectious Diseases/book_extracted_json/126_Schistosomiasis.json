@@ -1,0 +1,51 @@
+{
+  "chapter_title": "Schistosomiasis",
+  "disease_name": "Schistosomiasis",
+  "section_summaries": {
+    "epidemiology": "Schistosomiasis, caused by blood flukes (Schistosoma mansoni, S. haematobium, S. japonicum), is widespread in Africa, Southeast Asia, and parts of South America, infecting up to 200 million people, predominantly in sub-Saharan Africa (85% of cases). Its transmission depends on suitable snail hosts, a tropical climate, human settlements, and contaminated freshwater. Geographic distribution is confined to areas between 36°N and 34°S latitude with average freshwater temperatures of 25°C to 30°C. While typically rural, urban schistosomiasis is increasing around artificial dams and irrigated lands. Infection prevalence and intensity are highest in children aged 8-15 years, declining in adults who often develop acquired resistance. S. mansoni is found in sub-Saharan Africa, Madagascar, Egypt, Arabian peninsula, Brazil, Surinam, and the Caribbean. S. haematobium is widespread in sub-Saharan Africa, Madagascar, Egypt, Maghreb, and the Arabian peninsula. S. japonicum is found in China and the Philippines. Other species like S. intercalatum, S. mekongi, and S. malayensis are locally important. These species are transmitted by specific freshwater snails (Biomphalaria for S. mansoni, Bulinus for S. haematobium, and Oncomelania for S. japonicum).",
+    "pathogenesis": "Schistosome worms differ from other flukes by having separate sexes, living in blood vessels, non-operculated eggs, and lacking an encysted metacercarial stage. Humans become infected when motile cercariae penetrate the skin during freshwater contact. Cercariae lose their tails, becoming schistosomulae, which migrate through the bloodstream to the heart and lungs, then to the small vessels of the liver, where they mature into adult male and female worms. Adult worms mate and migrate against blood flow to their target venous plexuses: perivesical/ureteral for S. haematobium, inferior mesenteric for S. mansoni, and superior mesenteric for S. japonicum. Eggs, containing miracidia, are laid daily; about 50% are excreted in urine or feces, while others become trapped in tissues. The main pathology is caused by cellular immune responses (granulomatous reactions orchestrated by CD4+ T cells, involving neutrophils, eosinophils, monocytes, and lymphocytes) against eggs retained in tissues, leading to fibrosis over years. Early TH1 cytokine responses shift to TH2 and then to IL-10/IL-13/IgG4 in chronic infection, causing granuloma regression and collagen replacement. S. japonicum is a zoonotic parasite with animal reservoirs.",
+    "clinical_manifestations": "Clinical manifestations vary depending on the stage of infection and species. Cercarial dermatitis, or “swimmer's itch,” causes pruritic papules upon skin penetration, resolving in 7 to 10 days. Acute schistosomiasis (Katayama's fever), a systemic hypersensitivity reaction to migrating schistosomulae and/or egg production, occurs weeks to months post-infection with fever, fatigue, myalgia, malaise, cough, eosinophilia, and hepatosplenomegaly. S. japonicum infections are more prone to severe, sometimes fatal, Katayama's syndrome. Chronic pathology develops years after infection due to host immune reactions against trapped eggs, leading to fibrosis. S. mansoni and S. japonicum primarily cause intestinal (abdominal pain, diarrhea, mucosal inflammation, pseudo-polyposis, bleeding) and hepatosplenic schistosomiasis, leading to periportal fibrosis (Symmer's clay pipe stem fibrosis), portal hypertension, splenomegaly, and severe complications like gastroesophageal varices, which can be fatal. S. haematobium mainly affects the urinary tract, causing dysuria, urinary frequency, hematuria (the 'red flag' in children), bladder and ureteral granulomatous inflammation, pseudo-polyposis, obstruction, and increased risk of squamous cell bladder carcinoma. Ectopic schistosomiasis can cause pulmonary hypertension, glomerulonephritis, genital lesions (e.g., in vulva, vagina, cervix, epididymis, testicles), and neuroschistosomiasis (transverse myelitis, cerebral granulomas, epileptic seizures). Chronic Salmonella co-infections and co-infections with Hepatitis B and C are also noted.",
+    "diagnosis": "Diagnosis is based on a compatible clinical history and exposure. For community screenings, rapid tests include visual inspection of urine, hematuria dip-stick, and occult blood tests for stool. Eosinophilia is a key hematologic indicator, especially in acute cases. The gold standard for active infection is microscopic detection of Schistosoma eggs in stool or urine, using concentration methods or Kato-Katz. Rectal snips can also be examined microscopically. Serology (IgG, IgM, IgE against worm/egg antigens) is useful for travelers or migrants, detecting past or current infection, but cannot differentiate between them. Antigen detection (Circulating Anodic Antigen, Circulating Cathodic Antigen) in serum or urine is primarily used for epidemiological studies. Imaging techniques are crucial for assessing pathology: intravenous pyelography and ultrasonography for renal, ureteral, and bladder pathology, and for demonstrating periportal fibrosis and portal hypertension. Endoscopy and cystoscopy allow visualization and biopsy of lesions in the esophagus, colon, rectum, and bladder. Molecular diagnosis (PCR) is also available in research settings.",
+    "treatment": "Praziquantel is the drug of choice, being safe, inexpensive, and effective orally against all human Schistosoma species and other flukes. The standard single dose is 40 mg/kg body weight; for S. japonicum, S. mekongi, and S. malayensis, or high egg counts, two doses of 30 mg/kg (total 60 mg/kg) given 3 to 6 hours apart are recommended. It causes tetanic contraction and tegument damage in adult worms. After treatment, infection intensity reduces by 90-95%, with parasitologic cure in 70-95% of patients. Most schistosome-induced pathology resolves, but advanced cases with irreversible organ damage may have a poor prognosis. True drug resistance to praziquantel has not been convincingly demonstrated, but monitoring is needed. Topical steroids and oral antihistamines treat cercarial dermatitis. Acute schistosomiasis (Katayama's fever) and neuroschistosomiasis are primarily treated with corticosteroids (e.g., prednisone), followed by praziquantel to eliminate adult worms. Management of complications like esophageal varices or destroyed kidneys may require surgical interventions.",
+    "prevention": "Control and prevention strategies have evolved from snail intermediate host destruction to mass drug administration (MDA) targeting the definitive human host, especially school-aged children, to reduce prevalence and morbidity. Regular retreatment and surveillance are crucial for sustained impact. However, MDA has less impact on transmission and must be repeated. Breaking the transmission cycle fundamentally relies on sanitation, clean water supply, health education, and behavioral change to prevent human contact with snail-infested water and stop fecal/urinary contamination of surface waters. Efforts should be integrated with other neglected tropical disease control programs. While praziquantel is effective, the massive use of the drug raises concerns about potential drug resistance. Ultimately, socio-economic development is key for the long-term elimination of schistosomiasis."
+  },
+  "tables": [
+    {
+      "title": "Other Schistosome Species Causing Human Intestinal Disease",
+      "headers": [
+        "",
+        "Schistosoma intercalatum",
+        "Schistosoma mekongi",
+        "Schistosoma mattheei"
+      ],
+      "rows": [
+        [
+          "Distribution",
+          "African disease only endemic in parts of Cameroon, Gabon, Democratic Republic of Congo, and other areas of Central and West Africa; although occasionally co-existent with S. mansoni and S. haematobium, usually found as the sole species in known transmission foci",
+          "Lower Mekong River basin in Laos and Cambodia",
+          "South AfricaNatural infection of sheep, cattle, horses, and antelope that occasionally infects humansAlways found in association with S. mansoni or S. haematobium"
+        ],
+        [
+          "Clinical manifestations",
+          "Anorexia, nausea, abdominal pain, diarrhea with blood and mucus; rectal and genital lesions; hepatomegaly and rectal bleeding; pain in left iliac fossa with tenesmus",
+          "Similar to S. japonicum; acute schistosomiasis in non-immune travelers; generalized weakness, diarrhea, and abdominal distress; hepatomegaly and splenomegalyCentral nervous system and cardiopulmonary complications not described",
+          "Relatively mild intestinal disease, mucoid diarrhea; diffuse intermittent abdominal pain and cramping, malaise, hepatomegaly"
+        ],
+        [
+          "Diagnosis",
+          "Eggs are similar to S. haematobium in shape and in possessing a terminal spine but are usually longer (140-240 µm), often have a central bulge, and are shed in stool, not urine; terminal spine is characteristically bent; eggs are Ziehl-Neelsen (acid-fast) positive",
+          "Eggs in stool and rectal biopsyThe eggs are similar to S. japonicum but are generally smaller (50-80 µm by 40-65 µm); they also contain a small, inconspicuous spineElevated alkaline phosphatase",
+          "Eggs resemble S. intercalatum and measure 120-180 µm in length and have a terminal spine; eggs present in stool or occasionally urine"
+        ],
+        [
+          "Treatment",
+          "Praziquantel at 40 mg/kg body weight in single dose",
+          "Praziquantel at 60 mg/kg single dose or 2 x 30 mg/kg in divided doses",
+          "Praziquantel at 40 mg/kg single dose"
+        ]
+      ]
+    }
+  ],
+  "figures": [],
+  "references": []
+}

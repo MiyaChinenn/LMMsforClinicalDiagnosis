@@ -1,0 +1,142 @@
+{
+  "chapter_title": "Bartonellosis: Carrion's Disease and Other Bartonella Infections",
+  "disease_name": "Bartonellosis: Carrion's Disease",
+  "section_summaries": {
+    "epidemiology": "Carrion's disease is endemic in the inter-Andean valleys (500-3200 meters above sea level) of Peru, Ecuador, and Colombia, with an expanding distribution linked to changing weather and climate. Serologic studies suggest about 60% of people in endemic areas have been infected, and 0.5% may have asymptomatic bacteremia. It affects males and females equally, is more common in children, and can lead to severe complications and vertical transmission in pregnant patients.",
+    "pathogenesis": "Humans are the only known reservoir for Bartonella bacilliformis, which is transmitted by the bite of female New World sandflies (Lutzomyia spp.), primarily L. verrucarum in Peru. After inoculation, B. bacilliformis infects the endothelium of multiple capillary vessels and then invades erythrocytes, causing systemic symptoms and hemolysis. In the chronic phase, the bacterium invades endothelial cells, forming Rocha-Lima inclusion bodies, stimulating endothelial proliferation and angiogenesis, which leads to hyper-vascular nodules known as Peruvian warts.",
+    "clinical_manifestations": "Carrion's disease presents in two sequential clinical stages: acute febrile-hemolytic illness (Oroya fever) and a chronic verrucous phase (verruga peruana). Oroya fever has an incubation period of 10 days to months, characterized by fever, myalgia, headaches, hepatomegaly, severe pallor, and jaundice due to hemolytic anemia, with potential complications like pericarditis, encephalopathy, and multi-organ failure. Untreated, Oroya fever has a mortality rate of up to 90%. Verruga peruana develops weeks or months after acute illness, featuring arthralgia, fever, and painless polymorphic skin lesions (miliary, mular, and nodular forms), which typically last 3-6 months and can heal spontaneously.",
+    "diagnosis": "Diagnosis of Oroya fever is confirmed by visualizing intra-erythrocyte bacteria on peripheral blood Giemsa-Wright smears or by blood cultures, which should be held for up to 6 weeks. While smears are low-cost, they are insensitive (36%). Verruga peruana is diagnosed based on clinical features and confirmed by histopathologic analysis of tissue showing endothelial cell proliferation. Serologic tests (ELISA, immunoblot, IFA) and molecular techniques are available but may be limited by cost/availability in endemic areas. Differential diagnosis for Oroya fever is broad, considering febrile illnesses with hemolytic anemia; for verruga peruana, other nodular skin lesions are considered.",
+    "treatment": "In vitro studies show B. bacilliformis is susceptible to penicillins, cephalosporins, tetracyclines, fluoroquinolones, macrolides, rifampin, and chloramphenicol. For acute Oroya fever, ciprofloxacin or chloramphenicol are front-line therapies, with ciprofloxacin preferred due to fewer complications and reduced mortality. A combination of ceftriaxone and ciprofloxacin is considered for severe or persistent disease, and amoxicillin plus clavulanic acid for pregnant women. Blood transfusions and pericardial effusion drainage may be necessary. For verruga peruana, azithromycin (favored for its safer side effect profile) and rifampin are equally effective, with ciprofloxacin and streptomycin as alternatives.",
+    "prevention": "not discussed"
+  },
+  "tables": [
+    {
+      "title": "Differential Diagnosis of Bartonellosis or Carrion's Disease",
+      "headers": [
+        "OROYA FEVER",
+        "PERUVIAN WART"
+      ],
+      "rows": [
+        [
+          "Typhoid fever",
+          "Angioma"
+        ],
+        [
+          "Dengue fever",
+          "Bacillary angiomatosis"
+        ],
+        [
+          "Malaria",
+          "Granuloma pyogenicum"
+        ],
+        [
+          "Brucellosis",
+          "Kaposi's sarcoma"
+        ],
+        [
+          "Viral hepatitis",
+          "Leprosy"
+        ],
+        [
+          "Leptospirosis",
+          "Lymphomatoid papillomatosis"
+        ],
+        [
+          "Sepsis",
+          "Fibrosarcoma"
+        ],
+        [
+          "Systemic tuberculosis",
+          "Cutaneous lymphoma"
+        ],
+        [
+          "Hematologic malignancies",
+          "Reticuloendotheliosis"
+        ],
+        [
+          "Parvovirus B19 infection",
+          "Molluscum contagiosum"
+        ],
+        [
+          "Hemolytic anemias",
+          "Chikungunya fever"
+        ],
+        [
+          "Aplastic anemia",
+          "Chickenpox"
+        ],
+        [
+          "",
+          "Yaws"
+        ],
+        [
+          "",
+          "Spitz nevus"
+        ]
+      ]
+    },
+    {
+      "title": "Treatment Protocols for Bartonellosis or Carrion's Disease",
+      "headers": [
+        "Stage",
+        "Drug",
+        "Doses",
+        "Notes",
+        "Level of Evidence"
+      ],
+      "rows": [
+        [
+          "Oroya fever",
+          "Ciprofloxacin",
+          "500 mg twice daily for 14 days",
+          "Drug of choice; its use has shown fewer complications and reduced mortality",
+          "1"
+        ],
+        [
+          "",
+          "Chloramphenicol",
+          "50-75 mg per kg (up to 3 g/day), divided into four doses for 10-14 days",
+          "Recurrence has been described in patients who received this therapy",
+          "1"
+        ],
+        [
+          "",
+          "Ceftriaxone",
+          "1 g daily for 10-14 days",
+          "Used in combination with ciprofloxacin in cases of severe or persistent disease",
+          "2"
+        ],
+        [
+          "",
+          "Amoxicillin plus clavulanic acid",
+          "1 g (based on amoxicillin 875 mg) twice daily for 14 days",
+          "Drug of choice in pregnancy",
+          "2"
+        ],
+        [
+          "Peruvian wart",
+          "Azithromycin",
+          "500 mg once daily for 7 days",
+          "Drug of choice in all ages and pregnant patients",
+          "1"
+        ],
+        [
+          "",
+          "Rifampin",
+          "600 mg once daily for 14-21 days",
+          "Treatment failures have been reported",
+          "1"
+        ],
+        [
+          "",
+          "Ciprofloxacin",
+          "500 mg twice daily for 14 days",
+          "Alternative treatment choice",
+          "2"
+        ]
+      ]
+    }
+  ],
+  "figures": [],
+  "references": []
+}

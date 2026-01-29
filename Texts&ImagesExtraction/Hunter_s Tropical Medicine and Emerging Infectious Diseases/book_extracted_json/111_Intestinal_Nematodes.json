@@ -1,0 +1,46 @@
+{
+  "chapter_title": "Nematodes Limited to the Intestinal Tract (Enterobius vermicularis, Trichuris trichiura, Capillaria philippinensis, and Trichostrongylus spp.)",
+  "disease_name": "Intestinal Nematode Infections",
+  "section_summaries": {
+    "epidemiology": "Enterobiasis is a common pinworm infection found worldwide in both tropical and temperate regions, primarily affecting school-aged children and families due to easy transmission. Trichuriasis, or whipworm infection, is a neglected tropical disease prevalent in tropical and equatorial areas, impacting approximately 500 million people globally, with highest infection intensity in school-age children and transmission linked to fecally contaminated moist soils. Capillariasis is a rare zoonosis initially recognized in the Philippines and now emerging in the Middle East, with cases also reported in other parts of Asia, often linked to the consumption of raw freshwater fish. Trichostrongyliasis is a common parasite of herbivores, and human infections are most prevalent in the Middle East and Asia, with an underestimated prevalence due to diagnostic challenges.",
+    "pathogenesis": "These intestinal nematode infections primarily begin with the ingestion of infective eggs or larvae. In enterobiasis, ingested eggs hatch in the small intestine, larvae migrate to the ileum, mature into adults, and mate, with gravid females migrating perianally to lay eggs, rarely causing significant intestinal pathology. For trichuriasis, larvae hatch in the cecum, embed in the mucosal epithelium, and mature, leading to an immune response, eosinophilic infiltration, and in heavy infections, edematous and friable bowel walls with significant blood loss. Capillariasis involves larvae from raw fish invading the small bowel, causing chronic malabsorption, villous atrophy, and inflammation, exacerbated by autoinfection that can lead to severe protein-electrolyte imbalances and organ damage. Trichostrongyliasis involves ingested larvae maturing in the duodenum or upper jejunum, where adults embed in the mucosa, potentially causing blood sucking, mucosal damage, and sometimes eosinophilia.",
+    "clinical_manifestations": "The clinical presentations of these intestinal nematode infections vary. Enterobiasis is mainly characterized by intense perianal itching (pruritus ani), particularly at night, leading to sleep disturbances and secondary bacterial infections from scratching, and can cause vulvovaginitis or abdominal pain from ectopic granulomas. Trichuriasis, especially in heavy infections, is associated with colitis, dysentery, abdominal pain, chronic diarrhea, rectal prolapse, growth retardation, and in children, a dysenteric syndrome with pathognomonic finger clubbing. Capillariasis manifests as a severe chronic malabsorption-diarrhea syndrome, leading to watery diarrhea, electrolyte and protein abnormalities, muscle wasting, and potentially fatal myocardial degeneration. Trichostrongyliasis is often asymptomatic but can cause epigastric pain, diarrhea, flatulence, and in rare severe cases, anemia and emaciation.",
+    "diagnosis": "Diagnosis primarily relies on identifying parasite stages, usually eggs, in stool or perianal samples. Enterobiasis is diagnosed by detecting adult worms or characteristic ova using the transparent tape method on the perianal skin, requiring multiple samples for accuracy, as routine stool examination is often negative. Trichuriasis is diagnosed by identifying characteristic barrel-shaped eggs with polar hyaline plugs in stool specimens, though light infections may be missed, and PCR offers higher sensitivity. Capillariasis is diagnosed by finding characteristic peanut-shaped eggs, and sometimes larvae, in stool, which may require repeated examinations due to intermittent shedding. Trichostrongyliasis diagnosis involves identifying ova in stool using concentration techniques, with careful differentiation from hookworm eggs, and occasionally requires examining duodenal aspirates or adult worms for species identification.",
+    "treatment": "Treatment for these infections typically involves anti-helminthic drugs, often with repeated dosing due to their location in the lower gastrointestinal tract. Enterobiasis is treated with single or repeated doses of mebendazole, pyrantel embonate, or albendazole, with recommended treatment for the entire family. Trichuriasis is managed with a 3-day course of mebendazole or albendazole, or ivermectin, with higher efficacy for heavy infections achieved with combination therapies. Capillariasis necessitates prompt and extended treatment with mebendazole or albendazole for 10-20 days, alongside supportive fluid and nutritional therapy, due to the risk of autoinfection. Trichostrongyliasis is treated with mebendazole, albendazole, or pyrantel pamoate. Benzimidazoles are generally contraindicated in the first trimester of pregnancy.",
+    "prevention": "Prevention strategies for these intestinal nematode infections emphasize improved hygiene, sanitation, and food safety. For enterobiasis, key measures include regular handwashing, especially after bowel movements, and proper laundering of clothing and linens to reduce egg transmission. Capillariasis can be prevented by thoroughly cooking freshwater fish and practicing good hand hygiene during food preparation. For trichostrongyliasis, prevention involves sanitary disposal of human and animal excreta, preventing fecal contamination of agricultural topsoil, and ensuring contaminated vegetables and fruits are thoroughly cooked, with water boiled if necessary. Specific prevention details for trichuriasis were not explicitly detailed in a dedicated section beyond general epidemiological context."
+  },
+  "tables": [
+    {
+      "title": "Comparison of Capillaria philippinensis and Trichuris trichiura eggs.",
+      "headers": [
+        "Property",
+        "CAPILLARIA PHILIPPINENSIS",
+        "TRICHURIS TRICHIURA"
+      ],
+      "rows": [
+        [
+          "Size",
+          "45 X 21 µm",
+          "52 X 26 µm"
+        ],
+        [
+          "Shape",
+          "peanut",
+          "ellipse"
+        ],
+        [
+          "Plugs",
+          "bipolar not protuberant",
+          "bipolar protuberant"
+        ],
+        [
+          "Shell",
+          "pitted",
+          "smooth"
+        ]
+      ]
+    }
+  ],
+  "figures": [],
+  "references": []
+}

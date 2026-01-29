@@ -1,0 +1,273 @@
+{
+  "chapter_title": "Treatment of Systemic Mycoses",
+  "disease_name": "Systemic Mycoses",
+  "section_summaries": {
+    "epidemiology": "Treatment of systemic mycoses presents a significant clinical challenge due to their chronic nature and tendency to relapse. The global availability and cost of antifungal therapies vary extensively, with amphotericin B deoxycholate unavailable in 42 of 155 surveyed countries and flucytosine having even less availability. Antifungal resistance is a growing concern, with decreased susceptibility noted in cryptococcal isolates from Africa and Aspergillus fumigatus in Western Europe, often associated with long-term therapy, lack of prior exposure, and high mortality.",
+    "pathogenesis": "Amphotericin B is a polyene that interacts with cell membrane sterols, altering membrane integrity and causing leakage of intracellular contents, binding to ergosterol in fungi and cholesterol in human cells. Flucytosine is a fluorinated pyrimidine deaminated by cytosine deaminase in fungal cells to 5-fluorouracil (5-FU), which is then incorporated into fungal RNA, leading to faulty protein synthesis and growth inhibition. Triazoles (e.g., itraconazole, fluconazole, voriconazole, posaconazole, isavuconazole) inhibit ergosterol synthesis by blocking the cytochrome P450-dependent enzyme C-14 alpha-demethylase, which can lead to significant drug interactions due to inhibition of cytochrome P450 enzymes. Echinocandins (caspofungin, micafungin, anidulafungin) inhibit fungal cell wall glucan by targeting and inhibiting beta-1,3 glucan synthesis.",
+    "clinical_manifestations": "Amphotericin B infusion-related toxicities include fever, rigors, headaches, anorexia, nausea, vomiting, dyspnea, and hypotension; liposomal formulations can cause chest pain, dyspnea, hypoxia, and severe abdominal/flank/leg pain. Renal dysfunction occurs in over 80% of patients, and hematocrit decreases in 75%, with common renal potassium wasting and hypomagnesemia. Flucytosine frequently causes gastrointestinal (18%), hepatic (7%), and hematologic (18%) adverse events, including neutropenia and thrombocytopenia. Itraconazole commonly causes nausea, vomiting, abdominal pain, and can lead to hepatitis (rarely fatal) and negative inotropic effects. Voriconazole causes visual disturbances (20-30%), nausea/vomiting (6%), diarrhea (3%), headache (4%), and photosensitivity, with a risk of skin cancer. Posaconazole and Isavuconazole are generally well tolerated, with elevated liver function tests, nausea, and vomiting noted for posaconazole, and similar gastrointestinal and less common neurological side effects for isavuconazole. Echinocandins are well tolerated with minimal toxicity, though caspofungin can cause fever, headache, nausea, vomiting, and histamine-related symptoms.",
+    "diagnosis": "Routine susceptibility testing or serum levels for amphotericin B are not routinely valuable due to lack of standardization and poor correlation with clinical results. For flucytosine, monitoring of serum drug levels (target peak >25 µg/mL and <100 µg/mL), creatinine, liver function, platelet, and white blood cell counts is essential, with peak levels typically checked 2 hours post-dose after 3-5 days of therapy. For itraconazole, target trough serum levels are >0.5 µg/mL for prophylaxis and 1.0-2.0 µg/mL for treatment, measured 4-7 days after initiation. For voriconazole, monitoring of trough drug levels (target >1 to 5.5 mg/L) is recommended after 1 week of therapy, especially due to inter-patient variability and correlation with clinical outcomes and neurological toxicity.",
+    "treatment": "Treatment of systemic mycoses involves several antifungal classes. Amphotericin B deoxycholate (AMBD), an older, more toxic formulation, is being replaced by more expensive but less toxic lipid formulations (ABLC, ABCS, Ambisome) primarily for patients with renal insufficiency or intolerance; AMBD is often used as a 14-day induction followed by an oral triazole. Flucytosine, due to its synergy with amphotericin B, is the treatment of choice for cryptococcal meningitis and disseminated disease for induction therapy. Triazoles (fluconazole, itraconazole, voriconazole, posaconazole, isavuconazole) are well tolerated for chronic therapy, with fluconazole preferred for Coccidioides immitis, Cryptococcus neoformans, and Candida species, especially for meningitis and UTIs. Itraconazole is preferred for Histoplasma capsulatum, Blastomyces dermatitidis, Sporothrix schenckii, and Paracoccidioides brasiliensis. Voriconazole is the drug of choice for invasive Aspergillus infections. Posaconazole is active against mucormycosis, chromoblastomycosis, phaeohyphomycosis, mycetoma, and Scedosporium apiospermum. Isavuconazole is a broad-spectrum antifungal with fewer drug interactions and better toleration, approved for invasive aspergillosis and mucormycosis. Echinocandins (caspofungin, micafungin, anidulafungin) are the drugs of choice for empiric treatment of Candida bloodstream infections and febrile neutropenia, and are highly active against Aspergillus spp.",
+    "prevention": "not discussed"
+  },
+  "tables": [
+    {
+      "title": "TABLE 92.1 Triazole Drug Interactions (Severe and Major, Moderate Drug Interactions are not included)",
+      "headers": [
+        "Antifungal",
+        "Interaction Type",
+        "Recommendation",
+        "Drugs"
+      ],
+      "rows": [
+        [
+          "FLUCONAZOLE",
+          "increases levels",
+          "Contraindicated",
+          "Conivaptan, Flibanserin, Ivabradine, Lomitapide, Triazolam"
+        ],
+        [
+          "FLUCONAZOLE",
+          "increases levels",
+          "Avoid",
+          "Aprepitant, Atorvastatin, Bosutinib, Cobimetinib, Codeine, Doxorubicin, Etoposide, Lovastatin, Neratinib, Ospemifene, Red yeast rice, Simeprevir, Simvastatin, Sonidegib"
+        ],
+        [
+          "FLUCONAZOLE",
+          "increases levels",
+          "Avoid, caution, decrease dose",
+          "Acalabrutinib, Bosentan, Bromocriptine, Carvedilol, Celecoxib, Cilostazol, Cinacalcet, Cyclosporin, Deflazacort, Dronabinol, Eplerenone, Ergot alkaloids, Ethinyl estradiol, Everolimus, Fluvastatin, Gliburide, Glimeperide, Glipizide, Guanfacine, Irutinib, Ivacaftor, Lumacaftor, Lurasidone, Naldemidine, Naloxegol, Nisoldipine, Olaparib, Phenytoin, Rifabutin, Rifampin, Rifapentine, Ruxolitinib, Sirolimus, Suvorexant, Tezacaftor, Tofacitinib, Tolvaptan, Venetoclax, Warfarin, esp at higher doses of fluconazole, monitor PT/INR"
+        ],
+        [
+          "FLUCONAZOLE",
+          "Decreases Fluconazole levels",
+          "Moderate",
+          "Rifampin"
+        ],
+        [
+          "FLUCONAZOLE",
+          "increases levels, increased risk of QT prolongation and Torsade de Pointes",
+          "Contraindicated",
+          "Alfuzosin, Amiodarone, Artemether, Asenapine, Buprenorphine, Ceritinib, Cisapride, Citalopram, Clarithromycin, Clozapine, Crizotinib, Dasatinib, Disopyramide, Dofetilide, Dolasetron, Donepezil, Dronedarone, Droperidol, Eliglustat, Encorafenib, Escitalopram, Granisetron, Haloperidol, Iloperidone, Lapatinib, Loperamide, Lopinavir/ritonavir, Lumefantrine, Mefloquine, Midostaurin, Mifepristone, Mirtazapine, Nilotinib, Ondansetron, Paliperidone, Panobinostat, Pazopanib, Pimavanserin, Pimozide, Propafenone, Quetiapine, Quinidine, Quinine, Ribociclib, Rilpivirine, Romidepsin, Solifenacin, Sunitinib, Tacrolimus, Tamoxifen, Telithromycin, Thioridazine, Trazodone, Vandetanib, Vardenafil, Vemurafenib, Venlafaxin, Ziprasidone"
+        ],
+        [
+          "FLUCONAZOLE",
+          "increases levels, increased risk of QT prolongation and Torsade de Pointes",
+          "Avoid",
+          "Abarelix, Chlorpromazine, Arsenic trioxide, Hydroxychloroquine, Levatinib, Levofloxacin"
+        ],
+        [
+          "FLUCONAZOLE",
+          "increases levels, increased risk of QT prolongation and Torsade de Pointes",
+          "Avoid/caution/decrease dose",
+          "Anagrelide, Apomorphine, Atomoxetine, Azithromycin, Bedalaquine, Chloroquine, Ciprofloxacin, Degarelix, Desflurane, Deutetrabenazine, Efavirenz, Enflurane, Eribulin, Erythromycin, Ezogabine, Fingolimod, Flecainide, Fluoxetine, Fluvoxamine, Foscarnet, Gemifloxacin, Gemtuzumab Ozogamicin, Goserelin, Halogenated anesthetics, Histrelin, Ibulitide, Imipramine, Inotuzumab, Isoflurane, Ivosidenib, Leuprolide, Lithium, Lofexidine, Macimorelin, Maprotiline, Methadone, Metronidazole, Moxifloxacin, Norfloxacin, Nortriptyline, Octreotide, Ofloxacin, Olanzapine, Osimertinib, Pasireotide, Pentamidine, Promethazine, Primaquine, Procainamide, Promethazine, Risperidone, Sertraline, Sorafenib, Sotalol, Telavancin, Tetrabenazine, Tolterodine, Triptorelin, Vorinostat"
+        ],
+        [
+          "ITRACONAZOLE",
+          "increases drug levels",
+          "Contraindicated",
+          "Alfuzosin, Alprazolam, Avanafil, Conivaptan, Ergot alkaloids, Eletriptan, Eplerenone, Felodipine, Flibanserin, Irinotecan, Ivabradine, Lomitapide, Lovastatin, Methadone, Midazolam, Naloxegol, Nisoldipine, Red Yeast rice, Simvastatin, Silodosin, Solifenacin, Telithromycin, Ticagrelor, Tolvaptan, Triazolam, Venetoclax"
+        ],
+        [
+          "ITRACONAZOLE",
+          "increases drug levels",
+          "Avoid",
+          "Acalabrutinib, Ado-Trastuzumab Emtansine, Aliskiren, Apixaban, Aprepitant, Bosutinib, Cabazitaxel, Ceritanib, Cerivastatin, Cobicistat, Cobimetinib, Dabrafenib, Dasabuvir, Doxorubicin, Elbasvir, Everolimus, Fentanyl, Fesoterodine, Fluticasone, Grazoprevir, Ivacaftor, Medroxyprogesterone, Macitentan, Maprotiline, Neratinib, Ombitsavir, Palbociclib, Regorafenib, Riociguat, Rivaroxaban, Simeprevir, Sirolimus, Sonidegib, Suvorexant, Tamsulosin, Temsirolimus, Topotecan, Trabectedin, Vardenafil, Vemurafenib, Vinblastine, Vincristine, Vinorelbine, Vorapaxar"
+        ],
+        [
+          "ITRACONAZOLE",
+          "increases drug levels",
+          "Avoid/decrease dose",
+          "Abemaciclib, Apalutamide, Atorvastatin, Axitinib, Betrixaban, Boceprevir, Brexpiprazole, Brigatinib, Bromocriptine, Buprenorphine, Cabozantinib, Cariprazine, Cilostazol, Cinacalcet, Codeine, Colchicine, Copanlisib, Cyclosporin, Daclastavir, Darifenacin, Deflazacort, Docetaxel, Dronabinol, Duvelisib, Endoxaban, Erlotinib, Eszopiclone, Etoposide, Guanfacine, Halofantrine, Indaceterol, Ivacaftor, Ixabepilone, Levomilnacipran, Lorlatinib, Maraviroc, Mifepristone, Midostaurin, Nalemedine, Nilotinib, Olaparib, Ponatinib, Propafenone, Protease Inhibitors (Darunavir, Atazanavir, Ritonavir), Repaglinide, Rilpivirine, Romidepsin, Ruxoltinib, Saxagliptin, Sildenafil, Tacrolimus, Tadalafil, Talazoparib, Tasimelteon, Telapravir, Tezacaftor, Tofacitinib, Vilazodone, Zolpidem"
+        ],
+        [
+          "ITRACONAZOLE",
+          "decreases drug levels",
+          "Avoid",
+          "Barbiturates, Carbamazepine, Efavirenz, Enzalutamide, Isoniazid, Ivosidenib, Mitotane, Nevirapine, Phenytoin, Rifabutin, Rifampin, Rifapentine"
+        ],
+        [
+          "ITRACONAZOLE",
+          "decreases drug levels",
+          "Caution",
+          "Meloxicam, Thiotepa"
+        ],
+        [
+          "ITRACONAZOLE",
+          "Increased risk of QT prolongation and torsade de pointes",
+          "Contraindicated",
+          "Cisapride, Disopyramide, Dofetilide, Dronedarone, Eliglusistat, Mirtazapine, Pimozide, Quinidine, Ranolazine, Telithromycin, Thioridazine, Trazodone, Ziprasidone"
+        ],
+        [
+          "ITRACONAZOLE",
+          "Increased risk of QT prolongation and torsade de pointes",
+          "Avoid",
+          "Amiodarone, Arsenic Trioxide, Asenapine, Bedaquiline, Clarithromycin, Dasatinib, Dolasetron, Hydroxychloroquine, Ivosidenib, Lapatinib, Lenvatinib, Macimorelin, Mefloquine, Mifepristone, Osimertinib, Oxaliplatin, Panobistat, Pasireotide, Pimavanserin, Ribociclib, Salmeterol, Vandetanib, Vardenafil"
+        ],
+        [
+          "ITRACONAZOLE",
+          "Increased risk of QT prolongation and torsade de pointes",
+          "Avoid/caution/decrease dose",
+          "Albuterol, Anagrelide, Apomorphine, Arformoterol, Aripiprazole, Artemether, Atomoxetine, Metronidazole, Buprenorphine, Buspirone, Ceritanib, Chloroquine, Chlorpromazine, Ciprofloxacin, Citalopram, Clozapine, Crizotinib, Degarelix, Desflurane, Deuterabenazine, Rilpivirine, Donepezil, Droperidol, Encorafenib, Enflurane, Eribulin, Erythromycin, Escitalopram, Ezogabine, Fingolimod, Flecanide, Fluoxetine, Fluvoxamine, Foscarnet, Gemifloxacin, Gemtuzumab, Goserelin, Granisetron, Halogenated anesthetics, Haloperidol, Histrelin, Ibulitide, Iloperidone, Indaceterol, Leuprolide, Levofloxacin, Lithium, Lofexidine, Loperamide, Metaproterenol, Metronidazole, Midostaurin, Moxifloxacin, Norfloxain, Octreotide, Ofloxacin, Olanzapine, Ondansetron, Paliperidone, Pasopanib, Pentamidine, Pirbuterol, Primaquine, Procainamide, Promethazine, Propafenone, Quetiapine, Rilpivirine, Risperidone, Romidepsin, Sertraline, Sorafenib, Sotalol, Tacrolimus, Tamoxifen, Telavancin, Terbutaline, Tetrabenazine, Tolterodine, Toremifine, Triptorelin, Umeclidinium, Valbenazine, Venlafaxine, Vorinostat"
+        ],
+        [
+          "VORICONAZOLE",
+          "increases drug level",
+          "Contraindicated",
+          "Conivaptan, Eletriptan, Eplerenone, Ergot alkaloids, Flibanserin, Ivabradine, Lomitapide, Lovastatin, Lurasidone, Naloxigol, Silodosin, Simvastatin, Sirolimus, Tolvaptan, Triazolam, Venetoclax"
+        ],
+        [
+          "VORICONAZOLE",
+          "increases drug level",
+          "Avoid",
+          "Acalabrutinib, Ado-Trastuzumab, Aprepitant, Atazanavir/ritonavir, Avanafil, Bocepravir, Bosentan, Bosutinib, Bromocriptine, Buprenorphine, Cobicistat, Colchicine, Darunavir, Doxorubicin, Fluticasone, Idelalisib, Irinotecan, Levomethadyl, Macitentan, Medroxyprogesterone, Midostaurin, Neratinib, Olaparib, Palbociclib, Ponatinib, Red yeast rice, Regorafinib, Sildenafil, Simeprevir, Sonidegib, Sunitinib, Suvorexant, Tamsulosin, Tasimelton, Thiotepa, Ticagrelor, Trabectedin, Vinblastine, Vincristine, Vinorelbine, Vorapaxar"
+        ],
+        [
+          "VORICONAZOLE",
+          "increases drug level",
+          "Avoid/caution/decrease dose",
+          "Alprazolam, Atorvastatin, Axitinib, Brexpiprazole, Brigatinib, Cabazitacel, Cabozantinib, Caripazine, Celecoxib, Ceritinib, Cerivastatin, Cilostazol, Cobimetinib, Copanlisib, Crizotinib, Cyclosporine, Dabrafenib, Darifenacin, Deflazacort, Docetaxol, Duvelisib, Elagolix, Erlotinib, Eszopiclone, Everolimus, Guanafacine, Haloperidol, Ibrutinib, Iloperidone, Ivacaftor, Levomilnacipran, Lorlatinib, Maraviroc, Methadone, Mifepristone, Naldemidine, Oxycodone, Rifabutin, Romidepsin, Ruxolitinib, Saxagliptin Tacrolimus, Tadalafil, Telaprevir, Temsirolimus, Tezacaftor, Tofacitinib, Tolterodine, Tretinoin, Vilazodone, Zolpidem"
+        ],
+        [
+          "VORICONAZOLE",
+          "decreases levels",
+          "Contraindicated",
+          "Apalutamide, Butalbital, Carbamazepine, Efavirenz, Enzalutamide, Phenobarbital, Phenytoin, Primidone, Rifabutin, Rifampin, St. John's Wort"
+        ],
+        [
+          "VORICONAZOLE",
+          "decreases levels",
+          "Avoid",
+          "Dabrafenib, Darunavir, Ritonavir, Letermovir, Lopinavir/ritonavir, Mitotane, Rifapentene, Rilpivirine"
+        ],
+        [
+          "VORICONAZOLE",
+          "increases QT interval and potential for Torsade de Points",
+          "Contraindicated",
+          "Alfuzolin, Cisapride, Dofetilide, Dronedarone, Eliglustat, Encorafenib, Mirtazapine, Pimozide, Quinidine, Saquinavir/ritonavir, Terfenadine, Thioridazine, Ziprasidone"
+        ],
+        [
+          "VORICONAZOLE",
+          "increases QT interval and potential for Torsade de Points",
+          "Avoid",
+          "Amiodarone, Hydroxychloroquine, Ivosidenib, Macimorelin, Paliperidone, Panobinostat, Pazopanib, Quetiapine, Quinine, Ranolazine, Ribociclib, Sertraline, Tetrabenazine, Toremifene, Trazodone, Vandetanib, Vemurafenib"
+        ],
+        [
+          "VORICONAZOLE",
+          "increases QT interval and potential for Torsade de Points",
+          "Avoid/caution/reduced dose",
+          "Anagrelide, Aripiprazole, Artemether, Asenapine, Azithromycin, Bedaquiline, Metronidazole, Chloroquine, Chlorpromazine, Clarithromycin, Ciprofloxacin, Citalopram, Clozapine, Dasatanib, Degarelix, Deutetrabenazine, Disopyramide, Dolasetron, Donepezil, Halogenated anesthetics, Doxepin, Droperidol, Eribulin, Erythromycin, Escitalopram, Ezogabine, Fengolimod, Flecanide, Fluoxetine, Fluvoxamine, Foscarnet, Gemifloxacin, Gemtuzumab, Goserelin, Granisetron, Haloperidol, Histrelin, Hydroxyzine, Ibutilide, Inotuzumab, Ixabepilone, Lapatinib, Lenvatinib, Leuprolide, Levofloxacin, Lithium, Lofexidine, Loperamide, Maprotiline, Mefloquine, Metronidazole, Moxifloxacin, Nilotinib, Norfloxacin, Octreotide, Ofloxacin, Olanzapine, Ondansetron, Osimertinib, Oxaliplatin, Pasireotide, Pentamidine, Pimavanserin, Primaquine, Procainamide, Promethazine, Propafenone, Rilpivirine, Risperidone, Solifenacin, Sorafenib, Sotalol, Tacrolimus, Tamoxifen, Telavancin, Telithromycin, Triptorelin, Valbenazine, Vardenafil, Venlafaxine, Vorinostat"
+        ],
+        [
+          "POSACONAZOLE",
+          "increases drug levels",
+          "Contraindicated",
+          "Alfuzosin, Amiodarone, Atorvastatin, Belladonna alkaloids, Bromocriptine, Conivaptan, Dabrafenib, Eletriptan, Eplerenone, Ergot alkaloids, Flibanserin, Ivabradine, Lomitapide, Lovastatin, Lurasidone, Methadone, Methysergide, Nalozegol, Pergolide, Simvastatin, Sirolimus, Tolvaptan, Triazolam, Venetoclax"
+        ],
+        [
+          "POSACONAZOLE",
+          "increases drug levels",
+          "Avoid",
+          "Acalabrutinib, Aprepitant, Atazanavir, Bosutinib, Brigatinib, Cabazitaxel, Cabozantinib, Cerivastatin, Cobimetinib, Colchicine, Doxorubicin, Elbasvir/grazoprevir, Ecorafenib, Erlotinib, Evirolimus, Fingolimod, Fluticasone, Irinotecan, Medroxyprogesterone, Neratinib, Olaparib, Palbociclib, Panobinostat, Red yeast rice, Regorafenib, Rifampin, Rivaroxaban, Silodosin, Simepravir, Sonidegib, Suvorexant, Tamsulosin, Tasimelteon, Telaprevir, Teniposide, Thiotepa, Topotecan (oral), Trabectedin, Vinblastine, Vincristine, Vinorelbine, Vorapaxar"
+        ],
+        [
+          "POSACONAZOLE",
+          "increases drug levels",
+          "Avoid/caution/decrease dose",
+          "Abemaciclib, Alprazolam, Apixaban, Aripiprazole, Avanafil, Axitinib, Betrixaban, Boceprevir, Brexpiprazole, Bupivacaine, Carbamazepine, Cariprazine, Cobicistat, Copanlisib, Cyclosporine, Daclastavir, Darunavir, Deflazacort, Dextromethorphan, Dihydrocodeine, Docetaxel, Dronabinol, Dutasteride, Duvelisib, Elagolix, Eszopiclone, Etoposide, Guanfacine, Irutinib, Hydrocodone, Ivacaftor, Ixabepilone, Ivacaftor, Levomilnacipran, Lidocaine, Lorlatinib, Lumacaftor, Maraviroc, Naldemidine, Nelfinavir, Nevirapine, Phenytoin, Ponatinib, Ruxolitinib, Ritonavir, Selegilene, Sibutramine, Sildenafil, Sulfamethoxazole, Tacrolimus, Tadalafil, Tesirolimus, Testosterone, Theophylline, Tigabine, Tinidazole, Tofacitinib, Tramadol, Valbenazine, Valdecoxib, Vilazodone, Warfarin, Yohimbine, Zileuton, Zolpidem"
+        ],
+        [
+          "POSACONAZOLE",
+          "Decreases Posaconazole levels",
+          "Avoid",
+          "Cimetidine, Fosphenytoin, Phenytoin, Proton pump inhibitors (oral suspension), Rifabutin, Rifampin"
+        ],
+        [
+          "POSACONAZOLE",
+          "Decreases Posaconazole levels",
+          "Avoid/caution/reduce dose",
+          "Apalutamide, Rifapentine, St. John's Wort, Sucralfate"
+        ],
+        [
+          "POSACONAZOLE",
+          "Increased risk of QT prolongation and Torsade de Points",
+          "Contraindicated",
+          "Aripiprazole, Artemether, Asenapine, Bedaquiline, Buprenorphine, Ceritinib, Cisapride, Citalopram, Clarithromycin, Clozapine, Crizotinib, Dasatinib, Disopyramide, Dofelitide, Donepizil, Dronedarone, Droperidol, Efavirenz, Eliglustat, Escitalopram, Granisetron, Halofantrine, Haloperidol, Iloperidone, Ivosidenib, Lapatinib, Loperamide, Lopinavir/ritonavir, Lumefantrine, Macimorelin, Mefloquine, Midostaurin, Mifepristone, Mirtazapine, Nilotinib, Ondansetron, Paliperidone, Pazopanib, Pimavanserin, Pimozide, Quetiapine, Quinidine, Quinine, Ranolazine, Ribociclib, Rilpivirine, Romidepsin, Saquinavir, Solifenacin, Sparfloxacin, Sunitinib, Tamoxifen, Telithromycin, Thioridazine, Toremifine, Trazodone, Vardenafil, Vemurafenib, Venlafaxin, Ziprasidone"
+        ],
+        [
+          "POSACONAZOLE",
+          "Increased risk of QT prolongation and Torsade de Points",
+          "Avoid",
+          "Arsenic trioxide, Chlorpromazine, Hydroxychloroquine, Inotuzumab, Lenvatinib, Levofloxacin, Moxifloxacin, Norfloxacin, Osimertinib, Oxaliplatin, Sertraline, Tetrabenazine, Tolterodine, Vandetanib, Vorinostat"
+        ],
+        [
+          "POSACONAZOLE",
+          "Increased risk of QT prolongation and Torsade de Points",
+          "Avoid/caution/reduce dose",
+          "Anagrelide, Apomorphine, Atomoxetine, Azithromycin, Chloroquine, Ciprofloxacin, Degarelix, Deutetrabenazine, Dolasetron, Eribulin, Erythromycin, Ezogabine, Flecainide, Fluoxetine, Fluvoxamine, Foscarnet, Gemifloxacin, Gentuzumab, Goserelin, Halogenated anesthetics, Hydroxyzine, Ibutilide, Leuprolide, Lithium, Lofexidine, Maprotiline, Metronidazole, Octreotide, Ofloxacin, Olanzapine, Telavancin, Pasereotide, Pentamidine, Primaquine, Procainamide, Promethazine, Risperidone, Sorafenib, Sotalol, Sufentanil, Triptorelin"
+        ],
+        [
+          "POSACONAZOLE",
+          "Elevated Posaconazole levels",
+          "Drugs",
+          "Cobicistat, Darunavir, Grapefruit juice, Nelfinavir"
+        ],
+        [
+          "ISAVUCONAZOLE",
+          "increases levels",
+          "Contraindicated",
+          "Flibanserin, Lomitapide"
+        ],
+        [
+          "ISAVUCONAZOLE",
+          "increases levels",
+          "Avoid",
+          "Acalabrutinib, Amiodarone, Aprepitant, Armodafinil, Bosentan, Bosutinib, Cobimetinib, Colchicine, Dronabinol, Encorafenib, Efavirenz, Etravirine, Flutamide, Ivabradine, Modafinil, Naldemedine, Neratinib, Nevirapine, Nisoldipine, Olaparib, Quinine, Ranolazine, Rivaroxaban, Simeprevir, Topotecan, Vemurafenib"
+        ],
+        [
+          "ISAVUCONAZOLE",
+          "increases levels",
+          "Avoid/caution/decrease dose",
+          "Bromocriptine, Cobimetinib, Coumadin, Deflazacort, Eplerenone, Guanfacine, Iloperidone, Ibrutinib, Ivacaftor, Naloxegol, Perampanel, Rifabutin, Suvorexant, Teniposide, Tezacaftor, Tolvaptan, Venetoclax, Vorapaxar, Warfarin"
+        ],
+        [
+          "ISAVUCONAZOLE",
+          "Decreased levels of Isavuconazole",
+          "Contraindicated",
+          "Apalutamide, Armodafinil, Belladonna alkaloids, Carbamazepine, Dexamethasone, Dilantin, Enzalutamide, Ergotamine, Isoniazid, Mitotane, Modafinil, Nevirapine, Phenobarbital, Phenytoin, Primidone, Rifampin, St. John's Wort"
+        ],
+        [
+          "ISAVUCONAZOLE",
+          "Decreased levels of Isavuconazole",
+          "Avoid",
+          "Berarotene, Bosentan, Dabrafenib, Deferasirox, Efavirenz, Elagolix, Eslicarbazepine, Etravirine, Felbamate, Flutamide, Ivacaftor/Lumecaftor, Nafcillin, Oritavancin, Oxcarbazepine, Pentobarbital, Perampanel, Rifabutin, Vemurafenib"
+        ],
+        [
+          "ISAVUCONAZOLE",
+          "Increased Isavuconazole levels",
+          "Contraindicated",
+          "Amiodarone, Atazanavir, Boceprevir, Chloramphenicol, Cobicistat, Conivaptan, Dalfopristin/Quinupristin, Darunavir, Delavirdine, Grapefruit juice, Idelalisib, Lopinavir/ritonavir, Nefazodone, Ribociclib, Saquinavir, Telithromycin"
+        ],
+        [
+          "ISAVUCONAZOLE",
+          "Increased Isavuconazole levels",
+          "Avoid",
+          "Bosentan, Efavirenz"
+        ],
+        [
+          "ISAVUCONAZOLE",
+          "increases levels, increased risk of QT prolongation and Torsade de Pointes",
+          "Contraindicated",
+          "Dofelitide"
+        ],
+        [
+          "ISAVUCONAZOLE",
+          "increases levels, increased risk of QT prolongation and Torsade de Pointes",
+          "Avoid",
+          "Cisapride, Eliglustat, Ivosidenib, Pimozide"
+        ]
+      ]
+    }
+  ],
+  "figures": [],
+  "references": []
+}

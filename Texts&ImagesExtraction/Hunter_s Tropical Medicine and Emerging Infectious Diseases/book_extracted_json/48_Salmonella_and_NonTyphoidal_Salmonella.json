@@ -1,0 +1,296 @@
+{
+  "chapter_title": "Shigellosis",
+  "disease_name": "Shigellosis",
+  "section_summaries": {
+    "epidemiology": "Shigella dysenteriae type 1 was identified in 1897, with three other species (S. flexneri, S. boydii, S. sonnei) later identified. S. dysenteriae type 1 causes the most severe disease, S. sonnei the least, and S. flexneri intermediate. Shigella infections are among the four most common enteric pathogens worldwide, with the highest incidence in children 1-4 years. It is the second-most common cause of diarrhea mortality after rotavirus, causing an estimated 55,000 deaths globally in children under 5 years and 110,000 in older children and adults. Humans are the only reservoir, and transmission is fecal-oral or human-to-human, facilitated by poor hygiene, underdevelopment, and a low infectious inoculum (<100 organisms). In wealthy countries, S. sonnei predominates, while S. flexneri is more common in poor countries. S. dysenteriae type 1 has caused epidemics with high mortality but has become rare worldwide since 2000. Infections with S. boydii are common in South Asia but account for a minority of infections, and other S. dysenteriae types are even less common.",
+    "pathogenesis": "Shigella infections have a usual incubation period of 1 to 3 days, with untreated disease lasting 5 days or more. Shigellae are enteroinvasive, invading, multiplying within, and destroying colonic epithelial cells, primarily in the distal ileum and colon. This leads to tissue destruction, mucosal ulceration, disruption of small vessels, hemorrhage, and microabscesses, with inflammation most severe in the rectosigmoid. The infection elicits a profound inflammatory response (polymorphonuclear cells and mucus) and a systemic inflammatory response (chills, fever, malaise). Virulence is primarily controlled by a 220-kb plasmid encoding adherence, invasion, and cell spread. Shigella enhances its survival by inducing apoptosis in macrophages. S. dysenteriae type 1 produces Shiga toxin, which inhibits protein synthesis and likely induces vascular damage, contributing to severe colitis and systemic complications like hemolytic-uremic syndrome (HUS) and leukemoid reaction. Shigella enterotoxins (ShET 1 and 2) are implicated in the watery diarrhea that can accompany shigellosis.",
+    "clinical_manifestations": "The hallmark of Shigella infection is dysentery, characterized by frequent, painful passage of small-volume stools containing mucus, blood, inflammatory cells, and fecal matter, accompanied by tenesmus and cramping. In severe cases, repeated straining can lead to rectal prolapse. Watery diarrhea can also be the presenting symptom, especially with S. sonnei infection. Intestinal complications, more common with S. dysenteriae type 1, include toxic colitis (causing obstruction and systemic toxicity, mimicking ulcerative colitis), gut perforation, and protein-losing enteropathy. Systemic complications, more common in malnourished children, include fever (often high, up to 40°C), seizures (especially in young children), lethargy, confusion, obtundation, and coma. Metabolic complications involve hypoglycemia (from inadequate gluconeogenesis) and hyponatremia (from inappropriate antidiuretic hormone secretion). Hypoproteinemia can result from protein loss in the gut, diminished nutrition, and inflammation. Rare complications include infection of other epithelial sites (cornea, vagina) or systemic sepsis. The most serious acute complication is hemolytic uremic syndrome (HUS), almost exclusively with S. dysenteriae type 1, causing microangiopathic anemia, renal failure, leukemoid reaction, and thrombocytopenia. Reactive arthritis and post-infectious malnutrition are also noted complications.",
+    "diagnosis": "Diagnosis of shigellosis is important for initiating antimicrobial therapy. While definitive diagnosis requires Shigella isolation from stool (48 hours), lack of microbiology facilities in many developing countries necessitates empirical treatment based on a presumptive clinical diagnosis, often indicated by dysentery. In endemic areas, children with dysentery have a high probability of Shigella infection; for adults, other causes are common, but severe dysentery in the tropics still suggests Shigella. Supportive features include abdominal tenderness, fever (less common in malnourished children), and rectal prolapse. Microscopic examination of stool showing large numbers of polymorphonuclear cells and erythrocytes is a likely available laboratory test. Peripheral blood count with leukocytosis is also supportive. Rapid bedside tests for identification exist but are not widespread. Cultures are best done by plating stool samples at the bedside or transporting in buffered-glycerol saline, then plated on selective media (Shigella appears white/colorless) and confirmed by biochemical tests. Differential diagnoses include intestinal amebiasis (less fever, fewer white cells in stool, trophzoites), Salmonella infections, Campylobacter jejuni (less severe, more cramping, less bloody), and ulcerative colitis (rare). Patients are evaluated for complications such as rectal prolapse, hypoglycemia, hyponatremia, and toxic megacolon. For suspected S. dysenteriae type 1 infection, hematocrit/hemoglobin and renal function monitoring is crucial, with dialysis considered for severe cases.",
+    "treatment": "Antimicrobial drugs are definitive treatment for shigellosis, especially when initiated early. Treatment shortens illness, pathogen excretion, and reduces complications and mortality, potentially impacting long-term nutritional and developmental effects for watery diarrhea cases. Effective drugs must be active in vitro, systemically absorbed, achieve high intracellular concentrations, be orally administrable, available in liquid formulation for children, inexpensive, and have a high therapeutic index. Oral cephalosporins are ineffective due to low intracellular activity. Previous mainstays (ampicillin, trimethoprim-sulfamethoxazole, nalidixic acid, tetracycline) are no longer useful due to widespread resistance. Current drugs of choice are fluoroquinolones and azithromycin, though resistance is increasing. Knowledge of local resistance patterns is crucial for empiric therapy. No new drugs have been introduced in over 20 years. Supportive therapy includes oral rehydration, aggressive early feeding with a high-protein diet (including continued breastfeeding for infants), supplemental zinc (reduces severity/duration and incidence of post-infection diarrhea), and vitamin A (for malnourished children). Rectal prolapse is treated with warm magnesium sulfate compresses. Convulsions without metabolic derangements are managed with local protocols for febrile convulsions, including antipyretics.",
+    "prevention": "Efforts to develop an effective Shigella vaccine are ongoing but complicated by multiple serotypes, with no candidate vaccine yet warranting extensive clinical trials or licensing. For the foreseeable future, control relies on improved hygiene and nutrition (including encouraging breastfeeding), appropriate identification and treatment of infected individuals, and improved socio-economic conditions (reducing household crowding, increasing access to potable water). A reduction in poverty has been associated with decreases in Shigella mortality, a trend expected to continue."
+  },
+  "tables": [
+    {
+      "title": "Complications Associated With Shigellosis",
+      "headers": [
+        "Complication",
+        "Species Most Common With",
+        "Etiology and Pathogenesis",
+        "Management",
+        "Outcome"
+      ],
+      "rows": [
+        [
+          "INTESTINAL COMPLICATIONS",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Rectal prolapse",
+          "Shigella dysenteriae type 1, S. flexneri",
+          "Increased intra-abdominal pressure associated with repeated tenesmus and straining. Most common in infants and children because of lack of development of musculature.",
+          "Magnesium sulfate compresses to reduce edema; gentle re-insertion for grade 1-2 prolapse.",
+          "Usually recovers completely, but often recurs if diarrhea recurs."
+        ],
+        [
+          "Toxic megacolon",
+          "S. dysenteriae type 1",
+          "Transmural inflammation of colon, possibly increase in nitric oxide production in colonic musculature inhibiting motility.",
+          "Supportive. Intravenous fluids, no oral intake, antibiotics for sepsis and for treatment of primary infection. In poor countries where complications are most common, colectomy often not available and long-term care after colectomy is problematic.",
+          "Ominous complication often associated with leukemoid reaction or HUS. Mortality rate >33%."
+        ],
+        [
+          "Intestinal perforation",
+          "S. dysenteriae type 1",
+          "Transmural ulcer from severe colonic inflammation.",
+          "Surgical repair if possible; broad-spectrum antimicrobial therapy for sepsis. Medical management if surgery not possible.",
+          "Less ominous outcome than toxic megacolon."
+        ],
+        [
+          "EXTRA-INTESTINAL COMPLICATIONS",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Metabolic Complications",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Dehydration",
+          "S. sonnei, other species",
+          "Watery diarrhea, with or without dysentery, can be a feature of all Shigella infections. Watery diarrhea may be caused by Shigella enterotoxins 1 and 2. Also increased fluid loss because of fever. Decreased fluid intake because of anorexia.",
+          "Severe dehydration uncommon. Oral or intravenous fluid as appropriate.",
+          "Rarely lethal alone, no long-term sequelae if managed appropriately."
+        ],
+        [
+          "Hyponatremia",
+          "S. dysenteriae type 1, less commonly S. flexneri",
+          "Probable inappropriate secretion of antidiuretic hormone.",
+          "If severe (Na <120 mmol/L) with altered consciousness: infusion of 3% NaCl (12 mL/kg over a 4-hour period); less severe episode (Na 120-130 mmol/L): infusion of 0.9% NaCl; restriction of water intake.",
+          "If treated, no long-term complications. If not recognized, can cause seizures, unconsciousness."
+        ],
+        [
+          "Hypoglycemia",
+          "S. dysenteriae type 1",
+          "Depleted glycogen stores; impaired gluconeogenesis.",
+          "Intravenous infusion of dextrose (2.0 mL/kg of 25% glucose).",
+          "No long-lasting complications if recognized early."
+        ],
+        [
+          "Hypoproteinemia",
+          "S. dysenteriae type 1, S. flexneri",
+          "Protein loss in stool; decreased protein synthesis because of inflammation.",
+          "High-protein diet; management of edema.",
+          "Pulmonary edema, ascites. Complications will resolve if hypoproteinemia is corrected."
+        ],
+        [
+          "OTHER SYSTEMIC COMPLICATIONS",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Seizures and encephalopathy",
+          "S. sonnei, other Shigella species",
+          "Seizures may be febrile in origin in young children; encephalopathy may be caused by metabolic aberrations or sepsis. Shiga toxin produced by S. dysenteriae type 1 known to be neurotoxic in animals-no evidence it causes neurotoxicity in humans.",
+          "Correction of metabolic disorder if present; reduction of fever; anticonvulsant treatment, if required.",
+          "Mortality usually not directly related to altered consciousness; rarely long-term sequelae if recognized and treated."
+        ],
+        [
+          "Septicemia",
+          "S. dysenteriae type 1, other Shigella species less commonly",
+          "Colonic perforation or leakage because of transmural inflammation; iatrogenic from contamination of intravenous solutions or needle.",
+          "Broad-spectrum antibiotic; infusion of intravenous fluid to combat shock.",
+          "High mortality if not recognized; no long-term sequelae if treated appropriately."
+        ],
+        [
+          "Hemolytic uremic syndrome (HUS)",
+          "S. dysenteriae type 1",
+          "Related to Shiga toxin production.",
+          "Fluid restriction; peritoneal or hemodialysis if required and facilities available; blood transfusion for anemia.",
+          "In developing country settings associated with high risk of mortality because of lack of appropriate treatment. Usually no long-term severe renal impairment if patient recovers from acute phase."
+        ],
+        [
+          "Leukemoid reaction",
+          "S. dysenteriae type 1",
+          "Feature of HUS, but may occur alone-also presumably related to Shiga toxin.",
+          "Treat primary infection.",
+          "No long-term sequelae."
+        ],
+        [
+          "Reactive arthritis",
+          "S. flexneri, S. sonnei",
+          "Autoimmune reaction with genetic susceptibility (persons with HLA-B27).",
+          "Anti-inflammatory treatment, symptomatic relief of pain, rest.",
+          "Usually occurs 2 to 3 weeks after illness onset. Usually monoarticular or migrating arthritis affecting large joints without redness or increase in temperature at the site; may be associated with conjunctivitis and urethritis. Little long-term follow-up reported, but can persist or recur."
+        ],
+        [
+          "Infection at other epithelial sites (conjunctiva, vagina)",
+          "All species",
+          "Shigella occasionally infect other epithelial sites.",
+          "Systemic antimicrobial therapy.",
+          "Resolves with appropriate therapy."
+        ],
+        [
+          "Malnutrition",
+          "S. dysenteriae type 1, S. flexneri",
+          "Decreased food intake because of anorexia; increased protein loss in gut; increased metabolism from fever, inflammation; decreased protein synthesis because of inflammation.",
+          "Ensure adequate feeding. Use nasogastric tube if required. High-protein diet.",
+          "Post-infectious malnutrition puts children at risk of other infections. Associated with high mortality if not corrected."
+        ]
+      ]
+    },
+    {
+      "title": "Characteristics of Drugs Effective in the Treatment of Shigellosis",
+      "headers": [],
+      "rows": [
+        [
+          "Active in vitro against Shigella."
+        ],
+        [
+          "Systemically absorbed."
+        ],
+        [
+          "Achieve serum concentrations in excess of the minimum inhibitory concentration (MIC) of the infecting strain of Shigella or have high intracellular concentrations, given the intracellular nature of the infection."
+        ],
+        [
+          "Can be given orally because of the difficulties of providing parenteral therapy where the majority of Shigella infections occur."
+        ],
+        [
+          "Available in a liquid formulation suitable for use in children."
+        ],
+        [
+          "Inexpensive."
+        ],
+        [
+          "Have a high therapeutic index."
+        ]
+      ]
+    },
+    {
+      "title": "Current Options for Antimicrobial Therapy of Shigellosis",
+      "headers": [
+        "Antimicrobial Agent",
+        "Pediatric Dose/Route of Administration",
+        "Pediatric Frequency",
+        "Pediatric Duration",
+        "Adult Dose/Route of Administration",
+        "Adult Frequency",
+        "Adult Duration",
+        "Comments"
+      ],
+      "rows": [
+        [
+          "DRUGS OF CHOICE",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Ciprofloxacin",
+          "Multiple dose 15 mg/kg orally to maximum adult dose",
+          "Every 12 h",
+          "3-5 days",
+          "500 mg",
+          "Every 12 h",
+          "3-5 days",
+          "Single-dose therapy is not effective in treatment of Shigella dysenteriae type 1 infections and may not be effective in the treatment of infections caused by other Shigella species that are not highly susceptible to ciprofloxacin (MIC \n\n≤0.004 µg/mL)"
+        ],
+        [
+          "Ciprofloxacin",
+          "Single dose Not evaluated",
+          "",
+          "",
+          "1 g",
+          "Upon diagnosis",
+          "Single dose",
+          "Single-dose therapy is not effective in treatment of Shigella dysenteriae type 1 infections and may not be effective in the treatment of infections caused by other Shigella species that are not highly susceptible to ciprofloxacin (MIC \n\n≤0.004 µg/mL)"
+        ],
+        [
+          "Azithromycin",
+          "15 mg/kg orally to maximum adult dose as initial dose, followed by 10 mg/kg/ day to maximum adult dose on days 2-4",
+          "Every 24 h",
+          "5 days",
+          "500 mg day 1 followed by 250 mg on subsequent days",
+          "Every 24 h",
+          "5 days",
+          "Azithromycin has been shown, along with other macrolides, to increase the risk of fatal arrhythmias in 1 of every 20,000 adults receiving the drug,30 with a higher risk in those with preexisting cardiovascular risk factors. Thus if the infecting strain of Shigella is susceptible, treatment with a quinolone is preferable in older age groups who are more likely to be at risk for adverse cardiac events."
+        ],
+        [
+          "ALTERNATIVE DRUG THERAPIES",
+          "",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Pivmecillinam (registered as amdinocillin pivoxil in the United States, where it currently is not available)",
+          "20 mg/kg orally to maximum adult dose",
+          "Every 6 h",
+          "5 days",
+          "400 mg",
+          "Every 6 h",
+          "5 days",
+          "In contrast to ampicillin, pivmecillinam selectively binds to penicillin-binding protein 2 and is relatively resistant to many common β-lactamases, thus may be effective in treatment of strains resistant to ampicillin"
+        ],
+        [
+          "Ceftriaxone",
+          "50 mg/kg intravenously or intramuscularly to maximum individual dose of 1.5 g",
+          "Every 24 h",
+          "2-5 days",
+          "Not evaluated",
+          "",
+          "",
+          "Because this agent must be administered parenterally, it is reserved for use in patients who are infected with strains of Shigella resistant to first-line oral drugs or are severely ill and need parenteral drugs in hospital. It has not been evaluated in controlled studies for treatment of S. dysenteriae type 1. For infection with other species of Shigella, both two-dose 2-day and five-dose 5-day courses of therapy have proven effective. Although not evaluated in adults, there is no reason to believe it would not be effective. In controlled trials, oral cephalosporins have been ineffective in the treatment of shigellosis of moderate or greater severity, and should not be used."
+        ]
+      ]
+    },
+    {
+      "title": "Micronutrient Supplementation for Children With Shigellosis",
+      "headers": [],
+      "rows": [
+        [
+          "ZINC SUPPLEMENTATION"
+        ],
+        [
+          "0-6 months of age: 10 mg elemental zinc daily for 10 days"
+        ],
+        [
+          "7-50 months of age: 20 mg elemental zinc daily for 10 days"
+        ],
+        [
+          "VITAMIN A SUPPLEMENTATION"
+        ],
+        [
+          "Given to malnourished children who have not received vitamin A in last 6 months"
+        ],
+        [
+          "<6 months of age: 50,000 units"
+        ],
+        [
+          "6-12 months of age: 100,000 units"
+        ],
+        [
+          "12-60 months of age: 200,000 units"
+        ]
+      ]
+    }
+  ],
+  "figures": [],
+  "references": []
+}

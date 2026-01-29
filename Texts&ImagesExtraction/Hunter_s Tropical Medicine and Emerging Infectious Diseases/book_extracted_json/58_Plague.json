@@ -1,0 +1,63 @@
+{
+  "chapter_title": "Infections Causing Neurologic Manifestations",
+  "disease_name": "Acute Bacterial Meningitis",
+  "section_summaries": {
+    "epidemiology": "The annual incidence of acute bacterial meningitis is 4 to 6 per 100,000 in high-income countries and 10-fold higher in developing countries, with a high case fatality rate (10%-50%) augmented by comorbidities. HIV-exposed but uninfected infants are at increased risk of invasive pneumococcal disease. N. meningitidis causes global meningitis and large outbreaks, particularly in the \"meningitis belt\" of Africa, with epidemics occurring every 5 to 15 years during the Harmattan season and associated with up to 10% mortality. S. pneumoniae and H. influenzae (Hib) meningitis show peak incidence in children, with Hib meningitis being rare over the age of 5. In sub-Saharan Africa, S. pneumoniae, non-typhoidal salmonellae, and Hib are the most common organisms in children under 5 years, while S. pneumoniae predominates in older children and adults. In Southeast Asia, S. suis is a frequent cause in adults. In HIV-endemic regions, cryptococcal, tuberculous, and pneumococcal meningitis are leading causes.",
+    "pathogenesis": "Acute bacterial meningitis is defined as inflammation of the meninges due to bacterial infection, typically arising from colonization of the nasopharynx, followed by mucosal invasion, bacteremic spread, and crossing the blood-brain barrier into the subarachnoid space. Common causative agents like S. pneumoniae, N. meningitidis, and H. influenzae possess neurotrophic potential. Adherence to the nasopharyngeal epithelium varies by organism (pili for N. meningitidis; pneumococcal surface proteins for S. pneumoniae). Bacteria cross the blood-brain barrier via tight junction disruption, transcellular migration by transcytosis, or survival within phagocytes. Survival in the bloodstream involves evading host defense mechanisms, particularly complement-dependent killing. High and/or sustained bacteremia and the ability to interact with cellular components of the blood-CNS barriers are prerequisites. Once in the CSF, bacteria enter a sanctuary site with low complement and antibody concentrations, leading to stimulation of inflammatory responses (pro- and anti-inflammatory cytokines), neuronal cell death (apoptosis and necrosis), and white matter injury (small-vessel vasculitis, focal ischemia, or venous thrombosis).",
+    "clinical_manifestations": "In infants and young children, clinical features are non-specific, including fever, lethargy, irritability, poor feeding, seizures, respiratory distress, vomiting, diarrhea, and a bulging fontanelle. Older children and adults commonly present with headache (80%-95%), photophobia (30%-50%), neck stiffness (50%-90%), lethargy, confusion, and occasionally positive Kernig's or Brudzinski's signs (5%). A proposed quartet of fever, neck stiffness, headache, and altered mental status is present in 95% of adults with acute bacterial meningitis. Advanced disease may include opisthotonus, focal neurologic deficits (20%-30%), seizures (15%-30%), and a reduced level of consciousness. A purpuric rash, most commonly associated with meningococcal meningitis and septicemia, may be present in 10%-15% of cases. Shock and disseminated intravascular coagulation can occur in meningococcemia. Cushing's triad indicates raised intracranial pressure. HIV-positive children may present in extremis with pneumococcal meningitis, seizures, or focal infections like otitis media. Neurologic sequelae, such as deafness, cognitive impairment, and developmental delay, occur in 5%-40% of survivors.",
+    "diagnosis": "Lumbar puncture (LP) is the key investigation, enabling rapid confirmation of meningitis and identification of the infecting organism. CSF cell count is a rapidly informative test; pleocytosis indicates meningeal inflammation, with >100 cells/µL typical in adults with bacterial meningitis. Neutrophil predominance usually suggests bacterial infection, while lymphocyte predominance suggests viral (with exceptions). CSF glucose is typically lower during infection, and a CSF:blood glucose ratio <0.36 is an accurate marker for distinguishing bacterial from viral meningitis. Elevated CSF protein (>0.4 g/L) suggests infection. CSF parameters can be combined into prediction tools to guide diagnosis. Pathogen detection methods include CSF microscopy with Gram stain (50%-99% sensitivity), CSF culture (the 'gold standard,' 70%-85% before antibiotics), CSF polymerase chain reaction (PCR) for pathogen-specific nucleic acid sequences (high sensitivity, valuable post-antibiotics), blood cultures (50%-80% positive), and blood biomarkers (procalcitonin and C-reactive protein) for distinguishing bacterial from viral meningitis. Urgent computed tomography scans are performed if there are clinical signs of raised intracranial pressure, such as focal neurologic signs, papilledema, uncontrolled seizures, or reduced Glasgow Coma Scale scores. Unnecessary neuroimaging before LP is associated with delays in antibiotic administration and increased mortality.",
+    "treatment": "Management prioritizes stabilization of airway, breathing, and circulatory difficulties, especially with co-existing sepsis. High-dose empirical intravenous antibiotic treatment should be commenced without delay, based on the patient's age and regional susceptibility patterns. The World Health Organization recommends ceftriaxone as first-line therapy (IV/IM, once-daily), while oily chloramphenicol is an alternative in low-income settings, though contraindicated in infants under 2 months. In non-resource-limited settings, ampicillin is added for individuals at risk of listeriosis, and neonates are treated with ampicillin and gentamicin, ceftriaxone, or cefotaxime. Vancomycin or rifampin may be added in areas with ceftriaxone-resistant pneumococci. Adjuvant dexamethasone, started shortly before or simultaneously with antibiotics, has shown benefits in high-income settings (decreasing hearing loss, neurologic sequelae, and mortality in adults with Hib/pneumococcal meningitis), but no benefit in resource-poor settings. Dexamethasone should be continued for 4 days if pneumococcal meningitis is probable but stopped if another cause is identified. Routine fluid restriction is not recommended; isotonic intravenous fluids are advocated for hyponatremic children.",
+    "prevention": "Many causative agents of bacterial meningitis are preventable by currently available vaccines, though their use is not universal in resource-limited settings. Conjugate vaccines against Hib, pneumococcus, and meningococcus group C have substantially reduced incidence in high-income countries and, for Hib and pneumococcal meningitis, in African countries. These vaccines are most effective for those under 2 years of age. Hib conjugate vaccines have approximately 70% global coverage, and pneumococcal conjugate vaccines have approximately 40% coverage. PCV reduces vaccine-serotype and antibiotic-resistant IPD in HIV-infected children and adults; HIV-exposed but uninfected infants are a target group. Enhanced surveillance is essential in resource-poor countries due to increased IPD from non-vaccine serotypes after PCV introduction. Single (group A) and quadrivalent capsular polysaccharide meningococcal vaccines, including the conjugate MenAfriVac, have been rolled out in the African meningitis belt."
+  },
+  "tables": [
+    {
+      "title": "WHO-Recommended Empirical Antibiotic Treatment in Non-Epidemic Situations in Resource-Poor Settings Without Laboratory Support",
+      "headers": [
+        "Age Group",
+        "Likely Pathogens",
+        "Treatment",
+        "Duration of Treatment"
+      ],
+      "rows": [
+        [
+          "0-2 months",
+          "Streptococcus agalactiae Streptococcus pyogenes Enterobacteria",
+          "Ceftriaxone 100 mg/kg/day o.d.",
+          "7 days 21 days for gram-negative bacilli (Escherichia coli, non-typhoidal Salmonella)"
+        ],
+        [
+          "2-23 months",
+          "Streptococcus pneumoniae Haemophilus influenzae b Neisseria meningitidis Enterobacteria",
+          "Ceftriaxone 100 mg/kg/day o.d.",
+          "5 days 21 days"
+        ],
+        [
+          "2-5 years",
+          "S. pneumoniae H. influenzae b N. meningitidis",
+          "Ceftriaxone 100 mg/kg/day o.d.",
+          "5 days"
+        ],
+        [
+          "5-14 years",
+          "S. pneumoniae N. meningitidis",
+          "Ceftriaxone 100 mg/kg/day o.d. (max. 2 g)",
+          "5 days"
+        ],
+        [
+          ">14 years",
+          "S. pneumoniae N. meningitidis",
+          "Ceftriaxone 2 g/day o.d.",
+          "5 days"
+        ],
+        [
+          "Elderly",
+          "S. pneumoniae N. meningitidis",
+          "Ceftriaxone 2 g/day",
+          "5 days"
+        ]
+      ]
+    }
+  ],
+  "figures": [],
+  "references": []
+}

@@ -1,0 +1,26 @@
+{
+  "history_of_present_illness": "Infectious jaundice has a sudden onset after an incubation period of 5 to 7 days, characterized by high fever, headache, rigors, muscular pains, and vomiting. The patient appears prostrated with a flushed face and injected conjunctivae. Jaundice typically appears around the third or fourth day. Haemorrhages, especially epistaxis, are common, followed by intestinal haemorrhage; haematuria is rare. The fever is irregular, usually 102° to 104°F for the first 3-4 days, then falling by lysis (occasionally crisis by day 5). A secondary fever can occur towards the end of the second week, lasting approximately another week. Pains in the nape of the neck and calf muscles are common. Unfavorable cases may develop sleeplessness, nocturnal delirium, and the \"typhoid state.\"",
+  "exposure_and_epidemiology": "Infectious jaundice is caused by *Leptospira icterohaemorrhagiae*, a spirochaete commonly found as a natural parasite in rats, which do not seem to suffer from the infection. Humans likely acquire the infection from this source. The infection is considered to be transmitted through the urine of infected rats or humans, with spirochaetes gaining entrance through the skin or by mouth. The disease was likely present in Napoleon's forces during the Egyptian campaign and was an important disease among soldiers in the recent war. It is most common in Japan and Egypt, endemic in West Africa, and frequently reported from Mediterranean shores, the Balkans, and Flanders. Association with wet mines, defective sewers, and trench warfare conditions (with rats and wet environments) has been noted.",
+  "vitals": "Fever of an irregular type, usually running between 102° to 104°F for the first three or four days. The pulse is rapid at first, becoming slow with the appearance of jaundice.",
+  "physical_exam": "Patients exhibit a flushed face and injected conjunctivae. Jaundice appears around the third or fourth day. The liver shows enlargement and marked tenderness, while the spleen may show slight or moderate enlargement. Haemorrhages are common, starting as epistaxis, followed by intestinal haemorrhage; haematuria is rarely observed. Pains in the nape of the neck and calf muscles are common. Pathologically, the liver shows enlargement and fatty degeneration, and the kidneys exhibit intertubular congestion and haemorrhages. Haemorrhagic areas may also be present in various portions of the alimentary tract and elsewhere.",
+  "labs_and_diagnostics": "The urine is scanty and high colored early in the disease, showing albumin and bile pigments; early in the second week, large amounts of low specific gravity urine are excreted. There is a polymorphonuclear increase with leucocytosis around 15,000, and a fall in red cells and haemoglobin percentage. The causative spirochaete, *Leptospira icterohaemorrhagiae*, is characterized by minute elementary spirals, absence of flagella or undulating membrane, a flexible caudal portion, and hook formation at one or both ends. It is insoluble in 10% saponin, has closely placed spirals, and can reach 15-20 microns in length. Dark-field illumination is preferred for its demonstration, though it stains well. To culture, use a medium of one part rabbit's serum with three parts Ringer’s solution, inoculated with citrated plasma; growth can be obtained by the fourth day, reaching a maximum by the second week. The organism is found in the blood during the first three or four days and later in the urine. Diagnosis can be aided by injecting 2 to 4 cc. of patient's blood intraperitoneally into young guinea pigs, which develop jaundice, albuminuria, and haemorrhages, with abundant spirochaetes in liver emulsion at autopsy. Agglutinins appear in the blood around the end of the first week, capable of agglutinating cultures diluted as high as 1 to 500.",
+  "differential_diagnosis": "Relapsing fever (showing jaundice), bilious remittent fever, yellow fever, and blackwater fever.",
+  "management_and_clinical_course": "Convalescence in favorable cases is slow, setting in toward the end of the third week after the secondary fever. Prophylaxis involves sterilization of urine and feces from sick individuals and the extermination of rats, which are the host of the parasite. Treatment is solely symptomatic. Arsphenamine has no effect. Hexamethylenamine has been recommended. A prepared serum against the organism is available and appears to show protective value.",
+  "final_diagnosis": "Infectious Jaundice",
+  "disease_name_short": "Infectious Jaundice",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "i127ab.jpg",
+      "caption": "Fig. 47.—Showing Leptospira. (After Noguchi in Journal of Experimental Medicine.) Fig. 48.—A group of Leptospira icterohaemorrhagiae from a culture. (After Noguchi in Journal of Experimental Medicine.)"
+    },
+    {
+      "file_name": "i128a.jpg",
+      "caption": "Fig. 49.—Four specimens of Leptospira icterohaemorrhagiae. (After Noguchi in Journal of Experimental Medicine.)"
+    },
+    {
+      "file_name": "i128b.jpg",
+      "caption": "Fig. 50.—A leptospira viewed under the dark-field microscope. (After Noguchi in Journal of Experimental Medicine.)"
+    }
+  ]
+}
