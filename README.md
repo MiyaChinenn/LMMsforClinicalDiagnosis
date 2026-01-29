@@ -14,9 +14,14 @@ Dr. Tran Duc Khanh
 - Nguyen Hoang Yen Ngoc - 10422056
 
 ## Project Overview
-- **Goal**: Assist clinicians with differential diagnosis and management suggestions for tropical and infectious diseases.
-- **Approach**: Combine text + medical images with multimodal RAG for evidence retrieval and fine-tune LMMs for domain adaptation.
-- **Scope**: Tropical/infectious cases; supports clinical narratives, labs, and imaging.
+
+- Large multimodal models can reason over medical text and images, but they are often unreliable for tropical disease diagnosis, especially when using compact
+models in low-resource settings.
+- In this work, we study whether retrieval-augmented generation and parameter-
+efficient fine-tuning can improve diagnostic reasoning for these models.
+- We evaluate a lightweight multimodal frame- work on curated tropical disease cases from standard textbooks.
+- Our results show that fine-tuning improves diagnostic accuracy and reasoning, while retrieval mainly helps with evidence grounding. This highlights both the
+potential and limits of retrieval-augmented multimodal systems for clinical support.
 
 ## Objectives
 - Triage and diagnostic support grounded in curated tropical/infectious disease data.
