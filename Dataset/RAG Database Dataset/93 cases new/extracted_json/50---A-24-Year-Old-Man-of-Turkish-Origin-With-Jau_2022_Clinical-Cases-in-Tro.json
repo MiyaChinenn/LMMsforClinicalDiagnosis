@@ -1,0 +1,74 @@
+{
+  "patient_information": "A 24-year-old man of Turkish origin who is a German resident.",
+  "chief_complaint": "Right upper quadrant pain, nausea, and vomiting.",
+  "history_of_present_illness": "Three years prior to the current presentation, the patient presented with right upper quadrant pain. An ultrasound and a CT scan of the liver revealed two calcified cystic lesions, one in the right liver lobe and a smaller cyst in the left liver lobe. Serology was positive for Echinococcus granulosus, leading to a diagnosis of cystic echinococcosis (CE). Anthelmintic treatment was not considered an option due to the calcified cyst walls and poor albendazole bioavailability. The patient refused surgical treatment as he was free of symptoms, and the cysts were monitored regularly by ultrasound for signs of spontaneous involution.",
+  "exposure_and_epidemiology": "The patient is a German resident but visits his family in rural eastern Turkey (Anatolia) every year for about 6 weeks.",
+  "vitals": "Blood pressure 110/70mmHg, pulse 64 bpm, temperature 36°C (96.8°F).",
+  "physical_exam": "A 24-year-old man in fair general condition with scleral jaundice. There is right upper quadrant and epigastric tenderness, but no guarding.",
+  "labs_and_diagnostics": "The full blood count is normal. Laboratory results on presentation included AST 145 U/L (>35), ALT 454 U/L (>35), GGT 394 U/L (>55), ALP 402 U/L (38-126), Total bilirubin 120 µmol/L (>19.0), ESR 17/40 mm/h (≤10/20), and CRP 49 mg/L (<5). Three years prior, an ultrasound scan of the liver revealed two cystic lesions: one in the right liver lobe (7 x 6cm) with a solid cyst matrix containing multiple smaller cysts and partially calcified wall (WHO classification CE3b), and a second in the left liver lobe (5 x 4 cm) with a wall up to 4 mm thick with partial calcification, liquid content, a double line sign (WHO CE1 feature), and hydatid sand. A CT scan at that time also showed calcification of both cyst walls. Serology for Echinococcus granulosus was positive. Current presentation included ERC, which found biliary obstruction due to a cystobiliary fistula.",
+  "differential_diagnosis": "The main differential diagnoses in this patient with cystic liver lesions and liquid cyst content are a congenital simple hepatic cyst and pseudocysts (necrotic cavity) in alveolar echinococcosis (E. multilocularis). Depending on the presence of systemic symptoms and signs and liquid versus solid cyst content, infectious causes like abscesses (bacterial, amoebic) or tuberculoma must be considered. Additionally, benign and malignant liver tumours or metastases are relevant differentials.",
+  "management_and_clinical_course": "Three years prior, anthelmintic treatment was not considered an option due to calcified cyst walls and poor albendazole bioavailability, and the patient refused surgical treatment, opting for ultrasound monitoring. During the current presentation, ERC was performed to restore biliary flow, removing CE cyst content from the common bile duct. The patient's cholangitis was treated with ciprofloxacin and metronidazole. Once inflammation settled, the patient underwent surgery for partial cystectomy of both cysts. The patient has been followed up for 9 years post-surgery with no recurrence and is considered cured, with no further follow-up visits needed.",
+  "final_diagnosis": "The final diagnosis is cystic echinococcosis (CE) caused by Echinococcus granulosus, complicated by a cystobiliary fistula and bacterial cholangitis. The diagnosis was supported by positive serology for E. granulosus, imaging findings of calcified cystic liver lesions with characteristic features (WHO classification CE1 and CE3b), and the successful resolution of symptoms and cure after endoscopic management of biliary obstruction, antibiotic treatment for cholangitis, and surgical cystectomy.",
+  "disease_name_short": "Cystic Echinococcosis",
+  "tables": [
+    {
+      "title": "Laboratory Results on Presentation",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "AST (U/L)",
+          "145",
+          "<35"
+        ],
+        [
+          "ALT (U/L)",
+          "454",
+          "<35"
+        ],
+        [
+          "GGT (U/L)",
+          "394",
+          "<55"
+        ],
+        [
+          "ALP (U/L)",
+          "402",
+          "38-126"
+        ],
+        [
+          "Total bilirubin (µmol/L)",
+          "120",
+          "<19.0"
+        ],
+        [
+          "ESR (mm/h)",
+          "17/40",
+          "≤10/20"
+        ],
+        [
+          "CRP (mg/L)",
+          "49",
+          "<5"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "50_image_1.png",
+      "caption": "Ultrasound scan of the liver at diagnosis 3 years before current presentation reveals one cystic lesion located in the right liver lobe (7 x 6cm). Cyst content shows a solid cyst matrix containing multiple smaller cysts. The cyst wall is partially calcified (WHO classification CE3b). (Copyright W. Hosch, Department of Radiology, Heidelberg University Hospital.)"
+    },
+    {
+      "file_name": "50_image_2.png",
+      "caption": "Ultrasound scan of the liver at diagnosis 3 years before current presentation reveals a second cystic lesion in the left liver lobe (5 x 4 cm). The cyst wall is up to 4 mm thick with partial calcification. Cyst content is liquid; there is a double line sign, a feature of WHO CE1, and hydatid sand. (Copyright W. Hosch, Department of Radiology, Heidelberg University Hospital.)"
+    },
+    {
+      "file_name": "50_image_3.png",
+      "caption": "Computed tomography of the same patient. Both cyst walls show calcification. (Copyright W. Hosch, Department of Radiology, Heidelberg University Hospital.)"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "patient_information": "A 55-year-old woman from rural Vietnam with a history of type 2 diabetes and hypertension, on treatment for 4 years. She is a pig farmer and works as a butcher in a local market selling pork and chicken.",
+  "chief_complaint": "1-day history of fever, headache, and vomiting, followed by confusion on the second day.",
+  "history_of_present_illness": "The patient presented with a 1-day history of fever, headache, and vomiting. Initial treatment included fluids and paracetamol, and a blood film for malaria was negative. On the second day of illness, she developed confusion and was referred to a hospital in Ho Chi Minh City for further investigation.",
+  "exposure_and_epidemiology": "The patient is a 55-year-old woman from rural Vietnam. She raises pigs on her smallholding and works as a butcher in a local market selling pork and chicken. This occupational exposure to pigs and raw pork, combined with her residence in rural Vietnam, is relevant given the epidemiology of Streptococcus suis in the region. Malaria, enteric fever, dengue, and melioidosis are also endemic in South-east Asia and were considered in the differential diagnosis.",
+  "vitals": "On admission, vitals included fever (38.5°C or 101.3°F), tachycardia (124 bpm), hypotension (85/60 mmHg), tachypnoea (32 breaths per minute), and hypoxia (O2 saturation 86% on ambient air).",
+  "physical_exam": "On admission, the patient was confused with a Glasgow Coma Score of 12/15 (E3 M5 V4). She exhibited neck stiffness and photophobia, with no focal neurological signs. A diffuse petechial rash was noted over her trunk, and marked purpuric non-blanching lesions were present on her left leg. The rest of her physical examination was unremarkable.",
+  "labs_and_diagnostics": "Initial laboratory results showed WBC 10.25 × 10^9/L (86.5% neutrophils), Haemoglobin 11.8 g/dL, Platelets 56 x 10^9/L, Creatinine 0.86 mg/dL, Blood urea nitrogen 7 mg/dL, Na+ 137 mmol/l, K+ 3.2 mmol/l, Random blood glucose 15.4 mmol/L, HbA1c 8.5%, and Lactate 11.2 mmol/L. Non-contrast-enhanced CT scan of the brain, electrocardiogram, and chest x-ray were unremarkable. A lumbar puncture revealed turbid cerebrospinal fluid with 2870 cells/µL (92% neutrophils), protein 541.16 mg/dL, and CSF glucose 2.44 mmol/L, with a simultaneous blood glucose of 19 mmol/L, resulting in a CSF/serum glucose ratio of 0.12. Gram stain of CSF showed a Gram-positive coccus in short chains. India ink, mycobacterial GeneXpert, and Herpes simplex virus PCR were negative. Repeat malaria film and rapid diagnostic tests were negative. Five days later, both blood and CSF cultures grew S. suis, which was sensitive to penicillin and ceftriaxone.",
+  "differential_diagnosis": "The differential diagnosis included severe malaria, enteric fever, dengue fever, melioidosis, and acute bacterial meningitis. Severe malaria was considered due to the patient's rural Vietnamese origin where P. falciparum and P. vivax are endemic. Enteric fever was considered, but the disease progression was uncharacteristic. Dengue fever, also endemic in the region, was less likely due to the rapid deterioration and signs of meningitis and shock, which are not typical for dengue's usual skin changes or typical presentation. Melioidosis was considered due to its prevalence in some areas of Southeast Asia and diabetes as a risk factor, though it is comparatively rare in Vietnam. The most likely diagnosis was acute bacterial meningitis complicated by septic shock, with common global causes like Streptococcus pneumoniae, Neisseria meningitidis, and Haemophilus influenzae, noting S. pneumoniae and N. meningitidis can cause purpuric rash. However, in Vietnam, Streptococcus suis is the commonest cause of acute bacterial meningitis in adults and can present with meningitis, septic shock, and a florid purpuric rash. Tuberculous and cryptococcal meningitis were also considered but were deemed less likely due to their typically insidious onset and lack of association with shock or purpuric rash.",
+  "management_and_clinical_course": "Initially, the patient received fluids and paracetamol, with a negative malaria blood film. Upon transfer, she received empirical intravenous ceftriaxone and vancomycin, along with supportive treatment including intravenous fluids. Dexamethasone was administered for the first 4 days of treatment. The patient received a total of 12 days of antibiotic therapy. She responded to treatment, though she was left with residual bilateral hearing impairment.",
+  "final_diagnosis": "The final diagnosis was Streptococcus suis meningitis. This was confirmed by positive blood and cerebrospinal fluid cultures, which grew S. suis sensitive to penicillin and ceftriaxone, five days after admission. The clinical presentation of acute bacterial meningitis with septic shock and a widespread purpuric rash, combined with the patient's occupational exposure to pigs in rural Vietnam, strongly supported this diagnosis.",
+  "disease_name_short": "Meningitis",
+  "tables": [
+    {
+      "title": "Laboratory Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "WBC (× 10^9/L)",
+          "10.25",
+          "4-10"
+        ],
+        [
+          "% Neutrophils",
+          "86.5",
+          "45-75"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "11.8",
+          "12-17"
+        ],
+        [
+          "Platelets (x 10^9/L)",
+          "56",
+          "200-400"
+        ],
+        [
+          "Creatinine (mg/dL)",
+          "0.86",
+          "0.7-1.5"
+        ],
+        [
+          "Blood urea nitrogen (mg/dL)",
+          "7",
+          "7-20"
+        ],
+        [
+          "Na+ (mmol/l)",
+          "137",
+          "135-150"
+        ],
+        [
+          "K+ (mmol/l)",
+          "3.2",
+          "3.5-5.5"
+        ],
+        [
+          "Random blood glucose (mmol/L)",
+          "15.4",
+          "3.9-7.8"
+        ],
+        [
+          "HbA1c (%)",
+          "8.5",
+          "4-7"
+        ],
+        [
+          "Lactate (mmol/L)",
+          "11.2",
+          "0.5-2.2"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "Fig. 85.1",
+      "caption": "Petechial rash on the trunk of the patient."
+    },
+    {
+      "file_name": "Fig. 85.2",
+      "caption": "Purpuric, non-blanching rash on the leg."
+    }
+  ]
+}

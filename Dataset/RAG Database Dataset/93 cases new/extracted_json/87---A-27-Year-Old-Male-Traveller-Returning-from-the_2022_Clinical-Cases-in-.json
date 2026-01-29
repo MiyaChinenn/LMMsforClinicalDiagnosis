@@ -1,0 +1,128 @@
+{
+  "patient_information": "A 27-year-old male Swiss tourist",
+  "chief_complaint": "Persisting and incapacitating polyarthralgias for several months.",
+  "history_of_present_illness": "A 27-year-old male Swiss tourist spent 3.5 weeks travelling in the rainforests of the Amazon Basin in northern Peru. During the second week of his stay he developed an acute febrile illness with chills, malaise, frontal headache, generalized myalgia and a transient, non-pruritic maculopapular rash. The rash started on the forearms about 1 week after the onset of fever and spread to the trunk, neck and face before fading after 3 days. In addition, there were slowly progressive debilitating polyarthralgias affecting the peripheral joints accompanied by transient joint swelling. He also noticed painful cervical and inguinal lymphadenopathy, which was self-limiting, lasting for about 1 week. The traveller presented at the local hospital, where physicians made a clinical diagnosis of dengue fever, and he received symptomatic treatment with paracetamol. Although the fever and the other symptoms subsided within 1 week, the polyarthralgias did not improve, showing a symmetrical pattern mainly affecting the small joints of the hands and feet as well as the wrists, ankles, and knees. Upon return home to Switzerland a few weeks later, the patient consulted his general practitioner because of persisting, incapacitating polyarthralgias. The patient reported stiffness of the affected joints, mainly in the morning and after immobility.",
+  "exposure_and_epidemiology": "The patient spent 3.5 weeks travelling in the rainforests of the Amazon Basin in northern Peru, returning from a trip to this region.",
+  "vitals": "null",
+  "physical_exam": "The physical examination was completely unremarkable. The affected joints did not reveal any clinical signs of inflammation (no swelling, no redness, no effusion).",
+  "labs_and_diagnostics": "Full blood count was normal. C-reactive protein was mildly elevated at 9 mg/L (<5), liver function tests were normal. Initial serological testing for dengue virus, chikungunya virus, parvovirus B19, Epstein-Barr virus, Borrelia burgdorferi, Chlamydia trachomatis, Salmonella Typhi, and S. Paratyphi were performed but none revealed a cause for the symptoms. Subsequent serological testing for alphavirus infections confirmed Mayaro infection. On a blood sample taken on 29 August, IgM-IFA for Mayaro was 1280, IgG-IFA was 2560, and PRNT was 40. On a blood sample taken on 12 September, IgM-IFA for Mayaro was 40, IgG-IFA was 2560, and PRNT was 160, resulting in a positive interpretation for Mayaro. Testing for Sindbis, Chikungunya, Ross River, and Barmah Forest viruses was negative.",
+  "differential_diagnosis": "Two main differential diagnoses considered were Reactive arthritis (Reiter's syndrome) and Viral arthritis. Reactive arthritis is a rheumatoid factor (RF)-seronegative, HLA-B27-linked arthritis often preceded by gastrointestinal infections (Salmonella, Shigella or Campylobacter) or sexually transmitted infections (Chlamydia trachomatis). Viral arthritis presents primarily as symmetrical polyarthritis of peripheral small joints, with common infections including parvovirus B19, hepatitis B and C, HIV, rubella, and alphaviruses.",
+  "management_and_clinical_course": "During the initial febrile illness, the patient received symptomatic treatment with paracetamol. After the diagnosis of Mayaro infection, the patient received symptomatic treatment with ibuprofen, and the polyarthralgias subsided slowly over the following weeks and months before finally disappearing completely.",
+  "final_diagnosis": "The final diagnosis was Mayaro infection, caused by the Mayaro virus (MAYV). This was strongly suspected given the patient's travel history to the Peruvian Amazon, the course of the dengue-like febrile illness, and the persisting symmetrical polyarthralgias primarily affecting small peripheral joints. The diagnosis was confirmed by serological testing that showed positive IgM and IgG antibodies, as well as a positive PRNT, for Mayaro virus. The polyarthralgias resolved slowly over several months with symptomatic treatment.",
+  "disease_name_short": "Mayaro Fever",
+  "tables": [
+    {
+      "title": "Characteristics of Human Pathogenic Alphaviruses",
+      "headers": [
+        "Virus",
+        "Epidemiology and Endemic Regions",
+        "Occurrence and Number of Reported Cases",
+        "Frequency of Main Symptoms (%)"
+      ],
+      "rows": [
+        [
+          "Chikungunya",
+          "Tropical and subtropical regions of Asia, Africa and Latin America",
+          "Large sporadic epidemics",
+          "Fever: 90 Rash: 40-50 Myalgia: 90 Arthralgia/arthritis: >95"
+        ],
+        [
+          "Sindbis Virus Group",
+          "Eurasia, Africa, Australia, Oceania; primarily reported from West Russia (\"Karelian fever\"), Finland (\"Pogosta disease\"), and Sweden (\"Ockelbo disease\")",
+          "Geographically most widely distributed alphavirus (lack of data on human cases) Karelian fever: rare (no data) Pogosta disease: ~140 cases (range 1-1282)/year Ockelbo disease: ~30 cases/year",
+          "Fever: 15-40 Rash: 90 Myalgia: 50 Arthralgia/arthritis: 95"
+        ],
+        [
+          "Ross River",
+          "Australia, Papua New Guinea, West Papua",
+          "~5000 cases per year in Australia; in 1979-1980 an epidemic with >60000 cases hit some pacific islands (New Caledonia, Fiji, Samoa, Cook Islands)",
+          "Fever: 20-60 Rash: 40-60 Myalgia: 40-80 Arthralgia/arthritis: 80-100"
+        ],
+        [
+          "Barmah Forest",
+          "Australia",
+          "~2000 cases/year",
+          "Fever: 50 Rash: 40-60 Myalgia: 50-80 Arthralgia or arthritis: 70-95"
+        ],
+        [
+          "O'Nyong Nyong",
+          "East Africa",
+          "Rare epidemics; >2 million cases in 1959-1961",
+          "Fever: 80-100 Rash: 70-90 Myalgia: 70 Arthralgia/arthritis: 60-100"
+        ],
+        [
+          "Mayaro",
+          "South America, primarily the Amazonian rainforest, Caribbean",
+          "Sporadic single cases and small outbreaks (involving ~10-100 cases)",
+          "Fever: 100 Rash: 30-50 Myalgia: 75 Arthralgia/arthritis: 50-90"
+        ]
+      ]
+    },
+    {
+      "title": "Results of the Serological Testing for Alphavirus Infections Performed in Our Case",
+      "headers": [
+        "Virus",
+        "IgM-IFA (29 August)",
+        "IgG-IFA (29 August)",
+        "PRNT (29 August)",
+        "IgM-IFA (12 September)",
+        "IgG-IFA (12 September)",
+        "PRNT (12 September)",
+        "Interpretation of test result"
+      ],
+      "rows": [
+        [
+          "Mayaro",
+          "1280",
+          "2560",
+          "40",
+          "40",
+          "2560",
+          "160",
+          "positive"
+        ],
+        [
+          "Sindbis",
+          "<20",
+          "160",
+          "<20",
+          "<20",
+          "160",
+          "<20",
+          "negative"
+        ],
+        [
+          "Chikungunya",
+          "<20",
+          "160",
+          "n.d.",
+          "<20",
+          "160",
+          "n.d.",
+          "negative"
+        ],
+        [
+          "Ross River",
+          "<20",
+          "160",
+          "n.d.",
+          "<20",
+          "160",
+          "n.d.",
+          "negative"
+        ],
+        [
+          "Barmah Forest",
+          "<20",
+          "20",
+          "n.d.",
+          "<20",
+          "20",
+          "n.d.",
+          "negative"
+        ]
+      ]
+    }
+  ],
+  "images": []
+}

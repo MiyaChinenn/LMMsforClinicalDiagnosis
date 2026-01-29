@@ -1,0 +1,46 @@
+{
+  "patient_information": "A 7-year-old girl, severely malnourished (Z-score <3).",
+  "chief_complaint": "A 4-week history of undulating fever.",
+  "history_of_present_illness": "The fever occurs mainly in the afternoon hours accompanied by chills and sometimes convulsions. Between the febrile episodes she was initially fine and played normally. Over time she developed progressive anorexia, dry cough, chest pain, joint and back pain. She had never been admitted to a hospital, but had recently received unspecified tablets at another clinic without improvement.",
+  "exposure_and_epidemiology": "The patient is from South Sudan. Her mother reported that the family came from an area where visceral leishmaniasis was known, and the child's uncle had previously been treated for VL. The girl's sister had recently been treated for TB.",
+  "vitals": "Temperature 39.6°C (103.3°F), pulse 96bpm, blood pressure 100/60 mmHg.",
+  "physical_exam": "The girl is alert and pale, but not jaundiced. She is severely malnourished (Z-score <3). Her chest sounds are clear; heart sounds are normal. She has a soft abdomen with splenomegaly 4 cm below the left costal margin. Multiple enlarged lymph nodes, about 1 cm in diameter, are present in the cervical, axillary, inguinal and epitrochlear regions. There are no skin lesions and no peripheral oedema.",
+  "labs_and_diagnostics": "Laboratory results on admission showed WBC of 1.35 x 10^9/L (reference 4-10), Haemoglobin 6.8 g/dL (reference 12-16), and Platelets 98 x 10^9/L (reference 150-300), indicating pancytopenia. Plasmodium falciparum rapid diagnostic test (RDT) and a blood film for malaria parasites were negative. Brucella species serology (IgG and IgM) was negative. Visceral leishmaniasis rK39-antibody RDT was negative. Subsequently, the Direct Agglutination Test (DAT) came back positive with a high titre (≥1:6.400).",
+  "differential_diagnosis": "Important differential diagnoses include visceral leishmaniasis and brucellosis, given chronic fever, splenomegaly, and wasting in a child from South Sudan. Tuberculosis and HIV infection also needed to be ruled out due to chronic fever, anorexia, weight loss, splenomegaly, and generalized lymphadenopathy. Malaria was considered unlikely due to two negative tests and the chronic nature of the fever, which is atypical, as well as the absence of lymphadenopathy. Hyperreactive malarial splenomegaly syndrome (HMS) was ruled out because it does not present with fever or lymphadenopathy. Typhoid fever was considered, but the fever duration and generalized lymphadenopathy were not typical. Splenic abscess and chronic schistosomiasis were also considered but did not fully explain the generalized lymphadenopathy and hematological changes. Malignancies like leukaemia and lymphoma were also part of the differential to be ruled out.",
+  "management_and_clinical_course": "Considering her critical condition, severe malnutrition, and progressive anaemia, the patient was started on liposomal amphotericin B and a broad-spectrum antibiotic (ceftriaxone). She also received nutritional support with high-energy/high-protein ready-to-use therapeutic food (RUTF) and vitamin/mineral supplementation. After 5 days, the fever settled, and the patient began to recover. Two weeks later, she had gained some weight and was able to walk and play.",
+  "final_diagnosis": "The final diagnosis for the 7-year-old girl was visceral leishmaniasis, caused by Leishmania protozoans. This was strongly supported by her epidemiological history, including living in a VL endemic area and a family history of the disease, as well as by a positive Direct Agglutination Test (DAT) with a high titre (≥1:6.400). Her rapid clinical improvement after treatment with liposomal amphotericin B further corroborated the diagnosis.",
+  "disease_name_short": "Visceral Leishmaniasis",
+  "tables": [
+    {
+      "title": "Laboratory Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "WBC (×10^9/L)",
+          "1.35",
+          "4-10"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "6.8",
+          "12-16"
+        ],
+        [
+          "Platelets (×10^9/L)",
+          "98",
+          "150-300"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "extracted_images/44---A-7-Year-Old-Girl-from-South-Sudan-With-_2022_Clinical-Cases-in-Tropica/page2_img1.jpeg",
+      "caption": "A child is receiving liposomal amphotericin B on a paediatric ward in South Sudan."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "patient_information": "A 23-year-old farmer from Myanmar.",
+  "chief_complaint": "A 23-year-old farmer presents with a 3-year history of left-sided scrotal swelling.",
+  "history_of_present_illness": "The swelling is non-tender and has gradually increased in size. There is no history of fever. He has attempted to treat the swelling with traditional herbal medicine to no avail.",
+  "exposure_and_epidemiology": "The patient comes from the central part of Myanmar. He reports that scrotal swelling is not an uncommon problem in his home region, suggesting a possible infectious aetiology, specifically lymphatic filariasis (LF) caused by Wuchereria bancrofti, which is endemic in South and South-east Asia.",
+  "vitals": "The patient is in fair general condition. His vital signs are normal and he is afebrile.",
+  "physical_exam": "There is unilateral scrotal swelling which cannot be reduced and is non-tender. There are no palpable inguinal lymph nodes.",
+  "labs_and_diagnostics": "Hydrocoele was confirmed on ultrasound. Ultrasound can help distinguish a testicular tumour from a hydrocoele or hernia and may show adult worms on scrotal ultrasonography (\"filarial dance sign\") in cases of lymphatic filariasis. The traditional diagnostic gold standard for lymphatic filariasis is the proof of microfilariae in the blood, ideally collected between 9 PM and 3 AM. Circulating filarial antigen (CFA) tests detect antigens released by adult W. bancrofti, are available as immunochromatographic card tests, use finger-prick blood, and can be taken at any time due to no periodicity of adult-worm antigens. CFA tests have high sensitivity and specificity and are preferred for diagnosis and treatment monitoring within national control programmes.",
+  "differential_diagnosis": "The most common differentials for a chronic, non-tender, unilateral scrotal swelling include inguinal hernia, hydrocoele, and testicular tumour. Inguinal hernias can often be manually reduced, unlike hydrocoeles which may be verified by transillumination. Given the patient's region, infectious etiologies like lymphatic filariasis (LF) caused by Wuchereria bancrofti are highly suspected, as hydrocoele is a common clinical abnormality in bancroftian filariasis. Urogenital schistosomiasis (Schistosoma haematobium) can cause scrotal swelling but is not endemic in Southeast Asia. Testicular tuberculosis is another infectious disease that may manifest with scrotal swelling, but the long duration of the swelling without other signs or symptoms and the high regional prevalence make it unlikely.",
+  "management_and_clinical_course": "The patient underwent hydrocoelectomy, and 3 litres of clear fluid were drained during the operation. He also received antifilarial treatment. He lived in a remote area and was lost to follow-up afterwards.",
+  "final_diagnosis": "The final diagnosis is Lymphatic Filariasis, caused by Wuchereria bancrofti, presenting as a hydrocoele. This was supported by the patient's history of living in a region where scrotal swelling is common and where lymphatic filariasis is endemic, as well as the confirmation of hydrocoele via ultrasound. The administration of antifilarial treatment further indicates the underlying diagnosis of filariasis.",
+  "disease_name_short": "Lymphatic Filariasis",
+  "tables": [
+    {
+      "title": "Direct Effect of Most Commonly Used Drugs on Different Stages of W. bancrofti and Brugia species",
+      "headers": [
+        "",
+        "Microfilariae",
+        "Adults"
+      ],
+      "rows": [
+        [
+          "Diethylcarbamazine (DEC)",
+          "++",
+          "+"
+        ],
+        [
+          "Ivermectin",
+          "++",
+          "+"
+        ],
+        [
+          "Albendazole",
+          "-",
+          "++"
+        ],
+        [
+          "Doxycycline",
+          "-",
+          "++"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "extracted_images/36---A-23-Year-Old-Farmer-from-Myanmar-With-Uni_2022_Clinical-Cases-in-Tropi/page1_img1.jpeg",
+      "caption": "Massive unilateral scrotal swelling. The swelling is non-tender and non-reducible."
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "patient_information": "A 52-year-old man with unremarkable past medical history.",
+  "chief_complaint": "A 52-year-old man presents to a tropical medicine clinic in Germany with a fever for the past 2 days, night sweats, and a frontal headache.",
+  "history_of_present_illness": "Ten days ago, he returned from a 2-week holiday trip to South Africa. He visited Cape Town and travelled the Garden Route and through KwaZulu-Natal. He went on safari in Kruger Park and several other game reserves. He did not take any antimalarial chemoprophylaxis. He has no joint pains and has not noticed a rash.",
+  "exposure_and_epidemiology": "Ten days prior to presentation, he returned from a 2-week holiday trip to South Africa, where he visited Cape Town, travelled the Garden Route and through KwaZulu-Natal, and went on safari in Kruger Park and several other game reserves. He did not take any antimalarial chemoprophylaxis.",
+  "vitals": "Tympanic temperature 37.5°C (99.5°F) (after taking 1g of paracetamol), pulse 80bpm, blood pressure 130/70 mmHg.",
+  "physical_exam": "Fair general condition. No jaundice; neck supple. Enlarged lymph nodes in the left groin. A small necrotic skin lesion (about 0.7 cm in diameter) with surrounding inflammation and lymphangiitis is noted on his left upper thigh, which was covered by a sticking plaster.",
+  "labs_and_diagnostics": "The malaria rapid diagnostic test, as well as thick and thin film for malaria, came back negative. A PCR from the eschar scab may confirm the diagnosis. For confirmative serology, paired samples would have to be taken.",
+  "differential_diagnosis": "Malaria must be ruled out in any febrile traveller returning from a malaria-endemic region, even if other diagnoses seem obvious.",
+  "management_and_clinical_course": "The patient was prescribed doxycycline at 100 mg bid PO for 1 week. The fever settled within the next few days and the lymphadenopathy subsided. The eschar eventually healed after about 2 weeks.",
+  "final_diagnosis": "The final diagnosis is African tick-bite fever (ATBF), a rickettsial disease caused by Rickettsia africae. This diagnosis is supported by the patient's travel history to Southern Africa, the presence of a typical eschar with surrounding inflammation and lymphangiitis, and the negative malaria tests. The clinical course, with resolution of fever and lymphadenopathy and healing of the eschar after doxycycline treatment, is consistent with ATBF.",
+  "disease_name_short": "African tick-bite fever",
+  "tables": [
+    {
+      "title": "Overview of Rickettsial Infections and their Vectors",
+      "headers": [
+        "Tick-borne",
+        "Mite-borne",
+        "Louse-borne",
+        "Flea-borne"
+      ],
+      "rows": [
+        [
+          "Spotted fevers",
+          "Scrub typhus, Tsutsugamushi fever, Japanese river fever",
+          "Epidemic typhus",
+          "Murine typhus, Endemic typhus, Shop typhus"
+        ],
+        [
+          "Spotted Fever (SF) Group",
+          "Scrub typhus Group",
+          "Typhus Group",
+          "Typhus Group"
+        ],
+        [
+          "Many, e.g. R. africae (African tick bite fever) R. conorii (Mediterranean SF) R. rickettsii (Rocky mountain SF) R. australis (Queensland tick typhus)",
+          "Orientia tsutsugamushi O. sp. nov. chuto (UAE)",
+          "R. prowazekii",
+          "R. typhi"
+        ],
+        [
+          "Ticks",
+          "Trombiculid mites (chigger mites, jungle mites)",
+          "Pediculus humanus corporis (human body lice)",
+          "Xenopsylla cheopis (rat flea)"
+        ],
+        [
+          "Mammals Rodents Marsupials....",
+          "Mites (transovarian) Rodents",
+          "Humans",
+          "Rodents"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "extracted_images/54---A-52-Year-Old-Male-Safari-Tourist-Returning-fro_2022_Clinical-Cases-in-/page1_img1.jpeg",
+      "caption": "Small necrotic skin lesion (about 0.7 cm in diameter) with surrounding inflammation and lymphangiitis on the left upper thigh of the patient."
+    }
+  ]
+}

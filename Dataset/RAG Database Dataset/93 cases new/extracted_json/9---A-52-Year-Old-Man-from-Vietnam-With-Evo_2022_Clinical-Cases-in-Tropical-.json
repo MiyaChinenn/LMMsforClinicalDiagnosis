@@ -1,0 +1,91 @@
+{
+  "patient_information": "A 52-year-old man has a history of type 2 diabetes mellitus and poorly controlled hypertension.",
+  "chief_complaint": "A 52-year-old man is brought to an urban hospital in Ho Chi Minh City, Vietnam, because of abdominal pain and vomiting.",
+  "history_of_present_illness": "He describes 4 days of retro-orbital headache, lethargy, myalgia and fevers that had begun to improve over the last 24 hours.",
+  "exposure_and_epidemiology": "The patient is from Ho Chi Minh City, Vietnam, which is a high-endemicity area for dengue. His last travel outside the city was several years ago. Malaria risk is very low in this urban area, and the absence of suspected rodent exposure makes leptospirosis less likely.",
+  "vitals": "Temperature 36.5°C, blood pressure 105/90 mmHg, heart rate 120 bpm, respiratory rate 28 breaths per minute, and peripheral oxygen saturation 93% on air.",
+  "physical_exam": "The patient is drowsy but rousable with a Glasgow Coma Score (GCS) of 14/15. He has a weak radial pulse with normal heart sounds. Respiratory examination revealed a dull percussion note and reduced breath sounds at both lung bases. Mild abdominal distension with shifting dullness and a tender 3cm liver edge were noted. Skin examination was unremarkable.",
+  "labs_and_diagnostics": "Laboratory results on admission showed Haemoglobin 14.6 g/dL, Haematocrit 53.9%, Platelets 58 ×10^9/L, WCC 2.1 ×10^9/L, Neutrophils 0.9 ×10^9/L, Lymphocytes 0.8 ×10^9/L, C-reactive protein 20 mg/L, Urea 7.8 mmol/L, Creatinine 114 µmol/L, Alanine aminotransferase 812 U/L, Alkaline phosphatase 260 U/L, Total bilirubin 18 µmol/L, and Lactate 3.5 mmol/L. Ultrasound scans confirmed moderate bilateral pleural effusions and ascites, mild hepatomegaly, and a thickened gallbladder wall. Reverse transcriptase PCR (RT-PCR) and a positive NS1 ELISA later confirmed dengue diagnosis.",
+  "differential_diagnosis": "The main differential diagnoses considered were dengue infection, rickettsial infections such as scrub typhus, malaria, leptospirosis, and melioidosis. Dengue was considered highly likely due to the clinical picture of severe disease with vascular leak and compensated shock in a high-endemicity area. Rickettsial infections were important differentials. Malaria was considered, but ruled out due to no evidence of haemolysis and low urban risk. Leptospirosis was considered less likely due to the absence of suspected rodent exposure. Melioidosis was also considered in the context of diabetes in South East Asia.",
+  "management_and_clinical_course": "Management priorities included careful fluid resuscitation, thorough and frequent assessment for fluid overload, and ultrasound scans to ascertain pleural effusions and ascites. An echocardiogram was considered to assess myocardial contractility and intravascular volume if available. The patient was admitted to a high-dependency unit for close observation and supportive care. He was infused with Ringer's lactate solution starting at 10mL/kg over 1 hour, which was increased to 15mL/kg/hr due to persistent tachycardia and oliguria with a haematocrit rise to 55.1%, and subsequently reduced to 7mL/kg/hr for 2 hours and then 2mL/kg/hr every 2 hours until no longer required. Clinical assessments were undertaken two-hourly with haematocrit checks every 6 hours. The patient was discharged 3 days later after complete recovery.",
+  "final_diagnosis": "The final diagnosis was dengue infection, confirmed by reverse transcriptase PCR (RT-PCR) and a positive NS1 ELISA. This was supported by the patient's clinical presentation with evolving shock, vascular leak, and compensated shock in a dengue high-endemicity area. Laboratory findings included thrombocytopenia, elevated haematocrit, and hepatic impairment, while ultrasound revealed moderate bilateral pleural effusions, ascites, and mild hepatomegaly, all consistent with severe dengue.",
+  "disease_name_short": "Dengue",
+  "tables": [
+    {
+      "title": "Laboratory Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference Range"
+      ],
+      "rows": [
+        [
+          "Haemoglobin (g/dL)",
+          "14.6",
+          "12.5-17.2"
+        ],
+        [
+          "Haematocrit (%)",
+          "53.9",
+          "40-52"
+        ],
+        [
+          "Platelets (×10^9/L)",
+          "58",
+          "160-370"
+        ],
+        [
+          "WCC (×10^9/L)",
+          "2.1",
+          "3.6-10.5"
+        ],
+        [
+          "Neutrophils (×10^9/L)",
+          "0.9",
+          "1.5-7.7"
+        ],
+        [
+          "Lymphocytes (×10^9/L)",
+          "0.8",
+          "1.1-4.0"
+        ],
+        [
+          "C-reactive protein (mg/L)",
+          "20",
+          "<4"
+        ],
+        [
+          "Urea (mmol/L)",
+          "7.8",
+          "2.5-7.8"
+        ],
+        [
+          "Creatinine (µmol/L)",
+          "114",
+          "62-115"
+        ],
+        [
+          "Alanine aminotransferase (U/L)",
+          "812",
+          "7-40"
+        ],
+        [
+          "Alkaline phosphatase (U/L)",
+          "260",
+          "30-130"
+        ],
+        [
+          "Total bilirubin (µmol/L)",
+          "18",
+          "0-20"
+        ],
+        [
+          "Lactate (mmol/L)",
+          "3.5",
+          "0.6-1.4"
+        ]
+      ]
+    }
+  ],
+  "images": []
+}

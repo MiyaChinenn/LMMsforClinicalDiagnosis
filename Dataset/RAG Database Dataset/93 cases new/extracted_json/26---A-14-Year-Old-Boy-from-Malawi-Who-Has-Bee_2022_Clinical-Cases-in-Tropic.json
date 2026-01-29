@@ -1,0 +1,100 @@
+{
+  "patient_information": "A 14-year-old Malawian boy.",
+  "chief_complaint": "A 14-year-old Malawian boy presents to a local hospital because of an extensive necrotic wound on his right foot, 3 weeks after a snake bite.",
+  "history_of_present_illness": "Three weeks earlier he was playing with his friends on a path leading through rocky grassland to the maize field of his family when he stepped on a snake. The snake was brown with V-shaped black bands on its back, and it was approximately one metre long. His friends told his mother later that the snake had hissed loudly but did not move away before biting him - which the boy did not even realize, being busy chasing a football. Shortly after the bite, haemorrhagic bullae formed on the right leg. His gums started to bleed and he vomited extensively. He was taken to a local traditional healer for treatment. His bleeding and vomiting settled; however, he developed intense pain and swelling at the site of the bite.",
+  "exposure_and_epidemiology": "The bite occurred on a path leading through rocky grassland to the maize field of his family in rural Malawi. The snake was described as brown with V-shaped black bands on its back, and approximately one metre long, hissing loudly. The African puff-adder (Bitis arietans) is the most likely snake to have caused his bite, known for its aggression, potent venom, long fangs, and prevalence in densely populated areas throughout the African savannah.",
+  "vitals": "Temperature 39.4°C, pulse 126bpm, blood pressure 85/60 mmHg, respiratory rate 30 breath cycles per minute.",
+  "physical_exam": "The 14-year old boy appeared weak and was in respiratory distress. There was an extensive, foul-smelling necrosis affecting his right foot and ankle where the tendons were exposed. The right lower leg was swollen and he was unable to bend the ankle of his right foot. The inguinal lymph nodes were enlarged on the right side. The urine was clear, rectal exam did not show any signs of bleeding and upon provoked coughing there was no haemoptysis. Fundoscopy was normal.",
+  "labs_and_diagnostics": "The 20-minute whole blood clotting test (WBCT20) was normal. On admission, WBC was 19 ×10^9/L (reference 4-10), Haemoglobin 9.5 mg/dL (reference 12-14), Platelets 60 ×10^9/L (reference 150-400), and K+ 4.2 mmol/L (reference 3.5-5.2).",
+  "differential_diagnosis": "The African puff-adder (Bitis arietans) was identified as the most probable cause of the bite due to the snake's description (one metre long, stout, brown with V-shaped black bands, hissing, aggressive) and the patient's symptoms, which include massive local swelling, hemorrhagic bullae, extensive necrosis, cardiotoxic effects, and systemic haemorrhage, all consistent with puff-adder venom. Saw-scaled or carpet vipers (Echis species) produce similar symptoms, while mamba bites are considered relatively uncommon.",
+  "management_and_clinical_course": "Due to the bite occurring 3 weeks prior, application of antivenom was not deemed useful. Upon admission, the boy was septic and managed according to international sepsis treatment guidelines, including early broad-spectrum antibiotics, ventilatory support, and fluid resuscitation. He also received tetanus prophylaxis. The wound was surgically debrided multiple times, eventually becoming clean, and mesh-grafting was successfully performed. No further reconstructive surgery was necessary, and severe local complications such as compartment syndrome, deep tissue infection, or ischaemia did not develop. The boy was discharged several weeks later with some remaining functional impairment of his right foot, for which he was booked for outpatient physiotherapy.",
+  "final_diagnosis": "The final diagnosis is a severe snakebite envenomation complicated by sepsis and extensive tissue necrosis, most likely caused by an African puff-adder (Bitis arietans). This is supported by the snake's description and the patient's symptoms including massive local swelling, hemorrhagic bullae, extensive necrosis, and systemic effects like bleeding gums and vomiting. Laboratory results showed leukocytosis, anemia, and thrombocytopenia. The patient's clinical course improved significantly with broad-spectrum antibiotics, fluid resuscitation, and surgical debridement and grafting.",
+  "disease_name_short": "Snakebite Envenomation",
+  "tables": [
+    {
+      "title": "Laboratory Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference Range"
+      ],
+      "rows": [
+        [
+          "WBC (×10^9/L)",
+          "19",
+          "4-10"
+        ],
+        [
+          "Haemoglobin (mg/dL)",
+          "9.5",
+          "12-14"
+        ],
+        [
+          "Platelets (×10^9/L)",
+          "60",
+          "150-400"
+        ],
+        [
+          "K+ (mmol/L)",
+          "4.2",
+          "3.5-5.2"
+        ]
+      ]
+    },
+    {
+      "title": "Principal Effects of African Snake Venoms in Humans",
+      "headers": [
+        "Venom Activity",
+        "Clinical Manifestations",
+        "African Snake Responsible"
+      ],
+      "rows": [
+        [
+          "Cytotoxic",
+          "Massive local swelling, blistering, necrosis; plasma extravasation with consecutive fluid loss, hypotension. Eye: keratoconjunctivitis, corneal ulcer, blindness (spitting cobra)",
+          "Puff-adder and other large Bitis species, saw-scaled vipers (Echis), burrowing asps (Atractaspis species); spitting cobra"
+        ],
+        [
+          "Auto-pharmacological",
+          "Release of vasoactive compounds (e.g. NO, histamine, serotonin, bradykinin); anaphylaxis, acute profound hypotension, urticaria, vomiting, diarrhoea",
+          "Burrowing asps (Atractaspis spp.), Bitis species, boomslang"
+        ],
+        [
+          "Haematotoxic",
+          "Spontaneous systemic bleeding (gums, brain, gastrointestinal, uterine), bleeding from trauma and recent wounds",
+          "Puff-adder and other large Bitis spp., saw-scaled vipers, boomslang, vine snake"
+        ],
+        [
+          "Cardiotoxic",
+          "Hypotension, shock, arrhythmias, conduction abnormalities",
+          "Puff-adder and other large Bitis species, burrowing asps"
+        ],
+        [
+          "Neurotoxic",
+          "Cranial nerve palsies, bulbar and respiratory paralysis",
+          "Elapids (mamba, cobra, rinkhals) berg adder, Peringuey's adder"
+        ],
+        [
+          "Myotoxic",
+          "Trismus; rhabdomyolysis with myalgias, myoglobinuria, renal failure, hyperkalaemia, respiratory failure",
+          "Sea snake"
+        ],
+        [
+          "Nephrotoxic",
+          "Acute kidney injury, renal necrosis",
+          "Boomslang, vine snake, saw-scaled vipers"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "Fig. 26.1",
+      "caption": "The right foot and ankle with extensive tissue necrosis 3 weeks after a snake bite."
+    },
+    {
+      "file_name": "Fig. 26.2",
+      "caption": "After several debridements the wound looks clean."
+    }
+  ]
+}

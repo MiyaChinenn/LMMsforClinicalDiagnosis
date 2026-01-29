@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 35-year-old male farmer from the Peruvian highlands, previously healthy.",
+  "chief_complaint": "A 2-month history of a slowly growing ulcer and multiple painless nodules on his left arm.",
+  "history_of_present_illness": "Two months before presentation, the patient suffered a scratch on his left hand from a tree branch while working in the fields. After a few days, he noticed a small painless erythematous papule that later developed into a pustule. He took antibiotics without improvement. Over the following weeks new pustules appeared, and the lesion started to ulcerate and increased in size, despite continued antibiotics and topical traditional medicines. Four weeks after the initial papule the patient noticed painless firm nodules on his left forearm. The patient was seen at a regional hospital and treated empirically for cutaneous leishmaniasis with a 20-day course of pentavalent antimonials, but showed no improvement. He was then referred for further diagnosis and treatment. The patient denies systemic symptoms.",
+  "exposure_and_epidemiology": "The patient is a farmer from the Peruvian highlands. Two months before presentation, he suffered a scratch on his left hand from a tree branch while working in the fields. He denied recent contact with animals or travel.",
+  "vitals": "His vital signs are normal and he is afebrile.",
+  "physical_exam": "The patient appears generally well. On his left hand there is a single ulcerative lesion (20 \t 30 mm) with irregular elevated borders and multiple subcutaneous erythematous nodules (10 \t 10mm) along the lymphatic tract of the left arm. The rest of the physical examination is normal.",
+  "labs_and_diagnostics": "The WBC is 4.5 \t 10^9/L (reference range 4-10 \t 10^9/L) with normal differential count; haemoglobin is 11.3g/dL (12-16g/dL). The remainder of the full blood count is normal. A chest x-ray was normal and PPD skin testing was negative. No leishmania parasites were observed by direct microscopy, and the leishmanin skin test was negative. Leishmania culture was not performed. Mycobacterial cultures were negative. However, culture of the ulcer scraping and nodule aspiration were positive for S. schenckii.",
+  "differential_diagnosis": "In Peru, the common differential diagnoses of a chronic ulcer with nodular lymphangitis include cutaneous leishmaniasis, sporotrichosis and mycobacterial infection by Mycobacterium tuberculosis or M. marinum. Leishmaniasis was considered highly suggestive given the patient's origin and clinical presentation, but the lack of clinical improvement after a complete course of pentavalent antimonials made this diagnosis unlikely. Sporotrichosis was considered the second most important diagnosis, with typical clinical features and common occurrence in Peru. Secondary cutaneous tuberculosis was also considered due to likely lifetime exposure to M. tuberculosis, but was ruled out by a negative PPD skin test and normal chest x-ray. M. marinum was unlikely due to no history of fresh and saltwater exposure. Nocardiosis (Nocardia brasiliensis) and tularaemia (Francisella tularensis) were also considered but were deemed unlikely as nocardiosis is rare and tularaemia has not been reported in the southern hemisphere.",
+  "management_and_clinical_course": "The patient was started on itraconazole PO 200 mg/day for lymphocutaneous sporotrichosis. After 8 months of treatment, the ulcer and nodular lesions had resolved, and the patient was considered to be cured. The mild anaemia was likely to be unrelated.",
+  "final_diagnosis": "The final diagnosis was lymphocutaneous sporotrichosis, caused by S. schenckii. This was supported by the patient's typical clinical presentation of a chronic ulcer and nodular lymphangitis following a minor traumatic injury in a farmer from Peru, the lack of improvement with empirical leishmaniasis treatment, and negative tests for leishmaniasis and tuberculosis. The diagnosis was definitively confirmed by positive culture for S. schenckii from both ulcer scraping and nodule aspiration, and the patient achieved a full cure after 8 months of itraconazole treatment.",
+  "disease_name_short": "Sporotrichosis",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "Fig. 34.1",
+      "caption": "Initial ulcerated lesion on the left hand. Note the pustular lesion near the ulcer."
+    },
+    {
+      "file_name": "Fig. 34.2",
+      "caption": "Multiple subcutaneous nodules along the lymphatic tract."
+    }
+  ]
+}

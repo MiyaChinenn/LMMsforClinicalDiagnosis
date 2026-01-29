@@ -1,0 +1,681 @@
+[
+  {
+    "source_file": "CHAPTER_III_TheTrypanosomiases.json",
+    "question_snippet": "A 35-year-old male, a European expatriate working for an international aid organization, presents wi...",
+    "fidelity_check": {
+      "status": "PASSED_FIDELITY",
+      "reason": "No hallucinations found",
+      "details": ""
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 3,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 4,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 3.67,
+      "critique": "The case effectively presents a classic constellation of symptoms and epidemiological context highly suggestive of African Trypanosomiasis. The diagnostic reasoning is strong, clearly linking each key finding (fever pattern, rapid pulse, Winterbottom's sign, skin lesions, neurological symptoms, and geographic exposure) to the final diagnosis. The inclusion and brief discussion of plausible differential diagnoses (malaria, dengue, syphilis) enhance its teaching value. However, the case presentation could be more thorough by including a complete set of vital signs (BP, RR), past medical history, medications, allergies, and initial laboratory findings, which are typically standard components of a comprehensive clinical case."
+    },
+    "final_decision": "VALID_QA"
+  },
+  {
+    "source_file": "CHAPTER_II_BlackwaterFever.json",
+    "question_snippet": "A 42-year-old male, of Luba ethnicity from the Democratic Republic of Congo, presents to a rural cli...",
+    "fidelity_check": {
+      "status": "PASSED_FIDELITY",
+      "reason": "No hallucinations found",
+      "details": ""
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 3,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 4,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 3.7,
+      "critique": "The case presentation is strong in establishing epidemiological context, historical details, and key physical findings, including a clear timeline for the onset of critical symptoms. However, its thoroughness is diminished by the complete absence of any laboratory or imaging data, which would be essential for a comprehensive diagnostic teaching case for Blackwater Fever. The diagnostic reasoning demonstrates high integrative value, synthesizing demographic, historical, and clinical clues to arrive at the diagnosis. The rationale explicitly discusses and rules out multiple plausible differential diagnoses, showcasing a robust thought process. The transparency of the diagnostic reasoning is detailed and logical, explaining the significance of each finding. The final diagnosis is clearly stated. The primary area for improvement is the inclusion of relevant laboratory findings (e.g., CBC, bilirubin, renal function, malaria smear) to enhance the case's teaching value regarding diagnostic workup."
+    },
+    "final_decision": "VALID_QA"
+  },
+  {
+    "source_file": "CHAPTER_IX_Dysentery.json",
+    "question_snippet": "A 7-year-old Hausa girl, residing in a rural village in the Tahoua region of Niger, presents with a ...",
+    "fidelity_check": {
+      "status": "ERROR",
+      "reason": "Source file CHAPTER_IX_Dysentery.json not found"
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 2,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 4,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 3.33,
+      "critique": "The case presentation provides an excellent, detailed history of present illness and relevant social/epidemiological context. However, it significantly lacks objective data such as vital signs, focused physical examination findings, and any laboratory or imaging results, which are crucial components of a robust clinical teaching case. The diagnostic reasoning is very strong, integrating demographic, geographic, and clinical symptom data effectively. It explicitly discusses and rules out plausible differential diagnoses, demonstrating good clinical thought. The transparency of the reasoning process is high, clearly outlining the steps from epidemiological context to hallmark symptoms, and addressing the significance of the absence of fever. The final diagnosis is clearly stated."
+    },
+    "final_decision": "NEEDS_REVIEW"
+  },
+  {
+    "source_file": "CHAPTER_I_Malaria.json",
+    "question_snippet": "A 35-year-old male of European descent, working as a researcher in the Amazon Basin of Peru, specifi...",
+    "fidelity_check": {
+      "status": "PASSED_FIDELITY",
+      "reason": "No hallucinations found",
+      "details": []
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 3,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 4,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 3.7,
+      "critique": "The case presentation provides good detail regarding the history of present illness, vital signs, and a focused physical exam finding (splenomegaly). However, it lacks crucial elements commonly found in comprehensive teaching cases, such as past medical history, medications, allergies, and especially laboratory or imaging results, which significantly limits its 'thoroughness' score. The diagnostic reasoning is strong, explicitly discussing two plausible alternative diagnoses (dengue, bacterial infections) and clearly articulating why malaria is the most probable, linking clinical findings to pathophysiology and epidemiological risk. The integration of demographic, historical, and physical exam findings is excellent, requiring the synthesis of multiple data points for diagnosis. The transparency of the reasoning is also high, providing a detailed, stepwise explanation. The final diagnosis is clearly stated."
+    },
+    "final_decision": "VALID_QA"
+  },
+  {
+    "source_file": "CHAPTER_VIII_TheLeishmaniases.json",
+    "question_snippet": "A 45-year-old male farmer from a rural village in Rajasthan, India, presents with a gradual onset of...",
+    "fidelity_check": {
+      "status": "REJECTED",
+      "reason": "Fidelity/Hallucination Issue",
+      "flags": [
+        "INTERNAL_INCONSISTENCY"
+      ],
+      "details": "The diagnostic rationale concludes with a broad final diagnosis of 'The Leishmaniases', which is inconsistent with the specific final diagnosis of 'Visceral leishmaniasis (kala-azar), chronic stage' provided earlier in the case."
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 4,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 5,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 4.33,
+      "critique": "The case presentation provides a very good, focused vignette with rich, specific details regarding the patient's HPI, focused physical examination findings (massive splenomegaly, hepatomegaly), and characteristic laboratory results (severe anemia, leukopenia). While some general details like full vitals, PMH, and medications are omitted, the presented data is highly relevant and complete for the diagnostic challenge. The diagnostic reasoning is outstanding; it transparently links all major findings (demographics, chronic fever pattern, organomegaly, cytopenias) to the final diagnosis, explains the pathophysiology, and provides an excellent differential diagnosis with clear reasoning for exclusion of alternatives. The case requires high integrative clinical reasoning, synthesizing epidemiological context, chronic symptoms, specific physical signs, and blood work abnormalities."
+    },
+    "final_decision": "NEEDS_REVIEW"
+  },
+  {
+    "source_file": "CHAPTER_VI_InfectiousJaundice.json",
+    "question_snippet": "A 35-year-old Kinh woman from the Mekong Delta region of Vietnam presents with a sudden onset of sym...",
+    "fidelity_check": {
+      "status": "PASSED_FIDELITY",
+      "reason": "No hallucinations found",
+      "details": ""
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 3,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 4,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 3.7,
+      "critique": "The case presentation provides a detailed HPI and focused exam, including key demographic and epidemiological risk factors, and a clear timeline for symptom development. However, it lacks information regarding past medical history, medications, allergies, and initial laboratory/imaging results, which are standard components of a thorough medical case presentation, thus earning an 'Adequate' score. The diagnostic reasoning explicitly mentions and rules out at least one other plausible diagnosis (viral hepatitis) and implicitly addresses others (malaria, Dengue fever), satisfying the differential diagnosis criterion. The reasoning requires combining multiple distinct data points\u2014epidemiology (region, occupation, rodents), acute febrile illness symptoms, specific physical findings (injected conjunctivae, calf/nape pain), organ involvement (jaundice), and complications (hemorrhage)\u2014indicating a high dependence on integrative clinical reasoning. The rationale is well-structured and transparent, clearly linking clinical findings to the diagnosis and providing logical steps for deduction, scoring 'Detailed'. The final diagnosis is clearly stated as 'Leptospirosis'."
+    },
+    "final_decision": "VALID_QA"
+  },
+  {
+    "source_file": "CHAPTER_V_YellowFever.json",
+    "question_snippet": "A 45-year-old Ashanti woman from the Ashanti Region of Ghana presents to the clinic with an abrupt o...",
+    "fidelity_check": {
+      "status": "PASSED_FIDELITY",
+      "reason": "No hallucinations found",
+      "details": ""
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 3,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 4,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 3.7,
+      "critique": "The case presentation provides adequate history and initial vital signs, but lacks a comprehensive physical exam, past medical history, and any laboratory or imaging data, thus limiting its thoroughness. The diagnostic reasoning, however, is very strong. It explicitly details how demographics, location, and the specific constellation of symptoms (abrupt onset, high fever, specific headaches, back pain, facial flushing/swelling, injected eyes, early vomiting) and vital signs (racing pulse, high BP) converge to suggest the initial 'sthenic' stage of Yellow Fever. It successfully integrates multiple distinct clinical findings and geographical context. The rationale clearly outlines the logic, referencing classic symptoms and epidemiological risk. It also explicitly considers and rules out other plausible diagnoses (influenza, malaria, dengue), demonstrating good transparency. The final diagnosis is clear and specific."
+    },
+    "final_decision": "VALID_QA"
+  },
+  {
+    "source_file": "CHAPTER_XIII_Plague.json",
+    "question_snippet": "A 45-year-old male, a Fulani herdsman from a rural village near the Niger River in Burkina Faso, pre...",
+    "fidelity_check": {
+      "status": "REJECTED",
+      "reason": "Fidelity/Hallucination Issue",
+      "flags": [
+        "INTERNAL_INCONSISTENCY"
+      ],
+      "details": "The teaching case draft provides a definitive final diagnosis at the start of the section but concludes the diagnostic rationale with 'Final Diagnosis: Unknown', creating a direct contradiction."
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 3,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 4,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 3.7,
+      "critique": "The case presentation provides a strong epidemiological context and detailed physical exam findings for the characteristic bubo and petechiae, along with good HPI and vitals. However, it is missing vital components like past medical history, medications, allergies, and any laboratory or imaging results, which are standard for comprehensive teaching cases. The diagnostic reasoning is very strong, integrating demographic risk with highly specific clinical signs (bubo, petechiae) and severe systemic symptoms. It effectively outlines the logical steps, connects findings to the diagnosis, and clearly addresses plausible differential diagnoses with rational justifications for exclusion. The final diagnosis is explicitly stated in the 'Answer' field, despite a conflicting 'Unknown' placeholder within the rationale text."
+    },
+    "final_decision": "NEEDS_REVIEW"
+  },
+  {
+    "source_file": "CHAPTER_XII_BacillaryDysentery.json",
+    "question_snippet": "A 25-year-old male, of Bengali ethnicity residing in a rural area of Bangladesh, presents with a sud...",
+    "fidelity_check": {
+      "status": "PASSED_FIDELITY",
+      "reason": "No hallucinations found",
+      "details": ""
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 4,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 4,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 4.0,
+      "critique": "The case presentation is very good, providing complete and highly relevant data including HPI, key vitals, focused exam findings, and a crucial lab result, with a clear timeline. While some minor details like full vital signs (BP, RR) or past medical history could be added for absolute perfection in a textbook, the essential information for diagnosis is present. The diagnostic reasoning is highly transparent and detailed, effectively integrating demographic, historical, physical, and laboratory findings. It explicitly addresses and rules out at least two plausible differential diagnoses (amoebic dysentery and cholera), demonstrating strong integrative clinical reasoning. The final diagnosis is clearly and specifically stated."
+    },
+    "final_decision": "VALID_QA"
+  },
+  {
+    "source_file": "CHAPTER_XIX_Pellagra.json",
+    "question_snippet": "A 45-year-old middle-aged Uzbek woman from a rural village in the Fergana Valley presents with a his...",
+    "fidelity_check": {
+      "status": "PASSED_FIDELITY",
+      "reason": "No hallucinations found",
+      "details": ""
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 3,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 4,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 3.7,
+      "critique": "The case presentation offers a rich and detailed history of present illness and focused physical exam findings, particularly regarding the characteristic skin and oral lesions, as well as the relevant demographic and dietary risk factors. However, it lacks standard components of a comprehensive case, such as vital signs, medication history, allergies, and any mention of laboratory or imaging data, which are typically crucial for diagnostic reasoning in real-world scenarios and comprehensive teaching cases. The diagnostic reasoning provided is exemplary: well-structured, logically organized, explicitly links symptoms to the classic pellagra triad, thoroughly discusses risk factors, and appropriately considers a differential diagnosis before arriving at the conclusion. The integration of demographic, historical, and multi-systemic symptomatic clues is strong. The final diagnosis is clearly stated."
+    },
+    "final_decision": "VALID_QA"
+  },
+  {
+    "source_file": "CHAPTER_XI_LiverAbscess.json",
+    "question_snippet": "A 48-year-old Thai woman, a resident of a rural province in Northeastern Thailand, presents with a t...",
+    "fidelity_check": {
+      "status": "PASSED_FIDELITY",
+      "reason": "No hallucinations found",
+      "details": ""
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 3,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 4,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 3.67,
+      "critique": "The case presentation provides a strong history of present illness, relevant past medical history, vitals, and a focused physical exam. However, the absence of any initial laboratory results (e.g., CBC, LFTs, inflammatory markers) or imaging findings (which would be standard in this clinical scenario) prevents it from achieving a 'Very good' or 'Exemplary' score for thoroughness, pushing it to 'Adequate' despite the good clinical detail provided. The diagnostic reasoning is highly integrative, requiring the synthesis of epidemiological context, remote history, specific symptom patterns, and physical exam findings. The rationale is detailed and transparent, clearly linking patient data to the final diagnosis and effectively discussing and differentiating from plausible alternatives like pyogenic liver abscess and cholangitis. The final diagnosis is specific and correctly stated."
+    },
+    "final_decision": "VALID_QA"
+  },
+  {
+    "source_file": "CHAPTER_XVIII_Beriberi.json",
+    "question_snippet": "A 45-year-old Javanese man from a rural village in Central Java, Indonesia, presents with a two-mont...",
+    "fidelity_check": {
+      "status": "PASSED_FIDELITY",
+      "reason": "No hallucinations found",
+      "details": ""
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 4,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 4,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 4.0,
+      "critique": "The case presentation provides a very good and focused clinical picture, including relevant demographic, dietary, symptomatic, and physical examination findings, alongside a clear timeline. While it lacks some standard elements like a complete set of vital signs, medications, allergies, labs, or imaging, the information provided is highly pertinent and sufficient for the diagnostic challenge presented. The diagnostic reasoning clearly integrates multiple data points (demographics, diet, symptoms, signs) to arrive at the diagnosis. The rationale is detailed and stepwise, connecting specific findings to the final diagnosis and its subtypes, and explicitly considers heart failure and renal disease as differential diagnoses for edema. The final diagnosis is specific and comprehensive."
+    },
+    "final_decision": "VALID_QA"
+  },
+  {
+    "source_file": "CHAPTER_XVII_Leprosy.json",
+    "question_snippet": "A 55-year-old male of Kazakh ethnicity, residing in a rural province of Kazakhstan near mountainous ...",
+    "fidelity_check": {
+      "status": "PASSED_FIDELITY",
+      "reason": "No hallucinations found",
+      "details": ""
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 4,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 4,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 4.0,
+      "critique": "The case presentation is very strong in its detailed description of the history of present illness and focused physical examination findings, which are highly characteristic and rich in clinical texture. The demographic information and timeline are also well-integrated. However, it lacks standard components such as vital signs, past medical history, medications, allergies, and initial laboratory/imaging results, which would typically be present in a comprehensive medical textbook case. The diagnostic reasoning is exemplary, providing a clear, stepwise deduction that explicitly links each key finding (demographics, prodrome, mucosal involvement, classic facial and skin lesions, sensory loss, nerve thickening, eye involvement) to the final diagnosis. It effectively integrates these multiple data points, requiring a high level of synthesis. Furthermore, it transparently discusses and rules out plausible differential diagnoses, explaining why they are less likely. The final diagnosis is clearly stated and specific."
+    },
+    "final_decision": "VALID_QA"
+  },
+  {
+    "source_file": "CHAPTER_XVI_MaltaFever.json",
+    "question_snippet": "A 40-year-old male, originally from a village in southern Malta known for its agricultural and coast...",
+    "fidelity_check": {
+      "status": "PASSED_FIDELITY",
+      "reason": "No hallucinations found",
+      "details": ""
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 3,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 4,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 3.7,
+      "critique": "The case presentation offers a rich history of present illness and relevant demographic/lifestyle factors, alongside key physical exam findings. However, it lacks a complete set of vital signs, any laboratory results, or imaging findings, which limits its 'thoroughness' for a textbook-level case. The diagnostic reasoning is strong, integrating multiple high-yield clues such as endemic region, exposure to unpasteurized milk, the classic undulant fever pattern, specific joint manifestations, and splenomegaly. It explicitly considers and briefly rules out other plausible febrile illnesses, demonstrating good differential thinking. The rationale clearly explains *why* each piece of information is relevant, making the diagnostic process transparent and educational. The final diagnosis is clearly stated."
+    },
+    "final_decision": "VALID_QA"
+  },
+  {
+    "source_file": "CHAPTER_XV_Cholera.json",
+    "question_snippet": "A 25-year-old male, originally from a rural coastal community in the Sundarbans region of Bangladesh...",
+    "fidelity_check": {
+      "status": "PASSED_FIDELITY",
+      "reason": "No hallucinations found",
+      "details": ""
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 3,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 4,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 3.67,
+      "critique": "The case presentation offers a vivid clinical picture with crucial epidemiological information and a clear timeline for the progression of symptoms. However, it is slightly lacking in a complete set of vital signs (only 'thready pulse' is noted, not a full HR, BP, RR, Temp) and absence of any laboratory or imaging data, which would typically be included in a thorough medical textbook case. The diagnostic reasoning excels by effectively integrating demographic data, exposure history, classic symptoms (rice-water stools, muscle cramps), and clear signs of severe dehydration. It appropriately rules out plausible alternatives like food poisoning, viral gastroenteritis, and bacillary dysentery by highlighting key differentiating features. The transparency of the reasoning process is high, clearly outlining the logical steps from presentation to diagnosis and justifying the choice against competitors. The final diagnosis is specific and complete, including severity and stage."
+    },
+    "final_decision": "VALID_QA"
+  },
+  {
+    "source_file": "CHAPTER_XXIII_TheSchistosomiases.json",
+    "question_snippet": "A 28-year-old male from a rural village near the Nile Delta in Egypt presents with a six-month histo...",
+    "fidelity_check": {
+      "status": "PASSED_FIDELITY",
+      "reason": "No hallucinations found",
+      "details": ""
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 4,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 5,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 4.33,
+      "critique": "The case presentation effectively provides key epidemiological data, risk factors, and characteristic urinary symptoms along with relevant basic lab findings and a timeline. The diagnostic reasoning is exemplary, meticulously connecting the patient's location, occupation, exposure, specific symptoms (dysuria, terminal hematuria), and disease timeline to the most likely diagnosis of vesical schistosomiasis due to *Schistosoma haematobium*. It offers a strong, stepwise deduction and provides explicit differential diagnosis by discussing other Schistosoma species and plausible alternative urinary conditions, explaining why they are less likely. The final diagnosis is clear and specific, making this a highly educational teaching case."
+    },
+    "final_decision": "VALID_QA"
+  },
+  {
+    "source_file": "CHAPTER_XXII_FilarialInfections.json",
+    "question_snippet": "A 35-year-old female, originally from a rural village in the Mekong Delta, Vietnam, presents with a ...",
+    "fidelity_check": {
+      "status": "REJECTED",
+      "reason": "Fidelity/Hallucination Issue",
+      "flags": [
+        "MUTUALLY_EXCLUSIVE_OR_INCOMPATIBLE_HALLMARK_FEATURES_COMBINED",
+        "BIOLOGICALLY_OR_EPIDEMIOLOGICALLY_IMPOSSIBLE_FINDINGS",
+        "DIAGNOSTIC_REASONING_HALLUCINATION"
+      ],
+      "details": [
+        "The vignette describes classic Calabar swellings, a hallmark feature of *Loa loa* infection according to the source, in a patient whose reported lack of travel outside Southeast Asia makes *Loa loa* epidemiologically impossible.",
+        "The diagnostic rationale attempts to attribute the highly specific description of Calabar swellings (characteristic of *Loa loa*) to *Wuchereria bancrofti* lymphangitis, which is not supported by the distinct clinical descriptions provided in the historical source for these conditions."
+      ]
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 3,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 4,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 3.7,
+      "critique": "The case presentation offers a rich and detailed history of presenting illness and focused physical examination findings, including specific characteristics of the oedematous swellings and chyluria, which are critical for diagnosis. The inclusion of demographics, occupation, and a relevant lab finding (eosinophilia) adds to its strength. However, the absence of vital signs, a fundamental component of any clinical presentation, lowers the 'thoroughness' score. The diagnostic reasoning is exemplary, demonstrating a clear stepwise approach that integrates multiple data points (demographics, symptoms, physical exam, labs). It effectively differentiates between a closely related condition (*Loa loa*) and explicitly rules out other plausible diagnoses (malaria, bacterial infection, other helminths) based on specific clinical evidence. The 'transparency' of reasoning is high, detailing the 'why' behind each logical step. The final diagnosis is specific and well-articulated."
+    },
+    "final_decision": "NEEDS_REVIEW"
+  },
+  {
+    "source_file": "CHAPTER_XXIV_MinorHelminthicInfections.json",
+    "question_snippet": "A 52-year-old post-menopausal woman, a member of the Karen ethnic minority residing in a rural mount...",
+    "fidelity_check": {
+      "status": "ERROR",
+      "reason": "Source file CHAPTER_XXIV_MinorHelminthicInfections.json not found"
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 3,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 4,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 3.7,
+      "critique": "The case presentation provides a strong history of present illness, including key demographic details, symptoms, and critical exposure history. The physical exam is focused and relevant. However, the absence of standard components such as vital signs, detailed past medical history, medications, allergies, and any laboratory or imaging results prevents it from achieving a higher thoroughness score. The diagnostic reasoning is highly effective, integrating geographical and ethnic context, characteristic symptoms (gelatinous, brownish sputum, recurrent haemoptysis), and a specific dietary risk factor (raw freshwater crabs) to arrive at the diagnosis. It explicitly considers and briefly rules out plausible alternatives like chronic bronchitis and tuberculosis, enhancing its educational value. The reasoning process is detailed and stepwise, making the connection between clinical findings and the final diagnosis clear."
+    },
+    "final_decision": "NEEDS_REVIEW"
+  },
+  {
+    "source_file": "CHAPTER_XXIX_GranulomaVenereum.json",
+    "question_snippet": "A 27-year-old male from rural Rajasthan, India, presents with a slowly progressing genital lesion. H...",
+    "fidelity_check": {
+      "status": "PASSED_FIDELITY",
+      "reason": "No hallucinations found",
+      "details": ""
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 3,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 5,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 4.0,
+      "critique": "The case presentation provides a detailed HPI and focused physical examination of the lesion, including its progression, characteristics, and absence of pain/lymphadenopathy, along with relevant demographic information and sexual history. However, it lacks vital signs, past medical history, medications, or allergies, which would provide a more complete clinical picture, hence a '3' for thoroughness. The diagnostic reasoning explicitly mentions and rules out two plausible differential diagnoses (syphilis and chancroid), and even briefly addresses a more complex mimic (epithelioma). The case requires integration of multiple clinical clues (demographics, lesion morphology, chronicity, negative findings) for diagnosis, meriting a '4' for integrative reasoning. The rationale is highly transparent and educational, employing epidemiological context, detailed analysis of positive and negative findings, brief pathophysiology, and discussion of differential diagnoses and potential pitfalls, thus achieving a '5' for transparency. The final diagnosis is clearly stated."
+    },
+    "final_decision": "VALID_QA"
+  },
+  {
+    "source_file": "CHAPTER_XXI_Ancylostomiasis.json",
+    "question_snippet": "A 35-year-old male farmer from a rural village in the Mekong Delta region of Vietnam presents with a...",
+    "fidelity_check": {
+      "status": "PASSED_FIDELITY",
+      "reason": "No hallucinations found",
+      "details": []
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 5,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 5,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 4.67,
+      "critique": "The case presentation is exemplary, providing a rich, concise, and highly relevant clinical picture, including crucial epidemiological factors, a clear symptom timeline, and key laboratory findings. The diagnostic reasoning effectively integrates all elements\u2014demographics, exposure, the classic symptom sequence (initial 'ground itch' followed by systemic anemia and GI symptoms), physical findings, and marked eosinophilia\u2014to converge on the correct diagnosis. The rationale also thoughtfully discusses and rules out several plausible differential diagnoses, demonstrating a strong grasp of clinical reasoning. The transparency of the reasoning process is outstanding, making it a model teaching case. The final diagnosis is clearly stated and appropriately includes the severity of anemia."
+    },
+    "final_decision": "VALID_QA"
+  },
+  {
+    "source_file": "CHAPTER_XXVIII_Mycetoma.json",
+    "question_snippet": "A 45-year-old male, originally from Sudan, residing in Wad Madani, Gezira State, presents with a pro...",
+    "fidelity_check": {
+      "status": "PASSED_FIDELITY",
+      "reason": "No hallucinations found",
+      "details": ""
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 3,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 4,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 3.7,
+      "critique": "The case presentation offers a highly detailed and evocative description of the patient's chief complaint and relevant physical exam findings, particularly regarding the foot pathology and epidemiological context. However, it lacks standard components such as vital signs, past medical history, medications, allergies, and any initial lab or imaging results, which are crucial for a truly comprehensive medical case. The diagnostic reasoning is exemplary, providing a clear, structured, and detailed explanation that effectively integrates demographic, exposure, and highly specific clinical findings (e.g., colored granules, foot deformity) to arrive at the diagnosis. It also thoughtfully addresses relevant differential diagnoses, enhancing its teaching value. The reasoning process demands the synthesis of multiple data points, indicating a high level of integrative reasoning. The final diagnosis is specific and well-articulated."
+    },
+    "final_decision": "VALID_QA"
+  },
+  {
+    "source_file": "CHAPTER_XXVII_Gangosa.json",
+    "question_snippet": "A 35-year-old Melanesian man from Guadalcanal Province, Solomon Islands, presents with a several-mon...",
+    "fidelity_check": {
+      "status": "PASSED_FIDELITY",
+      "reason": "No hallucinations found",
+      "details": ""
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 4,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 5,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 4.33,
+      "critique": "The case presentation is very strong, providing crucial demographic, historical (childhood yaws), and detailed physical exam findings highly characteristic of the condition. While lacking specific vital numbers, meds, allergies, labs, or imaging, the available data is exceptionally rich and sufficient for a clinical diagnosis of Gangosa, which is often made on these grounds. The diagnostic reasoning is exemplary, offering a structured, stepwise deduction that explicitly links clinical findings to the diagnosis, clearly addresses the differential diagnosis (syphilis, lupus vulgaris), and highlights the pathognomonic features and etiological links. The discussion of the natural history (rapid progression and quiescence) further enhances its educational value. The overall quality is high, making it a valuable teaching case."
+    },
+    "final_decision": "VALID_QA"
+  },
+  {
+    "source_file": "CHAPTER_XXXIII_Pinta.json",
+    "question_snippet": "A 17-year-old indigenous adolescent female, residing in a rural community in the municipality of Ata...",
+    "fidelity_check": {
+      "status": "PASSED_FIDELITY",
+      "reason": "No hallucinations found",
+      "details": ""
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 3,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 4,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 3.67,
+      "critique": "The case presentation provides excellent detail on the history of present illness related to the skin lesions, including onset, characteristics, spread, and associated symptoms. Crucial demographic and geographical information is also well-integrated, which is highly relevant for this specific diagnosis. However, the case lacks standard elements such as vital signs, a general physical examination beyond the skin, past medical history, or medications, which limits its overall thoroughness as a comprehensive teaching case. The diagnostic reasoning is strong, clearly linking multiple clinical and epidemiological clues to the final diagnosis. It effectively discusses and differentiates from plausible alternative diagnoses (tinea, pyoderma, vitiligo), demonstrating sound clinical thought and providing a good explanation of why certain features are diagnostic or exclusionary. The dependence on integrative reasoning is high, requiring the synthesis of multiple distinct data points (demographics, environment, lesion morphology, color, distribution, absence of specific involvement, chronicity). The final diagnosis is clearly stated and specific."
+    },
+    "final_decision": "VALID_QA"
+  },
+  {
+    "source_file": "CHAPTER_XXXIX_TyphusFever.json",
+    "question_snippet": "A 28-year-old male, originally from a rural village in the highlands of Rwanda near agricultural set...",
+    "fidelity_check": {
+      "status": "PASSED_FIDELITY",
+      "reason": "No hallucinations found",
+      "details": []
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 4,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 4,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 4.0,
+      "critique": "The case presentation provides a highly detailed and evocative clinical vignette, particularly strong in its HPI and physical examination descriptions, including classic signs like sordes, injected eyes, apathetic expression, prostration, and the characteristic rash. While specific vital sign numbers (e.g., exact BP) and initial laboratory work-up are not included, the presented clinical data is complete and of high quality for a diagnostic teaching case focused on clinical acumen. The diagnostic reasoning is excellent, systematically integrating demographic and epidemiological risk factors with the constellation of acute symptoms, signs of severe systemic illness, circulatory compromise, and the pathognomonic rash. The rationale also explicitly and effectively discusses and differentiates against several plausible alternative diagnoses (Typhoid, Influenza, Brill's disease), enhancing its educational value. The reasoning process is transparent and follows a logical, stepwise deduction."
+    },
+    "final_decision": "VALID_QA"
+  },
+  {
+    "source_file": "CHAPTER_XXXVII_Tsutsugamushi.json",
+    "question_snippet": "A 48-year-old pre-menopausal woman, who identifies as part of a Karen hill tribe community, presents...",
+    "fidelity_check": {
+      "status": "REJECTED",
+      "reason": "Fidelity/Hallucination Issue",
+      "flags": [
+        "CASE_PROMPT_HALLUCINATION",
+        "DIAGNOSTIC_REASONING_HALLUCINATION"
+      ],
+      "details": [
+        "The patient's location in Thailand contradicts the historical source's explicit epidemiological limits for Tsutsugamushi to Japan and possibly the Philippines.",
+        "The diagnostic rationale is internally inconsistent by stating that 'Tsutsugamushi is a form of scrub typhus' and then listing 'scrub typhus' as a competing diagnosis."
+      ]
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 3,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 4,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 3.7,
+      "critique": "The case presentation effectively highlights key symptoms, including the pathognomonic eschar, and crucial epidemiological details, which are central to the diagnosis. However, it is rated 'adequate' (3) due to the absence of a complete set of vital signs (e.g., blood pressure, respiratory rate, O2 saturation), past medical history, medications, or any lab/imaging results, which are standard components of a comprehensive case. The diagnostic reasoning is detailed and transparent, clearly linking the patient's demographics, exposure, specific clinical findings, and disease progression to the final diagnosis, earning a 'High' (4) for integrative reasoning and 'Detailed' (4) for transparency. The rationale successfully discusses plausible alternative diagnoses, although noting that 'scrub typhus' is synonymous with 'Tsutsugamushi' might make that specific differential point slightly redundant in its current phrasing. Overall, it's a valuable teaching case for recognizing Tsutsugamushi."
+    },
+    "final_decision": "NEEDS_REVIEW"
+  },
+  {
+    "source_file": "CHAPTER_XXXVI_DengueAndDengueLikeFevers.json",
+    "question_snippet": "A 32-year-old Filipina woman of Kapampangan descent, residing in Central Luzon, Philippines, present...",
+    "fidelity_check": {
+      "status": "PASSED_FIDELITY",
+      "reason": "No hallucinations found",
+      "details": ""
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 2,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 5,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 3.67,
+      "critique": "The case presentation provides an excellent, detailed HPI and epidemiological context for Dengue, including specific symptoms and relevant exposure history. However, it is significantly deficient in objective clinical data, lacking full vital signs (beyond temperature), any physical examination findings, or laboratory/imaging results. This omission limits the comprehensive nature of the diagnostic challenge. The diagnostic reasoning (rationale) is exemplary: it systematically leverages demographic and exposure data to establish a high pre-test probability, clearly links clinical symptoms to the final diagnosis, includes a brief but relevant pathophysiological explanation, and provides a highly thorough and well-justified differential diagnosis, explicitly ruling out multiple plausible alternatives. The final diagnosis is specific and correct. The case would be significantly stronger with the inclusion of basic vital signs and a focused physical exam."
+    },
+    "final_decision": "VALID_QA"
+  },
+  {
+    "source_file": "CHAPTER_XXXV_VerrugaPeruvianaAndOroyaFever.json",
+    "question_snippet": "A 22-year-old Mestizo backpacker from the United States presents after a recent trip to the remote, ...",
+    "fidelity_check": {
+      "status": "PASSED_FIDELITY",
+      "reason": "No hallucinations found",
+      "details": ""
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 4,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 5,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 4.33,
+      "critique": "The case presentation is very good, providing complete and clinically rich data regarding the HPI, vitals, focused exam, and critical lab findings. While it lacks past medical history, it's sufficient for a focused diagnostic case. The diagnostic reasoning explicitly discusses and differentiates between multiple plausible alternatives (malaria, enteric fevers, verruga peruviana), which is excellent. The case requires high integrative clinical reasoning, as the diagnosis hinges on synthesizing epidemiological context (travel to specific high-altitude regions in Peru), a specific incubation period (3 weeks), a constellation of severe clinical findings (fever, profound hemolytic anemia, jaundice, splenomegaly, bone pain/sternal tenderness), and characteristic lab results (severe anemia with leukocytosis and left shift). The transparency of the diagnostic reasoning is outstanding; it's structured, detailed, and clearly explains the 'why' behind each piece of evidence and its relevance to the diagnosis, as well as providing clear arguments for ruling out differentials. The final diagnosis is clearly stated and specific."
+    },
+    "final_decision": "VALID_QA"
+  },
+  {
+    "source_file": "CHAPTER_X_AmoebicDysentery.json",
+    "question_snippet": "A 48-year-old male, a resident of a rural province in the Mekong River Delta of Vietnam, presents wi...",
+    "fidelity_check": {
+      "status": "PASSED_FIDELITY",
+      "reason": "No hallucinations found",
+      "details": ""
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 3,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 4,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 3.7,
+      "critique": "The case presentation provides a strong HPI, relevant demographic/travel history, and a focused physical exam finding. However, it lacks vital signs, a more comprehensive general or abdominal examination (beyond just tenderness), and any mention of laboratory or imaging studies, which would significantly improve its thoroughness. The diagnostic reasoning is excellent: it clearly outlines how each piece of clinical information supports the diagnosis, effectively integrates multiple clues (demographics, chronicity, specific symptoms, exam findings, absence of acute signs), and explicitly differentiates from plausible alternatives like bacillary dysentery and appendicitis. The transparency of the reasoning process is very high, making it highly educational. The final diagnosis is clearly stated. The main area for improvement is adding more objective data (vitals, basic labs) to the initial vignette."
+    },
+    "final_decision": "VALID_QA"
+  },
+  {
+    "source_file": "CHAPTER_XX_Sprue.json",
+    "question_snippet": "A 55-year-old post-menopausal Scandinavian woman, originally from rural Sweden, presents with a seve...",
+    "fidelity_check": {
+      "status": "PASSED_FIDELITY",
+      "reason": "No hallucinations found",
+      "details": ""
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 4,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 5,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 4.33,
+      "critique": "The case presentation provides a highly detailed and characteristic clinical picture, including HPI, focused exam findings, and critical lab results, creating a rich clinical texture despite the absence of a full set of vital signs, complete past medical history, or imaging. The diagnostic reasoning is exemplary: it is structured, detailed, and directly links specific symptoms and lab findings to the diagnosis. It thoughtfully addresses a geographic nuance in the patient's background and provides a clear, explicit differential diagnosis, systematically ruling out alternatives. The final diagnosis is clearly stated."
+    },
+    "final_decision": "VALID_QA"
+  },
+  {
+    "source_file": "CHAPTER_XXVI_YawsOrFramboesia.json",
+    "question_snippet": "A 7-year-old girl, hailing from a rural village in the Kwango Province of the Democratic Republic of...",
+    "fidelity_check": {
+      "status": "PASSED_FIDELITY",
+      "reason": "No hallucinations found",
+      "details": ""
+    },
+    "quality_check": {
+      "status": "APPROVED",
+      "scores": {
+        "thoroughness": 4,
+        "explicit_differential": "Yes",
+        "integrative_reasoning": 4,
+        "transparency": 4,
+        "stated_diagnosis": "Yes"
+      },
+      "average_score": 4.0,
+      "critique": "The case presentation is very strong, providing excellent detail on the HPI, lesion characteristics, and focused physical exam findings, including crucial epidemiological context. It only falls short of 'exemplary' due to the absence of a complete set of vital signs and a broader past medical history beyond what's directly relevant to the current presentation. The explicit differential diagnosis is well-executed, discussing three plausible alternatives and clearly articulating why they are less likely. Integrative clinical reasoning is high, requiring the synthesis of geographical factors, patient demographics, specific lesion morphology, systemic symptoms, and lymphadenopathy to arrive at the diagnosis. The diagnostic reasoning process is highly transparent, systematically linking each clinical clue to the final diagnosis of Yaws and effectively differentiating it from other conditions. The final diagnosis is clearly stated and specific."
+    },
+    "final_decision": "VALID_QA"
+  }
+]

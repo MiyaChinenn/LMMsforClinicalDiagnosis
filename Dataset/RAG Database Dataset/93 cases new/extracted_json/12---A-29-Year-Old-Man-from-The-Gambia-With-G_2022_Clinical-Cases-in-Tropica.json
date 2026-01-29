@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 29-year-old man from The Gambia, previously well.",
+  "chief_complaint": "Painful sores involving his private parts for 7 days.",
+  "history_of_present_illness": "The patient presented with painful sores on his private parts for 7 days. He was in considerable pain and only able to walk with difficulty due to these sores. He has been previously well.",
+  "exposure_and_epidemiology": "He admits to having had unprotected sex with a commercial sex worker 2 weeks ago, when he had not used a condom.",
+  "vitals": "He is afebrile.",
+  "physical_exam": "He is well nourished. General examination is unremarkable. The only abnormality is the presence of numerous painful ulcers on his penis, scrotum and inner thigh. The ulcers are tender, soft and bleed on contact. There is no inguinal lymphadenopathy.",
+  "labs_and_diagnostics": "HIV test was negative. Syphilis serology was positive (RPR and TPHA). A swab taken for culture of Haemophilus ducreyi grew H. ducreyi after three days' incubation at 33°C.",
+  "differential_diagnosis": "The most important differential diagnoses for genital ulceration include Herpes simplex, syphilis, and chancroid. Ulcers from H. simplex are self-limiting and last a few days, but can be severe and persistent in immunocompromised individuals. Primary syphilis typically presents with usually painless, single ulcers and sometimes painless inguinal adenopathy. Chancroid ulcers are often multiple, usually painful, and in about 50% of cases, painful inguinal lymphadenopathy is found, potentially with fluctuant and rupturing buboes. Due to the unreliability of clinical diagnosis, syndromic treatment for both syphilis and chancroid is recommended, with additional herpes treatment for HIV-positive patients.",
+  "management_and_clinical_course": "The patient was treated with a single dose of 2.4 million units of benzathine penicillin IM for syphilis and erythromycin 500 mg qds for 7 days for chancroid. He was advised to be tested for HIV, which returned negative, and his syphilis serology was positive (RPR and TPHA). A swab cultured for Haemophilus ducreyi grew positive after three days. At a 7-day follow-up, his pain had resolved, and the ulcers were healing.",
+  "final_diagnosis": "The final diagnosis for this patient is Chancroid with co-infection of Syphilis. The diagnosis of Chancroid was confirmed by the successful culture of Haemophilus ducreyi from a lesion swab. Syphilis was diagnosed based on positive RPR and TPHA serology. The patient's clinical presentation of multiple painful, tender, and bleeding ulcers, combined with a history of unprotected sexual contact, strongly supported these diagnoses.",
+  "disease_name_short": "Chancroid",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "Fig. 12.1",
+      "caption": "Numerous painful ulcers on the penis, scrotum and inner thigh. The ulcers are soft, tender and bleed on contact."
+    },
+    {
+      "file_name": "Fig. 12.2",
+      "caption": "Follow-up after 1 week of antibiotic therapy. The ulcers are healing and the pain has resolved."
+    }
+  ]
+}

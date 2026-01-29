@@ -1,0 +1,56 @@
+{
+  "patient_information": "A 24-year-old Dutch yoga instructor.",
+  "chief_complaint": "One episode of strange sensations in the right side of her body.",
+  "history_of_present_illness": "The strange sensations started in the right side of her face, marched to her right arm and then continued to involve her right leg. She describes the feeling as 'pins and needles' lasting for about 2 minutes. She had a similar episode several months ago, at which time she did not consult a doctor. Her paraesthesias represented a so-called Jacksonian 'sensory march'.",
+  "exposure_and_epidemiology": "Four years before this presentation, after finishing school, she had left her home town in The Netherlands to go backpacking for 2 years. She travelled extensively through South America (Ecuador, Peru, Argentina) and South-east Asia (Thailand, Laos, Cambodia), staying in hostels or private accommodations. She describes herself as an 'eco-traveller', visiting the countryside and staying with local people. She has been a strict vegan for the past 8 years. She would eat food from local vendors but never any animal products. Her main diet during her travelling consisted of fruits, vegetables, nuts and rice.",
+  "vitals": "Afebrile.",
+  "physical_exam": "On examination she looks well and is afebrile. Her neurological examination is completely unremarkable. The rest of her physical examination is also normal.",
+  "labs_and_diagnostics": "Her routine blood investigations, including differential blood count and C-reactive protein, were completely normal. Her CSF examination was unremarkable. The MRI of her brain with gadolinium enhancement showed multiple cortical and subcortical cystic lesions in both hemispheres. These lesions were cystic, some showing gadolinium enhancement of the wall and surrounding oedema. An enzyme-linked immunoelectrotransfer blot (EITB) for anticysticercal antibodies in serum and CSF came back positive.",
+  "differential_diagnosis": "Given the presentation (healthy-looking patient, no immunosuppression, no fever, one similar episode a while ago with no progression of symptoms) and her travel history to South America and South-east Asia the most likely diagnosis is neurocysticercosis with multiple cysts in the vesicular and colloidal stage.",
+  "management_and_clinical_course": "The patient was treated with albendazole 400 mg bd pig faeces for 10 days and started on antiepileptic drugs, though she declined treatment with steroids. She did not attend her 3-month follow-up but returned as an outpatient 1 year later, having remained seizure-free for 1 year. MRI of the brain showed regression of all cysts. A CT scan on 2-year follow-up showed two calcifications. Her antiepileptic treatment was stopped after a seizure-free period of 3 years.",
+  "final_diagnosis": "The patient was diagnosed with neurocysticercosis, a CNS infestation with the larval form of Taenia solium (the pork tapeworm). This diagnosis was supported by her travel history to endemic regions, the presence of multiple cortical and subcortical cystic lesions on MRI, and a positive enzyme-linked immunoelectrotransfer blot (EITB) for anticysticercal antibodies in serum and CSF. The patient responded well to antiparasitic and antiepileptic treatment, remaining seizure-free, with subsequent imaging showing regression of cysts and eventual calcification.",
+  "disease_name_short": "Neurocysticercosis",
+  "tables": [
+    {
+      "title": "Stages of Cysticercal Cyst and Treatment Recommendations4",
+      "headers": [
+        "Neuroimaging",
+        "Stage",
+        "Biology",
+        "Anticysticercal Treatment"
+      ],
+      "rows": [
+        [
+          "Isointense/isodense to CSF, no contrast enhancement",
+          "Vesicular",
+          "Viable, non-immunogenic, can persist asymptomatically for years",
+          "1-2 cysts Albendazole* + steroids for 10-14 days"
+        ],
+        [
+          "Enhanced wall ('ring enhancement') on contrast imaging, surrounding oedema",
+          "Colloidal",
+          "Viable but degenerating, immunogenic",
+          ">2 cysts Albendazole* + Praziquantel* + steroids for 10-14 days"
+        ],
+        [
+          "Thickened retracted cyst without oedema",
+          "Granulonodular",
+          "Degenerated",
+          "No anthelmintic treatment"
+        ],
+        [
+          "Calcification",
+          "Calcified",
+          "Final involuted stage",
+          ""
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "extracted_images/38---A-24-Year-Old-Female-Globetrotter-With-Strange_2022_Clinical-Cases-in-T/page2_img1.jpeg",
+      "caption": "Cerebral MRI of the patient. T2-weighted (A), Fluid attenuation inversion recovery (B), T1-weighted (C) and contrast-enhanced T1-weighted (D) images show multiple CSF isointense (cystic) lesions containing a scolex (central dot) in cortical and subcortical distribution. Some lesions show perifocal oedema and ring-enhancement after contrast administration (D)."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 72-year-old male farmer.",
+  "chief_complaint": "Extensive, painful verrucous skin lesions on his left foot and lower leg, with the ankle becoming painful and swollen 3 days prior to admission.",
+  "history_of_present_illness": "Ten years prior, he had a leech bite on the dorsum of his left foot. One week later a small painless red nodule developed at the site of the bite. Over the following years the lesion slowly increased in size; further lesions developed and spread up to his knee. Three days before admission his ankle became painful and swollen.",
+  "exposure_and_epidemiology": "The patient is a male farmer from northern Laos. The initial lesion developed after a leech bite on his left foot.",
+  "vitals": "Vital signs are normal and the patient is afebrile.",
+  "physical_exam": "His left lower leg and foot are grossly swollen; the skin is hyperaemic and feels hot. There are several cauliflower-like masses and oval plaque-like lesions on his left lower leg and foot. The lesions are partly erythematous, partly fungating and purulent, oozing a bad odour.",
+  "labs_and_diagnostics": "Radiography of the left leg and foot showed no bone involvement. Simple direct microscopic investigations of wet film lesion scrapings, made more readily visible with 10% potassium hydroxide solution, revealed characteristic brownish, round, thick-walled, multiseptate sclerotic cells typical of chromoblastomycosis (Medlar bodies, fumagoid or muriform cells). Bacterial culture of the pus grew Escherichia coli. PCR from skin tissue was positive and sequencing revealed 100% similarity with Fonsecaea pedrosoi, F. monophora and F. nubica. Liver function tests and serum glucose were monitored during treatment and remained normal.",
+  "differential_diagnosis": "Important differential diagnoses for chronic verrucous skin lesions include fungal infections such as sporotrichosis and chromoblastomycosis, and mycetoma. Mycobacterial infections, including cutaneous tuberculosis, lepromatous leprosy, and infections with atypical mycobacteria, should also be considered. Cutaneous leishmaniasis can present with verrucous lesions, and in HIV-positive patients, Kaposi's Sarcoma may look similar. Non-infectious causes such as squamous cell carcinoma, sarcoidosis, chronic eczema, and psoriasis should be borne in mind. Acute localized inflammatory signs are indicative of bacterial superinfection or deep vein thrombosis.",
+  "management_and_clinical_course": "Secondary bacterial superinfection was suspected, leading to local application of iodine-based antiseptics and oral antibiotics, initially cloxacillin and metronidazole. After bacterial culture identified Escherichia coli, antibiotics were changed to co-trimoxazole, guided by susceptibility testing. Antifungal treatment was initiated with itraconazole (400 mg/d for 7 days monthly pulse therapy) and surgical debridement of all lesions performed. When oral terbinafine could be obtained, it was added (initially 500 mg/d, later 750 mg/d) for 9 months, and local terbinafine ointment was applied for 6 months. Liver function tests and serum glucose were monitored during treatment and remained normal. The lesions healed uneventfully with some residual swelling and hypopigmentation.",
+  "final_diagnosis": "The final diagnosis was chromoblastomycosis, a chronic fungal infection. This was supported by direct microscopy of skin scrapings revealing characteristic brownish, round, thick-walled, multiseptate sclerotic cells (Medlar bodies) typical of chromoblastomycosis. Further confirmation was provided by PCR and sequencing, which identified Fonsecaea pedrosoi, F. monophora, and F. nubica. The patient showed improvement following a prolonged course of antifungal treatment and surgical debridement.",
+  "disease_name_short": "Chromoblastomycosis",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "Fig. 25.1",
+      "caption": "Lower legs of the patient at presentation with fungating lesions on his left foot that spread centripetally up to his knee. The left lower leg is also swollen and hyperaemic."
+    },
+    {
+      "file_name": "Fig. 25.2",
+      "caption": "Characteristic brownish sclerotic cells in skin scrapings (100x, oil immersion, wet film)."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 22-year-old male farmer from rural northern Ethiopia.",
+  "chief_complaint": "Difficulty walking, started 10 years ago.",
+  "history_of_present_illness": "His problem started 10 years ago, when he woke from sleep one morning and noticed weakness in both legs. There was no history of trauma and no prodromal symptoms; he had been in excellent health before. The weakness in his legs rapidly progressed over 4 to 5 days, leading to him needing a cane for mobility. He had no back pain, sensory complaints, sphincter disturbance or upper limb symptoms. The start of his illness coincided with a period of drought and famine. At the age of 20, he moved to the capital city seeking an alternative job. He migrated along with another young male farmer from his village who had suffered a similar fate, having developed weakness of both legs and arms during the same period of drought.",
+  "exposure_and_epidemiology": "His diet almost exclusively consisted of grass peas (Lathyrus sativus, local name guaya) during a period of drought and famine. He lived with his mother and three sisters, who consumed a similar diet but of overall smaller amounts of guaya. Several similar cases of weakness among young male farmers occurred in his village during that time. There was no history of cassava exposure in the region. Male gender, pre-onset physical exertion, excessive prolonged guaya consumption and a history of similarly affected village members favour a distinct form of toxico-nutritional disease.",
+  "vitals": "null",
+  "physical_exam": "An alert young man with a normal mental state. The gait is spastic ('scissor gait'), with foot-dragging and toe-scraping. There is mild bilateral lower limb spastic weakness of pyramidal pattern, with pathological brisk deep tendon reflexes and sustained foot clonus. Extensor plantar response is elicited on the right, while equivocal on the left. Cranial nerves and upper limbs are normal. There is no sensory or bladder dysfunction.",
+  "labs_and_diagnostics": "Full blood count, liver and renal function tests, cerebrospinal fluid, nerve conduction studies and electromyography are normal. His HIV-1 serology is non-reactive. HTLV-1 and -2 serology and MRI are not available.",
+  "differential_diagnosis": "The clinical syndrome is an upper motor neuron lesion with spastic paraparesis. Absence of radicular symptoms, sensory level, sphincter disturbance, back pain, non-progression, HIV-seronegativity and negative family history rule out most compressive, hereditary, infectious and metabolic myelopathies. HTLV-associated myelopathy (HAM) is highly unlikely due to its insidious onset, slowly progressive course, and prominent bladder impairment and sensory symptoms. Neurocassavism (konzo) is improbable given the absence of cassava exposure. The male gender, pre-onset physical exertion, excessive prolonged guaya consumption, and a history of similarly affected village members strongly suggest a toxico-nutritional disease like neurolathyrism.",
+  "management_and_clinical_course": "The patient received physiotherapy and muscle relaxants, which achieved only mild short-lasting improvement of his spasticity. A walking cane and wheelchair were provided. The patient was counselled to avoid further consumption of L. sativus. Symptomatic treatment for neurolathyrism includes anti-spastic drugs and physiotherapy. Tendon and muscle release surgery can be employed to lengthen contractures of calf muscles and hip adductors. Public health interventions include education to avoid L. sativus consumption, measures to reduce toxin burden (e.g., metallic cooking utensils, antioxidant seasonings, soaking seeds in lemon water, avoiding unripe seeds), and behaviour change communication among high-risk communities.",
+  "final_diagnosis": "The final diagnosis is Neurolathyrism, a preventable neurotoxic myelopathy caused by the excessive ingestion of the Lathyrus sativus grass pea (guaya). This diagnosis is supported by the patient's history of acute to subacute spastic paraparesis coinciding with prolonged consumption of L. sativus during a drought and famine, the characteristic clinical findings of spastic gait without prominent sensory or bladder dysfunction, and the occurrence of similar cases in his village, while other myelopathies were largely ruled out by normal lab results and lack of specific exposures.",
+  "disease_name_short": "Neurolathyrism",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "image1.png",
+      "caption": "Lathyrus sativus (local name guaya) grass pea plant and its leguminous seeds."
+    },
+    {
+      "file_name": "image2.png",
+      "caption": "Images demonstrating the patient's gait: paraplegic narrow-based 'scissor gait' with foot-dragging, and toe-scraping."
+    }
+  ]
+}

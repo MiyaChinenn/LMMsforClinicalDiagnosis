@@ -1,0 +1,65 @@
+{
+  "patient_information": "A 46-year-old Thai woman.",
+  "chief_complaint": "2-month history of recurrent cutaneous and subcutaneous abscesses, progressive lymphadenopathy and weight loss.",
+  "history_of_present_illness": "The patient presented with a 2-month history of recurrent cutaneous and subcutaneous abscesses, progressive lymphadenopathy, and weight loss. Symptoms began 6 to 8 weeks after returning from northern Thailand, where she had experienced high fever, dry cough, and fatigue. Despite various antibiotic therapies, her clinical symptoms and inflammatory markers deteriorated, leading to hospital admission. Previous pus and blood cultures were negative, and a lymph node biopsy showed non-specific lymphadenitis.",
+  "exposure_and_epidemiology": "The patient's symptoms started 6 to 8 weeks after returning from a family visit to northern Thailand, where she had suffered from high fever, dry cough and fatigue. Melioidosis was initially suspected due to her origin from north-eastern Thailand. In retrospect, the febrile illness suffered in Thailand may have been acute pulmonary histoplasmosis.",
+  "vitals": "The patient was afebrile, blood pressure 130/80 mmHg, pulse 80bpm.",
+  "physical_exam": "Physical examination revealed enlarged, tender cervical, nuchal, inguinal, and axillary lymph nodes, massive tender swelling of the upper eyelids, disseminated fluctuant cutaneous and subcutaneous abscesses with surrounding erythema (discharging pus on slight pressure), and painful swelling of the left elbow. Otherwise, the physical examination was normal.",
+  "labs_and_diagnostics": "Lab results on admission: WCC 30.8 × 10³/L (reference 3.8-11), Haemoglobin 8.2 g/dL (reference 12.3-15.3), MCV 88 fL (reference 80-94), Platelets 592 × 10³/L (reference 150-400), CRP 267 mg/L (reference <5), ESR >110 mm/h (reference <20). Previous pus and blood cultures did not yield any growth, and a lymph node biopsy showed non-specific lymphadenitis. A radiograph of the left elbow showed osteolytic lesions of the radial epicondylus, osteomyelitis and articular effusion. Histology of an extirpated submandibular lymph node showed fungal cells identified as Histoplasma capsulatum by PCR, later confirmed by culture. Serology for histoplasmosis remained negative on admission and follow-up. CSF analysis during antifungal treatment revealed lymphocytic pleocytosis. No evidence of immunosuppression was found in the diagnostic work-up.",
+  "differential_diagnosis": "Initial important differential diagnoses included systemic fungal infections (such as histoplasmosis) and mycobacterial infections, as well as bacterial infections with special cultivation requirements or limited antibiotic susceptibility (such as Burkholderia pseudomallei, Brucella species, Francisella tularensis, or Actinomyces species), given the ineffective prior antibiotic therapies and negative microbiological tests. Underlying immunodeficiencies like HIV infection, diabetes mellitus, antibody deficiency, or impaired granulocyte function were also considered. If microbiological investigations remained negative, rare autoimmune syndromes such as idiopathic nodular panniculitis (Weber-Christian disease) or aseptic abscesses syndrome were to be considered. Initially, melioidosis was clinically suspected.",
+  "management_and_clinical_course": "Initially, the patient received imipenem for suspected melioidosis, which led to a slight improvement in skin manifestations but persistent elevation of inflammation parameters. After cultures remained sterile, a submandibular lymph node was extirpated, leading to the identification of Histoplasma capsulatum. Treatment with liposomal amphotericin B (3 mg/kg per day, total dose 3g) was initiated. During this treatment, the patient developed a generalized seizure, and CSF analysis revealed lymphocytic pleocytosis, which was considered a cerebral manifestation of histoplasmosis. The patient's clinical state and laboratory findings dramatically improved with liposomal amphotericin B. She was then started on itraconazole maintenance therapy for an additional 6 months. On follow-up, the patient was in fair general condition, former abscess sites showed post-inflammatory hyperpigmentation, enlarged lymph nodes were no longer present, and osteolytic lesions were partly recalcified.",
+  "final_diagnosis": "The final diagnosis was disseminated histoplasmosis, including a cerebral manifestation. The causative agent, Histoplasma capsulatum, was identified by PCR and culture from a submandibular lymph node biopsy. Supporting evidence included the patient's travel history to northern Thailand, a region where histoplasmosis is endemic, the characteristic clinical presentation of recurrent cutaneous and subcutaneous abscesses, lymphadenopathy, weight loss, and osteomyelitis, as well as the dramatic clinical and laboratory improvement with antifungal treatment (liposomal amphotericin B followed by itraconazole). CSF analysis revealing lymphocytic pleocytosis further supported the cerebral manifestation.",
+  "disease_name_short": "Histoplasmosis",
+  "tables": [
+    {
+      "title": "Laboratory Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "WCC (× 10³/L)",
+          "30.8",
+          "3.8-11"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "8.2",
+          "12.3-15.3"
+        ],
+        [
+          "MCV (fL)",
+          "88",
+          "80-94"
+        ],
+        [
+          "Platelets (× 10³/L)",
+          "592",
+          "150-400"
+        ],
+        [
+          "CRP (mg/L)",
+          "267",
+          "<5"
+        ],
+        [
+          "ESR (mm/h)",
+          ">110",
+          "<20"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "61.1.jpg",
+      "caption": "Subcutaneous abscess on the left forearm."
+    },
+    {
+      "file_name": "61.2.jpg",
+      "caption": "Radiograph of the left elbow, showing osteolytic lesions of the radial epicondylus, osteomyelitis and articular effusion."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 20-year-old housewife, a Sudanese refugee living in a camp in northern Uganda.",
+  "chief_complaint": "2-day history of fever, severe asthenia, chest and abdominal pain, nausea, vomiting, diarrhoea and slight non-productive cough.",
+  "history_of_present_illness": "The patient presented with a 2-day history of fever, severe asthenia, chest and abdominal pain, nausea, vomiting, diarrhoea and slight non-productive cough. Her condition rapidly worsened with subconjunctival haemorrhage, copious bleeding from the mouth, nose and rectum, dyspnoea, and hypothermic shock, eventually leading to coma and death approximately 24 hours after admission.",
+  "exposure_and_epidemiology": "The patient is a Sudanese refugee living in a camp in northern Uganda. She denied any contact with sick people. The case was seen during an outbreak of Ebola virus disease in northern Uganda. Ebola virus spreads between humans through direct contact with blood or bodily fluids. Secondary attack rates are generally 15% to 20% during outbreaks in Africa. Ebola and Marburg virus diseases are endemic in sub-Saharan Africa, often found in tropical rainforests, with fruit bats implicated as a reservoir. Human infection likely occurs from inadvertent exposure to infected bat excreta or saliva or contact with non-human primates and other wild animals. Most outbreaks result from a zoonotic source followed by nosocomial amplification.",
+  "vitals": "On admission: temperature 39.6°C (103.3°F), blood pressure 90/60 mmHg, pulse 90 bpm, respiratory rate 24 cycles per minute. Later, with deterioration: temperature 36.0°C, blood pressure unreadable, pulse 150 bpm, respiratory rate 36 cycles per minute.",
+  "physical_exam": "On admission, the patient was prostrate and semiconscious. Physical examination revealed abdominal tenderness, especially in the right upper quadrant, hepatosplenomegaly, and bleeding from the gums. The lungs were clear. No rash or lymphadenopathy was noted. As her condition worsened, she developed subconjunctival haemorrhage and copious bleeding from the mouth, nose and rectum, along with dyspnoea, ultimately becoming comatose.",
+  "labs_and_diagnostics": "Initially, no clinical laboratory data were available due to biosafety reasons, and routine testing was suspended. Later, laboratory testing at a specialized laboratory established as part of the outbreak response showed positive ELISA antigen and PCR tests for Ebola virus and a negative result for ELISA IgG antibody.",
+  "differential_diagnosis": "The clinical presentation was consistent with classic viral haemorrhagic fever (HF) syndrome. However, haemorrhage is not invariably seen in all HF cases, and viral HF can be non-specific. Other syndromes that can present with haemorrhage and are primary differential diagnoses depending on the region include complicated malaria, typhoid fever, bacterial gastroenteritis, and leptospirosis. The initial suspension of routine testing made it difficult to rule out these many other febrile syndromes.",
+  "management_and_clinical_course": "The patient was admitted to an isolation ward. Intravenous fluids, broad-spectrum antibiotics, and analgesics were begun on admission. Despite treatment, her condition rapidly worsened, leading to hypothermic shock, coma, and death approximately 24 hours after admission. Specialized viral HF precautions and personal protective equipment were warranted. Contact tracing and surveillance for 21 days for all direct unprotected contacts is recommended during outbreaks.",
+  "final_diagnosis": "The final diagnosis was Ebola virus disease. This was confirmed by positive ELISA antigen and PCR tests for Ebola virus at a specialized laboratory. The patient's clinical presentation, including fever, haemorrhage, and shock, was consistent with a classic viral haemorrhagic fever syndrome observed during an Ebola outbreak in northern Uganda.",
+  "disease_name_short": "Ebola virus disease",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "Fig. 1.1",
+      "caption": "Oral bleeding in Ebola virus disease. (Bausch, D.G., 2008. Viral hemorrhagic fevers. In: Schlossberg, D. (Ed.), Clinical Infectious Disease. Cambridge University Press, New York. Used with permission. Photo by Bausch, D.)"
+    },
+    {
+      "file_name": "Fig. 1.2",
+      "caption": "Rectal bleeding in Ebola virus disease. (Bausch, D.G., 2008. Viral hemorrhagic fevers. In: Schlossberg, D. (Ed.), Clinical Infectious Disease. Cambridge University Press, New York. Used with permission. Photo by Bausch, D.)"
+    }
+  ]
+}

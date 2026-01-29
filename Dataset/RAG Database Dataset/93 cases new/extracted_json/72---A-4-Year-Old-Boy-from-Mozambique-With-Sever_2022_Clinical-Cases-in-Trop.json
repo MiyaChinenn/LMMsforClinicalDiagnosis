@@ -1,0 +1,24 @@
+{
+  "patient_information": "An HIV-negative 4-year-old boy from rural Mozambique, presenting with oedema.",
+  "chief_complaint": "Severe oedema and skin lesions.",
+  "history_of_present_illness": "The boy was admitted 5 days prior to presentation with suspected nephrotic syndrome and was started on furosemide and prednisolone, but his oedema did not subside. Three weeks earlier he had been treated for pneumonia at a health centre.",
+  "exposure_and_epidemiology": "The patient is from rural Mozambique, an area where people often live on a monotonous diet with staple foods having a low protein-to-energy ratio (e.g., maize, cassava or bananas). Incidence of this condition peaks during the rainy season when staple food items and vegetables are in short supply.",
+  "vitals": "null",
+  "physical_exam": "The little boy is miserable, refusing to eat and apathetic with a puffy face and pitting oedema on the lower legs. His hair is brittle, sparse and fair in colour. The skin is dry and hyperpigmented; it is peeling off like 'flaky paint' and there are ulcerative skin lesions, most prominently in the groins.",
+  "labs_and_diagnostics": "Albumin 2.2 g/dL (reference range 3.0–5.2 g/dL), haemoglobin 7 g/dL (reference range 12–14 g/dL). He is HIV-negative.",
+  "differential_diagnosis": "Generalized oedema in a child can have various causes, including nephrotic syndrome, which presents with low serum albumin and heavy proteinuria. However, this child displays additional clinical features such as skin and hair changes as well as apathy, which are typical for kwashiorkor. While nephrotic syndrome causes proteinuria exceeding 3.5 g per day (4+ on a urine dipstick) and often frothy urine, kwashiorkor may show some proteinuria but rarely exceeds 1+ on a dipstick test.",
+  "management_and_clinical_course": "Initially, the patient was admitted 5 days prior to presentation with suspected nephrotic syndrome and started on furosemide and prednisolone, but his oedema did not subside. For the actual diagnosis, the child needed to be admitted to the high dependency area of the nutrition ward and treated according to WHO guidelines for severe acute malnutrition with meticulously calculated amounts of feeds and close monitoring. Prophylactic antibiotics, monitoring of temperature and haemoglobin, as well as careful fluid replacement, were part of the treatment scheme due to high risks of infection, diarrhoea, anaemia, cardiac and liver failure. The skin lesions, which became superinfected, were successfully treated with Gentian violet solution. Initially, the child did not tolerate 3-hourly feeds and required feeding through a nasogastric tube. On day 5 in the nutrition rehabilitation unit, he could eat by himself and the oedema started to settle. The transition to higher caloric feeds was tolerated well, and he was discharged into the community feeding program at day 15.",
+  "final_diagnosis": "The final diagnosis is Kwashiorkor, a form of severe acute malnutrition. This is supported by the patient's presentation with generalized oedema, characteristic skin changes (hyperpigmented, dry, peeling 'flaky paint' dermatosis, ulcerative lesions) and hair changes (brittle, sparse, fair hair), as well as apathy and refusal to eat. Laboratory results showed severe hypoalbuminaemia (2.2 g/dL) and anaemia (Hb 7 g/dL). The oedema did not respond to diuretics (furosemide), which is atypical for nephrotic syndrome but consistent with kwashiorkor, and resolved with nutritional rehabilitation.",
+  "disease_name_short": "Kwashiorkor",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "image1.png",
+      "caption": "A 5-year-old boy with generalized oedema. The skin is hyperpigmented and dry. It is peeling off like 'flaky paint'. Underneath, the skin is hypopigmented."
+    },
+    {
+      "file_name": "image2.png",
+      "caption": "Ulcerative skin lesions on the lower abdomen and in the groin (where zinc ointment and Gentian violet solution (\"GV paint\") has been applied)."
+    }
+  ]
+}

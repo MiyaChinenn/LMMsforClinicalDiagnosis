@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 4-year-old girl presents in good general health. Her 9-year-old brother has similar lesions on two toes. The family moved from Chile to the Cochabamba region in Bolivia about 6 months ago, where they live on a farm.",
+  "chief_complaint": "A slowly growing nodule on the fifth toe of her right foot that is moderately painful when wearing shoes, present for several days.",
+  "history_of_present_illness": "A 4-year-old girl presented with a history of several days of a slowly growing nodule on the fifth toe of her right foot that was moderately painful when wearing shoes. The family had moved from Chile to the Cochabamba region in Bolivia about 6 months prior, where they reside on a farm. Her 9-year-old brother also presented with similar lesions on two toes. The parents reported that when they had tried to squeeze the lesion, they observed white oval granules emerging from the nodule.",
+  "exposure_and_epidemiology": "The family moved from Chile to the Cochabamba region in Bolivia about 6 months ago, where they live on a farm. Her 9-year-old brother has similar lesions on two toes, suggesting a common exposure. Tungiasis is endemic in Latin America and is often acquired in poor communities through contact with contaminated sand or soil.",
+  "vitals": "null",
+  "physical_exam": "A 4-year-old girl in good general health presented with a dark-brown small nodule close to the root of the fifth toenail of the right foot. This nodule had a tiny central ulceration and was surrounded by minimal inflammatory reaction. Parents reported observing white oval granules emerging from the nodule when squeezed.",
+  "labs_and_diagnostics": "The macroscopic presentation and localization of the lesion allowed for the clinical diagnosis of tungiasis. Microscopic confirmation was performed on removed tissue, which showed parts of the female flea (arrow) and typical eggs (size 600 × 280 μm).",
+  "differential_diagnosis": "No explicit differential diagnoses were discussed in the provided clinical case. The macroscopic presentation and localization of the lesion allowed for a direct clinical diagnosis of tungiasis.",
+  "management_and_clinical_course": "The parasite was completely removed using a sterile needle and/or curette. The resulting round lesion was disinfected and dressed. The patient's tetanus vaccination status was checked, and the wound was observed. The skin lesion healed within a week without complications, and no superinfection was noted.",
+  "final_diagnosis": "The final diagnosis is Tungiasis, caused by the female Tunga penetrans. This diagnosis was supported by the characteristic macroscopic presentation and localization of a painful, slowly growing dark nodule on the toe, the presence of white oval granules emerging from the nodule, and confirmed by microscopic examination of removed tissue showing parts of the female flea and typical eggs. The patient's history of living on a farm in an endemic region of Bolivia, along with a brother having similar lesions, further supported the diagnosis. The lesion healed within a week after surgical removal.",
+  "disease_name_short": "Tungiasis",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "65.1",
+      "caption": "Small nodule on the fifth toe of right foot. (Toenails with left-overs of glitter nail polish.)"
+    },
+    {
+      "file_name": "65.2",
+      "caption": "Microscopic examination of removed tissue containing parts of female flea (arrow) and typical eggs (size 600 × 280 μm)."
+    }
+  ]
+}

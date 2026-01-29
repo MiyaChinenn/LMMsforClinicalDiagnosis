@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 31-year-old Guatemalan man with no past medical history.",
+  "chief_complaint": "Acute weakness and numbness of the leg for several minutes.",
+  "history_of_present_illness": "The patient presented with several minutes of weakness and numbness of the leg, which resolved just before arrival at the hospital. Two weeks prior, he experienced two episodes of facial twitching that subsided spontaneously after 10 seconds.",
+  "exposure_and_epidemiology": "He was born and lived in a rural area of Guatemala before immigrating to New York 5 years ago. In Guatemala, his family owned uncorralled pigs and his house did not have sanitation services.",
+  "vitals": "His vitals were normal.",
+  "physical_exam": "Cranial nerves were intact. Motor and sensory examinations were normal. Deep tendon reflexes and gait were normal. The rest of the exam was unremarkable.",
+  "labs_and_diagnostics": "Cell blood count and serum chemistry were within normal limits. Computed tomography (CT) of the head demonstrated multiple calcifications in the brain parenchyma. Magnetic resonance imaging (MRI) of the head on T1 sequence revealed dilation of the suprasellar and Sylvian cistern, peripheral enhancement after gadolinium, fluid-filled septated cystic lesions surrounding the proximal middle cerebral arteries on T2 sequence, and an old lacunar infarct in the right frontal white matter proximal to an interhemispheric cyst. A CT angiography showed patent cerebral arteries. A serum immunoblot for cysticercosis run at the Centers for Disease Control and Prevention (CDC) was positive. The serum cysticercosis antigen was positive at the beginning of therapy.",
+  "differential_diagnosis": "The findings and epidemiological risk factors are highly suggestive of subarachnoid neurocysticercosis. The clinical expression of neurocysticercosis is pleomorphic and depends on the location, burden of disease and host inflammatory response.",
+  "management_and_clinical_course": "A spine MRI did not show evidence of spinal involvement. The patient was started on a high dose of prednisone followed by a taper, and dual therapy with albendazole and praziquantel. After 9 months of treatment, his serum antigen was negative and his lesions resolved on imaging. He has been followed closely with no recurrence.",
+  "final_diagnosis": "The final diagnosis is subarachnoid neurocysticercosis, caused by the larval form of Taenia solium. This was supported by the patient's history of living in a rural area of Guatemala with poor sanitation and exposure to uncorralled pigs, along with characteristic imaging findings on CT and MRI showing parenchymal calcifications and cystic lesions. The diagnosis was confirmed by a positive serum immunoblot for cysticercosis and positive serum cysticercosis antigen, with subsequent resolution of lesions and antigen negativity after treatment with antiparasitics and corticosteroids.",
+  "disease_name_short": "Neurocysticercosis",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "Fig. 82.1",
+      "caption": "CT of the head demonstrates multiple calcifications in the brain parenchyma (yellow arrows)."
+    },
+    {
+      "file_name": "Fig. 82.2",
+      "caption": "MRI of the head on T1 sequence reveals dilation of the suprasellar and Sylvian cistern (yellow arrow). Peripheral enhancement (orange arrow) is evidenced after the administration of gadolinium. Corresponding fluid filled septated cystic lesions (blue arrow) are seen surrounding the proximal middle cerebral arteries on T2 sequence. An old lacunar infarct in the right frontal white matter proximal to an interhemispheric cyst was also found (not shown)."
+    }
+  ]
+}

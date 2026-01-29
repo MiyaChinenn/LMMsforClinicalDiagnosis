@@ -1,0 +1,51 @@
+{
+  "patient_information": "A 37-year-old woman from the Lower Shire Valley in southern Malawi. Her past medical history is unremarkable. She is married with three children, all are well. An HIV test done 3 months previously was negative.",
+  "chief_complaint": "Haematemesis, described as bright red blood, occurring three times over the past 24 hours.",
+  "history_of_present_illness": "The patient reported no epigastric pain, no previous history of vomiting, no fever or abnormal bleeding, and normal stool color. She felt fine before symptom onset and denied using regular painkillers or alcohol.",
+  "exposure_and_epidemiology": "The patient lives and works on a large sugar plantation in southern Malawi, a region highly endemic for schistosomiasis, where virtually all water bodies are infested with both Schistosoma mansoni and S. haematobium.",
+  "vitals": "Blood pressure 90/60 mmHg, pulse 110 bpm, respiratory rate 28 breath cycles per minute, and afebrile.",
+  "physical_exam": "The patient is slim but not wasted. Conjunctivae are slightly pale, with no subconjunctival effusions or jaundice. Abdominal examination revealed no distension or tenderness. The spleen was palpable 10 cm below the left costal margin. The liver was slightly enlarged but without stigmata of chronic liver disease, shifting dullness, or peripheral oedema. Lymph nodes were not enlarged. The rest of the physical examination was normal.",
+  "labs_and_diagnostics": "Laboratory results on admission (Table 57.1) showed pancytopenia with normocytic anaemia (WBC 2.8 × 10^9/L, Haemoglobin 8.3 g/dL, MCV 88 fL, Platelets 130 × 10^9/L). Hepatitis B and C serologies were negative. One stool sample for S. mansoni ova was negative. Endoscopy confirmed oesophageal varices. Ultrasound of the liver showed a pattern typical of pipestem fibrosis.",
+  "differential_diagnosis": "Peptic ulcer disease, erosive gastritis, or bleeding tumors were considered less likely as they would not explain the patient's splenomegaly. Visceral leishmaniasis (VL) was also considered due to splenomegaly and pancytopenia, but was less likely given the absence of fever, only slightly diminished platelets, and VL's uncommon status in Southern Africa.",
+  "management_and_clinical_course": "The patient received IV fluids. Endoscopy confirmed oesophageal varices and banding was performed; no other source of bleeding was identified. She received a single dose of praziquantel 40 mg/kg and was subsequently discharged home.",
+  "final_diagnosis": "The final diagnosis is hepatosplenic schistosomiasis, caused by advanced Schistosoma infection. This is supported by the patient's presentation with haematemesis, splenomegaly, pancytopenia, and oesophageal varices, all indicative of portal hypertension. The epidemiological context of Malawi being highly endemic for schistosomiasis, and the ultrasound finding of 'pipestem fibrosis' of the liver, strongly point to this diagnosis. Although S. mansoni ova were negative in a single stool sample, a single dose of praziquantel was administered, consistent with treatment for schistosomiasis.",
+  "disease_name_short": "Hepatosplenic Schistosomiasis",
+  "tables": [
+    {
+      "title": "Laboratory Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference Range"
+      ],
+      "rows": [
+        [
+          "WBC (x 10^9/L)",
+          "2.8",
+          "4-10"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "8.3",
+          "12-14"
+        ],
+        [
+          "MCV (fL)",
+          "88",
+          "80-99"
+        ],
+        [
+          "Platelets (× 10^9/L)",
+          "130",
+          "150-400"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "extracted_images/57---A-37-Year-Old-Woman-from-Malawi-With-H_2022_Clinical-Cases-in-Tropical-/page2_img1.jpeg",
+      "caption": "Ultrasound of the liver showing pipestem fibrosis (Courtesy Prof. Joachim Richter)."
+    }
+  ]
+}

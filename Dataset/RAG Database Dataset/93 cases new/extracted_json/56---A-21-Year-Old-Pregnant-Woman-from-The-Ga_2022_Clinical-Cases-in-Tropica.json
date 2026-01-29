@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 21-year-old woman, 32 weeks pregnant with her first pregnancy, has no significant past medical history and is otherwise well.",
+  "chief_complaint": "Generalized, non-itchy rash for 5 days.",
+  "history_of_present_illness": "A 21-year-old pregnant woman, 32 weeks gestation, presented to clinic in The Gambia with a generalized, non-itchy rash that she had for 5 days. She reported no other symptoms and no significant past medical history.",
+  "exposure_and_epidemiology": "Patient is from The Gambia.",
+  "vitals": "null",
+  "physical_exam": "She presented with a generalized macular rash involving the palms of both hands. Her mouth was normal, and there was no lymphadenopathy. She was not anaemic or jaundiced, and general examination was unremarkable.",
+  "labs_and_diagnostics": "null",
+  "differential_diagnosis": "The generalized, non-itchy rash affecting the palms of the hands in this pregnant patient led to a clinical diagnosis of syphilis until proven otherwise, given its serious influence on pregnancy outcome.",
+  "management_and_clinical_course": "The patient was treated with a single intramuscular dose of benzathine penicillin (2.4 million units i.m.). She made an uneventful recovery and delivered a normal infant at term. Because she was treated after 28 weeks gestation, her infant was recommended to receive a course of treatment for congenital syphilis with IM procaine penicillin 50000 units/kg daily for 10-14 days.",
+  "final_diagnosis": "The final diagnosis was secondary syphilis, clinically determined by a generalized, non-itchy macular rash involving the palms of both hands in a pregnant woman from The Gambia. The patient responded well to a single intramuscular dose of benzathine penicillin, leading to an uneventful recovery and the delivery of a normal infant at term, although the infant was prescribed treatment for congenital syphilis due to the timing of maternal treatment.",
+  "disease_name_short": "Syphilis",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "56.1",
+      "caption": "Generalized, non-itchy macular rash in a pregnant Gambian woman."
+    },
+    {
+      "file_name": "56.2",
+      "caption": "Congenital syphilis in a 3-month-old infant: desquamating lesion of the palms."
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "patient_information": "A 42-year-old British male expatriate who has lived in Malawi for 18 months, has a family history of allergy, and had kept bees in the United Kingdom, where he was frequently stung without ill effect.",
+  "chief_complaint": "The patient presents to the local hospital emergency room with a florid itchy rash, difficulty in breathing, and a feeling he is going to die.",
+  "history_of_present_illness": "Two days prior to admission, he believed he was bitten on his ankle by a tick while walking in the countryside. Twenty-four hours later, he developed a circumscribed, painless, indurated lesion on his left ankle, accompanied by fever and arthralgia. He visited a clinic, where a blood film for malaria was negative, and he was treated with paracetamol. On the day of admission, he developed a widespread itchy rash, progressively unable to breathe, and felt faint. Nine months previously, he had experienced an asthmatic attack, which resolved spontaneously over two days, after being bitten by insects at Lake Malawi.",
+  "exposure_and_epidemiology": "The patient is a 42-year-old British male expatriate who has lived in Malawi for 18 months. He suspected a tick bite on his ankle two days prior to admission while walking in the countryside. Nine months previously, he had been bitten by insects at Lake Malawi. Two weeks before the current illness, he visited a national game park where he suffered numerous painful bites by tsetse flies.",
+  "vitals": "His vital signs on admission were: temperature 38°C, pulse rate 130 bpm, and systolic blood pressure 60 mmHg.",
+  "physical_exam": "On examination, he was clammy, in a state of collapse with a widespread urticarial rash, respiratory distress, stridor, and expiratory wheezes. An indurated, circumscribed swelling was noted on the inside of his left ankle. On day 3 of hospital admission, his stridor and wheezing ceased, the urticarial rash was replaced by a diffuse erythematous rash, and his face became slightly puffy.",
+  "labs_and_diagnostics": "Initial laboratory results showed Haemoglobin 17.4d/dL; white cell count 6.1 G/L (polymorphs 85%, lymphocytes 10%); erythrocyte sedimentation rate 5 mm/hour; blood film negative for malaria parasites; chest radiograph normal; and stool and urine microscopy negative. Subsequently, a thick blood film revealed 5 to 10 trypanosomes per high power field, confirming trypanosomiasis. Cerebrospinal fluid (CSF) examination by lumbar puncture, performed 24 hours after the first dose of suramin, was normal. Weekly urine monitoring during suramin treatment initially showed protein, casts, and white cells, which resolved a few weeks after treatment completion.",
+  "differential_diagnosis": "Initial differential diagnoses included a possible hypersensitivity reaction to a tick bite, given the history of allergy, bee-keeping, and previous asthmatic episodes after insect bites, along with the dramatic presentation of urticarial rash and anaphylactic shock. Other considerations were invasive helminthiasis (acute schistosomiasis, acute fascioliasis, Loeffler's syndrome), rickettsial disease, and connective tissue disease; however, eosinophilia, typically present in allergic reactions and invasive helminth infections, was absent in this case.",
+  "management_and_clinical_course": "Upon diagnosis of anaphylactic shock, 0.5ml of 1:1000 adrenaline was administered intramuscularly with good effect. He was admitted to hospital and for the next two days received intermittent intramuscular adrenaline, intravenous hydrocortisone, and oral antihistaminics for episodes of widespread urticaria with stridor and wheezing. After a diagnosis of trypanosomiasis was confirmed, he received a test dose of suramin 0.25 g without ill effect, followed by 0.5 g two days later, 1.0 g another two days later, and then weekly doses of 1.0 g to a total of 5.75g suramin, also without ill effect. His urine was monitored weekly, showing protein, casts, and white cells towards the end of treatment, which disappeared after a few weeks. Melarsoprol is mentioned as a treatment for second-stage East African trypanosomiasis, though not used in this patient as CSF was normal.",
+  "final_diagnosis": "The patient was ultimately diagnosed with Human African Trypanosomiasis (HAT), specifically East African trypanosomiasis caused by Trypanosoma brucei rhodesiense. This diagnosis was supported by his residence in Malawi, recent exposure to tsetse flies in a game park, the development of a trypanosomal chancre on his ankle, and confirmed by a thick blood film revealing 5 to 10 trypanosomes per high power field. His normal cerebrospinal fluid indicated an early stage of the disease, which responded well to treatment with suramin.",
+  "disease_name_short": "Human African Trypanosomiasis",
+  "tables": [
+    {
+      "title": "Standard Treatment for Human African Trypanosomiasis by Species and Stage",
+      "headers": [
+        "West African trypanosomiasis (T. brucei gambiense)",
+        "East African trypanosomiasis (T. brucei rhodesiense)"
+      ],
+      "rows": [
+        [
+          "Pentamidine IM or IV OD × 7 days or Fexinidazole PO OD × 10 days",
+          "Suramin IV, 6 injections, e.g. days 0,1,3,7,14, 21. Or Pentamidine IM or IV OD × 7 days"
+        ],
+        [
+          "Nifurtimox-Eflornithine combination therapy (NECT) (Nifurtimox PO TDS × 10 days + Eflornithine IV BD × 7 days) or Fexinidazole PO OD × 10 days",
+          "Melarsoprol IV OD × 10 days"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "fig78_1.jpg",
+      "caption": "Circumscribed, painless slighly erythematous swelling on the inside of the left ankle."
+    },
+    {
+      "file_name": "fig78_2.jpg",
+      "caption": "Abdominal rash."
+    }
+  ]
+}

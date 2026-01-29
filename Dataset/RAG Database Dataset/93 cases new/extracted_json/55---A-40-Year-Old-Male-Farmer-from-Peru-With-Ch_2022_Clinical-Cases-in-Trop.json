@@ -1,0 +1,60 @@
+{
+  "patient_information": "A 40-year-old male farmer from the Peruvian Amazon, HTLV-1-positive 10 years previously, and a recent HIV ELISA test was negative.",
+  "chief_complaint": "A 4-month history of chronic productive cough and chest pain, accompanied by weight loss of about 20 kg.",
+  "history_of_present_illness": "The patient reported dyspnoea on exertion and denied diarrhoea, fever, or night sweats. Three and a half months earlier, he was hospitalized at a regional hospital in the Peruvian Amazon for similar complaints, where three sputum smears for acid-fast bacilli (AFB) were negative, no tuberculin skin test was performed, and a chest radiograph was described as abnormal but no report is available and the patient does not have the film. A presumptive diagnosis of pulmonary tuberculosis (TB) was made based on clinical presentation and abnormal chest radiographic findings, and he received first-line TB therapy consisting of isoniazid, rifampicin, pyrazinamide, and ethambutol. Despite adherence, he showed no clinical improvement, with persistent productive cough and streaking of blood in the sputum, leading to a suspected diagnosis of multi-drug resistant TB (MDR TB) and referral to Lima for further work-up.",
+  "exposure_and_epidemiology": "The patient is a farmer from the Peruvian Amazon, originating from a rural area in the central Peruvian Amazon where MDR TB is still uncommon. He denies recent travels.",
+  "vitals": "Temperature 37.2°C (98.96°F), blood pressure 120/75 mmHg, pulse 70bpm regular, respiratory rate 15 breaths per minute.",
+  "physical_exam": "The patient appeared fatigued and cachectic. On inspection, few cervical and retroauricular lymph nodes were palpable, which were small, mobile, soft, and non-tender. Lung auscultation revealed crackles and rhonchi bilaterally. There was no hepatosplenomegaly, and the rest of the physical examination was normal.",
+  "labs_and_diagnostics": "Platelets were 1093 × 10º/L (reference range: 150–450), with the rest of the full blood count within normal limits. The tuberculin skin test was negative, as were two AFB sputum smears. The chest x-ray showed bilateral confluent reticulonodular infiltrates predominantly in the central and upper zones of both lungs, with multiple cavities in the right lung. Examination of his sputum by KOH preparation revealed the characteristic yeast forms of Paracoccidioides brasiliensis, and culture subsequently grew P. brasiliensis.",
+  "differential_diagnosis": "The most important differential diagnoses in this setting included MDR TB, histoplasmosis, and paracoccidioidomycosis. TB and MDR TB were considered given their endemicity in Peru, though MDR TB is uncommon in the patient's rural Amazon region. Histoplasmosis could present with similar recurrent or progressive pulmonary symptoms, but its chronic form is more often seen in individuals with pre-existing chronic obstructive pulmonary disease, which this patient does not have. The patient's age, gender, occupation, origin, and clinical symptoms with a pulmonary focus are all typical of the chronic form of paracoccidioidomycosis, making this diagnosis the most likely. Co-infection of non-MDR TB and paracoccidioidomycosis, as well as parasitic infections like paragonimiasis or pulmonary hydatid cyst, were also considered as possible but less common diagnoses.",
+  "management_and_clinical_course": "The patient was initially treated with first-line TB therapy (isoniazid, rifampicin, pyrazinamide, and ethambutol) for a presumptive diagnosis of pulmonary TB, but showed no clinical improvement. Upon definitive diagnosis of chronic (adult) paracoccidioidomycosis, the TB treatment was discontinued. Given the extensive pulmonary lesions and HTLV-1 co-infection, the patient was started on amphotericin B followed by itraconazole. The patient's long-term prognosis depends on the extent of pulmonary fibrotic sequelae.",
+  "final_diagnosis": "The final diagnosis was chronic (adult) paracoccidioidomycosis, caused by the thermally dimorphic fungus Paracoccidioides brasiliensis. This diagnosis was supported by the patient's characteristic age, gender, occupation as a farmer from an endemic rural area, persistent chronic pulmonary symptoms, negative AFB smears and tuberculin skin test, and abnormal chest imaging showing bilateral confluent reticulonodular infiltrates with cavities. Confirmation was achieved by the visualization of characteristic yeast forms of P. brasiliensis on sputum KOH preparation and successful isolation in fungal culture.",
+  "disease_name_short": "Paracoccidioidomycosis",
+  "tables": [
+    {
+      "title": "Differences Between the Main Clinical Forms of Paracoccidioidomycosis",
+      "headers": [
+        "",
+        "Paracoccidioidomycosis Chronic (Adult) Form",
+        "Acute (Juvenile) Form"
+      ],
+      "rows": [
+        [
+          "Epidemiology",
+          ">90% of cases",
+          "<10% of cases"
+        ],
+        [
+          "Infected Population",
+          "Men >30 years old (male:female ratio 14:1)",
+          "Children and young adults, both sexes HIV patients (rare)"
+        ],
+        [
+          "Clinical Characteristics",
+          "Chronic Slow progression Reactivation years after initial exposure Lung (always) Dissemination to liver and lymph nodes can occur Mucocutaneous lesions (~70%) (face, nasal and oral cavity)",
+          "Acute or sub-acute Rapidly progressive Develops after recent exposure Systemic disease of reticuloendothelial system with dissemination from lung to liver, spleen, lymph nodes and bone marrow Mucosal lesions (rarely) HIV patients: similar plus cutaneous lesions and severe pulmonary involvement"
+        ],
+        [
+          "Differential Diagnoses",
+          "Mimics other chronic fungal infections and pulmonary TB",
+          "Mimics leukaemia, lymphoma, severe disseminated TB"
+        ],
+        [
+          "Treatment",
+          "Azoles (itraconazole) Co-trimoxazole",
+          "Azoles (itraconazole) Amphotericin B (HIV or severe disease)"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "image1.jpg",
+      "caption": "Fig. 55.1 Chest radiograph showing bilateral confluent reticulonodular infiltrates predominantly in the central and upper zones of both lungs. Cavities are seen in the right lung. There is no hilar lymphadenopathy."
+    },
+    {
+      "file_name": "image2.jpg",
+      "caption": "Fig. 55.2 Large budding yeast (range: 8-40 µm) with multiple surrounding smaller buds around (arrows) seen on KOH preparation of the patient's sputum."
+    }
+  ]
+}

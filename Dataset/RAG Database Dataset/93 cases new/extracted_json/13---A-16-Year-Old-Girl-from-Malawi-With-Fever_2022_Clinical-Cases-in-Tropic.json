@@ -1,0 +1,51 @@
+{
+  "patient_information": "A 16-year-old Malawian girl, in a fair nutritional state, delivered a baby 5 months ago. An HIV test done in the antenatal clinic was negative. Her further past medical history is unremarkable.",
+  "chief_complaint": "Fever, generalized abdominal pain and frontal headache for the past 5 days.",
+  "history_of_present_illness": "A 16-year-old Malawian girl presents to the emergency room of a local hospital because of fever, generalized abdominal pain and frontal headache for the past 5 days. She delivered a baby 5 months ago. An HIV test done in the antenatal clinic was negative. Her further past medical history is unremarkable.",
+  "exposure_and_epidemiology": "She lives with her parents, her three siblings and her baby in an urban high-density area. There is no running water and no electricity in the house. The family fetch water from a community tap. The girl went to primary school but recently dropped out during her pregnancy. Malawi is a country highly endemic for schistosomiasis.",
+  "vitals": "Temperature 38.1°C (100.6°F), blood pressure 110/60mmHg, pulse 78 bpm, respiratory rate 20 breath cycles per minute, Glasgow Coma Scale 15/15.",
+  "physical_exam": "There is mild scleral jaundice, no neck stiffness. The examination of the abdomen shows diffuse tenderness but no guarding. The liver is not enlarged, the spleen is palpable at 2cm below the left costal margin. The chest is clear and there is no lymphadenopathy. Pelvic examination is unremarkable and there is no vaginal discharge.",
+  "labs_and_diagnostics": "Her laboratory results on admission include: WBC 3.2 (×10^9/L), Haemoglobin 10.9 (mg/dL), MCV 90 (fL), Platelets 164 (×10^9/L), Creatinine 71 (µmol/L). The blood film for malaria parasites is positive, parasitaemia is described as \"low\". Liver function tests are not available because reagents are out of stock. A repeat HIV test was negative. Blood cultures grew Salmonella Typhi.",
+  "differential_diagnosis": "Malaria could explain most of her signs and symptoms, even though her abdominal pain would be unusual. In a malaria-endemic area with semi-immune population, low parasitaemia is common and often sub-clinical, but malaria itself, particularly if combined with severe anaemia, is a predisposing factor for Gram-negative bacteraemia and sepsis. Enteric fever (typhoid or paratyphoid) is another diagnosis to consider, particularly given her abdominal tenderness, her splenomegaly, her frontal headache and her relative bradycardia. Mild jaundice in enteric fever may be caused by hepatitis, cholangitis, cholecystitis or haemolysis. In HIV-positive patients an infection with invasive non-typhoidal salmonellae (iNTS) should be considered.",
+  "management_and_clinical_course": "On admission, the patient was started on artemether/lumefantrine PO and a broad-spectrum antibiotic (ceftriaxone 2g IV od). A repeat HIV test was negative. Blood cultures grew Salmonella Typhi, leading to the antibiotic therapy being switched to ciprofloxacin 500mg bid. On day 5 of antibiotic treatment, the patient's fever started to settle and she was feeling better. She was discharged on day 7, with ciprofloxacin continued for a total of 10 days. The patient was also given one dose of praziquantel, as co-infection with schistosomiasis seems to favour chronic carriage of S. Typhi and relapse, and Malawi is highly endemic for schistosomiasis.",
+  "final_diagnosis": "The final diagnosis is Typhoid Fever, caused by Salmonella Typhi, which was confirmed by positive blood cultures. The patient presented with fever, abdominal pain, frontal headache, mild scleral jaundice, and splenomegaly. While a blood film for malaria parasites was positive with low parasitaemia, her clinical course and resolution of symptoms were achieved after antibiotic therapy was switched to ciprofloxacin, targeting the identified Salmonella Typhi. Co-infection with schistosomiasis, for which she received praziquantel, is noted as a factor potentially favouring chronic S. Typhi carriage and relapse in endemic areas.",
+  "disease_name_short": "Typhoid Fever",
+  "tables": [
+    {
+      "title": "Laboratory Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "WBC (×10^9/L)",
+          "3.2",
+          "4-10"
+        ],
+        [
+          "Haemoglobin (mg/dL)",
+          "10.9",
+          "12-14"
+        ],
+        [
+          "MCV (fL)",
+          "90",
+          "80-99"
+        ],
+        [
+          "Platelets (×10^9/L)",
+          "164",
+          "150-400"
+        ],
+        [
+          "Creatinine (µmol/L)",
+          "71",
+          "<80"
+        ]
+      ]
+    }
+  ],
+  "images": []
+}

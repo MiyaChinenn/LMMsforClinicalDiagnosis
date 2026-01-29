@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 31-year-old woman from Malawi. The patient had been found to be HIV positive 2 months earlier, when she was hospitalized with cryptococcal meningitis. She was treated with high-dose oral fluconazole, because amphotericin B and flucytosine were unavailable. She improved and was discharged home on a maintenance dose of fluconazole. Antiretroviral treatment with stavudine (d4T), lamivudine (3TC) and nevirapine (NVP), as well as co-trimoxazole prophylaxis, were started 1 month previously. The rest of the medical history is unremarkable and there are no known allergies.",
+  "chief_complaint": "A 31-year-old woman presents with a generalized skin rash that started 3 days prior to presentation.",
+  "history_of_present_illness": "The rash started 3 days before on the trunk, and then spread to the extremities and the mucosal membranes involving lips, oral mucosa, conjunctivae and genital mucosa. There is also a productive cough with whitish sputum that started 1 day before the rash appeared, and she also reports a sore throat and dysuria for the past 2 days. The patient had been found to be HIV positive 2 months earlier, when she was hospitalized with cryptococcal meningitis. She was treated with high-dose oral fluconazole, because amphotericin B and flucytosine were unavailable. She improved and was discharged home on a maintenance dose of fluconazole. Antiretroviral treatment with stavudine (d4T), lamivudine (3TC) and nevirapine (NVP), as well as co-trimoxazole prophylaxis, were started 1 month previously.",
+  "exposure_and_epidemiology": "The patient is a young Malawian woman and is HIV positive. Her current medications include antiretroviral triple therapy with d4T, 3TC and NVP, and co-trimoxazole prophylaxis, all initiated one month prior to symptom onset.",
+  "vitals": "Her temperature is 37.7°C (99.9°F), blood pressure 120/68 mmHg, pulse 90 bpm and respiratory rate 24 breath cycles per minute. She has a low-grade fever.",
+  "physical_exam": "There is a generalized, non-itchy maculo-papular rash involving the skin and mucous membranes but sparing the palms and soles. There is bilateral conjunctivitis. The eyelids and lips are covered with haemorrhagic crusts. The lips are swollen and she can hardly open her mouth; talking and eating are difficult and painful. The chest is clear.",
+  "labs_and_diagnostics": "Blood cultures and a rapid malaria test were taken and both came back negative.",
+  "differential_diagnosis": "The most important diagnosis to consider is Stevens-Johnson syndrome (SJS)/toxic epidermal necrolysis, a potentially life-threatening mucocutaneous hypersensitivity reaction most commonly caused by drugs. Non-specific prodromal symptoms such as cough, sore throat, fever, headache and myalgias usually precede the rash by several days and may be mistaken for a bacterial or viral infection, or for malaria in a tropical setting. Other differential diagnoses to rule out include staphylococcal scalded skin syndrome, toxic shock syndrome, exfoliative dermatitis, autoimmune bullous diseases and acute paraneoplastic pemphigus.",
+  "management_and_clinical_course": "Antiretroviral drugs and co-trimoxazole were stopped on admission. She received IV fluids and a urinary catheter. The patient and her family declined a nasogastric (NG) tube. The patient was given 0.9% normal saline as mouthwash and dexamethasone eye ointment. Fever and cough settled spontaneously. She was discharged after 10 days in hospital. When all lesions had completely healed, she was started on a new antiretroviral combination therapy with nevirapine replaced by efavirenz. Co-trimoxazole was not replaced because there were no alternative drugs available. The new drug combination was tolerated well and no further rash occurred.",
+  "final_diagnosis": "The final diagnosis is Stevens-Johnson syndrome (SJS), a severe mucocutaneous hypersensitivity reaction most likely caused by the recently initiated antiretroviral drug nevirapine and co-trimoxazole prophylaxis. This is supported by the characteristic generalized maculopapular rash involving skin and mucous membranes, its onset following drug initiation, and the resolution of symptoms after the withdrawal of the suspected medications.",
+  "disease_name_short": "Stevens-Johnson syndrome",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "68.1",
+      "caption": "The face of the patient, showing bilateral swelling of the eyes with conjunctivitis and swollen lips with haemorrhagic crusts. The maculopapular rash was non-itchy and spared the scalp."
+    },
+    {
+      "file_name": "68.2",
+      "caption": "The right leg of another patient with SJS/TEN showing extensive epidermal sloughing and large areas of denuded dermis."
+    }
+  ]
+}

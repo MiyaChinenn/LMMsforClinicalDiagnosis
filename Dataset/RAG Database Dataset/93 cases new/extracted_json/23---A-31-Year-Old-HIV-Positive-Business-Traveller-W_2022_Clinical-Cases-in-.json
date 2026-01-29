@@ -1,0 +1,94 @@
+{
+  "patient_information": "A 31-year-old HIV-positive man was diagnosed with HIV 6 years ago. His CD4 count was 280/μL 1 month ago. He is not yet on anti-retroviral therapy (ART), nor on co-trimoxazole prophylaxis or any other regular medications. He has no other significant past medical history.",
+  "chief_complaint": "He presents with a 6-week history of increasing shortness of breath on exertion, dry cough, and drenching night sweats.",
+  "history_of_present_illness": "He reports a 6-week history of increasing shortness of breath on exertion, dry cough, and drenching night sweats. He also reports general fatigue and a weight loss of about 10kg over the past 5 months.",
+  "exposure_and_epidemiology": "He travels extensively for business and in the past 6 months has had work trips to Europe, China, Korea, Japan, Singapore and the United States. He lives with his male partner, denies any recreational drug use and has never smoked tobacco.",
+  "vitals": "Temperature 39.2°C (102.6°F), blood pressure 120/70 mmHg, pulse 100bpm, respiratory rate 26 breaths per minute, sO2 87% on air, and 97% on 15L O2.",
+  "physical_exam": "He is alert, short of breath at rest but able to complete full sentences. Chest is clear on auscultation. The rest of the physical examination is unremarkable.",
+  "labs_and_diagnostics": "Arterial blood gases on ambient air showed pH 7.44 (reference 7.35-7.45), PaO2 7.6 kPa (reference 10.67-13.33), PaCO2 3 kPa (reference 4.67-6.00), HCO3 19 mmol/L (reference 22-26), Base excess -3.8 (reference +/-2), Lactate 1.6 mmol/L (reference 0.5-1.6). His FBC is normal. CRP is 6.7 mg/dL (<5). Creatinine, urea, bilirubin, ALT, AP and albumin are normal. CD4 count is 150/µL, HIV viral load 1,500,000 copies/mL (fully sensitive on resistance testing). A chest radiograph on admission showed bilateral perihilar infiltrates. A computed tomography (CT)-pulmonary angiogram showed extensive \"ground-glass\" infiltrates in both lungs, especially in the lower lobes, but no evidence of pulmonary emboli or cavitations. Serum β-glucan was >500 pg/mL (<80pg/mL). Bronchoscopy was macroscopically normal. Grocott staining of BAL fluid revealed Pneumocystis jirovecii cystic forms, and PCR was strongly positive for P. jirovecii DNA.",
+  "differential_diagnosis": "Pneumocystis pneumonia (PCP) should be high up in the differential of any ART-naïve, HIV-positive patient with a low CD4 count, who presents with progressive shortness of breath on exertion and dry cough, with patchy perihilar infiltrates on the chest radiograph. Tuberculosis, atypical bacterial pneumonia, cryptococcosis or histoplasmosis should also be considered.",
+  "management_and_clinical_course": "The patient was treated with high-flow oxygen and started on high-dose co-trimoxazole plus prednisolone combined with a proton-pump inhibitor. His tachycardia settled with reversal of his hypoxia and he remained otherwise stable. Oxygen was gradually weaned and the patient was discharged on oral co-trimoxazole to complete a 21-day total course. Ten days into PCP treatment, he commenced antiretroviral therapy with tenofovir, emtricitabine and efavirenz. Two weeks into PCP treatment, he developed a widespread pruritic maculopapular rash, likely attributable to either co-trimoxazole or efavirenz. As a result, co-trimoxazole was changed to clindamycin and primaquine for the final week of treatment and efavirenz was replaced by a boosted protease inhibitor. After completing PCP treatment, he was started on dapsone and pyrimethamine for secondary prophylaxis.",
+  "final_diagnosis": "The final diagnosis is Pneumocystis pneumonia (PCP) caused by Pneumocystis jirovecii. This is supported by the patient's presentation as an ART-naïve, HIV-positive man with a low CD4 count, progressive shortness of breath, dry cough, and drenching night sweats, along with evidence of type 1 respiratory failure and bilateral perihilar infiltrates on chest radiography, and extensive ground-glass infiltrates on CT. The diagnosis was confirmed by an elevated serum β-glucan, and strongly positive Grocott staining and PCR for P. jirovecii from bronchoalveolar lavage fluid.",
+  "disease_name_short": "Pneumocystis Pneumonia",
+  "tables": [
+    {
+      "title": "Arterial Blood Gases on Ambient Air",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference Range"
+      ],
+      "rows": [
+        [
+          "pH",
+          "7.44",
+          "7.35-7.45"
+        ],
+        [
+          "Pa02 (kPa)",
+          "7.6",
+          "10.67-13.33"
+        ],
+        [
+          "Paco2 (kPa)",
+          "3",
+          "4.67-6.00"
+        ],
+        [
+          "HCO3 (mmol/L)",
+          "19",
+          "22-26"
+        ],
+        [
+          "Base excess (mmol/L)",
+          "-3.8",
+          "±2"
+        ],
+        [
+          "Lactate (mmol/L)",
+          "1.6",
+          "0.5-1.6"
+        ]
+      ]
+    },
+    {
+      "title": "Grading of Severity of Pneumocystis Pneumonia",
+      "headers": [
+        "",
+        "Mild",
+        "Moderate",
+        "Severe"
+      ],
+      "rows": [
+        [
+          "Clinical features",
+          "Increasing exertional dyspnoea ± cough and sweats",
+          "Dyspnoea on minimal exertion, occasional dyspnoea at rest, fever + sweats",
+          "Dyspnoea at rest, tachypnoea at rest, persistent fever, cough"
+        ],
+        [
+          "Arterial blood gas (room air)",
+          "PaO2 normal, Sa02 falling on exercise",
+          "PaO2 = 8.1-11 kPa",
+          "PaO2 < 8.0 kPa"
+        ],
+        [
+          "Chest radiography",
+          "Normal or minor perihilar infiltrates",
+          "Diffuse interstitial shadowing",
+          "Extensive interstitial shadowing + diffuse alveolar shadowing ('white out'), sparing costophrenic angles and apices"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "Fig. 23.1",
+      "caption": "Chest radiograph on admission, showing bilateral perihilar infiltrates."
+    },
+    {
+      "file_name": "Fig. 23.2",
+      "caption": "CT scan of the chest showing bilateral ground-glass infiltrates, but no pulmonary emboli."
+    }
+  ]
+}

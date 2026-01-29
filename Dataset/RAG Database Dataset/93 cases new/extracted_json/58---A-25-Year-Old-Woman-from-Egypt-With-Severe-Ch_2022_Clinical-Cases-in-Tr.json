@@ -1,0 +1,80 @@
+{
+  "patient_information": "A 25-year-old woman from Bani Suwaif in Upper Egypt (115 km south of Cairo).",
+  "chief_complaint": "Severe diarrhoea for 2 months accompanied by weight loss of about 15 kg and amenorrhoea.",
+  "history_of_present_illness": "The symptoms started with stomach rumbles and colicky abdominal pain; later on, she suffered anorexia and vomiting. The diarrhoea is voluminous, not related to meals, and occurs both during the day and at night (five to ten times in 24 hours). She received various antibiotics, including metronidazole, as well as antidiarrhoeal drugs, without any improvement. During the last month she has developed lower limb swelling and severe prostration.",
+  "exposure_and_epidemiology": "The patient is from Bani Suwaif in Upper Egypt. Intestinal capillariasis, caused by Capillaria philippinensis, is transmitted through consumption of raw or undercooked fish. C. philippinensis is endemic in various East and South-east Asian countries such as The Philippines, Thailand, Laos, China, Korea, Japan and Taiwan, with cases also reported from Egypt, Iran and India, and sporadic cases elsewhere.",
+  "vitals": "Heart rate 100 bpm, blood pressure 100/60 mmHg.",
+  "physical_exam": "The patient appears generally unwell; she is pale and has angular stomatitis. She is afebrile, with a scaphoid abdomen with borborygmi, pitting oedema of the lower limbs, and decreased skin turgor.",
+  "labs_and_diagnostics": "Laboratory results on admission showed Potassium 2.8 mmol/L (reference 3.5-5), Sodium 127 mmol/L (reference 136-145), total Calcium 2.1 mmol/L (reference 2.25-2.63), Albumin 23 g/L (reference 35-55), Haemoglobin 10.8 g/dL (reference 11.5-15.5), WBC 6.6 x 10^9/L (reference 3.8-11), Eosinophil count 0.53 x 10^9/L (reference <0.45), Platelets 350 x 10^9/L (reference 150-350), Creatinine 115 µmol/L (reference 53-106). D-xylose test showed evidence of malabsorption. On stool microscopy, numerous helminth ova, described as peanut-shaped, were detected.",
+  "differential_diagnosis": "null",
+  "management_and_clinical_course": "The patient was admitted to the hospital. Albendazole was initiated at a dose of 400 mg bd and continued for 3 weeks. Oral and parenteral fluids and electrolytes were given for resuscitation, along with a high protein diet and vitamins. During the first days of treatment, numerous adult helminths (length 3-5 mm) were found in more stool samples. The patient's general condition improved significantly within the first week, vomiting stopped, and diarrhoea subsided after 2 weeks of treatment.",
+  "final_diagnosis": "The final diagnosis is Intestinal Capillariasis caused by Capillaria philippinensis. This was supported by the patient's clinical presentation of severe chronic diarrhoea and malabsorption in an endemic area. Stool microscopy revealed characteristic peanut-shaped helminth ova, which are typical for C. philippinensis. The patient showed significant clinical improvement and expulsion of adult helminths following treatment with albendazole.",
+  "disease_name_short": "Intestinal Capillariasis",
+  "tables": [
+    {
+      "title": "Laboratory Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "Potassium (mmol/L)",
+          "2.8",
+          "3.5-5"
+        ],
+        [
+          "Sodium (mmol/L)",
+          "127",
+          "136-145"
+        ],
+        [
+          "Calcium, total (mmol/L)",
+          "2.1",
+          "2.25-2.63"
+        ],
+        [
+          "Albumin (g/L)",
+          "23",
+          "35-55"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "10.8",
+          "11.5-15.5"
+        ],
+        [
+          "WBC (x 10^9/L)",
+          "6.6",
+          "3.8-11"
+        ],
+        [
+          "Eosinophil count (x 10^9/L)",
+          "0.53",
+          "<0.45"
+        ],
+        [
+          "Platelets (× 10^9/L)",
+          "350",
+          "150-350"
+        ],
+        [
+          "Creatinine (µmol/L)",
+          "115",
+          "53-106"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "Fig. 58.1",
+      "caption": "Helminth ova in a stool sample of a 25-year-old woman from Egypt with chronic diarrhoea."
+    },
+    {
+      "file_name": "Fig. 58.2",
+      "caption": "Adult C. philippinensis in the patient's stool sample during treatment with mebendazole."
+    }
+  ]
+}

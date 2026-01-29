@@ -1,0 +1,20 @@
+{
+  "patient_information": "A 41-year-old male yoga teacher.",
+  "chief_complaint": "Itchy skin eruptions on both upper thighs for the past week.",
+  "history_of_present_illness": "A 41-year-old male yoga teacher presents to a travel clinic in Europe because of itchy skin eruptions on both upper thighs for the past week. He has just returned from a 10-day trip to northern Australia where he attended a yoga seminar. On his way to Australia he had stopped over on a Thai island for a 3-day beach holiday. Just after his arrival in Australia he developed three intensely itchy skin eruptions on both upper thighs. The itch is so intense that at times it keeps him awake at night. There has been no fever, no cough or wheeze and he is otherwise completely well.",
+  "exposure_and_epidemiology": "The patient has just returned from a 10-day trip to northern Australia where he attended a yoga seminar. On his way to Australia he had stopped over on a Thai island for a 3-day beach holiday. The patient was probably infected while lying on the beach or performing yoga exercises in the sand.",
+  "vitals": "null",
+  "physical_exam": "On both upper thighs there are a total of three reddish, serpiginous tracks, about 2 mm in width. The inguinal lymph nodes are not enlarged. The chest is clear. The rest of the examination is unremarkable.",
+  "labs_and_diagnostics": "Diagnosis is made clinically, supported by exposure history. Skin biopsy is not helpful because the larva is invariably in advance of its track. There are no reliable serological tests available, and blood eosinophilia is present in a minority of cases. No investigations were required as the diagnosis of cutaneous larva migrans can be established clinically, supported by the patient's travel history.",
+  "differential_diagnosis": "The clinical syndrome is a creeping eruption. The most common cause of creeping eruptions seen in returned travellers is cutaneous larva migrans (CLM) caused by larvae of animal hookworms. Creeping eruptions can also result from infection with larvae of Strongyloides stercoralis (larva currens), but this is distinguished from CLM by its faster movement (several centimetres an hour) and shorter persistence (a few hours). Creeping eruptions can also be caused by adult nematodes such as Gnathostoma species and trematodes (Fasciola species) or larvae of parasitic flies (migratory myiasis). However, cutaneous larva migrans caused by zoonotic hookworms is by far the commonest cause of creeping eruption seen in travel clinics worldwide.",
+  "management_and_clinical_course": "The patient was prescribed a single-dose treatment of ivermectin (200 µg/kg). The itchy eruptions settled within a few days of taking the drug. The treatment of choice is ivermectin (200µg/kg for 1-2 days). Albendazole 400 mg twice daily (bd) for 3 days is a good alternative. Topical thiabendazole 10-15% tds for 5 to 10 days is also effective but requires more compliance and can be difficult in multiple lesions. Without treatment the lesion can persist for several months, and scratching may lead to bacterial superinfection.",
+  "final_diagnosis": "The final diagnosis is Hookworm-Related Cutaneous Larva Migrans, caused by zoonotic hookworms. This diagnosis was supported clinically by the patient's presentation of intensely itchy, reddish, serpiginous tracks on his thighs after returning from a trip to Asia and Australia, and the rapid resolution of symptoms after a single dose of ivermectin.",
+  "disease_name_short": "Cutaneous Larva Migrans",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "extracted_images/42---A-41-Year-Old-Male-Traveller-Returning-from-Au_2022_Clinical-Cases-in-T/page1_img1.jpeg",
+      "caption": "Three track-like skin eruptions on both upper thighs causing intense itching."
+    }
+  ]
+}

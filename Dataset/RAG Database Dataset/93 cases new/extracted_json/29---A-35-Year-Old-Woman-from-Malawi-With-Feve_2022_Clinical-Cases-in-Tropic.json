@@ -1,0 +1,46 @@
+{
+  "patient_information": "A 35-year-old Malawian woman, divorced with three children, works as a small-scale farmer and sells vegetables. Her family can afford three meals a day and occasionally meat or fish. She presents wasted and is newly diagnosed HIV-positive.",
+  "chief_complaint": "The patient presented to a local hospital because of fever for 3 days and weakness which had progressed over the past several months.",
+  "history_of_present_illness": "The fever started 3 days earlier, but the weakness had progressed over the past several months. She reported no cough, no night sweats, no diarrhoea, no dysuria, and no history of abnormal bleeds, but noted some weight loss. Two months prior, she had presented to a local health centre for weakness, was found to be clinically pale, and was prescribed iron tablets, which she took with no improvement in weakness. She reported no other abnormalities.",
+  "exposure_and_epidemiology": "The patient is a 35-year-old Malawian woman living in a high-prevalence setting for HIV in sub-Saharan Africa. She works as a small-scale farmer and sells vegetables on the local market.",
+  "vitals": "Blood pressure 90/60 mmHg (difficult to measure because of the low upper arm circumference), pulse 110bpm, temperature 37.8°C (100°F), respiratory rate 25 breath cycles per minute, oxygen saturation 97% on ambient air, Glasgow Coma Scale 15/15.",
+  "physical_exam": "The patient appeared wasted, with a body mass index of 17kg/m². Her conjunctivae were very pale, but there was no jaundice. The examination of her mouth was normal, with no oral thrush, Kaposi's sarcoma lesions, or oral hairy leukoplakia. The chest was clear. Her abdomen was soft, with slight diffuse tenderness but no guarding. The spleen was palpable 3 cm below the left costal margin. The rectal examination was normal.",
+  "labs_and_diagnostics": "The malaria rapid diagnostic test was negative. The HIV serology was positive. Laboratory results on admission showed: WBC 3.0 ×10^9/L (reference 4-10), Haemoglobin 4.8 mg/dL (reference 12-14), MCV 90 fL (reference 80-99), Platelets 112 ×10^9/L (reference 150-400). Blood cultures grew Salmonella enterica var Typhimurium. TB screening revealed prominent hilar lymph nodes.",
+  "differential_diagnosis": "The patient presented with a septic picture without a clear focus, was newly diagnosed HIV-positive, and had wasting and anaemia, suggesting advanced immunosuppression and/or possible concomitant tuberculosis (TB). Invasive non-typhoidal Salmonellae (iNTS) infection was considered a common cause of sepsis in HIV-positive adults in sub-Saharan Africa, fitting with the slight abdominal tenderness and splenomegaly. Enteric fevers were also considered, though less common than iNTS in HIV-positive patients in the region. Severe anaemia was thought to be due to bone marrow infection with HIV, Salmonellae, and possibly Mycobacterium tuberculosis. Other less common causes of anaemia like iron deficiency, helminth infections, malaria, and visceral leishmaniasis were also considered.",
+  "management_and_clinical_course": "Fluids and IV ceftriaxone 2g once daily were started immediately, and blood cultures were taken. After blood cultures grew Salmonella enterica var Typhimurium, antibiotic treatment was changed to oral ciprofloxacin 500 mg three times daily for 14 days. Due to prominent hilar lymph nodes found during TB screening, antituberculous treatment and antiretroviral therapy (ART) were commenced, along with co-trimoxazole prophylaxis and vitamin B6 to prevent peripheral neuropathy. The patient also received therapeutic feeding. She was discharged after 4 weeks in hospital. Three months later, on review in the ART clinic, she was feeling much better, had gained weight, and her haemoglobin levels were improving. Her three children tested negative for HIV, but her ex-husband refused HIV testing.",
+  "final_diagnosis": "The final diagnosis was Invasive Non-Typhoidal Salmonellae (iNTS) infection caused by Salmonella enterica var Typhimurium, occurring in an HIV-positive patient with presumed advanced immunosuppression and concomitant tuberculosis. This was supported by the positive HIV serology, severe anaemia, wasting, splenomegaly, and confirmed by blood cultures growing Salmonella enterica var Typhimurium. The finding of prominent hilar lymph nodes on TB screening led to the initiation of antituberculous treatment.",
+  "disease_name_short": "Invasive Non-Typhoidal Salmonellae infection",
+  "tables": [
+    {
+      "title": "Laboratory Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "WBC (×10^9/L)",
+          "3.0",
+          "4-10"
+        ],
+        [
+          "Haemoglobin (mg/dL)",
+          "4.8",
+          "12-14"
+        ],
+        [
+          "MCV (fL)",
+          "90",
+          "80-99"
+        ],
+        [
+          "Platelets (×10^9/L)",
+          "112",
+          "150-400"
+        ]
+      ]
+    }
+  ],
+  "images": []
+}

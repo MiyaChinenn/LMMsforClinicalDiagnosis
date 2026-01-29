@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 34-year-old man from Thailand who is very wasted, with a body mass index of 14kg/m². The HIV test came back positive, and he was found to be highly immunosuppressed, with a CD4 cell count of 2/µL (normal range: 500-1000/μL).",
+  "chief_complaint": "2-week history of fever and a papular rash.",
+  "history_of_present_illness": "A 34-year-old man from Phuket, Thailand presents to a hospital in Germany with a 2-week history of fever. He has also noticed a papular rash affecting his whole body, particularly his face and trunk. When asked, he reports weight loss (7 kg in the last 3 months).",
+  "exposure_and_epidemiology": "He is from Phuket, Thailand and lives there, having arrived in Germany only 3 days previously to visit friends. Talaromycosis (previously penicilliosis) is caused by Talaromyces (Penicillium) marneffei, a dimorphic fungus endemic to East and South-east Asia. It is the third commonest AIDS-related opportunistic infection in Thailand and Vietnam after tuberculosis and cryptococcosis. Talaromycosis has also been reported in immunosuppressed travellers to endemic areas.",
+  "vitals": "On examination, the patient is febrile with a temperature of 38.2°C (100.76°F).",
+  "physical_exam": "His conjunctivae are pale. He is very wasted, with a body mass index of 14kg/m². The patient has a generalized non-pruritic rash, predominantly on his face and trunk, which consists of small umbilicated papules (Fig. 17.1). There is generalized lymphadenopathy with visibly swollen lymph nodes in the left supraclavicular region; his inguinal and axillary lymph nodes are also enlarged. On abdominal examination, the spleen is palpable at two fingers below the left costal margin. The liver span is 15cm in the midclavicular line.",
+  "labs_and_diagnostics": "Full blood count: WBC 2.1 ×10^9/L (reference range 4–10), haemoglobin 9.8 g/dL (13–16), platelets 110 ×10^9/L (150–350). C-reactive protein 150 mg/L (<5). The HIV test came back positive, and the patient was found to be highly immunosuppressed, with a CD4 cell count of 2/µL (normal range: 500-1000/μL). Blood cultures were taken. A fine needle aspirate of the lymph node and a skin biopsy were performed. Histopathology of the lymph node biopsy showed multiple yeast-like structures (Fig. 17.2). There were no acid-fast bacilli seen. The blood culture and cultures from the skin biopsy and lymph node all grew Talaromyces (Penicillium) marneffei.",
+  "differential_diagnosis": "Common causes of fever, generalized lymphadenopathy and hepatosplenomegaly are infectious diseases and neoplasms. Apart from HIV, CMV and EBV infection should be considered, although umbilicated papular lesions are not typical for these unless in HIV-infected individuals (mollusca contagiosa). Disseminated tuberculosis and infections with atypical mycobacteria are important differentials, as well as melioidosis. Bartonella spp. causing bacillary angiomatosis, cryptococcosis, histoplasmosis and talaromycosis are fungal infections to consider, especially with umbilicated papular skin lesions. Visceral leishmaniasis was also considered but typically does not cause a papular rash. Neoplasms like lymphomas and HHV-8-associated Castleman's disease were also part of the differential.",
+  "management_and_clinical_course": "The patient was started on a 2-week course of intravenous liposomal amphotericin B followed by oral itraconazole. On 3-week follow-up he was afebrile and gaining weight. Antiretroviral therapy (ART) was initiated. Six months later, the patient presented with a recurrence of his cervical lymphadenopathy, and a talaromycosis relapse was suspected. However, an infection with atypical mycobacteria was found. His CD4 count had come up to 102/µL and the viral load was suppressed. This second infection within 6 months after starting ART was interpreted as an immune reconstitution inflammatory syndrome (IRIS) of the unmasking type.",
+  "final_diagnosis": "The final diagnosis is Talaromycosis (previously penicilliosis) caused by Talaromyces (Penicillium) marneffei. This was confirmed by positive blood culture and cultures from skin biopsy and lymph node, alongside characteristic yeast-like structures observed on lymph node histopathology. The patient's underlying HIV infection, which led to severe immunosuppression with a CD4 count of 2/µL, predisposed him to this opportunistic fungal infection.",
+  "disease_name_short": "Talaromycosis",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "Fig. 17.1",
+      "caption": "Multiple umbilicated papular skin lesions on the neck."
+    },
+    {
+      "file_name": "Fig. 17.2",
+      "caption": "Histology of the supraclavicular lymph node showing multiple round-shaped yeast-like structures (PAS stain, × 400). Inset: Prominent septal wall ('septation') as a result of reproduction by fission. (Courtesy U. Zimmermann, M. Grünbaum and H. Herbst.)"
+    }
+  ]
+}

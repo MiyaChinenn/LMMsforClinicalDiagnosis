@@ -1,0 +1,138 @@
+{
+  "patient_information": "A 35-year-old Peruvian man with a past medical history of hepatitis of unknown aetiology 20 years before. He has not received any vaccinations since his early childhood.",
+  "chief_complaint": "Fever, jaundice, and bleeding for 8 days, accompanied by increasing mental obtundation and seizures.",
+  "history_of_present_illness": "Eight days prior to admission to a hospital in Lima, the patient developed fever and retro-orbital headache. Two days into the illness, he was admitted to a local hospital in the jungle after developing jaundice, coffee-ground vomiting, gross haematuria, and increasing mental obtundation. During transfer to the referral hospital in Lima, the patient had a generalized seizure.",
+  "exposure_and_epidemiology": "The patient was born in Lima, but for the past 5 years has been working as a logging supervisor in a remote jungle area near Pucallpa on the shores of the Ucayali River. He had not taken any malaria prophylaxis.",
+  "vitals": "Temperature 38.8°C (101.8°C), blood pressure 110/70 mmHg, heart rate 110 beats per minute, respiratory rate 24 breaths per minute.",
+  "physical_exam": "The patient was agitated, unresponsive to verbal commands, and intermittently stuporous. He exhibited marked flapping of hands, no focal neurological signs, and no meningeal signs. He was jaundiced with spontaneous bleeding of his oral mucosa and at venipuncture and IV sites. Multiple large ecchymoses were present on the face, trunk, and all limbs. Lung auscultation revealed crepitant rales in both bases. Heart sounds were normal. The liver was palpable 3 cm below the right costal margin; the spleen was not palpable, and there was no lymphadenopathy.",
+  "labs_and_diagnostics": "Routine laboratory results on admission showed Haematocrit 30% (reference 41-53), White cell count 8700/μL (4500-11000) with 4% bands, 62% neutrophils, 0% eosinophils, 0% basophils, 6% monocytes, and 28% lymphocytes. Platelets were 110000/μL (150000-450000). Liver enzymes were elevated with AST (GOT) 2890 U/L (0-35), ALT (GPT) 2676 U/L (0-35), and AP 496 U/L (38-126). Total Bilirubin was 11.6 mg/dL (0.3-1.2) with Direct Bilirubin 9.2 mg/dL (0-0.4). Renal markers were elevated with Urea 89 mg/dL (17-49) and Creatinine 1.2 mg/dL (0.6-1.2). Glucose was 80 mg/dL (70-110). Serum Protein was 4.2 g/L (5.5-8.0) and Albumin 2.8 g/L (3.5-5.5). Coagulation studies showed Prothrombin Time 17 s (11.1-13.1), INR 2.6 (0.9-1.3), aPTT 80 s (22.1-35.1), and Fibrinogen 250 mg/dL (150-400). CK was 6200 U/L (52-336). Urine analysis showed Proteins 3+, RBC: 50-60/f, and WBC: 4-6/f. His malaria thick film was three times negative, blood cultures were negative, Brucella serology was negative, and Hepatitis B IgM anti-Hbc were negative. Repeat laboratory results on day 3 showed deterioration of kidney function (creatinine 6.5 mg/dL, urea 120 mg/dL) and a sudden drop in liver transaminases (AST 100 U/L, ALT 200 U/L). A chest x-ray showed bilateral pulmonary infiltrates compatible with ARDS. IgM capture ELISA for yellow fever came back highly positive at 1:10000. Anti-dengue IgM was negative. Direct viral isolation in culture on a blood specimen drawn on admission was negative.",
+  "differential_diagnosis": "The differential diagnosis included severe malaria, viral hepatitis (A, B, C, D, E), toxin-mediated hepatitis, leptospirosis, typhoid fever, brucellosis, severe dengue, and other viral haemorrhagic fevers (VHFs). Severe malaria was considered, but transaminases are usually not as high. Leptospirosis was possible, but transaminases are usually only mildly elevated (less than 200 U/L) and jaundice is typically cholestatic. Severe dengue was considered, but 8 days of fever is long for dengue, jaundice is not as prominent, and haematocrit is usually increased rather than low. Other VHFs were considered given the patient's occupation and lack of yellow fever vaccination.",
+  "management_and_clinical_course": "The patient received presumptive treatment for malaria, broad-spectrum antibiotics, and supportive care. Over the next 3 days, he developed increasing hepatic encephalopathy, renal failure, coma, and DIC with increasing spontaneous bleeding. A chest x-ray showed bilateral pulmonary infiltrates compatible with ARDS. Repeat laboratory results on day 3 showed deterioration of his kidney function and a sudden drop in liver transaminases, indicating acute hepatic disintegration. The patient passed away 1 day later.",
+  "final_diagnosis": "The final diagnosis was Yellow Fever, an arboviral infection caused by a flavivirus. This was confirmed by a highly positive IgM capture ELISA for yellow fever at 1:10000. The patient's clinical presentation with fever, jaundice, bleeding, encephalopathy, renal failure, and DIC, along with the epidemiologic context of working in a jungle area in Peru without prior vaccination, were consistent with the severe clinical syndrome of Yellow Fever.",
+  "disease_name_short": "Yellow Fever",
+  "tables": [
+    {
+      "title": "Laboratory Results on Admission",
+      "headers": [
+        "Parameter",
+        "Result (Reference Range)"
+      ],
+      "rows": [
+        [
+          "Haematocrit",
+          "30% (41-53)"
+        ],
+        [
+          "White cell count",
+          "8700/μL (4500-11000)"
+        ],
+        [
+          "Bands:",
+          "4% (0-10)"
+        ],
+        [
+          "Neutrophils:",
+          "62% (40-70)"
+        ],
+        [
+          "Eosinophils:",
+          "0% (0-8)"
+        ],
+        [
+          "Basophils:",
+          "0% (0-3)"
+        ],
+        [
+          "Monocytes:",
+          "6% (4-11)"
+        ],
+        [
+          "Lymphocytes:",
+          "28% (22-44)"
+        ],
+        [
+          "Platelets",
+          "110000/μL (150000-450000)"
+        ],
+        [
+          "AST (GOT)",
+          "2890 U/L (0-35)"
+        ],
+        [
+          "ALT (GPT)",
+          "2676 U/L (0-35)"
+        ],
+        [
+          "AP",
+          "496 U/L (38-126)"
+        ],
+        [
+          "Total Bilirubin",
+          "11.6 mg/dL (0.3-1.2)"
+        ],
+        [
+          "Direct Bilirubin",
+          "9.2 mg/dL (0-0.4)"
+        ],
+        [
+          "Urea",
+          "89 mg/dL (17-49)"
+        ],
+        [
+          "Creatinine",
+          "1.2 mg/dL (0.6-1.2)"
+        ],
+        [
+          "Glucose",
+          "80 mg/dL (70-110)"
+        ],
+        [
+          "Serum Protein",
+          "4.2 g/L (5.5-8.0)"
+        ],
+        [
+          "Albumin",
+          "2.8 g/L (3.5-5.5)"
+        ],
+        [
+          "Prothrombin Time",
+          "17 s (11.1-13.1)"
+        ],
+        [
+          "INR",
+          "2.6 (0.9-1.3)"
+        ],
+        [
+          "aPTT",
+          "80 s (22.1-35.1)"
+        ],
+        [
+          "Fibrinogen",
+          "250 mg/dL (150-400)"
+        ],
+        [
+          "CK",
+          "6200 U/L (52-336)"
+        ],
+        [
+          "Urine",
+          "Proteins 3+, RBC: 50-60/f, WBC: 4-6/f"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "image_0.jpeg",
+      "caption": "Extended ecchymoses in a febrile Peruvian logger with fever and jaundice"
+    },
+    {
+      "file_name": "image_1.jpeg",
+      "caption": "Extended ecchymoses in a febrile Peruvian logger with fever and jaundice"
+    },
+    {
+      "file_name": "image_2.jpeg",
+      "caption": "Chest x-ray of the patient showing bilateral patchy infiltrates."
+    }
+  ]
+}

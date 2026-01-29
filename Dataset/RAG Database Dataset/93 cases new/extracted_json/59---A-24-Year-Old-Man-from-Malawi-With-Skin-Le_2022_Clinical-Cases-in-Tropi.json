@@ -1,0 +1,28 @@
+{
+  "patient_information": "A 24-year-old Malawian businessman, recently tested positive for HIV a week before presenting to the clinic, and has not yet started antiretroviral medication. He has no history of previous tuberculosis. His wife is also HIV-positive but not on ART, and his two children, aged 6 and 4 years old, had not yet been tested.",
+  "chief_complaint": "Dark spots on his arm and leg for the last month, progressing with facial swelling, and a 3-month history of cough and worsening shortness of breath. His main concern was shortness of breath.",
+  "history_of_present_illness": "For the last month, the patient has noticed dark spots on his arm and leg which are progressing, and he is now getting facial swelling. He also reports a 3-month history of cough and worsening shortness of breath. His cough is productive of white sputum. He has no constitutional symptoms of weight loss, fevers or night sweats. He has no history of previous tuberculosis.",
+  "exposure_and_epidemiology": "The patient is a 24-year-old Malawian businessman who tested positive for HIV a week before coming to the clinic. His wife is also HIV-positive but not on ART, and his two children, aged 6 and 4 years old, had not yet been tested.",
+  "vitals": "His temperature is 36°C (96.8°F), respiratory rate 32 breath cycles per minute and pulse 102 bpm.",
+  "physical_exam": "The patient appears comfortable at rest with moderate facial oedema. Widespread dark-purplish plaques are noted on the skin and palate. On respiratory examination, he has decreased air entry and dullness at the right lung base. He has swelling of his right leg from the foot to the knee, with prominent dark plaques which are coalescing. The rest of the physical examination is normal.",
+  "labs_and_diagnostics": "He tested positive for HIV a week before presentation. His CD4 count was 134 cells/µL, HB 10.2 g/dL and MCV 88.4 fL. Other parameters were normal. His chest radiograph showed bilateral patchy opacifications in the lower and mid zones of the lungs, with peribronchovascular changes. Sputum and GeneXpert tests were negative for the presence of tuberculosis. A bronchoscopy was attempted but failed because of technical difficulties.",
+  "differential_diagnosis": "In a newly diagnosed HIV-infected patient with a chronic history of cough, tuberculosis should always be considered and vigorous attempts made to exclude it. The skin lesions are typical for Kaposi's sarcoma (KS), and the presence of palatal lesions supports this possibility and increases suspicion of pulmonary involvement. Dual pathology of pulmonary KS and TB is not uncommon, and a high index of suspicion for TB should be maintained.",
+  "management_and_clinical_course": "The patient made no improvement with a short course of oral antibiotics. He was referred to start antiretroviral medication and palliative chemotherapy. Antiretroviral therapy (ART) should be started as soon as possible to control HIV and as part of the therapeutic response to KS. Adjuvant palliative chemotherapy is indicated for patients with pulmonary KS.",
+  "final_diagnosis": "The final diagnosis for this 24-year-old Malawian man is Kaposi's sarcoma (KS) with cutaneous, mucosal (palatal), and pulmonary involvement, in the context of newly diagnosed HIV infection. This is supported by the characteristic widespread dark-purplish plaques on skin and palate, facial oedema, and leg swelling, as well as chest radiograph findings of bilateral patchy opacifications and peribronchovascular infiltration. His HIV-positive status with a low CD4 count (134 cells/µL) and negative tuberculosis tests further confirm the diagnosis.",
+  "disease_name_short": "Kaposi's Sarcoma",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "Fig. 59.1",
+      "caption": "Facial swelling and dark-purplish skin lesions on chest and nose of the patient."
+    },
+    {
+      "file_name": "Fig. 59.2",
+      "caption": "Swollen right leg with prominent coalescing dark plaques."
+    },
+    {
+      "file_name": "Fig. 59.3",
+      "caption": "Chest radiograph showing bilateral peribronchovascular infiltration in the lower and mid lung zones."
+    }
+  ]
+}

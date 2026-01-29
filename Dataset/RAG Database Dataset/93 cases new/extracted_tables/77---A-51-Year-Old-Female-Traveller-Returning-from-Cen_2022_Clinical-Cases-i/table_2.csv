@@ -1,0 +1,10 @@
+,Firstserumsample†,Secondserumsample‡,Interpretation
+Dengue IgMIIFT,negative,negative,negative
+Dengue IgGIIFT,1:20,1:5120,cross-reactivity
+DengueNS1-Ag,negative,negative,negative
+ChikungunyaIgM ELISA,negative,ND,negative
+ChikungunyaIgM IIFT,ND,negative,negative
+ChikungunyaIgG IIFT,ND,negative,negative
+Zika IgM IIFT,negative,1:640,positive
+Zika IgG IIFT,1:20,1:5120,positive
+Zika RT-PCR,positive,ND,positive

@@ -1,0 +1,134 @@
+{
+  "patient_information": "A 45-year-old Sri Lankan man, who had been well before the current illness, admits to consuming locally brewed alcohol ('toddy', made of coconut flowers) daily for the past 10 to 15 years.",
+  "chief_complaint": "A 45-year-old Sri Lankan man presents to a local hospital with fever, chills, headache, body aches, and severe right hypochondrial pain for the past week, along with a dry cough developed during the past few days.",
+  "history_of_present_illness": "He has also developed a dry cough during the past few days and has vomited twice during his illness, losing his appetite. His abdominal pain is constant and dull, radiating to the right shoulder and made worse when coughing and resting on the right side.",
+  "exposure_and_epidemiology": "The patient is a 45-year-old Sri Lankan man who admits to consuming locally brewed alcohol ('toddy', made of coconut flowers) daily for the past 10 to 15 years. This alcoholic drink is locally known to be linked with amoebiasis, and the precise mechanisms are still under discussion, though it is assumed that parasites contaminate the clay containers used to collect toddy.",
+  "vitals": "Temperature is 38.3°C (100.8°F), blood pressure 100/80 mmHg, pulse 102bpm, and respiratory rate 24 breath cycles per minute.",
+  "physical_exam": "The patient looks generally ill, mildly dehydrated, and is in pain. There is no jaundice, pallor, or lymphadenopathy. Abdominal examination reveals tender hepatomegaly, most prominent over the 6th to 9th intercostal spaces in the right mid-axillary line. The spleen is not enlarged. Auscultation reveals few inspiratory crackles over the right lung base. The cardiovascular and nervous systems are clinically normal.",
+  "labs_and_diagnostics": "Laboratory results at presentation showed elevated WBC (14.7 x10^9/L, reference 4-10), AST (54 U/L, reference 13-33), ALT (38 U/L, reference 3-25), ALP (446 U/L, reference 40-130), blood urea nitrogen (7 mmol/L, reference 2.5-6.4), serum creatinine (124 µmol/L, reference 71-106), and C-reactive protein (48 mg/L, reference <6). Haemoglobin (12.3 g/dL), platelets (224 x10^9/L), serum bilirubin total (10.3 µmol/L, reference 25.7-30.8), and serum bilirubin direct (1.5 µmol/L, reference 1.7-5.1) were within or close to reference ranges. A chest radiograph showed elevated right hemidiaphragm and patchy shadows in the right lower zone. An ultrasound scan of the abdomen revealed a solitary hypoechoic lesion with an irregular wall measuring 7x6cm in the right liver lobe and a small pleural effusion on the right. Aspiration of the lesion yielded brownish pus, highly suspicious of an amoebic liver abscess.",
+  "differential_diagnosis": "The most likely initial diagnosis was a liver abscess, either amoebic or pyogenic. Klebsiella pneumoniae liver abscess was considered given the Asian setting and increasing prevalence of hyermucoviscous serotypes. However, amoebic liver abscess was deemed more likely due to the patient's relatively young age, absence of comorbidities like diabetes or biliary disease, and his history of consuming alcohol ('toddy') locally known to be linked with amoebiasis. Melioidosis, caused by Burkholderia pseudomallei, was also considered as a tropical infectious disease in a febrile patient from Asia with an organ abscess, capable of presenting with pulmonary infiltrates. However, the patient's transaminases were only slightly elevated, with AST higher than ALT, which is atypical for infectious hepatitis where higher transaminase levels and clinical jaundice would be expected.",
+  "management_and_clinical_course": "The patient was treated with metronidazole for ten days, and he made a rapid and uneventful recovery. Therapeutic percutaneous aspiration or drainage is controversial but may be useful for large abscesses or those not responding to nitroimidazole therapy within 72 hours, especially if pyogenic infection is a concern. Lesions may take a long time to decrease in size, thus short-term follow-up imaging should be interpreted with caution. Following treatment, a luminal amoebicide such as paromomycin, diloxanide furoate, or iodoquinol would typically be given.",
+  "final_diagnosis": "The final diagnosis is Amoebic Liver Abscess, likely caused by Entamoeba histolytica. This is supported by the patient's clinical presentation of fever, right hypochondrial pain, tender hepatomegaly, and intercostal tenderness, along with epidemiological factors including residence in Sri Lanka and daily consumption of locally brewed alcohol ('toddy'). Diagnostic imaging showed an elevated right hemidiaphragm and a solitary hypoechoic liver lesion in the right liver lobe which yielded brownish pus on aspiration. Laboratory findings included elevated inflammatory markers and liver enzymes. The rapid and uneventful recovery following metronidazole treatment further confirms the diagnosis.",
+  "disease_name_short": "Amoebic Liver Abscess",
+  "tables": [
+    {
+      "title": "Laboratory Results at Presentation",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "WBC (×10^9/L)",
+          "14.7",
+          "4-10"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "12.3",
+          "12-16"
+        ],
+        [
+          "Platelets (×10^9/L)",
+          "224",
+          "150-350"
+        ],
+        [
+          "AST (U/L)",
+          "54",
+          "13-33"
+        ],
+        [
+          "ALT (U/L)",
+          "38",
+          "3-25"
+        ],
+        [
+          "ALP (U/L)",
+          "446",
+          "40-130"
+        ],
+        [
+          "Serum bilirubin total (µmol/L)",
+          "10.3",
+          "25.7-30.8"
+        ],
+        [
+          "Serum bilirubin direct (µmol/L)",
+          "1.5",
+          "1.7-5.1"
+        ],
+        [
+          "Blood urea nitrogen (mmol/L)",
+          "7",
+          "2.5-6.4"
+        ],
+        [
+          "Serum creatinine (µmol/L)",
+          "124",
+          "71-106"
+        ],
+        [
+          "C-reactive protein (mg/L)",
+          "48",
+          "<6"
+        ]
+      ]
+    },
+    {
+      "title": "Treatment of Amoebic Liver Abscesses. (After Anesi, J.A., 2015)",
+      "headers": [
+        "Agent",
+        "Medication",
+        "Dose",
+        "Duration"
+      ],
+      "rows": [
+        [
+          "Tissue Agents",
+          "Metronidazole",
+          "500-750 mg IV/PO TDS",
+          "7-10 days"
+        ],
+        [
+          "Tissue Agents",
+          "Tinidazole",
+          "2 g PO OD",
+          "3-5 days"
+        ],
+        [
+          "Tissue Agents",
+          "Ornidazole",
+          "0.5 g IV BD",
+          "3-6 days"
+        ],
+        [
+          "Tissue Agents",
+          "Nitazoxanide",
+          "500 mg PO BD",
+          "3 days"
+        ],
+        [
+          "Luminal Agents",
+          "Paromomycin",
+          "8-10 mg/kg PO TDS",
+          "7 days"
+        ],
+        [
+          "Luminal Agents",
+          "Diloxanide Furoate",
+          "500 mg TDS",
+          "10 days"
+        ],
+        [
+          "Luminal Agents",
+          "Iodoquinole (Diiodohydroxyquin)",
+          "650 mg PO TDS after meals",
+          "20 days"
+        ]
+      ]
+    }
+  ],
+  "images": []
+}

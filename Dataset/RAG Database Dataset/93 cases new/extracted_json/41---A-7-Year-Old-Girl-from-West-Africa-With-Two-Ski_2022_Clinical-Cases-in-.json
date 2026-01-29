@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 7-year-old girl from a district hospital in the tropical region of a West African country.",
+  "chief_complaint": "The patient presented with two skin ulcers on her right hand and wrist, and a contracture of her right wrist, which developed over a period of 3 months following an insect bite.",
+  "history_of_present_illness": "After an insect bite, she developed an itchy papule on the back of her right hand, which enlarged over a period of 3 months. A traditional healer had prescribed herbal remedies. When the lesion ulcerated a few weeks later, diclofenac and dexamethasone were administered at the local health post. When a second lesion appeared, treatment with oxacillin was initiated with no effect. The girl became increasingly unable to use her right hand. There is no history of relevant trauma or systemic symptoms.",
+  "exposure_and_epidemiology": "The patient resides in the tropical region of a West African country, an area endemic for Buruli ulcer (BU). The initial symptom followed an insect bite, although the mode of transmission of the causative organism, Mycobacterium ulcerans, remains unknown and the insect bite is considered an incidental finding.",
+  "vitals": "Pulse was 108 bpm (normal 70–110), blood pressure 100/70 mmHg, and temperature 37.9°C (100.2°F).",
+  "physical_exam": "The patient was an anxious 7-year-old girl in good general condition, holding her right wrist in a 45° flexion and 20° abduction position. Two skin ulcers were present: a 3x3 cm ulcer on the back of her right hand and a 0.5x1 cm ulcer on the medial side of her right wrist. The larger ulcer was filled with necrotic tissue and surrounded by hypo- and hyperpigmentation, lichenification, and desquamation. An ill-defined induration (12x8 cm) surrounded the ulcers, with oedema extending from the lower arm to the fingers. A 0.5x0.5 cm nodule was also noted above the medial right elbow. Movement in the associated joint was restricted.",
+  "labs_and_diagnostics": "PCR from a wound swab confirmed the presence of Mycobacterium ulcerans. Laboratory confirmation of BU by M. ulcerans using PCR is desirable but often limited by the availability of reliable laboratory capacity and its cost. Culture is difficult due to the slow growth rate of the mycobacteria.",
+  "differential_diagnosis": "Given the geographical region of West Africa, the young age of the patient, the lesion location on extremities, and the absence of major trauma, Buruli ulcer was suspected. Other infectious causes (bacterial, viral, fungal, parasitic) and non-infectious causes (trauma, envenoming, autoimmune, haematological, neoplastic) of ulcers in tropical countries were considered. Pain and low-grade fever could be explained by bacterial superinfection.",
+  "management_and_clinical_course": "Initial treatments with herbal remedies, diclofenac, dexamethasone, and oxacillin were ineffective. Subsequent management included adequate wound care with saline-soaked gauze changed daily, povidone-iodine for bacterial colonization control, and antitetanus coverage. BU-specific antimycobacterial therapy, following WHO guidelines, was commenced, including combination therapy with rifampicin (10mg/kg per day PO) plus either streptomycin (15 mg/kg per day IM) or clarithromycin (7.5 mg/kg twice daily PO) for 8 weeks. During 8 weeks of specific treatment and wound care, the ulcer on the back of the hand healed almost completely, but the second smaller ulcer on the medial side of the wrist increased to 8x10 cm. Debridement and skin grafting were performed, leading to an uneventful recovery. Physiotherapy corrected the restriction of movement.",
+  "final_diagnosis": "The final diagnosis was Buruli ulcer, caused by Mycobacterium ulcerans. This was supported by the patient's presentation with progressive cutaneous ulcers in an endemic region of West Africa, the characteristic clinical findings including necrotic tissue and a contracture, and was ultimately confirmed by PCR from a wound swab detecting M. ulcerans. The clinical course, including the initial lack of response to broad-spectrum antibiotics and the need for specific antimycobacterial therapy and surgical intervention, further solidified the diagnosis.",
+  "disease_name_short": "Buruli ulcer",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "Fig. 41.1",
+      "caption": "Large skin ulcer on the back of the right hand filled with necrotic tissue; second smaller ulcer on the medial side of the wrist."
+    },
+    {
+      "file_name": "Fig. 41.2",
+      "caption": "At the end of specific treatment, the ulcer on the back of the hand had healed almost completely. However, the second, smaller ulcer had increased in size."
+    }
+  ]
+}

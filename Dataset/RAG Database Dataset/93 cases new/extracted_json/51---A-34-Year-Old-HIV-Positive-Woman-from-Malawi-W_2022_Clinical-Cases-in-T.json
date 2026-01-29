@@ -1,0 +1,28 @@
+{
+  "patient_information": "A 34-year-old Malawian woman, HIV-positive with a baseline CD4 count of 54/µL, was diagnosed with smear-positive pulmonary tuberculosis 5 months prior to presentation. She is divorced and does not have any children.",
+  "chief_complaint": "Slowly progressive weakness of the left arm and leg over approximately 3 months.",
+  "history_of_present_illness": "The problems started approximately 3 months earlier when she first noticed a limp in her left leg. The weakness progressed, and over the following weeks, her left arm also became affected. The onset appears insidious and has been slowly progressing since. She denies any head trauma, headache, recent episodes of fever, nausea, visual impairment or loss of weight. The review of systems is unremarkable.",
+  "exposure_and_epidemiology": "The patient is a Malawian woman who works as a street vendor selling mobile phone vouchers and lives in an urban high-density area.",
+  "vitals": "She is afebrile and her vital signs are normal.",
+  "physical_exam": "General examination revealed slightly pale conjunctivae. On fundoscopy, her fundi were normal without any signs of papilloedema or retinitis. Neurological examination revealed a spastic hemiparesis on the left with hyperreflexia. The power in the left leg was 2/5 (active movement with gravity eliminated) and in her left arm 3/5 (active movement against gravity). There was a pronator drift on the left. Sensation of pain was reduced in her left leg and hand. The examination of her cranial nerves was normal.",
+  "labs_and_diagnostics": "Full blood count showed WBC 3.8 × 10⁹/L (reference range: 4–10), haemoglobin 9.9g/dL (12–14), and platelets 140×10⁹/L (150-350). Routine CSF examination was normal, India Ink stain and fungal cultures were negative. A cranial CT scan showed a hypodense lesion in the subcortical white matter in the left occipital lobe. A cerebral MRI showed multifocal T2 hyperintense lesions exclusively affecting the white matter and more prominent in the right hemisphere (frontal and temporal lobes), and a small area of demyelination in the left cerebellar peduncle. These radiological findings were deemed strongly suggestive of PML.",
+  "differential_diagnosis": "The combination of spastic hemiparesis with hyperreflexia and sensory impairment affecting one half of the body localizes the lesion to her brain, with a subacute onset and slow progression. This makes ischaemic and haemorrhagic lesions ('strokes') unlikely. Focal brain lesions (FBLs) in HIV-infected individuals in tropical countries have a broad differential, including cerebral toxoplasmosis, progressive multifocal leukoencephalopathy, CNS lymphoma, cryptococcoma, CMV encephalitis, Mycobacterium tuberculosis infection of the brain parenchyma (tuberculoma or tuberculous abscess), brain tumour, brain metastases, or a cerebral abscess. Endemic tropical diseases such as neurocysticercosis or neuroschistosomiasis also need consideration. The patient developed a focal brain lesion 2 months after starting ART, suggesting immune reconstitution inflammatory syndrome (IRIS), which can 'unmask' or 'paradoxically deteriorate' pre-existing CNS infections such as tuberculoma, progressive multifocal leukoencephalopathy (PML), cryptococcoma, and toxoplasmosis. Given the patient's prior TB diagnosis, CNS tuberculosis deterioration post-ART was also a consideration.",
+  "management_and_clinical_course": "The patient was started on antituberculous therapy, vitamin B6, antiretroviral therapy (ART), and co-trimoxazole prophylaxis 5 months prior to presentation. After presentation, she was started on empirical antitoxoplasmosis treatment with high-dose co-trimoxazole, with ART and antituberculous treatment continued. Prednisolone 1 mg/kg bodyweight was added to cover for presumed IRIS. After 4 weeks of follow-up, her clinical status was unchanged. At 8 weeks, there was further deterioration of power in her left hand. Following the MRI results, a presumed diagnosis of PML was made. The patient was referred to a local rehabilitation centre for walking aids and the local palliative care team was involved.",
+  "final_diagnosis": "A presumed diagnosis of Progressive Multifocal Leukoencephalopathy (PML) was made. This diagnosis was strongly supported by MRI findings showing multifocal T2 hyperintense lesions exclusively affecting the white matter, particularly in the right hemisphere, and demyelination in the left cerebellar peduncle. The clinical presentation of progressive left-sided weakness in an HIV-positive patient with a low CD4 count, occurring 2 months after ART initiation, is consistent with PML-immune reconstitution inflammatory syndrome (PML-IRIS). PML is caused by the reactivation of the human JC polyomavirus, leading to demyelination.",
+  "disease_name_short": "Progressive Multifocal Leukoencephalopathy",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "Fig. 51.1",
+      "caption": "Pronator drift on the left side as a sign of left upper limb weakness. The patient was asked to stretch out both arms and close her eyes."
+    },
+    {
+      "file_name": "Fig. 51.2A",
+      "caption": "Cranial CT scan showing a hypodense lesion in the subcortical white matter in the left occipital lobe."
+    },
+    {
+      "file_name": "Fig. 51.2B",
+      "caption": "Cranial MRI showing bilateral T2 hyperintense (to grey matter) lesions in the subcortical white matter involving the so-called U-fibres resulting in a \"scalloped appearance\"."
+    }
+  ]
+}

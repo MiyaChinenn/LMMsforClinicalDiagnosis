@@ -1,0 +1,179 @@
+{
+  "patient_information": "A 51-year-old female Swiss traveller. The patient did not report any chronic underlying disease nor the intake of any medication.",
+  "chief_complaint": "A 51-year-old female presented with a generalized slightly pruritic maculopapular rash on the face, trunk, and extremities, and a non-purulent bilateral conjunctivitis, which developed 4-5 days after returning from a 2-week holiday to Central America.",
+  "history_of_present_illness": "A 51-year-old female Swiss traveller presented to the outpatient department 6 days after returning from a 2-week holiday to Guatemala and El Salvador. Four days after her return, the patient noticed a generalized slightly pruritic maculopapular rash on the face, trunk, and extremities. There was no fever and no other accompanying symptoms. On the next day the rash worsened and a non-purulent bilateral conjunctivitis developed. The patient did not report any chronic underlying disease nor the intake of any medication.",
+  "exposure_and_epidemiology": "The patient returned from a 2-week holiday to Guatemala and El Salvador. The clinical presentation is highly suggestive of an arboviral infection, with dengue, chikungunya, and zika being the three most important arboviral infections in Central and South America. Zika was absent in Central and South America until 2015, when it was introduced to Brazil and caused a pandemic affecting most tropical regions of the American continent.",
+  "vitals": "The patient was afebrile.",
+  "physical_exam": "Upon inspection there was conjunctivitis and a generalised maculopapular rash, also involving the face. Additionally, the patient showed tender oedema of the hands, elbows, knees and feet. There was also generalized lymphadenopathy (cervical, axillary, and inguinal).",
+  "labs_and_diagnostics": "The full blood count was normal. CRP was 8 mg/L (normal range <5) and creatinine was very mildly elevated (87 µmol/L, normal range 35-80 µmol/L). Liver function tests were normal. Rapid diagnostic tests for dengue and chikungunya were negative. Blood samples sent to a reference laboratory for arboviruses confirmed a Zika virus infection by positive RT-PCR in the first serum sample and seroconversion, with Zika IgM IIFT showing a rise from negative in the first serum sample to 1:640 in the second serum sample, and Zika IgG IIFT rising from 1:20 to 1:5120 between the first and second serum samples. Dengue IgG IIFT also showed a rise from 1:20 to 1:5120, which was interpreted as cross-reactivity, and Dengue NS1-Ag was negative in both samples.",
+  "differential_diagnosis": "The clinical presentation is highly suggestive of an arboviral infection. The three most important arboviral infections in Central and South America—dengue, chikungunya, and zika—were considered. Acute dengue, chikungunya, and zika infections have similar presentations and may be clinically indistinguishable. However, the presence of a skin rash, conjunctivitis and peripheral oedema in an afebrile patient was highly suggestive of a Zika virus infection.",
+  "management_and_clinical_course": "Arboviral infections are self-limiting and, in the absence of specific treatment options, clinical management is exclusively supportive.",
+  "final_diagnosis": "The final diagnosis was Zika virus infection, caused by the Zika virus. This was confirmed by positive Zika virus RT-PCR in the first serum sample and seroconversion of Zika IgM and IgG antibodies observed between the first and second serum samples. The negative rapid diagnostic tests for dengue and chikungunya, along with the patient's symptoms of rash, conjunctivitis, and peripheral oedema in an afebrile state following travel to an endemic area, supported the diagnosis of Zika.",
+  "disease_name_short": "Zika",
+  "tables": [
+    {
+      "title": "Comparative Clinical Symptom Patterns Observed in Dengue, Chikungunya and Zika Infections.",
+      "headers": [
+        "",
+        "Dengue",
+        "Chikungunya",
+        "Zika"
+      ],
+      "rows": [
+        [
+          "Incubation period(days)",
+          "4-10",
+          "3-7",
+          "3-12"
+        ],
+        [
+          "Asymptomaticinfection (%)",
+          "50-80",
+          "3-28",
+          "~80"
+        ],
+        [
+          "Fever",
+          "+++",
+          "+++",
+          "+"
+        ],
+        [
+          "Headache",
+          "+++",
+          "++",
+          "+"
+        ],
+        [
+          "Conjunctivitis",
+          "",
+          "",
+          "++"
+        ],
+        [
+          "Arthralgias",
+          "++",
+          "+++",
+          "+"
+        ],
+        [
+          "Myalgias",
+          "++",
+          "+",
+          "+"
+        ],
+        [
+          "Skin rash",
+          "++",
+          "++",
+          "+++"
+        ],
+        [
+          "Peripheral oedema",
+          "",
+          "",
+          "++"
+        ],
+        [
+          "Haemorrhagicmanifestations",
+          "++",
+          "(+)",
+          ""
+        ],
+        [
+          "Circulatory collapse/shock",
+          "+",
+          "",
+          ""
+        ],
+        [
+          "Thrombocytopenia",
+          "++",
+          "++",
+          ""
+        ],
+        [
+          "Lymphadenopathy",
+          "++",
+          "++",
+          "+"
+        ]
+      ]
+    },
+    {
+      "title": "Blood Test Results",
+      "headers": [
+        "",
+        "Firstserumsample†",
+        "Secondserumsample‡",
+        "Interpretation"
+      ],
+      "rows": [
+        [
+          "Dengue IgMIIFT",
+          "negative",
+          "negative",
+          "negative"
+        ],
+        [
+          "Dengue IgGIIFT",
+          "1:20",
+          "1:5120",
+          "cross-reactivity"
+        ],
+        [
+          "DengueNS1-Ag",
+          "negative",
+          "negative",
+          "negative"
+        ],
+        [
+          "ChikungunyaIgM ELISA",
+          "negative",
+          "ND",
+          "negative"
+        ],
+        [
+          "ChikungunyaIgM IIFT",
+          "ND",
+          "negative",
+          "negative"
+        ],
+        [
+          "ChikungunyaIgG IIFT",
+          "ND",
+          "negative",
+          "negative"
+        ],
+        [
+          "Zika IgM IIFT",
+          "negative",
+          "1:640",
+          "positive"
+        ],
+        [
+          "Zika IgG IIFT",
+          "1:20",
+          "1:5120",
+          "positive"
+        ],
+        [
+          "Zika RT-PCR",
+          "positive",
+          "ND",
+          "positive"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "image1.jpeg",
+      "caption": "Conjunctivitis, maculopapular skin rash, and peripheral oedema of the patient."
+    },
+    {
+      "file_name": "image2.jpeg",
+      "caption": "Kinetics of the different arboviral test parameters."
+    }
+  ]
+}

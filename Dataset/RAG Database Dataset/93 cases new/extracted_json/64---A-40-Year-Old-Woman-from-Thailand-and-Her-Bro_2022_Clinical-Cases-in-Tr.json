@@ -1,0 +1,115 @@
+{
+  "patient_information": "A 40-year-old Thai woman presents to an outpatient clinic in Germany. She is married, a housewife, and has lived in Germany for the past 13 years. Her past medical history is unremarkable.",
+  "chief_complaint": "Severe headache for the past 8 days.",
+  "history_of_present_illness": "The headache was of gradual onset and did not respond to any painkillers. She denies any fever, chills, visual problems, weakness of limbs, or memory problems. Ten days prior to presentation, she had returned from a 4-week journey to north-east Thailand. Three days before presentation, she attended a municipal hospital where a CT scan of her brain and a blood count were reported as normal; a differential white cell count was not done at that time.",
+  "exposure_and_epidemiology": "Ten days earlier she had returned from a 4-week journey to north-east Thailand, where she visited friends and relatives. During her visit she ate traditional regional dishes, including freshwater fish, seafood, snails and frogs. She reports that her brother-in-law, with whom she had shared several traditional meals, has also fallen ill with a severe headache.",
+  "vitals": "She is afebrile.",
+  "physical_exam": "On examination, her neck is supple and Lasègue's sign (straight leg raise) is negative. Pupils are equal, round and react to light and accommodation, and there are no cranial nerve palsies. The remainder of the neurological examination, including the assessment of higher cortical functions such as language, memory and praxia, is unremarkable. There is no rash, no oral thrush and there are no subcutaneous swellings. Cardiopulmonary examination is normal. Liver and spleen are not enlarged, and there is no lymphadenopathy.",
+  "labs_and_diagnostics": "Laboratory results at presentation: WBC 12.3 x 10^9/L (reference 4-10), Eosinophils 2.34 x 10^9/L (reference <0.5), Haemoglobin 11.7 mg/dL (reference 12-14), MCV 70 fL (reference 83-103), Platelets 330 x 10^9/L (reference 150-350), ESR 20 mm/h (reference <10), IgE 944 U/mL (reference <100), Creatinine 62 µmol/L (reference <80), ALT 28 U/L (reference <30), GGT 35 U/L (reference <40), C-reactive protein <5 mg/L (reference <5). A lumbar puncture showed cerebrospinal fluid with 1877 leukocytes/µL (reference value <5), 42% eosinophils, 39% lymphocytes, 18% monocytes and 1% neutrophils. CSF protein levels were elevated at 1.59 g/L (reference value <0.45), and glucose was 1.85 mmol/L (reference range: 2.2-3.9). Microscopic examination of the CSF revealed no larvae. Ziehl-Neelsen stain, cryptococcal antigen, and CSF culture for bacteria and fungi were negative. Urine and stool microscopy for Schistosoma ova, Taenia solium serology, Fasciola hepatica serology, and Paragonimus serologies were negative. Toxocara canis serology was weakly positive but did not change on follow-up. HIV serology was negative. The initial CSF opening pressure was elevated at 34 cmH2O (reference range 12-20). After discharge, Western Blot showed specific antibodies against 31kD Angiostrongylus cantonensis antigen.",
+  "differential_diagnosis": "The main differential diagnoses considered are fungal meningitis with Coccidioides immitis, lymphoma, eosinophilic leukaemia, sarcoid, and idiopathic hypereosinophilic syndrome. Rarely, neurocysticercosis, neuroschistosomiasis, paragonimiasis, fascioliasis, toxocariasis, baylisascariasis and trichinellosis can be associated with eosinophilic meningitis.",
+  "management_and_clinical_course": "Lumbar puncture relieved the patient's headache and was therefore repeated twice. No further specific treatment for the infection was prescribed, but she received iron tablets for a mild microcytic anaemia. The patient was discharged significantly improved after a 1-week hospital stay. After discharge, serology results confirmed specific antibodies against 31kD Angiostrongylus cantonensis antigen. No further treatment was prescribed. At 4-week follow-up, she had fully recovered and her peripheral eosinophil count had returned to normal.",
+  "final_diagnosis": "The final diagnosis is eosinophilic meningitis caused by Angiostrongylus cantonensis. This is supported by the patient's history of severe headache following a trip to north-east Thailand, where she consumed traditional regional dishes, and the similar illness in her brother-in-law. Laboratory findings of peripheral eosinophilia, elevated IgE levels, and particularly eosinophilic pleocytosis in the CSF, along with a high CSF opening pressure, were key. The diagnosis was confirmed by positive Western Blot for 31kD Angiostrongylus cantonensis antigen.",
+  "disease_name_short": "Angiostrongyliasis",
+  "tables": [
+    {
+      "title": "Laboratory Results at Presentation in the Clinic",
+      "headers": [
+        "Parameter (units)",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "WBC (x 10^9/L)",
+          "12.3",
+          "4-10"
+        ],
+        [
+          "Eosinophils (x 10^9/L)",
+          "2.34",
+          "<0.5"
+        ],
+        [
+          "Haemoglobin (mg/dL)",
+          "11.7",
+          "12-14"
+        ],
+        [
+          "MCV (fL)",
+          "70",
+          "83-103"
+        ],
+        [
+          "Platelets (x 10^9/L)",
+          "330",
+          "150-350"
+        ],
+        [
+          "ESR (mm/h)",
+          "20",
+          "<10"
+        ],
+        [
+          "IgE (U/mL)",
+          "944",
+          "<100"
+        ],
+        [
+          "Creatinine (µmol/L)",
+          "62",
+          "<80"
+        ],
+        [
+          "ALT (U/L)",
+          "28",
+          "<30"
+        ],
+        [
+          "GGT (U/L)",
+          "35",
+          "<40"
+        ],
+        [
+          "C-reactive protein (mg/L)",
+          "<5",
+          "<5"
+        ]
+      ]
+    },
+    {
+      "title": "Main Causes and Characteristics of Parasitic Eosinophilic Meningitis",
+      "headers": [
+        "Pathogen",
+        "Incubation Period",
+        "Source of Infection",
+        "Geography",
+        "Clinical Features",
+        "Serology"
+      ],
+      "rows": [
+        [
+          "Angiostrongylus cantonensis",
+          "2-35 days",
+          "Consumption of infected crustaceans, snails, prawns, crabs, frogs, and/or contaminated vegetables",
+          "South-east Asia, Pacific basin, Australia, Caribbean",
+          "Paraesthesia of trunk, limbs, or face",
+          "Western blot of antibodies against 31 kD antigen*"
+        ],
+        [
+          "Gnathostoma spinigerum",
+          "Days to months",
+          "Consumption of infected poultry or fish, snakes, frogs",
+          "South-east Asia (mainly Thailand), emerging in sub-Saharan Africa",
+          "Migrating subcutaneous swellings, creeping eruption, sharp radicular pain at onset",
+          "Western blot of antibodies against 24 kD antigen*"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "extracted_images/64---A-40-Year-Old-Woman-from-Thailand-and-Her-Bro_2022_Clinical-Cases-in-Tr/page2_img1.jpeg",
+      "caption": "Romanowski-Giemsa stain of the CSF sample revealing large numbers of eosinophils with red (eosinophilic) cytoplasm. (Courtesy Prof. Thomas Schneider)"
+    }
+  ]
+}

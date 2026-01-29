@@ -1,0 +1,96 @@
+{
+  "patient_information": "A 21-year-old male migrant from rural Mali. He comes from a poor family and is unable to read and write.",
+  "chief_complaint": "Splenomegaly and bicytopenia, with intermittent fever and some “heaviness\" on the left side of his abdomen for some time (duration difficult to specify).",
+  "history_of_present_illness": "The patient reports intermittent fever and some “heaviness\" on the left side of his abdomen for some time (the duration is difficult to specify). There are no night sweats and his weight appears to be stable. He has just been worked-up for splenomegaly and bicytopenia at the haematology department, but the underlying condition could not be established.",
+  "exposure_and_epidemiology": "The patient migrated from rural Mali to Germany and arrived 1 year prior. During his journey he crossed Niger and spent a few weeks at a detention centre in Libya until he made his way across the Mediterranean and through Italy to Germany.",
+  "vitals": "Temperature 36.1°C (96.98°F), BP 120/80mmHg, pulse 64 bpm.",
+  "physical_exam": "The patient appears clinically well. The spleen is massively enlarged (around 15 cm below the left costal margin), but there is no clinical anaemia and no lymphadenopathy. Heart sounds are clear and there are no murmurs. The rest of the examination is normal. Abdominal ultrasound showed spleen 21.8 cm in longitudinal diameter with homogenous parenchyma. The liver is normal in size and parenchyma. Flow of portal and splenic veins is normal. No lymphadenopathy and no free fluid.",
+  "labs_and_diagnostics": "Laboratory results at first presentation showed WBC 3.3 x 10^9/L (reference 4-10), Neutrophils 2.29 x 10^9/L (reference 1.8-7.2), Lymphocytes 1.4 x 10^9/L (reference 1.5-4), Monocytes 0.28 x 10^9/L (reference 0.2-0.5), Eosinophils 0.12 x 10^9/L (reference <0.5), Haemoglobin 13.8 g/dL (reference 13-15), Platelets 124 x 10^9/L (reference 150-350), LDH 185 U/L (reference <220), Total bilirubin 0.5 mg/dL (reference 0.2-1.2), IgM 8.59 g/l (reference 0.4-2.3), CRP 0.5 (reference <0.5), ESR 9/21 mm/h (reference <15/30). Plasmodium spp. (thick and thin film) were negative. P. falciparum IFAT was 1:256 (reference <1:32). HIV serology was negative; EBV and CMV serologies indicated previous infection. Serologies for schistosomiasis and leishmaniasis were negative, and blood culture yielded no pathogens. No ova of S. mansoni were found in the stool. PCR for P. falciparum came back positive.",
+  "differential_diagnosis": "Initial differential diagnoses included lymphoma or leukaemia, but these were deemed unlikely due to normal differential count, normal LDH, CRP and ESR. Visceral leishmaniasis was considered but ruled out due to the patient appearing clinically well without fever or weight loss. Schistosomiasis was ruled out as liver appeared normal on ultrasound and portal and splenic veins flow was normal, making portal hypertension unlikely. Bacterial endocarditis and brucellosis were considered, but the spleen was only moderately increased and no heart murmurs were present. EBV and CMV infections were also ruled out due to lack of lymphocytosis, elevated LDH and liver transaminases. The most likely differential diagnosis was hyperreactive malarial splenomegaly (HMS) based on high IgM titres, positive malaria serology, and positive P. falciparum PCR.",
+  "management_and_clinical_course": "An HIV test, serologies for schistosomiasis and visceral leishmaniasis, and blood cultures for Brucella species and bacterial endocarditis were ordered. Malaria PCR was ordered, and anti-malarial treatment was attempted. The patient received one single course of dihydroartemisinin/piperaquine, and reported episodes of fever subsided. Malaria PCR was still positive at follow-up 2 weeks later, but has remained negative since then. Authorities threatened to deport him, but a medical letter citing high risk for splenic rupture in rural Mali secured his stay. The patient has been monitored for 2.5 years; IgM levels took 2 years to normalize, and spleen size slowly decreased, remaining slightly enlarged (14 cm in diameter) at his last visit. He became well, spoke fluent German, went to school, learned to read and write, and planned vocational training.",
+  "final_diagnosis": "The final diagnosis for the patient is hyperreactive malarial splenomegaly (HMS). This diagnosis was supported by the patient's history of migration from rural Mali, massive splenomegaly, intermittent fever, mild bicytopenia, significantly elevated IgM levels, positive malaria serology (P. falciparum IFAT 1:256), and a positive PCR for Plasmodium falciparum, despite negative blood films. The patient showed a favorable clinical response to a single course of dihydroartemisinin/piperaquine, with fever subsiding and a gradual reduction in spleen size and normalization of IgM levels over two years.",
+  "disease_name_short": "Hyperreactive Malarial Splenomegaly",
+  "tables": [
+    {
+      "title": "Laboratory Results at First Presentation",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference Range"
+      ],
+      "rows": [
+        [
+          "WBC (x 10^9/L)",
+          "3.3",
+          "4-10"
+        ],
+        [
+          "Neutrophils (x 10^9/L)",
+          "2.29",
+          "1.8-7.2"
+        ],
+        [
+          "Lymphocytes (x 10^9/L)",
+          "1.4",
+          "1.5-4"
+        ],
+        [
+          "Monocytes (x 10^9/L)",
+          "0.28",
+          "0.2-0.5"
+        ],
+        [
+          "Eosinophils (x 10^9/L)",
+          "0.12",
+          "<0.5"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "13.8",
+          "13-15"
+        ],
+        [
+          "Platelets (x 10^9/L)",
+          "124",
+          "150-350"
+        ],
+        [
+          "LDH (U/L)",
+          "185",
+          "<220"
+        ],
+        [
+          "Total bilirubin (mg/dL)",
+          "0.5",
+          "0.2-1.2"
+        ],
+        [
+          "IgM (g/l)",
+          "8.59",
+          "0.4-2.3"
+        ],
+        [
+          "CRP",
+          "0.5",
+          "<0.5"
+        ],
+        [
+          "ESR mm/h",
+          "9/21",
+          "<15/30"
+        ],
+        [
+          "Plasmodium spp. (thick and thin film)",
+          "negative",
+          "negative"
+        ],
+        [
+          "P. falciparum IFAT",
+          "1:256",
+          "<1:32"
+        ]
+      ]
+    }
+  ],
+  "images": []
+}

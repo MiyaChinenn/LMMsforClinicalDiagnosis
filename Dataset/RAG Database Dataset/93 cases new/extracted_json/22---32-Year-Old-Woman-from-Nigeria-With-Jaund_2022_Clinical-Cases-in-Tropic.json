@@ -1,0 +1,20 @@
+{
+  "patient_information": "A 32-year-old, previously fit woman of African descent born in Europe.",
+  "chief_complaint": "Fever, jaundice, and confusion, developing almost 3 weeks after returning from a visit to rural Nigeria.",
+  "history_of_present_illness": "According to her husband, 18 days after her return to Europe she developed a fever, and 3 days later became very unwell with abnormal behaviour.",
+  "exposure_and_epidemiology": "Travelled to rural Jos in Nigeria to visit relatives. She returned to Europe 18 days prior to symptom onset.",
+  "vitals": "Temperature of 37.5°C (99.5°F).",
+  "physical_exam": "Mildly jaundiced and confused; her Glasgow Coma Scale is 14/15. She has no rash or palpable lymph nodes, and throat and sclerae are not injected. She has some fine crepitations at the lung bases.",
+  "labs_and_diagnostics": "The laboratory initially refused to undertake tests because of recent rural exposure in an area known to have viral haemorrhagic fever (Lassa). Later, she was found to have a Plasmodium falciparum parasite count of 18% and a plasma creatinine of 430 µmol/L (reference range 45–90 µmol/L), demonstrating acute kidney injury. Urine output failed to respond to fluid challenges, ruling out pre-renal failure. Chest radiography findings were suggestive of ARDS.",
+  "differential_diagnosis": "The differential diagnosis included severe falciparum malaria, acute viral hepatitis, typhoid fever, leptospirosis, ascending cholangitis, advanced HIV disease, Gram-negative sepsis, and viral haemorrhagic fever (VHF). Severe falciparum malaria was considered the most common cause of fever, jaundice, and confusion in West Africa. Arguments against acute viral hepatitis included fever preceding jaundice and an untypical rapid fulminant course. VHF was considered a possible diagnosis due to recent rural exposure in a high-risk area, but it was noted to be very rare, the 18-day incubation period was at the outer limit for Lassa fever and other VHFs (generally up to 21 days), and the absence of injected sclerae or rash argued against it.",
+  "management_and_clinical_course": "She was treated with intravenous artesunate, which led to a drop in parasite count to 5%. However, she lapsed into deep coma, and her renal function deteriorated, necessitating haemofiltration. After parasites cleared on day 5, her consciousness level improved, but she developed laboured breathing, requiring prolonged respiratory support for ARDS. She eventually made a full recovery.",
+  "final_diagnosis": "The final diagnosis was severe falciparum malaria. This was confirmed by a Plasmodium falciparum parasite count of 18% and epidemiological exposure to rural Nigeria. Complications included acute kidney injury, deep coma, and ARDS, all consistent with severe malaria.",
+  "disease_name_short": "Malaria",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "Fig. 22.1",
+      "caption": "Global distribution of Plasmodium falciparum and Plasmodium vivax malaria. Upper panel shows the model-based geostatistical point (MBG) estimates of the Plasmodium falciparum annual mean parasite rate PfPR2-10 (defined as the predicted proportion of 2-10-year-olds with patent parasitaemia) for 2010 within the spatial limits of stable P. falciparum malaria transmission. Lower panel shows equivalent estimates of the Plasmodium vivax annual mean parasite rate (PvPR1-99). Note this prediction is for all age groups (1-99). Areas in which the Duffy negativity gene frequency is predicted to exceed 90% are shown in hatching. (Reproduced from Farrar, J. et al., 2013. Manson's Tropical Diseases, 23rd ed. Elsevier, London. Fig. 43.1.)"
+    }
+  ]
+}

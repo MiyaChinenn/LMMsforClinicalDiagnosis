@@ -1,0 +1,110 @@
+{
+  "patient_information": "A 53-year-old Malawian man with newly diagnosed HIV-infection and advanced immunosuppression (CD4 count 54 cells/µL). He is a subsistence farmer, non-smoker, married with five children, all of whom are well. He is currently not on any medication and his past medical history is unremarkable. He has not taken any co-trimoxazole prophylaxis.",
+  "chief_complaint": "A productive cough and whitish sputum for 3 months, accompanied by night sweats and some unquantifiable weight loss.",
+  "history_of_present_illness": "Two months prior to current presentation, he had presented to a health centre with the same complaints. He was given presumptive antimalarials and amoxicillin for 5 days, but without improvement. His fever persisted, even though the cough subjectively improved slightly after initial treatment for a possible bacterial chest infection.",
+  "exposure_and_epidemiology": "He is a subsistence farmer and has never worked in a mine or in the construction industry. The patient is not aware of any tuberculosis (TB) contacts, though the text notes that in resource-limited countries, exposure to TB is common.",
+  "vitals": "Temperature 38.8°C (101.8°F), blood pressure 100/80 mmHg, pulse 88 bpm, oxygen saturation 97% on ambient air.",
+  "physical_exam": "The patient is slightly wasted and appears mildly anaemic. Inspection of his mouth revealed no oral thrush, Kaposi's sarcoma, or oral hairy leukoplakia. His chest was clear with normal heart sounds and no murmurs. There was no lymphadenopathy, and his liver and spleen were not enlarged.",
+  "labs_and_diagnostics": "The HIV-test was reactive. Laboratory results on admission included: WBC 3.2 (x10^9/L) (Reference 4-10), Haemoglobin 9.8 (g/dL) (Reference 13-15), MCV 90 (fL) (Reference 80-98), Platelets 305 (x10^9/L) (Reference 150-350), CD4 count 54 (cells/µL) (Reference 500-1200), Sputum for AFB 2 x negative (Reference Negative), Malaria RDT Negative (Reference Negative), Thick smear for Plasmodium spp. Negative (Reference Negative). His chest radiograph on admission showed a prominent hilar region bilaterally but was otherwise normal. Induced sputum results came back negative for AFB, and no sputum PCR was available. The patient's exercise test (walking down the hospital corridor three times at a fast pace) showed oxygen saturation of 98% as opposed to 97% at rest, and was therefore negative.",
+  "differential_diagnosis": "Given the patient is HIV-positive with advanced immunosuppression, a productive cough, and weight loss not responding to initial antibiotic therapy, smear-negative pulmonary TB is the most likely diagnosis. Other considerations include Pneumocystis jirovecii pneumonia (PCP) due to advanced immunosuppression and lack of co-trimoxazole prophylaxis, and concomitant bacterial chest infection, though less likely to explain the chronic illness. Pulmonary Kaposi's sarcoma (KS) was also considered but deemed unlikely due to the absence of KS manifestations elsewhere and typical chest radiography findings. Pulmonary malignancy or sarcoidosis were considered much less likely in this setting. Gram-negative sepsis secondary to invasive non-typhoidal Salmonellae (iNTS) was also considered in this febrile and anaemic patient with advanced immunosuppression.",
+  "management_and_clinical_course": "Initially, the patient was given presumptive antimalarials and amoxicillin for 5 days without success. Later, he was treated for a possible bacterial chest infection with ceftriaxone 2g IV od and erythromycin 500mg qid for 5 days, and received prophylactic co-trimoxazole (480mg bid). Despite this, his fever persisted, though cough improved slightly. On day 7 in the hospital, he was started on empirical treatment for smear-negative TB with four antituberculous drugs: Isoniazid (H), Rifampicin (R), Pyrazinamide (P), and Ethambutol (E). After the first week of TB treatment, he felt better, his fever resolved, and the cough gradually settled. He was discharged home and three weeks into TB treatment, he was doing well and had started antiretroviral therapy.",
+  "final_diagnosis": "The final diagnosis is smear-negative pulmonary tuberculosis in a 53-year-old Malawian man with newly diagnosed HIV and advanced immunosuppression. This is supported by his chronic productive cough, night sweats, weight loss, and fever, coupled with a negative sputum for AFB and prominent hilar region on chest radiograph. The diagnosis is further substantiated by the absence of other typical features for alternative diagnoses like Kaposi's sarcoma and the significant clinical improvement observed after initiating empirical antituberculous treatment.",
+  "disease_name_short": "Tuberculosis",
+  "tables": [
+    {
+      "title": "Laboratory Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "WBC (×109/L)",
+          "3.2",
+          "4-10"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "9.8",
+          "13-15"
+        ],
+        [
+          "MCV (fL)",
+          "90",
+          "80-98"
+        ],
+        [
+          "Platelets (×109/L)",
+          "305",
+          "150-350"
+        ],
+        [
+          "CD4 count (cells/µL)",
+          "54",
+          "500-1200"
+        ],
+        [
+          "Sputum for AFB",
+          "2 × negative",
+          "Negative"
+        ],
+        [
+          "Malaria RDT",
+          "Negative",
+          "Negative"
+        ],
+        [
+          "Thick smear for Plasmodium spp.",
+          "Negative",
+          "Negative"
+        ]
+      ]
+    },
+    {
+      "title": "Clinical Presentation of TB in Patients With and Without Immunosuppression",
+      "headers": [
+        "",
+        "HIV-negative or high CD4 count (>200/µL)",
+        "Low CD4 count (<200/µL)"
+      ],
+      "rows": [
+        [
+          "Cough and sputum production",
+          "Severe, productive",
+          "Often mild, small amounts of whitish sputum"
+        ],
+        [
+          "Haemoptysis",
+          "Common",
+          "Rare"
+        ],
+        [
+          "Chest radiography appearance",
+          "Cavities, upper lobe infiltrates and destruction",
+          "No cavities Infiltrates Hilar lymphadenopathy Miliary pattern May be completely normal"
+        ],
+        [
+          "Sputum smear result",
+          "Often positive",
+          "Often negative"
+        ],
+        [
+          "Extrapulmonary and disseminated TB*",
+          "<20% of TB cases",
+          "Common, about 50%"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "Fig. 33.1",
+      "caption": "Chest radiograph on admission showing a prominent hilar region."
+    },
+    {
+      "file_name": "Fig. 33.2",
+      "caption": "Chest radiograph of a patient with miliary TB."
+    }
+  ]
+}

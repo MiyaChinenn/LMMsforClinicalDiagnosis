@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 64-year-old Japanese man with a medical history of hypertension and right cerebellar infarction.",
+  "chief_complaint": "Generalized tonic-clonic seizures followed by weakness of the right lower extremity.",
+  "history_of_present_illness": "The patient was admitted to a local hospital due to generalized tonic-clonic seizures followed by weakness of the right lower extremity. He had a medical history of hypertension and right cerebellar infarction; however, recent simple partial seizures were well controlled by administration of an antiepileptic agent.",
+  "exposure_and_epidemiology": "The infection route in the present case was probably through consumption of raw chicken meat, which the patient ate approximately once a month before the generalized seizure. Sparganosis is a food-borne zoonosis acquired by drinking untreated freshwater or eating undercooked meat of snakes and frogs, or by application of infested flesh on open wounds or the eyes during medical procedures.",
+  "vitals": "The patient was afebrile on admission.",
+  "physical_exam": "On admission, GCS was 15/15 and the neurological examination did not reveal any abnormality.",
+  "labs_and_diagnostics": "Laboratory results showed no abnormalities, including no eosinophilia or leukocytosis. Head CT revealed a small high-density nodule with an enhanced perifocal low-density area in the left occipital lobe. MRI showed a ring-enhancing, tunnel-shaped lesion in the left occipital lobe, with a \"tunnel sign\" appearing as hypointensity in T1-weighted and hyperintensity in T2-weighted images. Angiography findings were normal, except for right vertebral artery occlusion. Enzyme-linked immunosorbent assay (ELISA) results of serum and cerebrospinal fluid revealed strong positivity for Spirometra mansoni.",
+  "differential_diagnosis": "Differential diagnoses considered include brain tumours or metastases, neurocysticercosis, cerebral schistosomiasis, paragonimiasis, cerebral toxoplasmosis (in immunocompromised patients), cerebral cryptococcomas, and tuberculomas.",
+  "management_and_clinical_course": "Open surgery with craniotomy was performed to target the lesion. A white tape-like body, a live worm-like structure identified as a sparganum, was exposed and carefully removed from the brain. After surgical removal of the worm, the patient was well without seizures at the most recent examination.",
+  "final_diagnosis": "The patient was finally diagnosed with cerebral sparganosis. This was confirmed by the surgical removal of a live worm-like structure, identified as a sparganum (larvae of Spirometra), from the left occipital lobe of the brain. Further supporting evidence included characteristic imaging findings such as a ring-enhancing, tunnel-shaped lesion on MRI, and strong positivity for Spirometra mansoni in serum and cerebrospinal fluid ELISA. The probable infection route was the consumption of raw chicken meat.",
+  "disease_name_short": "Cerebral Sparganosis",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "Fig. 84.1",
+      "caption": "MRI A. T1-weighted MRI showing a ring-shaped nodule with gadolinium enhancement in the left occipital lobe. B. T2-weighted image showing an area of hyperintensity associated with an adjacent ventricular dilation. C, D. Post-contrast coronal and sagittal T1-weighted images demonstrating a tunnel-shaped enhancement, so-called tunnel sign."
+    },
+    {
+      "file_name": "Fig. 84.2",
+      "caption": "Images of the Sparganum A. Intraoperative photograph showing a live sparganum during removal from the cortex. B. Whole body of extracted sparganum with anterior end enclosed by red square. The sparganum was wrinkled and whitish, and measured 1 to 3 mm in width and up to 12.5 cm in length at maximum extension. C. Five successive images from video recording. The anterior end showed active repeated movements of extension and constriction."
+    }
+  ]
+}

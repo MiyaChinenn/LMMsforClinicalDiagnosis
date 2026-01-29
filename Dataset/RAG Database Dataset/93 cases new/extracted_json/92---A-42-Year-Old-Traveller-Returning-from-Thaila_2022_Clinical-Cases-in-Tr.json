@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 42-year-old German man with an unremarkable past medical history.",
+  "chief_complaint": "A 6-day history of fever up to 40°C (104°F), arthralgias, and retro-orbital pain.",
+  "history_of_present_illness": "For the past 6 days, the patient had fever up to 40°C (104°F), arthralgias, and retro-orbital pain. The day before presentation, he returned from a 10-week trip to Thailand.",
+  "exposure_and_epidemiology": "The patient returned from a 10-week trip to Thailand, having spent 2 months on Little Koh Chang, an island in the Andaman Sea, followed by 5 days in Hua Hin at the Gulf of Thailand, and another 5 days in Bangkok. He had not taken any antimalarial chemoprophylaxis, which was in line with national recommendations for this trip in his home country.",
+  "vitals": "On examination, GCS is 15/15, Temperature 39.1°C (102.4°F), BP 156/80 mmHg, pulse 106 beats per minute, respiratory rate 16 breath cycles per minute, SpO2 95% on ambient air.",
+  "physical_exam": "There was no skin rash and no lymphadenopathy. Upon auscultation, his chest was clear. Abdominal examination did not show any intercostal tenderness, no tenderness on palpation and no organomegaly.",
+  "labs_and_diagnostics": "Full blood count showed thrombocytopenia of 81 × 10^9/L (reference: 150–300) and was otherwise normal. CRP was 55 mg/L (reference: <5), AST 62 U/L (reference: 10–50 U/L), ALT 106 U/L (reference: 10–50). Dengue NS1 antigen test was negative, and the rapid diagnostic test for malaria (which detects Plasmodium falciparum-specific histidine-rich protein II and the panmalarial aldolase) was negative. A thick blood film showed Plasmodium species trophozoites at a density of 920/μL. On thin film, the initial microscopist was unable to determine the Plasmodium species. Subsequently, repeat malaria microscopy by a head parasitologist, after intense reading of the Giemsa-stained thin blood film, identified 2 parasite-infected erythrocytes with morphological characteristics compatible with Plasmodium malariae or P. knowlesi infection. Species-specific PCR confirmed the presence of a mono-infection with P. knowlesi.",
+  "differential_diagnosis": "Given the clinical syndrome of fever, retro-orbital pain, arthralgias, and thrombocytopenia after a visit to Thailand, the most likely differential diagnosis was dengue fever, despite the borderline long duration of fever and a negative dengue NS1 antigen test. Chikungunya and Zika were also considered important arboviral infections. Influenza was another important differential diagnosis. Acute HIV infection and enteric fever (typhoid and paratyphoid fever) were also considered, with malaria being a critical rule-out in any febrile traveller returning from an endemic area, especially with thrombocytopenia, despite a negative rapid diagnostic test.",
+  "management_and_clinical_course": "The patient was admitted to the infectious diseases ward. Treatment was started with atovaquone/proguanil 250/100mg, 4 tablets once daily for 3 days. The patient rapidly recovered and was discharged on the fourth day.",
+  "final_diagnosis": "The final diagnosis was a mono-infection with Plasmodium knowlesi, confirmed by species-specific PCR. This diagnosis was initially suspected after repeat malaria microscopy showed Plasmodium species trophozoites with morphological characteristics compatible with P. malariae or P. knowlesi, despite initial negative rapid diagnostic tests for malaria. The patient presented with fever, arthralgias, retro-orbital pain, thrombocytopenia, and elevated liver enzymes following extensive travel in Thailand.",
+  "disease_name_short": "Knowlesi Malaria",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "image_92_1.jpg",
+      "caption": "Young trophozoite (ring form) of P. knowlesi (Giemsa-stained thin film)."
+    },
+    {
+      "file_name": "image_92_2.jpg",
+      "caption": "Late trophozoite (band form) of P. knowlesi (Giemsa-stained thin film)."
+    }
+  ]
+}

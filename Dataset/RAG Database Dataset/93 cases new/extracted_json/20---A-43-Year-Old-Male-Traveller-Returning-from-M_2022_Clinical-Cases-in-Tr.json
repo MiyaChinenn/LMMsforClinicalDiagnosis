@@ -1,0 +1,75 @@
+{
+  "patient_information": "A 43-year-old German man. His past medical history is unremarkable.",
+  "chief_complaint": "Fever, presenting on 21 May, with recurrent fever for the past 3 days.",
+  "history_of_present_illness": "A 43-year-old German man presents on 21 May because of fever. He reports recurrent fever for the past 3 days. The day before presentation his temperature was as high as 39.8°C (103.6°F). He also has some headache and diarrhoea. He reports self-treatment for malaria with atovaquone/proguanil because of fever (27 April to 29 April).",
+  "exposure_and_epidemiology": "He had been in Mozambique from 16 April to 30 April, and travelled to Chile afterwards from 30 April to 17 May. He did not take any malaria chemoprophylaxis in Mozambique. He reports freshwater contact in a small lake near Maputo.",
+  "vitals": "Temperature of 39.2°C (102.6°F) on presentation, with a reported high of 39.8°C (103.6°F) the day before.",
+  "physical_exam": "43-year-old male, febrile, with a temperature of 39.2°C (102.6°F). The rest of the physical examination is normal and there is no rash, no hepatomegaly, no splenomegaly and no lymphadenopathy.",
+  "labs_and_diagnostics": "Relevant laboratory results on admission include: WBC 9.0 ×10^9/L (Ref: 4-11.3), Eosinophils 2.1 ×10^9/L (Ref: <0.5), LDH 422 U/L (Ref: 135-225), Creatinine 88.4 µmol/L (Ref: 53-106), AST/GOT 106 U/L (Ref: 10-50), ALT/GPT 179 U/L (Ref: 10-50), GGT 186 U/L (Ref: <65), and C-reactive protein 57.9 mg/L (Ref: <5). Electrocardiogram was normal. Chest radiography revealed some nodular lesions ranging in size from 2 to 5mm in the periphery of the lower lung zones bilaterally, which was confirmed by a CT scan of his chest. Thick films for Plasmodium species were negative. Microscopy of stool and urine samples for Schistosoma eggs were three times negative. Initial antischistosomal antibodies using an enzyme-immunoassay and an immunofluorescence assay (IFA) both came back negative. Four weeks later, antischistosomal antibodies could be detected (IFA 1:1280, cercarial- and egg-ELISA positive) and S. mansoni ova were found in the stool.",
+  "differential_diagnosis": "The patient's travel history to Mozambique without malaria chemoprophylaxis necessitates excluding malaria. Other common and potentially life-threatening causes of pyrexia in a returned traveller like typhoid fever and amoebic liver abscess should be excluded, although typhoid fever typically causes eosinopaenia. Viral hepatitis (including hepatitis E), EBV, and CMV infections are also considered due to elevated liver enzymes, though EBV and CMV cause lymphocytosis rather than eosinophilia. Other bacterial infections such as leptospirosis, rickettsioses, Q-fever, brucellosis, secondary syphilis, and relapsing fever are differentials, but do not explain the pronounced eosinophilia. Given the eosinophilia and freshwater contact in the tropics, helminth infections, specifically acute schistosomiasis (Katayama syndrome) and acute fascioliasis, are the most relevant differential diagnoses.",
+  "management_and_clinical_course": "The patient was treated with praziquantel after a diagnosis of schistosomiasis was established based on later positive serology and identification of S. mansoni ova in stool.",
+  "final_diagnosis": "The final diagnosis was schistosomiasis, caused by S. mansoni. This was supported by a history of freshwater contact in Mozambique, a pronounced eosinophilia (2.1 x 10^9/L), elevated liver enzymes, and bilateral nodular lung lesions on chest imaging. Initially, thick films for Plasmodium and microscopy for Schistosoma eggs were negative, as were antischistosomal antibodies. However, four weeks later, antischistosomal antibodies became positive (IFA 1:1280, cercarial- and egg-ELISA positive) and S. mansoni ova were found in the stool, confirming the diagnosis.",
+  "disease_name_short": "Acute Schistosomiasis",
+  "tables": [
+    {
+      "title": "Laboratory Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "WBC (×10^9/L)",
+          "9.0",
+          "4-11.3"
+        ],
+        [
+          "Eosinophils (×10^9/L)",
+          "2.1",
+          "<0.5"
+        ],
+        [
+          "LDH (U/L)",
+          "422",
+          "135-225"
+        ],
+        [
+          "Creatinine (µmol/L)",
+          "88.4",
+          "53-106"
+        ],
+        [
+          "AST/GOT (U/L)",
+          "106",
+          "10-50"
+        ],
+        [
+          "ALT/GPT (U/L)",
+          "179",
+          "10-50"
+        ],
+        [
+          "GGT (U/L)",
+          "186",
+          "<65"
+        ],
+        [
+          "C-reactive protein (mg/L)",
+          "57.9",
+          "<5"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "image_0.jpeg",
+      "caption": "Chest radiograph showing nodular changes in the periphery of both lungs."
+    },
+    {
+      "file_name": "image_1.jpeg",
+      "caption": "Schistosoma mansoni egg."
+    }
+  ]
+}

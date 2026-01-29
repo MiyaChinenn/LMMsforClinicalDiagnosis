@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 35-year-old woman from Malawi who is HIV-positive and has been on antiretroviral treatment for the past 3 years. Her CD4 count is unknown.",
+  "chief_complaint": "A painful ocular tumour of the left eye, leading to referral for exenteration.",
+  "history_of_present_illness": "Symptoms started 8 months prior with a whitish lesion on the conjunctiva of her left eye. She was prescribed non-specified eye drops at a health centre, but the lesion grew bigger and turned reddish over subsequent months. She also sought treatment from a traditional healer who prescribed herbal eye drops, which were ineffective. The lesion continued to grow constantly, leading to loss of eyesight in the affected eye. Pain also increased, prompting her presentation to her local district hospital.",
+  "exposure_and_epidemiology": "The patient is from Malawi and is HIV-positive. Ocular surface squamous neoplasia (OSSN) is commonly seen in HIV-positive individuals in sub-Saharan Africa. HIV infection, ultraviolet radiation (UV), and human papilloma virus (HPV) are strongly associated with OSSN.",
+  "vitals": "She is afebrile.",
+  "physical_exam": "Localized swelling of the left eyeball and orbit was noted, with incomplete lid closure. Visual acuity on the right side was 6/6, while the left eye had no light perception. Her left preauricular lymph nodes were swollen. The rest of her physical examination was unremarkable.",
+  "labs_and_diagnostics": "The patient's CD4 count is unknown. While not yet performed, a fundoscopy was recommended to detect abnormalities, especially an upcoming cytomegalovirus infection. Checking her HIV viral load was also recommended.",
+  "differential_diagnosis": "The lesion is most likely an advanced ocular surface squamous neoplasia (OSSN). Early stages of OSSN may be confused with pterygium, amelanotic naevus, or a lipoma. Malignant lesions such as amelanotic melanomas, lymphomas, or adenocarcinomas may also appear similar.",
+  "management_and_clinical_course": "The patient was recommended to be started on analgesic treatment with nonsteroidal antiinflammatory drugs, counselled, and booked for an extended exenteration of the left eyeball and orbit. Control of her HIV infection was deemed crucial, with a recommendation to check her HIV viral load and to examine the right eye for possible early-stage OSSN. Despite counselling, the patient refused surgical intervention and opted for conservative treatment. Her left orbit was covered with antibiotics and bandaged. After her pain was sufficiently controlled, she was discharged with an offer to return at any time and advised to report to her antiretroviral therapy (ART) clinic for control of the viral load and possible switch of her antiretroviral therapy.",
+  "final_diagnosis": "The final diagnosis is advanced ocular surface squamous neoplasia (OSSN), strongly supported by the clinical presentation of a progressively growing, painful ocular tumour leading to vision loss and proptosis in an HIV-positive patient from Malawi. The patient's HIV status is a significant epidemiological risk factor for OSSN in sub-Saharan Africa. Although histopathological confirmation is not explicitly stated as performed, the clinical course and discussion align with this diagnosis.",
+  "disease_name_short": "Ocular Surface Squamous Neoplasia",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "Fig. 43.1",
+      "caption": "Left eye with marked axial proptosis, nasal upper lid covered with tetracycline eye ointment."
+    },
+    {
+      "file_name": "Fig. 43.2",
+      "caption": "Squamous cell carcinoma of the conjunctiva (SCCC). The lesion is commonly seen in HIV patients in the tropics and should not be missed during routine clinical examination. (Courtesy Nicholas A.V. Beare)."
+    }
+  ]
+}

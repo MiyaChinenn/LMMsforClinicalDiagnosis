@@ -1,0 +1,15 @@
+{
+  "patient_information": "A 62-year-old woman from rural Ethiopia, normally fit and well and very physically active, working on her smallholding.",
+  "chief_complaint": "Difficulty chewing, described as 'stiffness of the mouth', for three days.",
+  "history_of_present_illness": "Three days after arriving in Europe, she developed difficulty chewing, which she described as 'stiffness of the mouth'. This had never happened before.",
+  "exposure_and_epidemiology": "Originally from rural Ethiopia, she worked on her smallholding, a risk factor for tetanus. She had flown to Europe to visit her daughter.",
+  "vitals": "Her pulse, blood pressure and respiratory rate were within normal limits.",
+  "physical_exam": "No abnormal findings were discovered on examination.",
+  "labs_and_diagnostics": "An ESR was recommended to exclude Giant Cell Arteritis (GCA), though no results were provided. The diagnosis of tetanus was purely clinical.",
+  "differential_diagnosis": "Important differential diagnoses for stiffness on mastication include early tetanus, given her origin from a less developed country, agricultural work, and unlikely vaccination status. Giant cell arteritis (GCA) is another differential for trismus in older people, for which an ESR was recommended. Tetanus diagnosis is clinical and often preceded by trismus.",
+  "management_and_clinical_course": "On day 1, she received metronidazole and antitoxin for possible tetanus. On day 2, she presented with two generalized spasms. Over the next 2 days, she was nursed in a dark, quiet environment. Her spasms increased in frequency, severity, and duration over the next 5 days, and she developed dysphagia. Treatment included diazepam and intrathecal antitoxin, and a prophylactic tracheotomy was performed due to the risk of laryngeal spasms. Her symptoms stabilized after 7 days, and she did not require paralysis or ventilation. She made a slow recovery over 3 weeks, still experiencing stiffness when seen 3 months later.",
+  "final_diagnosis": "The final diagnosis was Tetanus. The diagnosis was clinical, supported by her presentation with trismus, which progressed to generalized spasms and dysphagia, alongside her epidemiological risk factors of being from rural Ethiopia and working on a smallholding, implying unlikely vaccination. Her clinical course, including initial deterioration followed by stabilization with appropriate tetanus-specific treatments like metronidazole, antitoxin (intrathecally), diazepam, and prophylactic tracheotomy, was consistent with severe tetanus. Her slow recovery and persistent stiffness align with the known sequelae of the disease.",
+  "disease_name_short": "Tetanus",
+  "tables": [],
+  "images": []
+}

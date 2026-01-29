@@ -1,0 +1,61 @@
+{
+  "patient_information": "An 18-year-old right-handed man from India, otherwise well, with no family history of skin problems.",
+  "chief_complaint": "A pale patch on his right arm and forearm for 3 months, accompanied by mild numbness of the little finger of the right hand.",
+  "history_of_present_illness": "The pale patch on his right arm and forearm developed over 3 months and is not itchy or painful. He reports reduced sensation in the affected area and mild numbness of the little finger of the right hand, but no weakness.",
+  "exposure_and_epidemiology": "The patient is from India, a leprosy-endemic country. Leprosy awareness campaigns in such regions often advise people to get pale patches checked.",
+  "vitals": "null",
+  "physical_exam": "There is a 20 cm by 10 cm hypopigmented macule on the outer aspect of the right arm extending onto the forearm, with dry skin. Sensation within the hypopigmented area is reduced compared with normally pigmented skin. The rest of the skin examination is normal. Both ulnar nerves are palpable, but the right ulnar nerve is thickened. Reduced sensation is noted on the tip and ulnar border of the right little finger. No other neurological abnormalities were found.",
+  "labs_and_diagnostics": "No additional investigations were required because the patient presented with the two clinical cardinal signs of leprosy: a hypopigmented skin lesion with reduced sensation and a thickened nerve. Where available, clinicians may elect to perform a skin biopsy and slit-skin smears; a skin biopsy in this case would likely show granulomatous dermatitis with destruction of cutaneous nerves, and a slit-skin smear would likely be negative.",
+  "differential_diagnosis": "Hypopigmented skin lesions are very common and may be a non-specific sequela of inflammatory or traumatic processes such as dermatitis or a burn. Common causes of hypopigmentation include pityriasis alba, pityriasis versicolor, and seborrheic dermatitis, while vitiligo causes depigmentation. However, a hypopigmented anaesthetic patch is a cardinal sign of leprosy, and the combination of a skin problem and signs of a neuropathy should always raise the suspicion of leprosy, especially in leprosy-endemic regions.",
+  "management_and_clinical_course": "The patient was diagnosed with paucibacillary leprosy and commenced on rifampicin 600 mg once monthly and dapsone 100 mg once monthly and 100 mg daily on other days, which he took for 6 months. The sensory neuropathy was treated with oral prednisolone starting at 30 mg daily, reduced by 5 mg each month. The patient received extensive counseling about the cause of leprosy and was reassured he was not an infection risk to his family or friends, who were examined and found to have no signs of leprosy. He was advised on hand care and trauma avoidance, and made a full recovery.",
+  "final_diagnosis": "The final diagnosis for the 18-year-old man from India was paucibacillary leprosy, caused by Mycobacterium leprae. This diagnosis was based on the clinical presentation of a hypopigmented macular lesion with reduced sensation and a thickened ulnar nerve, which are cardinal signs of leprosy. The patient made a full recovery after completing a 6-month course of rifampicin and dapsone, along with oral prednisolone for sensory neuropathy.",
+  "disease_name_short": "Leprosy",
+  "tables": [
+    {
+      "title": "WHO Classification of Leprosy and Recommended Duration of Treatment",
+      "headers": [
+        "Classification",
+        "Number of Patches",
+        "Duration of Treatment"
+      ],
+      "rows": [
+        [
+          "Paucibacillary",
+          "<5",
+          "6 months"
+        ]
+      ]
+    },
+    {
+      "title": "WHO Treatment of Leprosy (2018)",
+      "headers": [
+        "Drug",
+        "Once Monthly",
+        "All Other Days Daily"
+      ],
+      "rows": [
+        [
+          "Rifampicin",
+          "600 mg",
+          "-"
+        ],
+        [
+          "Clofazimine",
+          "300 mg",
+          "50 mg"
+        ],
+        [
+          "Dapsone",
+          "100 mg",
+          "100 mg"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "extracted_images/83---An-18-Year-Old-Man-from-India-With-a-Pale-P_2022_Clinical-Cases-in-Trop/page1_img1.jpeg",
+      "caption": "A hypopigmented macular skin lesion with reduced sensation on the right arm of an 18-year-old Indian male."
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "patient_information": "A 26-year-old Malawian woman. Her guardians state her past medical history is unremarkable. She has three healthy children, but another four of her children have died as toddlers. Her husband died a year ago of 'high fever.' The HIV test came back reactive.",
+  "chief_complaint": "The patient complained of a headache of insidious onset, confusion for 2 days, and an eyelid drooping on the left side noticed one day before presentation.",
+  "history_of_present_illness": "A 26-year-old Malawian woman has been unwell for at least 1 week. She complained of a headache of insidious onset and has been confused for 2 days. One day before presentation, the relatives ('guardians') noticed an eyelid drooping on the left side.",
+  "exposure_and_epidemiology": "The patient lives in an urban high-density area and works as a businesswoman, selling vegetables. She is from Malawi. Her husband died a year ago of 'high fever'.",
+  "vitals": "Glasgow Coma Scale 14/15, temperature 38.4°C (101.1°F), blood pressure 115/75 mmHg, heart rate 86bpm, respiratory rate 18 breath cycles per minute.",
+  "physical_exam": "On examination she looks seriously unwell. There is no neck stiffness. The chest is clear. Examination of her eyes showed complete ptosis on the left. On primary gaze, the left eye is in a 'down and out' position. The remainder of her neurological examination is normal.",
+  "labs_and_diagnostics": "Her blood results showed WBC 3.2 (×10^9/L), Hb 10.2 (g/dL), Platelets 155 (×10^9/L), and Serum glucose 4.0 (mmol/L). Thick film for malaria and trypanosomes was Negative. A lumbar puncture showed an opening pressure of 32 cmH2O (normal 12–20 cmH2O). The CSF results included a White cell count of 54 (/μL), CSF protein 3.0 (g/L), and CSF glucose 1.3 (mmol/L), which is below the reference range of 2.0-2.64* (1/2 to 2/3 of paired serum glucose sample). The HIV test came back reactive. India Ink stain, cryptococcal and bacterial culture were reported negative, but acid-fast bacilli were detected in the CSF (Fig. 3.2). An MRI scan of her brain revealed bilateral basal ganglia infarctions.",
+  "differential_diagnosis": "The clinical syndrome is infectious meningitis, with infectious encephalitis also considered, though cranial nerve involvement makes this diagnosis less likely. Main causes of infectious encephalitis (viral or protozoan like cerebral toxoplasmosis, human African trypanosomiasis) are not consistent with CSF findings of very high protein and very low glucose. Cerebral malaria was considered due to fever and impaired consciousness in a malarious area; however, it would be an uncommonly severe manifestation in a semi-immune adult, and cranial nerve palsies are an unusual feature. The differential diagnosis ultimately comprised bacterial, tuberculous and cryptococcal meningitis, as neither the patient's clinical presentation nor her CSF results could reliably differentiate between the three.",
+  "management_and_clinical_course": "Pragmatic treatment for suspected CNS infection was initiated without delay, covering bacterial, cryptococcal, and tuberculous meningitis. The patient was started on ceftriaxone 2g bid, fluconazole 1200 mg od (local protocol for cryptococcal meningitis in the absence of amphotericin B and flucytosin) and on treatment for presumptive TB-meningitis. A few days into treatment, the patient slipped into a coma and subsequently died in the hospital.",
+  "final_diagnosis": "The final diagnosis was tuberculous meningitis. This diagnosis was established by the detection of acid-fast bacilli in the CSF. Further supporting evidence included her presentation with headache, confusion, unilateral third nerve palsy, fever, and an inflammatory CSF picture with low glucose, all in an HIV-positive patient from a high-prevalence area. An MRI also revealed bilateral basal ganglia infarctions, a known complication of tuberculous meningitis. Despite aggressive management, the patient's condition deteriorated, and she died.",
+  "disease_name_short": "Tuberculous Meningitis",
+  "tables": [
+    {
+      "title": "Blood Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "WBC (×10^9/L)",
+          "3.2",
+          "4-10"
+        ],
+        [
+          "Hb (g/dL)",
+          "10.2",
+          "12-14"
+        ],
+        [
+          "Platelets (×10^9/L)",
+          "155",
+          "150-350"
+        ],
+        [
+          "Serum glucose (mmol/L)",
+          "4.0",
+          "3.9-11.1"
+        ],
+        [
+          "Thick film for malaria and trypanosomes",
+          "Negative",
+          "Negative"
+        ]
+      ]
+    },
+    {
+      "title": "CSF Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "White cell count (/μL)",
+          "54",
+          "0-5"
+        ],
+        [
+          "CSF protein (g/L)",
+          "3.0",
+          "0.25-0.55"
+        ],
+        [
+          "CSF glucose (mmol/L)",
+          "1.3",
+          "2.0-2.64*"
+        ]
+      ]
+    },
+    {
+      "title": "Clinical and CSF Features of Acute Bacterial, Tuberculous and Cryptococcal Meningitis",
+      "headers": [
+        "",
+        "Bacterial Pathogen",
+        "Clinical Features",
+        "CSF Features"
+      ],
+      "rows": [
+        [
+          "Acute Bacterial Meningitis",
+          "Streptococcus pneumoniae, Neisseria meningitidis, Streptococcus suis (Asia)",
+          "Often very rapid onset with high fever and meningism, cranial nerve involvement less common",
+          "Often cloudy, high leukocyte cell count, predominance of polymorphs, low glucose"
+        ],
+        [
+          "Tuberculous Meningitis",
+          "Mycobacterium tuberculosis",
+          "Often a history of several days of illness, onset less abrupt, cranial nerve involvement common",
+          "Often clear, high CSF protein, low CSF glucose"
+        ],
+        [
+          "Cryptococcal Meningitis",
+          "Cryptococcus neoformans",
+          "Often subacute onset, severe headache common, cranial nerve involvement common",
+          "CSF can be normal in at least 25% of cases"
+        ]
+      ]
+    },
+    {
+      "title": "The Four Pillars of Clinical Diagnosis of Tuberculous Meningitis",
+      "headers": [
+        "Pillar",
+        "Criteria"
+      ],
+      "rows": [
+        [
+          "Clinical Criteria",
+          "Symptom duration >5 days Systemic symptoms suggestive of tuberculosis (one or more of the following): weight loss (or poor weight gain in children), night sweats, or persistent cough for more than 2 weeks History of close contact with an individual with pulmonary tuberculosis or a positive tuberculin skin test within the past year Focal neurological deficit Cranial nerve palsy Altered consciousness"
+        ],
+        [
+          "CSF Criteria",
+          "Clear appearance Leukocytes: 10-500/μL Lymphocytic predominance (>50%) Protein concentration > 1 g/L CSF to plasma-glucose ratio <50% or absolute CSF glucose concentration <2.2 mmol/L"
+        ],
+        [
+          "Neuroimaging Criteria",
+          "Hydrocephalus Basal meningeal enhancement Tuberculoma Infarct Pre-contrast basal hyperdensity"
+        ],
+        [
+          "Evidence of TB Elsewhere",
+          "Chest radiography suggestive of active TB Evidence for TB outside the CNS on CT, MRI or ultrasound AFB identified or M. tuberculosis cultured from another source (sputum, lymph node, gastric washing, urine, blood culture) Positive commercial M. tuberculosis-PCR from extraneural specimen"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "image_3_1_A.png",
+      "caption": "There is complete ptosis on the left."
+    },
+    {
+      "file_name": "image_3_1_B.png",
+      "caption": "On primary gaze, the left eye is in a 'down and out' position."
+    },
+    {
+      "file_name": "image_3_2.png",
+      "caption": "Ziehl-Neelsen stain of CSF sample showing acid-fast bacilli (arrows). (Courtesy Prof. Jeremy Day)."
+    }
+  ]
+}

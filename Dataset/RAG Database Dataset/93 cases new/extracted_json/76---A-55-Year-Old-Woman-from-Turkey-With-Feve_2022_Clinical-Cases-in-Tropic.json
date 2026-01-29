@@ -1,0 +1,20 @@
+{
+  "patient_information": "A 55-year-old woman of Turkish provenance with a history of rheumatic fever in her childhood and mechanical mitral and aortic valve replacement at the age of 37 and 53 years, respectively (St Jude Medical prostheses).",
+  "chief_complaint": "The patient presents with intermittent fever up to 39.5°C (103.1°F), night sweats, chest pain and fatigue.",
+  "history_of_present_illness": "The patient presented with intermittent fever up to 39.5°C (103.1°F), night sweats, chest pain and fatigue. Her fever settled and her condition improved after treatment for a urinary tract infection, but she later complained of increasing dyspnoea and eventually slipped into congestive heart failure.",
+  "exposure_and_epidemiology": "The patient had visited her relatives in Turkey several weeks before her presentation to a hospital in Germany.",
+  "vitals": "The patient's blood pressure and heart rate are within normal limits.",
+  "physical_exam": "There are unremarkable prosthetic heart sounds and a systolic grade 1 murmur over the aortic area without radiation. Liver and spleen are not enlarged. No lymph nodes are palpable. No haemorrhages or petechiae are detectable.",
+  "labs_and_diagnostics": "Laboratory results showed slight anaemia (Hb 11.5g/dL [reference >12g/dL]) and C-reactive protein of 15 mg/dL (reference <0.5mg/dL). White blood cell count, lymphocyte-neutrophil ratio, platelet count, serum creatinine, and transaminases were within normal limits. Initial blood cultures were negative, but urinary cultures yielded Enterobacteriaceae. Chest radiography showed no infiltrates. Transthoracic echocardiography demonstrated competent prosthetic valves. After 4 weeks, blood cultures taken initially grew Brucella melitensis biovar 2. Transoesophageal echocardiography later revealed a large vegetation (about 18mm × 7 mm) attached to the prosthetic mitral valve (Fig. 76.1) and, two months later, an annular abscess cavity around the aortic prosthesis.",
+  "differential_diagnosis": "Initial differential diagnoses included urosepsis due to urinary tract infection. After deterioration, suspicion was raised for other infections such as brucellosis, tuberculosis, or Q-fever, especially given the patient's recent travel to Turkey. With two prosthetic heart valves, infective endocarditis was also considered a significant risk.",
+  "management_and_clinical_course": "The patient was initially diagnosed with a urinary tract infection and treated with co-trimoxazole, which led to a resolution of fever and initial improvement. However, her condition deteriorated with increasing dyspnoea and congestive heart failure. After the diagnosis of active Brucella endocarditis, treatment with rifampicin, doxycycline, and gentamicin was initiated. The patient improved rapidly, and C-reactive protein returned to normal after 6 weeks of triple therapy. Two months later, an annular abscess cavity around the aortic prosthesis necessitated a third thoracotomy for prostheses exchange, after which she made a complete and sustained recovery.",
+  "final_diagnosis": "The final diagnosis was active Brucella endocarditis caused by Brucella melitensis biovar 2. This was confirmed by the growth of Brucella melitensis biovar 2 from initially taken blood cultures after 4 weeks, transoesophageal echocardiography demonstrating a large vegetation on the prosthetic mitral valve and later an annular abscess cavity around the aortic prosthesis. The patient's history of prosthetic heart valves, recent travel to Turkey, and the characteristic clinical course further supported the diagnosis.",
+  "disease_name_short": "Brucellosis",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "extracted_images/76---A-55-Year-Old-Woman-from-Turkey-With-Feve_2022_Clinical-Cases-in-Tropic/page2_img1.jpeg",
+      "caption": "Transoesophageal echocardiography showing a two-cornered vegetation (arrow) measuring about 18mm × 7 mm attached to the posterolateral left atrial side of a St Jude Medical prosthesis in mitral position (LV, left ventricle; LA, left atrium)."
+    }
+  ]
+}

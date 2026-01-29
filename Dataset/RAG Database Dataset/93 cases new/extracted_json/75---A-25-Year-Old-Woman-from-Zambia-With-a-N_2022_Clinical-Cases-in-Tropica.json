@@ -1,0 +1,110 @@
+{
+  "patient_information": "A 23-year-old HIV-positive Zambian woman was diagnosed with HIV infection 1 month earlier and is not yet on antiretroviral therapy (ART) but has been taking co-trimoxazole prophylaxis for 7 days. She was successfully treated for pulmonary tuberculosis 4 years ago. She is unmarried with three children.",
+  "chief_complaint": "New-onset seizure.",
+  "history_of_present_illness": "The patient suffered her first ever seizure which occurred out of sleep. Her son found her on the floor unresponsive and shaking all four limbs for 5 to 10 minutes. Her GCS score is 15/15.",
+  "exposure_and_epidemiology": "The patient is a Zambian woman who works in the hospital cafeteria. She does not drink alcohol or use any recreational drugs. She is HIV-positive.",
+  "vitals": "Her vital signs are normal.",
+  "physical_exam": "On examination she looks well, her GCS score is 15/15, her vital signs are normal and she is afebrile. There is no meningism. The chest is clear. The neurological examination is unremarkable.",
+  "labs_and_diagnostics": "The malaria rapid diagnostic test is negative. Blood results showed WBC 5.8 (x 10^9/L) (reference range 4-10), Haemoglobin 11.0 (g/dL) (reference range 12-14), Platelets 215 (x 10^9/L) (reference range 150-350), CD4 count 153 (cells/µL) (reference range 500-1200), Serum sodium 135 (mmol/L) (reference range 130-145), and Serum glucose 4.5 (mmol/L) (reference range 3.9-5.5). A lumbar puncture showed normal opening pressure and clear CSF. CSF results showed Leukocytes 5 (cells/µL) (reference range 0-5), CSF protein 0.78 (g/L) (reference range 0.25-0.55), CSF glucose 2.9 (mmol/L) (reference range 2.25-2.97*). Cryptococcal antigen (CrAG), India Ink stain, Gram stain, and Ziehl-Neelsen stain were all negative. Electroencephalography (EEG) demonstrated focal slowing in the right hemisphere. A CT scan of her brain showed frontal and parietal hypodense lesions in the white matter of the right hemisphere, with no contrast enhancement. JC-virus DNA was later detected in the CSF as part of a research study.",
+  "differential_diagnosis": "Differential diagnoses for focal brain lesions in an HIV patient with a new-onset seizure include tuberculoma, progressive multifocal leukoencephalopathy (PML), cerebral toxoplasmosis, cryptococcoma, brain abscess and primary CNS lymphoma. Neurocysticercosis, which can occur unrelated to HIV infection, also needs to be considered. Lesions that selectively affect the white matter without contrast enhancement and without perifocal oedema are strongly suggestive of PML.",
+  "management_and_clinical_course": "The patient was started on carbamazepine 200 mg bid; valproic acid was initially requested but could not be afforded. Following the detection of JC-virus DNA in the CSF, further confirming the suspected diagnosis of PML, she was commenced on ART and remained on carbamazepine. After 6 months, she remained seizure-free and carbamazepine was stopped. After 1 year of ART, the patient's CD4 count reached 535 cells/µL and she had returned to work.",
+  "final_diagnosis": "The final diagnosis is Progressive Multifocal Leukoencephalopathy (PML) due to JC-virus infection. This was supported by the patient's HIV-positive status with advanced immunosuppression (CD4 count 153 cells/µL), neuroimaging showing hypodense white matter lesions without contrast enhancement, EEG showing focal slowing, and confirmed by the detection of JC-virus DNA in the CSF. Her clinical course improved with antiretroviral therapy (ART) and temporary antiepileptic treatment.",
+  "disease_name_short": "Progressive Multifocal Leukoencephalopathy",
+  "tables": [
+    {
+      "title": "Blood Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference Range"
+      ],
+      "rows": [
+        [
+          "WBC (x 10^9/L)",
+          "5.8",
+          "4-10"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "11.0",
+          "12-14"
+        ],
+        [
+          "Platelets (x 10^9/L)",
+          "215",
+          "150-350"
+        ],
+        [
+          "CD4 count (cells/µL)",
+          "153",
+          "500-1200"
+        ],
+        [
+          "Serum sodium (mmol/L)",
+          "135",
+          "130-145"
+        ],
+        [
+          "Serum glucose (mmol/L)",
+          "4.5",
+          "3.9-5.5"
+        ]
+      ]
+    },
+    {
+      "title": "CSF Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference Range"
+      ],
+      "rows": [
+        [
+          "Leukocytes (cells/µL)",
+          "5",
+          "0-5"
+        ],
+        [
+          "CSF protein (g/L)",
+          "0.78",
+          "0.25-0.55"
+        ],
+        [
+          "CSF glucose (mmol/L)",
+          "2.9",
+          "2.25-2.97*"
+        ],
+        [
+          "Cryptococcal antigen (CrAG)",
+          "Negative",
+          "Negative"
+        ],
+        [
+          "India Ink stain",
+          "Negative",
+          "Negative"
+        ],
+        [
+          "Gram stain",
+          "Negative",
+          "Negative"
+        ],
+        [
+          "Ziehl-Neelsen stain",
+          "Negative",
+          "Negative"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "Fig. 75.1",
+      "caption": "EEG demonstrating a slow background with superimposed delta frequency slowing of the right hemisphere."
+    },
+    {
+      "file_name": "Fig. 75.2",
+      "caption": "CT scan showing right frontal and parietal hypodensities in the subcortical white matter."
+    }
+  ]
+}

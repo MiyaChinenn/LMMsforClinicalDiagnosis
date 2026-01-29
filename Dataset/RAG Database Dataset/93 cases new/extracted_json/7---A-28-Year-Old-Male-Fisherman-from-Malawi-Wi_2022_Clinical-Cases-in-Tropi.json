@@ -1,0 +1,70 @@
+{
+  "patient_information": "A 28-year-old Malawian man was diagnosed with arterial hypertension 2 years earlier and prescribed antihypertensive drugs, which he never took. A recent HIV test was negative. His medical history and family history are otherwise unremarkable.",
+  "chief_complaint": "Progressive shortness of breath over the past 5 days.",
+  "history_of_present_illness": "He reports orthopnoea and paroxysmal nocturnal dyspnoea. He has also developed bilateral flank pain in the past days, which is continuous and dull, and there is constant nausea. There is no cough and no fever.",
+  "exposure_and_epidemiology": "The patient is a fisherman from a town on the southern shore of Lake Malawi, indicating regular contact with Schistosoma haematobium-infested water.",
+  "vitals": "Blood pressure is 200/130 mmHg, pulse 66 bpm, temperature 36.8°C, and respiratory rate 32 breath cycles per minute.",
+  "physical_exam": "The man is not looking chronically ill, but is in respiratory distress. His conjunctivae are notably pale. His apex beat is slightly displaced, but his heart sounds are clear and regular. The jugular venous pressure is not raised. There are bilateral fine crackles over the lung bases. The abdomen is flat and non-tender. There is bilateral renal angle tenderness, and the kidneys are ballottable. There is no peripheral oedema.",
+  "labs_and_diagnostics": "His laboratory results on admission showed: WBC 3.8 × 10^9/L (reference 4-10), Haemoglobin 6.0 mg/dL (reference 13-15), MCV 92 fL (reference 80-99), Platelets 187 × 10^9/L (reference 150-400), Creatinine 1200 µmol/L (reference <120), BUN 89.3 mmol/L (reference <17.9), and K+ 7.2 mmol/L (reference 3.5-5.2). A chest radiograph on admission was obtained. An ultrasound subsequently showed bilateral hydronephrosis with massive dilatation of the renal pelvis and calyces, with the remaining renal parenchyma being very thin in both kidneys. Cystoscopy revealed a hyperaemic mucosa with multiple 'sandy patches' suggestive of granulomatous lesions in the mucosa, and no tumour was seen. An endoscopic diagnosis of urogenital schistosomiasis was made.",
+  "differential_diagnosis": "The initial clinical impression was combined left-sided cardiac failure and renal failure. Differential diagnoses for enlarged kidneys included primary causes (e.g., polycystic kidneys) or secondary post-renal obstruction with hydronephrosis. Renal compromise secondary to hypertension would typically present with small kidneys. Chronic schistosomiasis with hydronephrosis was considered a top differential diagnosis due to the patient's exposure history.",
+  "management_and_clinical_course": "Despite high doses of furosemide, the patient remained oliguric. Glucose and insulin were administered for his hyperkalaemia. The next day, the patient deteriorated, becoming drowsy, vomiting repeatedly, progressively bradycardic, and developing a pericardial friction rub suggestive of uraemic pericarditis. He underwent a bilateral percutaneous nephrostomy, was transferred to the intensive care unit, and started on peritoneal dialysis. The patient improved rapidly, with cessation of vomiting and drowsiness and resolution of the friction rub, and was discharged home on PD. Two months later, he was readmitted with fever and abdominal pain, treated for suspected bacterial peritonitis, but sadly died 3 weeks later in the hospital.",
+  "final_diagnosis": "The final diagnosis is chronic genitourinary schistosomiasis caused by Schistosoma haematobium, leading to obstructive uropathy, bilateral hydronephrosis, end-stage renal disease, and complicated by left-sided cardiac failure and uraemic pericarditis. This was supported by epidemiological factors (fisherman from Lake Malawi), laboratory findings (anaemia, hyperkalaemia, high creatinine, high BUN), ultrasound showing bilateral hydronephrosis, and cystoscopy revealing hyperaemic mucosa with 'sandy patches' characteristic of granulomatous lesions due to S. haematobium.",
+  "disease_name_short": "Genitourinary Schistosomiasis",
+  "tables": [
+    {
+      "title": "Laboratory Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference Range"
+      ],
+      "rows": [
+        [
+          "WBC (×10^9/L)",
+          "3.8",
+          "4-10"
+        ],
+        [
+          "Haemoglobin (mg/dL)",
+          "6.0",
+          "13-15"
+        ],
+        [
+          "MCV (fL)",
+          "92",
+          "80-99"
+        ],
+        [
+          "Platelets (×10^9/L)",
+          "187",
+          "150-400"
+        ],
+        [
+          "Creatinine (µmol/L)",
+          "1200",
+          "<120"
+        ],
+        [
+          "BUN (mmol/L)",
+          "89.3",
+          "<17.9"
+        ],
+        [
+          "K+ (mmol/l)",
+          "7.2",
+          "3.5-5.2"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "figure7_1.png",
+      "caption": "Chest radiograph on admission."
+    },
+    {
+      "file_name": "figure7_2.png",
+      "caption": "Cystoscopy findings of a patient with urogenital schistosomiasis. The white arrows show 'sandy patches' (left) and hyperaemia of the bladder mucosa (top)."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 40-year-old man from Togo.",
+  "chief_complaint": "A 40-year-old man from Togo presents to a local clinic with changes in both of his eyes over the past 4 years, causing worry due to similar changes leading to blindness in his village.",
+  "history_of_present_illness": "The patient reports changes in both eyes over the past 4 years, without visual disturbances, but is concerned due to similar changes causing blindness in his village. He has also noticed painless bumps under his skin for the past two decades and suffers from intense itching that disrupts his sleep.",
+  "exposure_and_epidemiology": "The patient has always lived in a village in the savannah near a fast-flowing river where small biting flies are common. Many adults in his village are blind.",
+  "vitals": "null",
+  "physical_exam": "Physical examination revealed opacities in the cornea of both eyes. The skin appeared atrophic in some areas with thinning and loss of elasticity, along with multiple scratch marks. Subcutaneous nodules, measuring 1 to 3 cm in diameter, were palpable in various regions including the ribs, iliac crest, femoral trochanters, and on the head; these nodules were firm and non-tender.",
+  "labs_and_diagnostics": "In an endemic, resource-limited setting, diagnosis for this condition is typically made on clinical grounds alone. Potential investigations include skin snips from a subcutaneous nodule to detect microfilariae of Onchocerca volvulus, slit-lamp examination of the eyes to reveal microfilariae in the anterior chamber and cornea, and nodulectomy of subcutaneous nodules to show adult O. volvulus (though not routinely done). Serological tests detecting IgG4 responses to O. volvulus antigen (OvAg) and recombinant Ov16 antigen are recommended by WHO, which, if positive, recommend continued ivermectin therapy. Worm-specific DNA (Ov150) can also be tested in vector samples (black flies) using polymerase chain reaction.",
+  "differential_diagnosis": "The most important differential diagnosis is onchocerciasis (river blindness), supported by the clinical triad of ocular changes, itchy dermatitis with skin atrophy, and subcutaneous nodules in a patient from rural Togo with exposure to fast-flowing rivers and biting blackflies. Other considerations for subcutaneous nodules include lipomas and cysticercosis due to Taenia solium. For pruritic dermatitis, scabies, papular pruritic eruptions associated with HIV infection, Mansonella streptocerca infection, yaws, leprosy, mycotic infections, and eczema are considered.",
+  "management_and_clinical_course": "The patient was treated with ivermectin 150 µg/kg STAT dose, which was repeated after 3 months and after 1 year. Additionally, doxycycline 100 mg/d was administered for 6 weeks.",
+  "final_diagnosis": "The patient presented with a clinical triad of corneal opacities, itchy dermatitis with atrophy of the skin, and subcutaneous nodules. Combined with a history of living in a village near a fast-flowing river in Togo, an endemic area for Simulium blackflies, and the fact that many adults in his village are blind, the final diagnosis is onchocerciasis (river blindness) caused by O. volvulus. The diagnosis was primarily clinical given the resource-limited setting and the typical presentation, and treatment with ivermectin and doxycycline was initiated.",
+  "disease_name_short": "Onchocerciasis",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "Fig. 19.1",
+      "caption": "The patient's left eye showing corneal opacities. (Courtesy H. Trojan)"
+    },
+    {
+      "file_name": "Fig. 19.2",
+      "caption": "Subcutaneous nodule over the costal arch. (Courtesy H. Trojan)"
+    }
+  ]
+}

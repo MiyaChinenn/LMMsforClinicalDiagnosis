@@ -1,0 +1,116 @@
+{
+  "patient_information": "A previously healthy 20-year-old man from southern India. He received five doses of anti-rabies vaccine (purified chick embryo cell vaccine) 1 month before symptom onset, but no rabies immunoglobulin (RIG).",
+  "chief_complaint": "Fever and quadriparesis.",
+  "history_of_present_illness": "He has had fever for 4 days, followed by tingling and weakness initially in his left leg, subsequently involving all four limbs over the next 2 days.",
+  "exposure_and_epidemiology": "He gives a history of a stray dog bite (WHO category III) on his left lower limb 1 month before onset of symptoms. The incident occurred in southern India, a rabies-endemic country.",
+  "vitals": "Blood pressure 110/70 mmHg, pulse 90 beats per minute, respiratory rate 26 breaths per minute, and temperature 38.5°C (101.3°F).",
+  "physical_exam": "On admission, he is conscious and his mental functions are normal (GCS 15/15). Neurological examination reveals a flaccid, areflexic quadriparesis.",
+  "labs_and_diagnostics": "His blood investigations including serum electrolytes, renal and liver function tests are normal. Cerebrospinal fluid (CSF) shows 52 mg/dL protein (reference: 15–50mg/dL), 60 mg/dL glucose (reference: 50–75mg, provided a normal serum glucose), and 340 cells/mm³ (60% polymorphs and 40% lymphocytes; normal ≤5 cells/mm³). His saliva sample collected at admission was positive for rabies viral RNA by RT-PCR; a CSF sample was negative.",
+  "differential_diagnosis": "A young male with a history of dog bite in a rabies-endemic country, presenting with fever and rapidly progressive ascending paresis a month later should elicit a high clinical suspicion of paralytic rabies. Laboratory confirmation must be done wherever feasible to rule out clinical mimics (Table 91.1) amenable to treatment. Paralytic rabies may clinically mimic Guillain Barré syndrome (GBS), post-vaccination encephalomyelitis and other conditions (Table 91.1).",
+  "management_and_clinical_course": "After admission, the patient developed autonomic instability evidenced by increased perspiration and significant variability in heart rate and blood pressure. He developed dysphagia and respiratory distress requiring mechanical ventilation on the third day after hospitalization. Management consisted of symptomatic treatment and supportive care. The patient died because of a sudden cardiac arrest on the fifth day of hospitalization (9 days post-onset of symptoms).",
+  "final_diagnosis": "The final diagnosis is paralytic rabies. This is supported by the patient's history of a WHO category III stray dog bite in a rabies-endemic region one month prior to symptom onset, followed by rapidly progressive fever and quadriparesis, and ultimately, autonomic instability and death. Laboratory confirmation was secured by a positive rabies viral RNA by RT-PCR from a saliva sample.",
+  "disease_name_short": "Rabies",
+  "tables": [
+    {
+      "title": "Clinical Mimics of Rabies",
+      "headers": [
+        "Syndrome or Disease"
+      ],
+      "rows": [
+        [
+          "Guillain Barré Syndrome"
+        ],
+        [
+          "Post-vaccination encephalomyelitis"
+        ],
+        [
+          "NMDAR antibody-mediated/Autoimmune encephalitis"
+        ],
+        [
+          "Campylobacter-associated summer paralysis syndrome"
+        ],
+        [
+          "Cerebral malaria"
+        ],
+        [
+          "Herpes simplex encephalitis"
+        ],
+        [
+          "Arthropod-borne encephalitides (e.g. Japanese encephalitis, West Nile Virus encephalitis, etc.)"
+        ],
+        [
+          "Poliomyelitis"
+        ],
+        [
+          "B-virus (Cercopithecine herpesvirus 1) encephalomyelitis"
+        ],
+        [
+          "Tetanus"
+        ],
+        [
+          "Snake- or Scorpion-envenomation"
+        ],
+        [
+          "Organophosphate poisoning"
+        ],
+        [
+          "Illicit drug use, CNS intoxicants"
+        ],
+        [
+          "Psychiatric disorders"
+        ]
+      ]
+    },
+    {
+      "title": "Tests for Laboratory Diagnosis of Rabies",
+      "headers": [
+        "Sample(s)",
+        "Test(s)",
+        "Detection",
+        "Sensitivity",
+        "Remarks"
+      ],
+      "rows": [
+        [
+          "Ante-mortem Diagnosis*",
+          "Saliva",
+          "RT-PCR",
+          "Viral nucleic acid",
+          "Moderate to high sensitivity",
+          "Testing serial/pooled samples recommended to increase sensitivity"
+        ],
+        [
+          "Nuchal skin biopsy",
+          "RT-PCR",
+          "Viral nucleic acid",
+          "Moderate to high sensitivity",
+          "Full thickness biopsy and adequate hair follicles required"
+        ],
+        [
+          "CSF, Urine",
+          "RT-PCR",
+          "Viral nucleic acid",
+          "Low sensitivity",
+          "Testing serial/pooled samples recommended to increase sensitivity"
+        ],
+        [
+          "",
+          "CSF, Serum",
+          "RFFIT, FAVN, ELISA",
+          "Neutralizing Antibodies (RFFIT, FAVN); Antibodies against viral glycoprotein (ELISA)",
+          "Low sensitivity in first week of illness; rises with increased duration of survival (>90% by 2 weeks)",
+          "Presence of antibodies in CSF (irrespective of prior vaccination status) and serum (in previously unvaccinated cases) diagnostic of rabies"
+        ],
+        [
+          "Post-mortem Diagnosis**",
+          "Brain tissue",
+          "dFA, RT-PCR",
+          "Viral antigen",
+          "High sensitivity (nearly 100%)",
+          "Gold standard for laboratory confirmation (dFA)"
+        ]
+      ]
+    }
+  ],
+  "images": []
+}

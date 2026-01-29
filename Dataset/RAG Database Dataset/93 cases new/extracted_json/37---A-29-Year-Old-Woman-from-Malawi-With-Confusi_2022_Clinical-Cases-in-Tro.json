@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 29-year-old woman from Malawi with an uneventful past medical history. Her HIV status is unknown. She is not taking any medication and denies any known intoxications, alcohol, or recreational drug use. She is married with four children and works as a housewife.",
+  "chief_complaint": "The patient presented with confusion, restlessness, and irritability for the past month, watery diarrhoea which started 1 week ago, and a skin rash that had been present for the past 2 months.",
+  "history_of_present_illness": "A 29-year-old woman was brought to the hospital by relatives for confusion, restlessness, and irritability over the past month. She also had watery diarrhoea, starting 1 week ago. She did not have a fever. It was January, the rainy season in Malawi. Her past medical history was uneventful, with no psychiatric disorders in the past. Her HIV status was unknown. She was not taking any medication and denied intoxications, alcohol, or recreational drugs.",
+  "exposure_and_epidemiology": "The patient lives in a grass-thatched mud-hut in a poor, rural area of Malawi with her husband, a farmhand on a local chicken farm, and their four children. They collect water from a borehole and have no electricity. They eat two meals a day, mainly maize porridge with a few vegetables, rarely affording fish or meat. The rainy season, when the patient presented, is also known as the 'hungry season' in Malawi.",
+  "vitals": "Glasgow Coma Scale was 14/15 (indicating confusion), remaining vital signs were normal, and she was afebrile.",
+  "physical_exam": "The patient was slim but not wasted. Glasgow Coma Scale 14/15 (confusion). There was no neck stiffness. The conjunctivae were pale. A noticeable hyperpigmented, dry, and clearly demarcated skin rash was observed around the patient's neck, on her forearms, hands, and feet. The rash had been present for the past 2 months. The rest of the physical examination was unremarkable.",
+  "labs_and_diagnostics": "Initial diagnostic workup included an HIV test, which came back negative. A full blood count revealed microcytic anaemia with a haemoglobin of 6.7 g/dL and a Mentzer index >13.",
+  "differential_diagnosis": "The primary suspected diagnosis, based on the triad of neuropsychiatric changes (confusion), watery diarrhoea, and photosensitive dermatitis, was pellagra (vitamin B3 deficiency). Other differential diagnoses considered in a sub-Saharan African setting included HIV infection, with possible manifestations like tuberculous meningitis, cryptococcal meningitis, progressive multifocal leukoencephalopathy, or HIV-associated neurocognitive disorder, as well as systemic lupus erythematosus due to photosensitive dermatitis, anaemia, and neuropsychiatric changes.",
+  "management_and_clinical_course": "The patient underwent diagnostic testing, including an HIV test which was negative, ruling out HIV infection. She received an appropriate dose of vitamin B-complex, iron, and folic acid supplementation, along with a single dose of albendazole for potential intestinal helminth infection. Her confusion settled within a week, and the diarrhoea stopped. She and her family received dietary counselling, focusing on improving their imbalanced diet. Soothing applications were prescribed for her skin lesions, and she was advised to avoid sun exposure. She was discharged and scheduled for an outpatient follow-up visit at 3 months, including a repeat full blood count.",
+  "final_diagnosis": "The final diagnosis was pellagra, a nutritional disorder caused by vitamin B3 deficiency. This was supported by the classic presentation of dermatitis, diarrhoea, and dementia (confusion), the patient's epidemiological context of poverty and imbalanced maize-based diet, and the rapid resolution of her neurological and gastrointestinal symptoms with vitamin B-complex and other nutritional supplementation. The initial differential diagnoses, including HIV infection, were ruled out.",
+  "disease_name_short": "Pellagra",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "image1.jpeg",
+      "caption": "Hyperpigmented skin rash on sun-exposed skin."
+    },
+    {
+      "file_name": "image2.jpeg",
+      "caption": "The skin changes involve both hands and feet. The skin appears dry and scaly."
+    }
+  ]
+}

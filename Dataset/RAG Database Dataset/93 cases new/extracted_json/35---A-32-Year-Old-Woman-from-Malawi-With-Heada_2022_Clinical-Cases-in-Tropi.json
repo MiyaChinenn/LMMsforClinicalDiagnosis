@@ -1,0 +1,100 @@
+{
+  "patient_information": "A 32-year-old Malawian woman who appears wasted and slightly anaemic. Her HIV serology came back positive and her CD4 count was very low at 22/µL, indicating immunosuppression.",
+  "chief_complaint": "A 3-week history of headache and blurred vision.",
+  "history_of_present_illness": "The headache was gradual in onset and did not respond to over-the-counter painkillers. There was no fever, convulsions, or history of head trauma. The patient received presumptive antimalarial treatment (artemether/lumefantrine) and a course of antibiotics (amoxicillin 500 mg tds for 5 days) at a local health centre, which was of no benefit.",
+  "exposure_and_epidemiology": "The patient is a 32-year-old Malawian woman living in a part of the world with a high HIV prevalence.",
+  "vitals": "All vital signs are normal and she is afebrile.",
+  "physical_exam": "The patient appears wasted and slightly anaemic. Her GCS is 15/15. There is no neck stiffness. Visual acuity is normal on both sides. On left lateral gaze, there is an abduction deficit of the left eye with 'blurring of vision' reported by the patient. The rest of the examination is normal.",
+  "labs_and_diagnostics": "Laboratory results on admission showed WBC 3.7 ×10^9/L (reference 4-10), Haemoglobin 10.2 g/dL (reference 12-16), MCV 92 fL (reference 80-98), Platelets 91 ×10^9/L (reference 150-350), Fasting blood glucose 5.43 mmol/L (reference 5.0-6.7), and Malaria RDT Negative (reference Negative). A lumbar puncture revealed an increased CSF opening pressure at 50 cmH2O (normal: 10-18 cmH2O). CSF results showed Leukocytes 18 cells/µL (reference 0-5), Protein 0.8 g/L (reference 0.15-0.40), Glucose 1.97 mmol/L (reference 2.22-3.88), and India Ink Negative (reference Negative). Fungal culture of CSF was reported as C. neoformans, despite the table indicating 'Negative' for culture, the narrative states a diagnosis of cryptococcal meningitis was made based upon a positive fungal culture result. CrAg was not available. HIV serology was positive, and CD4 count was 22/µL.",
+  "differential_diagnosis": "The clinical presentation suggests chronic meningitis. The two most important differential diagnoses are cryptococcal meningitis and tuberculous meningitis. Partially treated bacterial meningitis is also a possibility due to prior amoxicillin, but the gradual onset of symptoms makes this less likely.",
+  "management_and_clinical_course": "Initially, the patient received presumptive antimalarial treatment (artemether/lumefantrine) and a 5-day course of amoxicillin, which provided no benefit. Upon admission to the hospital, she was started on oral fluconazole 1200 mg as preferred fungicidal drugs Amphotericin B and flucytosine were unavailable. She also began co-trimoxazole prophylaxis and received repeated therapeutic lumbar punctures until her headache settled. Antiretroviral therapy was commenced 4 weeks into her antifungal treatment. The patient returned to her village but died 6 weeks later of an unknown cause.",
+  "final_diagnosis": "The final diagnosis was cryptococcal meningitis, based on the patient's presentation with chronic headache, blurred vision, unilateral abducens nerve palsy, and laboratory findings of normocytic anaemia, thrombocytopenia, positive HIV serology with a very low CD4 count (22/µL), and a positive fungal culture result for Cryptococcus neoformans from CSF. The elevated CSF opening pressure and abnormal CSF biochemistry further supported the diagnosis.",
+  "disease_name_short": "Cryptococcal Meningitis",
+  "tables": [
+    {
+      "title": "Laboratory Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "WBC (×109/L)",
+          "3.7",
+          "4-10"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "10.2",
+          "12-16"
+        ],
+        [
+          "MCV (fL)",
+          "92",
+          "80-98"
+        ],
+        [
+          "Platelets (×109/L)",
+          "91",
+          "150-350"
+        ],
+        [
+          "Fasting blood glucose (mmol/L)",
+          "5.43",
+          "5.0-6.7"
+        ],
+        [
+          "Malaria RDT",
+          "Negative",
+          "Negative"
+        ]
+      ]
+    },
+    {
+      "title": "CSF Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "Leukocytes (cells/µL)",
+          "18",
+          "0-5"
+        ],
+        [
+          "Protein (g/L)",
+          "0.8",
+          "0.15-0.40"
+        ],
+        [
+          "Glucose (mmol/L)",
+          "1.97",
+          "2.22-3.88"
+        ],
+        [
+          "India Ink",
+          "Negative",
+          "Negative"
+        ],
+        [
+          "Culture",
+          "C. neoformans",
+          "Negative"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "Fig. 35.1",
+      "caption": "Abducens nerve palsy on the left in a patient with sub-acute headache."
+    },
+    {
+      "file_name": "Fig. 35.2",
+      "caption": "Photomicrograph of Cryptococcus neoformans (India Ink stain)."
+    }
+  ]
+}

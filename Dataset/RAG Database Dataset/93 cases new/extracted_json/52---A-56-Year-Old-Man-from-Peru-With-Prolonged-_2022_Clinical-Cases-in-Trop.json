@@ -1,0 +1,85 @@
+{
+  "patient_information": "A 56-year-old male Peruvian with unremarkable past medical history.",
+  "chief_complaint": "A 2-week history of fever, jaundice, and confusion.",
+  "history_of_present_illness": "Daily fever started 3 months after leaving a rural area in the highlands of northern Peru (altitude of 2400 m), where the patient spent 3 weeks on vacation. In the second week of illness the patient noticed dark urine and jaundice, and a few days before admission his wife noticed confusion and somnolence.",
+  "exposure_and_epidemiology": "The patient recently spent 3 weeks on vacation in a rural area in the highlands of northern Peru (altitude of 2400 m). While in the rural area, the patient and his wife were bitten at night by tiny mosquitoes; no personal protection was used. Otherwise there has been no animal contact.",
+  "vitals": "Blood pressure 90/60 mmHg, pulse 110 bpm and regular, temperature 39.2°C (102.6°F), respiratory rate 22 breaths per minute.",
+  "physical_exam": "The patient appears confused and disorientated without any focal neurological findings or meningeal signs (GCS 14/15). Skin and conjunctivae are markedly pale and there is scleral jaundice. Cardiovascular and pulmonary examination are normal. The liver is slightly enlarged but there is no splenomegaly.",
+  "labs_and_diagnostics": "Creatinine, electrolytes and alkaline phosphatase are normal. Coomb's test is negative. The CSF results are normal. A CT scan of the brain is normal. Abdominal ultrasound reveals hepatomegaly, but no focal lesions. Blood films were negative for malaria. A thin film revealed massive red blood cell infestation by pleomorphic cocco-bacillary structures compatible with B. bacilliformis. Blood cultures were negative, including cultures in special media for Bartonella. Laboratory results on admission included: WBC 14.9 (x 10^9/L) (Reference Range 4-10), Neutrophils 13.1 (x 10^9/L) (Reference Range 1.8-7.2), Lymphocytes 0.9 (x 10^9/L) (Reference Range 1.5-4), Band forms 4 (%) (Reference Range 0-5), Haemoglobin 6 (g/dL) (Reference Range 13-15), Reticulocytes 8 (%) (Reference Range 0.5-1.5), Platelets 454 (x 10^9/L) (Reference Range 150-350), LDH 1500 (U/L) (Reference Range <250), Total bilirubin 239 (µmol/L) (Reference Range <19), Direct bilirubin 103 (µmol/L) (Reference Range <5).",
+  "differential_diagnosis": "The most important differential diagnoses included malaria and bartonellosis. Plasmodium vivax is the only species of Plasmodium prevalent in the highland regions of Peru, and the patient presented with several features of severe and complicated malaria (severe anaemia, jaundice, impaired consciousness), although P. vivax is not commonly associated with severe malaria. Bartonellosis was a strong consideration due to recent travel history to endemic highlands where sandflies are present, and reported mosquito bites. Less common infections included rickettsial diseases, leptospirosis, typhoid fever, brucellosis, and several viral diseases (viral hepatitis, yellow fever), though none produce significant haemolysis or are endemic in the highlands. Non-infectious causes of haemolysis were also considered.",
+  "management_and_clinical_course": "The first step was to rule out malaria with thick and thin smears or rapid diagnostic tests. A thin film was also performed to look for Bartonella bacilliformis. The patient progressed to shock, was transferred to the intensive care unit (ICU), and required vasopressors. He was started on intravenous ciprofloxacin and ceftriaxone for 10 days. Altered mental status resolved after 3 days of antimicrobial treatment, and fever subsided after 5 days. By day 4, bacteria had disappeared from blood smears. No further complications were observed during a 3-month follow-up period.",
+  "final_diagnosis": "The patient was diagnosed with Bartonellosis, specifically the acute form known as Oroya fever, caused by Bartonella bacilliformis. This diagnosis was supported by his epidemiological exposure in the Peruvian highlands and a clinical presentation of prolonged fever, severe haemolytic anaemia, jaundice, impaired consciousness, and progression to shock. Definitive evidence was the observation of massive red blood cell infestation by pleomorphic cocco-bacillary structures compatible with B. bacilliformis on a thin blood film, and a positive response to ciprofloxacin and ceftriaxone treatment.",
+  "disease_name_short": "Oroya Fever",
+  "tables": [
+    {
+      "title": "Blood Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference Range"
+      ],
+      "rows": [
+        [
+          "WBC (× 10⁹/L)",
+          "14.9",
+          "4-10"
+        ],
+        [
+          "Neutrophils (× 10⁹/L)",
+          "13.1",
+          "1.8-7.2"
+        ],
+        [
+          "Lymphocytes (x 10⁹/L)",
+          "0.9",
+          "1.5-4"
+        ],
+        [
+          "Band forms (%)",
+          "4",
+          "0-5"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "6",
+          "13-15"
+        ],
+        [
+          "Reticulocytes (%)",
+          "8",
+          "0.5-1.5"
+        ],
+        [
+          "Platelets (x 10⁹/L)",
+          "454",
+          "150-350"
+        ],
+        [
+          "LDH (U/L)",
+          "1500",
+          "<250"
+        ],
+        [
+          "Total bilirubin (µmol/L)",
+          "239",
+          "<19"
+        ],
+        [
+          "Direct bilirubin (µmol/L)",
+          "103",
+          "<5"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "image_52_1.jpg",
+      "caption": "Thin smear showing massive infestation of red blood cells with cocco-bacillary structures (Wright stain)."
+    },
+    {
+      "file_name": "image_52_2.jpg",
+      "caption": "Multiple erythematous-violaceous papules of different sizes characteristic of the chronic phase (verruga peruana)."
+    }
+  ]
+}

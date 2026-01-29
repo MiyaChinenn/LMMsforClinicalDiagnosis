@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 26-year-old German student female.",
+  "chief_complaint": "A localized swelling on her left leg that developed slowly over the past 3 weeks.",
+  "history_of_present_illness": "The swelling has developed slowly over the past 3 weeks. It is itchy, but not painful. There is no history of fever; no history of arthropod bites. The patient is otherwise fine.",
+  "exposure_and_epidemiology": "She has just returned from a 6-week trip to Ghana.",
+  "vitals": "The patient is afebrile.",
+  "physical_exam": "There is localized swelling on the left leg, about 1.5cm in diameter (Fig. 8.1). The skin surrounding the swelling is slightly hyperaemic. The boil is covered by a blackish scab. There is no lymphadenopathy. The rest of the physical examination is normal.",
+  "labs_and_diagnostics": "null",
+  "differential_diagnosis": "Differential diagnoses considered include rickettsial disease or cutaneous anthrax, but the absence of systemic symptoms makes these unlikely. Spider bites are also unlikely due to the slow growth. Localized bacterial skin and soft-tissue infections such as folliculitides, furuncles, carbuncles, or abscesses are common, but an infestation with fly maggots (myiasis) is considered the most likely due to the slow growth of the boil, absence of lymphadenopathy and systemic symptoms, as well as the localized itch.",
+  "management_and_clinical_course": "The scab was gently removed, revealing a whitish matter underneath that appeared to be pulsating and oozing transparent fluid, typical of myiasis, with visible respiratory spiracles. The lesion was covered with white petroleum jelly and bandaged. The patient returned 2 days later for review, at which point the maggot of a Tumbu fly was easily removed with a pair of forceps. The remaining lesion looked clean and no further treatment was required.",
+  "final_diagnosis": "The final diagnosis is cutaneous furuncular myiasis, caused by a Tumbu fly maggot. This was supported by the patient's history of travel to Ghana, the slow development of an itchy, non-painful localized swelling, the visual identification of a pulsating larva with respiratory spiracles after scab removal, and the successful removal of the maggot resulting in resolution without further complications.",
+  "disease_name_short": "Myiasis",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "Fig. 8.1",
+      "caption": "Boil on the left leg covered with a dark scab."
+    },
+    {
+      "file_name": "Fig. 8.2",
+      "caption": "Larva of a botfly (Dermatobia hominis)."
+    }
+  ]
+}

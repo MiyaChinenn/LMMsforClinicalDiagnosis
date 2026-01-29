@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 30-year-old woman from Bolivia, of childbearing age, presenting to an outpatient clinic in Spain. She has no other relevant medical history and does not take any medication.",
+  "chief_complaint": "A 2-year history of progressive dyspnoea at moderate exertion (New York Heart Association grade II) along with self-limiting palpitations.",
+  "history_of_present_illness": "The patient reports a 2-year history of progressive dyspnoea at moderate exertion (New York Heart Association grade II) accompanied by self-limiting palpitations. She has no significant past medical history and is not on any medications. She also expresses a desire to become pregnant.",
+  "exposure_and_epidemiology": "The patient was born in Santa Cruz, Bolivia, and arrived in Europe 4 months prior to presentation. She had been living in an urban environment for the past 20 years but grew up in a rural area during her childhood. Bolivia is a highly endemic country for Chagas disease, which is primarily transmitted by triatomine bugs in endemic areas, but also by mother-to-child transmission, blood transfusions, or transplants in non-endemic regions.",
+  "vitals": "Blood pressure is 110/65 mmHg. Pulse is regular at 40 bpm. SpO2 is 99% on ambient air.",
+  "physical_exam": "On examination, cardiac sounds are clear with no murmurs. The chest is clear. There is no peripheral oedema, and the jugular venous pressure is not raised. She had no clinical signs of heart failure.",
+  "labs_and_diagnostics": "Full blood count and basic blood chemistry tests were normal. Her ECG showed sinus bradycardia with right bundle branch block. Her chest radiograph showed moderate cardiomegaly. Both serological tests for Chagas disease came back positive, detecting IgG antibodies against Trypanosoma cruzi. Complete cardiological evaluation revealed sinus dysfunction without symptomatic bradycardia or syncope. Echocardiography showed a hypertrophic left ventricle without obstruction.",
+  "differential_diagnosis": "Given that the patient is a recent migrant from Bolivia, a highly endemic country for Chagas disease, screening for various pathologies including active and latent tuberculosis, HIV, hepatitis B, hepatitis C, strongyloidiasis, and Chagas disease was considered following European Centre for Disease Prevention and Control (ECDC) guidelines. The patient's clinical presentation of progressive dyspnoea, palpitations, and ECG findings of sinus bradycardia with right bundle branch block, coupled with moderate cardiomegaly on CXR, strongly suggested cardiac involvement, with Chagasic cardiomyopathy being a primary concern in this epidemiological context.",
+  "management_and_clinical_course": "The patient was classified as having chagasic cardiomyopathy and was offered antitrypanosomal therapy, specifically benznidazole 5 mg/kg per day for 60 days, due to her intention to become pregnant. Fifteen days into treatment, she developed a pruritic maculopapular rash and mild eosinophilia, leading to temporary discontinuation of benznidazole. She was treated with corticosteroids and antihistamines for 5 days, which resolved the rash. Benznidazole was re-introduced and tolerated well, allowing her to complete the full 60-day course without further problems. Five years later, her cardiac function remained stable, and she successfully gave birth to a healthy child.",
+  "final_diagnosis": "The final diagnosis was chronic Chagas disease, presenting as chagasic cardiomyopathy, caused by Trypanosoma cruzi. This was confirmed by positive serological tests for T. cruzi IgG antibodies, along with supporting clinical evidence including her epidemiological history (growing up in rural Bolivia, an endemic area), progressive dyspnoea and palpitations, ECG findings of sinus bradycardia and right bundle branch block, moderate cardiomegaly on chest radiography, and a hypertrophic left ventricle on echocardiography. Her successful treatment with benznidazole and subsequent stable cardiac function and healthy delivery further supported the diagnosis and management.",
+  "disease_name_short": "Chagas disease",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "image1.jpg",
+      "caption": "ECG showing sinus bradycardia with right bundle branch block and CXR showing a moderately enlarged cardiac silhouette."
+    },
+    {
+      "file_name": "image2.jpg",
+      "caption": "Maculopoapular rash with pruritus after 15 days on benznidazole."
+    }
+  ]
+}

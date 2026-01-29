@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 32-year-old Malawian man was tested HIV positive and started on antiretroviral therapy (ART) and co-trimoxazole prophylaxis 2 months earlier. His health passport revealed a recent CD4 count of 95 cells/µL, later noted as 109 cells/µL, with HIV-1 RNA <400 copies/mL. He had been treated for acid-fast bacilli (AFB) sputum smear-negative pulmonary tuberculosis 12 years ago.",
+  "chief_complaint": "6-week history of productive cough, chest pain, weight loss, fevers, night sweats, and a painfully swollen neck.",
+  "history_of_present_illness": "A 32-year-old Malawian man presented with a 6-week history of productive cough and chest pain associated with weight loss, fevers and night sweats. He also noticed that his neck had swollen and was painful. There were no other symptoms. He had never been admitted to a hospital but had been tested HIV positive and was started on antiretroviral therapy (ART) and co-trimoxazole prophylaxis 2 months earlier at a nearby health centre. His health passport revealed that a recent CD4 count was 95 cells/µL and that the patient had been treated for acid-fast bacilli (AFB) sputum smear-negative pulmonary tuberculosis 12 years ago.",
+  "exposure_and_epidemiology": "The patient is from Malawi and had been treated for acid-fast bacilli (AFB) sputum smear-negative pulmonary tuberculosis 12 years ago. He denied having left Malawi, where multi-drug resistance for TB is uncommon.",
+  "vitals": "Temperature of 39.2°C (102.56°F), pulse 112bpm, respiratory rate 28 breath cycles per minute and normal blood pressure.",
+  "physical_exam": "He looked moderately ill, was pale, and sweating. Large, matted lymph glands were palpable in his neck, and the rest of the examination was unremarkable. After 3 weeks of treatment, the glands in the neck had further swollen and were clearly fluctuant.",
+  "labs_and_diagnostics": "Full blood count showed: WBC 14.3×10^9/L (reference range: 4-10), haemoglobin 6.3 g/dL (13-15), MCV 66fL (80-98), platelets 246×10^9/L (150–350). Three sputum samples were negative for AFB. Fine-needle aspiration (FNA) of a neck gland yielded purulent material with microscopy for AFB 2+ positive, and no growth on blood culture. Further investigations revealed CD4 109 cells/µL; HIV-1 RNA <400 copies/mL. Repeat FBC results were: WBC 7.8×10^9/L, haemoglobin 6.7 g/dL, MCV 84 fL, platelets 428×10^9/L. A second FNA showed frank yellowish pus with numerous coccoid bacteria and polymorphonuclear lymphocytes on microscopic examination; bacterial culture results were never received.",
+  "differential_diagnosis": "Initially, TB lymphadenitis was highly suspected given AFB in the lymph gland. However, due to unsatisfactory response to initial TB treatment, atypical mycobacteria were considered, especially given the patient's deep immune suppression. Other considerations for poor response included non-adherence, malabsorption, and drug resistance. The presence of frank fluctuation made bacterial lymphadenitis probable, while lymphoma was deemed much less likely. IRIS of the paradoxical type was also considered due to lack of improvement.",
+  "management_and_clinical_course": "The patient was admitted and started on TB repeat treatment for tuberculous lymphadenitis with streptomycin, isoniazid, rifampicin, pyrazinamide, and ethambutol, while continuing ART. After 3 weeks, he did not improve, still experiencing fevers, night sweats, lack of appetite, and increasing fluctuant neck glands. Corticosteroids were initiated. The patient recovered well after incision and drainage, antibiotic treatment, and a short course of corticosteroids while continuing TB treatment and ART.",
+  "final_diagnosis": "The final diagnosis was superimposed bacterial lymphadenitis, possibly iatrogenic, most likely caused by Staphylococcus aureus, on underlying tuberculous lymphadenitis, complicated by immune reconstitution inflammatory syndrome (IRIS) of the unmasking type. This was evidenced by initial AFB positive FNA from a neck gland, followed by clinical deterioration despite TB treatment, the development of fluctuant swelling, and subsequent FNA revealing frank pus with coccoid bacteria and polymorphonuclear lymphocytes, leading to recovery after incision and drainage and antibiotic treatment.",
+  "disease_name_short": "Tuberculous Lymphadenitis",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "Fig. 47.1",
+      "caption": "The patient's \"health passport\". The health passport is a booklet all patients in Malawi hold which documents their medical history."
+    },
+    {
+      "file_name": "Fig. 47.2",
+      "caption": "Increasing and fluctuant lymphadenitis in the neck."
+    }
+  ]
+}

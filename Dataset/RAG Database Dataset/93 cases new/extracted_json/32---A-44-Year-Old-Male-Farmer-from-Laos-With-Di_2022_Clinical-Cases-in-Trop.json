@@ -1,0 +1,90 @@
+{
+  "patient_information": "A 44-year-old male rice farmer from Laos diagnosed with type 2 diabetes 4 years previously but was not compliant with oral antidiabetic drugs or follow-up.",
+  "chief_complaint": "1-month history of fever, headache, generalized myalgia and arthralgia and a painful swelling over the left scapula.",
+  "history_of_present_illness": "A 44-year-old male rice farmer presents to a provincial hospital in Southern Laos in the rainy season with a 1-month history of fever, headache, generalized myalgia and arthralgia and a painful swelling over the left scapula. The swelling has gradually increased in size, without any history of preceding trauma. He has not noticed any lesions elsewhere. He was diagnosed with type 2 diabetes 4 years previously but was not compliant with oral antidiabetic drugs or follow-up. The lesion on his back was incised and drained at a local health centre the previous week, since when he has been taking cloxacillin 1 g four times daily. However, there has been no improvement and during the 2 days prior to admission he has deteriorated, with high fever, chills and severe malaise.",
+  "exposure_and_epidemiology": "The patient is a male rice farmer from Laos, presenting during the rainy season. He is a known type 2 diabetic and has epidemiological and clinical risk factors for melioidosis. Humans are thought usually to become infected by percutaneous inoculation through cuts and abrasions (e.g. when working in rice fields), inhalation/aspiration during severe weather events and ingestion. Host factors are very important; the majority of cases occur in those who are immunocompromised, especially with diabetes mellitus. The disease is highly seasonal, with 80% of cases presenting during the wet season.",
+  "vitals": "The patient appears septic, with a fever of 40°C (104°F), a heart rate of 136bpm, blood pressure of 140/80 mmHg and a respiratory rate of 30 breath cycles per minute.",
+  "physical_exam": "The patient is pale and jaundiced. In the left scapular region, there is an erythematous swelling of 2.5 × 4 cm with pus discharging from a central wound. There is no regional lymphadenopathy. On chest auscultation there are bilateral crepitations and reduced breath sounds at both lung bases. Heart sounds are normal. The abdomen is soft, without any palpable organomegaly.",
+  "labs_and_diagnostics": "Laboratory results included WBC 16.2 ×10^9/L (reference range 6.0-8.0), polymorphs 92.1% (reference range 45-70), platelets 112 ×10^9/L (reference range 150-300), glucose 20.6 mmol/L (reference range 4.1-6.1), serum creatinine 56 µmol/L (reference range 62-120), urea 6.8 mmol/L (reference range 5.4-16.1), AST 131 U/L (reference range 0-37), ALT 83 U/L (reference range 0-40), serum total bilirubin 111.2 µmol/L (reference range 1.71-20.5), and serum direct bilirubin 56.4 µmol/L (reference range 0-7). Pus culture yielded Burkholderia pseudomallei after 48 hours, and blood culture also grew the same bacterium, while three throat swabs failed to grow the organism. A chest radiograph revealed bilateral pleural effusions. A shoulder radiograph showed no evidence of bony involvement. Abdominal ultrasound showed hepatosplenomegaly without evidence of liver or splenic abscesses.",
+  "differential_diagnosis": "Bacterial abscess with sepsis could be caused by Staphylococcus aureus, Streptococcus pyogenes, Klebsiella pneumoniae, Vibrio vulnificus or anaerobes. However, the patient's epidemiological and clinical risk factors strongly suggest melioidosis, caused by Burkholderia pseudomallei, which can present as localized abscesses, pneumonia, and septicaemia in immunocompromised patients, particularly diabetics. Tuberculosis was also considered due to the sub-acute history of abscess with respiratory findings, but tuberculous abscesses are typically 'cold' and less painful. Disseminated fungal infection was deemed unlikely unless additional immunocompromise like HIV was present.",
+  "management_and_clinical_course": "The patient was empirically treated with ceftriaxone and gentamicin. After 48 hours, upon suspicion of melioidosis based on laboratory alerts, treatment was switched to ceftazidime. The patient improved, becoming afebrile by day 14. He was then switched to oral co-trimoxazole to complete 20 weeks of treatment, and glycaemic control was established. The patient was discharged after 21 days of hospitalization and continued oral 'eradication' treatment for 5 months, remaining well.",
+  "final_diagnosis": "The final diagnosis is Melioidosis, caused by Burkholderia pseudomallei. This was confirmed by positive cultures of B. pseudomallei from both pus and blood. The diagnosis is further supported by the patient's epidemiological factors (rice farmer in Laos, rainy season), pre-existing diabetes mellitus, the clinical presentation of a back abscess with bilateral pleural effusions, and his positive response to specific melioidosis treatment with ceftazidime and co-trimoxazole.",
+  "disease_name_short": "Melioidosis",
+  "tables": [
+    {
+      "title": "Laboratory Results",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference Range"
+      ],
+      "rows": [
+        [
+          "WBC (×10^9/L)",
+          "16.2",
+          "6.0-8.0"
+        ],
+        [
+          "Polymorphs (%)",
+          "92.1",
+          "45-70"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "12.5",
+          "12.0-16.0"
+        ],
+        [
+          "Platelets (×10^9/L)",
+          "112",
+          "150-300"
+        ],
+        [
+          "Glucose (mmol/L)",
+          "20.6",
+          "4.1-6.1"
+        ],
+        [
+          "Serum creatinine (µmol/L)",
+          "56",
+          "62-120"
+        ],
+        [
+          "Urea (mmol/L)",
+          "6.8",
+          "5.4-16.1"
+        ],
+        [
+          "AST (U/L)",
+          "131",
+          "0-37"
+        ],
+        [
+          "ALT (U/L)",
+          "83",
+          "0-40"
+        ],
+        [
+          "Serum total bilirubin (µmol/L)",
+          "111.2",
+          "1.71-20.5"
+        ],
+        [
+          "Serum direct bilirubin (µmol/L)",
+          "56.4",
+          "0-7"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "image_32_1.jpeg",
+      "caption": "Wound on the patient's left shoulder, after incision and drainage of the abscess. (Side finding: hypopigmented macular skin lesions of Pityriasis versicolor (Malassezia spp.), commonly seen in humid tropical climates.)"
+    },
+    {
+      "file_name": "image_32_2.jpeg",
+      "caption": "Admission chest radiograph of the patient, showing bilateral pleural effusions."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "patient_information": "A 16-year-old Sri Lankan boy.",
+  "chief_complaint": "A 16-year-old Sri Lankan boy presents to a local hospital with fever, frontal headache and severe body aches for 2 days. He has vomited two to three times during the illness and has not passed any urine for the previous 12 hours.",
+  "history_of_present_illness": "A 16-year-old Sri Lankan boy presents to a local hospital with fever, frontal headache and severe body aches for 2 days. He has vomited two to three times during the illness and has not passed any urine for the previous 12 hours. He does not have a cough, coryza or shortness of breath. He has been attending school until his illness.",
+  "exposure_and_epidemiology": "He had been fishing in an urban water stream 5 days before falling ill.",
+  "vitals": "Temperature is 38.3°C (100.9°F), the pulse rate is 100 bpm (low in volume). The blood pressure is 90/60 mmHg.",
+  "physical_exam": "The boy appears ill and drowsy. He is jaundiced and has subconjunctival haemorrhages. There is no neck stiffness, however there is severe muscle tenderness, mainly involving the abdominal wall and the calves such that the patient finds it difficult to walk. There is no lymphadenopathy. The cardiac apex is not shifted and heart sounds are clear. Examination of the lungs is normal. The liver is palpable at 4cm below the right costal margin and is tender. The spleen is not palpable. There is mild bilateral renal angle tenderness. Neurological examination is normal.",
+  "labs_and_diagnostics": "The laboratory findings are summarized in Table 27.1. The urine microscopy shows 20 red blood cells per high-power field, proteins '+' and granular casts '+'. A chest radiograph is normal. An ECG shows sinus tachycardia.",
+  "differential_diagnosis": "An acute febrile illness accompanied by jaundice, renal failure and subconjunctival haemorrhage should raise the suspicion of leptospirosis, particularly in case of a history involving exposure to potentially contaminated water. Scrub typhus is another very common infection in South Asia. It may present with an acute onset of fever, hepatomegaly and renal failure. There usually is lymphadenopathy; and on careful examination, one may spot an eschar. Subconjunctival haemorrhage has been described but is less common than in leptospirosis, and complications such as renal failure tend to occur late in the infection (after about 7 days). Hantavirus infection may cause a haemorrhagic fever with renal syndrome. It has a similar epidemiology to leptospirosis and is also associated with contact with rodent excreta. Dengue haemorrhagic fever (DHF) is another differential diagnosis to consider. It also presents with fever, severe myalgias, thrombocytopenia and haemorrhages. Acute kidney injury and jaundice are uncommon for DHF.",
+  "management_and_clinical_course": "Severe leptospirosis was suspected and the patient was commenced on empirical benzylpenicillin. Despite rehydration he developed acute renal failure warranting haemodialysis (HD). He developed myocarditis and atrial fibrillation, but luckily tolerated further HD. He gradually recovered over 10 days with intensive care management.",
+  "final_diagnosis": "The final diagnosis for the patient was severe leptospirosis, strongly suggested by the clinical presentation of fever, jaundice, renal failure, and subconjunctival haemorrhages. The epidemiological history of fishing in an urban water stream 5 days prior to illness further supported this. Laboratory findings of thrombocytopenia, elevated liver enzymes (AST, ALT, ALP), hyperbilirubinemia (total and direct), elevated blood urea nitrogen, and creatinine confirmed organ dysfunction typical of severe leptospirosis. The patient's response to empirical benzylpenicillin and recovery with intensive care management further validated the diagnosis.",
+  "disease_name_short": "Leptospirosis",
+  "tables": [
+    {
+      "title": "Laboratory Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "WBC (×109/L) (neutrophils: lymphocytes)",
+          "5.7 (68%: 31%)",
+          "4-10"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "14.8",
+          "12-16"
+        ],
+        [
+          "Platelets (×109/L)",
+          "96",
+          "150-350"
+        ],
+        [
+          "AST (IU/L)",
+          "64",
+          "13-33"
+        ],
+        [
+          "ALT (IU/L)",
+          "58",
+          "3-25"
+        ],
+        [
+          "ALP (IU/L)",
+          "246",
+          "40-130"
+        ],
+        [
+          "Serum bilirubin total (µmol/L)",
+          "77",
+          "13.7-30.8"
+        ],
+        [
+          "Serum bilirubin direct (µmol/L)",
+          "54.7",
+          "<5"
+        ],
+        [
+          "Blood urea nitrogen (µmol/L)",
+          "20.7",
+          "2.5-6.4"
+        ],
+        [
+          "Serum creatinine (µmol/L)",
+          "212.2",
+          "71-106"
+        ],
+        [
+          "C-reactive protein (mg/L)",
+          "48",
+          "<5"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "extracted_images/27---A-16-Year-Old-Boy-from-Sri-Lanka-With-Fever_2022_Clinical-Cases-in-Trop/page1_img1.jpeg",
+      "caption": "Jaundice and subconjunctival haemorrhages"
+    }
+  ]
+}

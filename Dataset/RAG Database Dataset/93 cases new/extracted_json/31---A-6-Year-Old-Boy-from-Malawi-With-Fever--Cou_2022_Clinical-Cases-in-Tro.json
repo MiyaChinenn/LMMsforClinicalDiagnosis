@@ -1,0 +1,20 @@
+{
+  "patient_information": "A 6-year-old Malawian boy, known to be HIV-positive but not yet on antiretroviral therapy (ART).",
+  "chief_complaint": "High fever, dyspnoea, dry cough, and impaired consciousness, starting 3 days prior to admission.",
+  "history_of_present_illness": "The boy was admitted the night before because of high fever, dyspnoea and a dry cough which had started 3 days before. On admission, he was started on presumptive antimalarial treatment; the results of the malaria smear were pending.",
+  "exposure_and_epidemiology": "The patient is a 6-year-old boy from Malawi, admitted to a Malawian Central Hospital.",
+  "vitals": "Temperature of 39.8°C (103.6°F).",
+  "physical_exam": "Examination revealed a sick child with laboured breathing. The Blantyre coma score is 3/5. The boy has coryza and bilateral conjunctivitis. A fine maculopapular rash was noticed behind both ears and on the forehead, with bilateral axillary lymphadenopathy. Within the next 3 days, the rash covered the trunk and skin scaling started over the chest.",
+  "labs_and_diagnostics": "Malaria smear results were pending on admission and later turned out to be negative.",
+  "differential_diagnosis": "The symptoms and signs are rather non-specific, and the list of differential diagnoses is long, ranging from malaria and typhoid fever to atypical pneumonia and various viral infections. Given his state of immunosuppression, a combination of different diagnoses also had to be considered. However, the presence of the three 'Cs' of \"cough, coryza and conjunctivitis,\" together with a conspicuous rash starting behind his ears, led to the suspicion of measles. Pathognomonic bright red spots with a whitish centre (‘Koplik's spots’) on the buccal mucosa may be absent or appear only for a short period. Other viral infections presenting with a similar rash include rubella, enterovirus infection, and infectious mononucleosis. Bacterial infections to consider include scarlet fever, meningococcal disease, and rickettsial infections.",
+  "management_and_clinical_course": "On admission, the boy was started on presumptive antimalarial treatment. He required IV fluids, and vitamin A was given for corneal protection. Malaria treatment was stopped after smears turned out to be negative. Within the next 3 days, the rash covered the trunk and skin scaling started over the chest. The boy developed severe pneumonia and received antibiotic treatment. After recovery, antiretroviral therapy was started in the out-patient-clinic. Due to the recent appearance of the rash, he was considered contagious and was isolated and nursed in a separate room.",
+  "final_diagnosis": "The final diagnosis is Measles, a highly contagious viral infection caused by a paramyxovirus. This is supported by the patient's presentation with high fever, dry cough, coryza, and bilateral conjunctivitis, along with a fine maculopapular rash that started behind his ears and on the forehead, subsequently spreading to the trunk and causing skin scaling. The patient's HIV-positive status, which compromises cellular immunity, predisposed him to severe complications, including the developed pneumonia. The initial presumptive diagnosis of malaria was ruled out by negative smear results.",
+  "disease_name_short": "Measles",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "extracted_images/31---A-6-Year-Old-Boy-from-Malawi-With-Fever--Cou_2022_Clinical-Cases-in-Tro/page2_img1.jpeg",
+      "caption": "Scaling of the erythematous rash."
+    }
+  ]
+}

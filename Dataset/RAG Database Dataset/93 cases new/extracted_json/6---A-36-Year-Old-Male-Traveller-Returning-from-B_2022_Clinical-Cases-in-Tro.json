@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 36-year-old male restaurant owner.",
+  "chief_complaint": "A mobile itchy mass under his skin for 3 weeks.",
+  "history_of_present_illness": "Three weeks ago, he noted a mobile itchy mass in his groin for 4 days after which it subsided. He then noted an itchy, serpiginous rash tracking from his groin to his chest, which moved over the course of several days and then disappeared. He then noted the mass reappearing on his right shoulder, at which point he was referred for assessment. There is no history of fever or systemic illness. Over the next 6 days of treatment, the serpiginous lesion migrated over his shoulder and neck, disappeared for 24 hours, then reappeared between his eyebrows, moved to his forehead and face, and then was felt inside his nose.",
+  "exposure_and_epidemiology": "Five weeks ago, he returned from a fishing holiday with four friends to the Okavango Delta in Botswana. He took malaria chemoprophylaxis, slept on the boat under a mosquito net and swam in fresh river water. He ate freshwater fish from the river. He is married and denies sexual contact on the trip. Of the four friends who accompanied him, two also have the same complaint. The patient admitted that on their trip they had made sushi from fresh fish caught in the river.",
+  "vitals": "The patient is afebrile.",
+  "physical_exam": "Organ system examination is normal. On his right upper deltoid is a firm mass with clear margins 3 x 8 cm in size. This mass had recently migrated across his upper chest wall, and a serpiginous tract is visible. There is no additional rash and no lymphadenopathy.",
+  "labs_and_diagnostics": "Total white cell count 8.9 \n\n10\n\n9/L (reference range: 4\n\n10), eosinophil count 0.9 \n\n10\n\n9/L (<0.5), liver function tests, creatinine and electrolytes are normal. HIV antibodies are negative. Serology for Gnathostoma was negative. The larva expressed from his nostril was identified as Gnathostoma spinigerum.",
+  "differential_diagnosis": "Gnathostomiasis is the likely diagnosis due to the mobile itchy mass, eosinophilia, and history of raw fish consumption in an endemic area. Intermittent migratory swellings are also typically seen in patients with Loa loa infection (calabar swelling), but Loa loa is not endemic in the Okavango Delta and the minimum incubation time is 5 months. Sparganosis, caused by larvae ('spargana') of canine and feline tapeworms of the genus Spirometra, is a very rare cause of migratory swellings and eosinophilia, acquired by drinking water containing infected copepods or by eating raw or undercooked intermediate hosts; it mainly occurs in East and South-East Asia. Other infections acquired in the tropics can be migratory and are associated with an itchy track-like rash, such as those caused by larvae of animal hookworms or Strongyloides stercoralis, but these present with fine, serpiginous tracks and not with a large mobile mass. Very rare causes of creeping eruption include ectopic fascioliasis and migratory myiasis.",
+  "management_and_clinical_course": "A clinical diagnosis of cutaneous gnathostomiasis was made. The patient was started on albendazole 400 mg bid for 21 days and ivermectin 200 µg/kg stat. On the sixth day of treatment, he expressed a larva from his nostril, which was identified as Gnathostoma spinigerum. His two friends, who had similar symptoms, were also given similar treatment with full resolution of their symptoms.",
+  "final_diagnosis": "The final diagnosis is cutaneous gnathostomiasis, caused by the nematode Gnathostoma spinigerum. This diagnosis was supported by the patient's history of a mobile itchy mass, significant eosinophilia (0.9 x 10\n\n9/L), travel to the Okavango Delta in Botswana with a history of consuming raw freshwater fish, and the eventual expression and identification of a Gnathostoma spinigerum larva from his nostril following treatment. His symptoms, along with those of his travel companions, resolved after treatment.",
+  "disease_name_short": "Gnathostomiasis",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "Fig. 6.1",
+      "caption": "Itchy serpiginous rash tracking up the right shoulder."
+    },
+    {
+      "file_name": "Fig. 6.2",
+      "caption": "A picture taken after treatment of the mass tracking down the patient's forehead."
+    }
+  ]
+}

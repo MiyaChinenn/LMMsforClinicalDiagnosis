@@ -1,0 +1,71 @@
+{
+  "patient_information": "A 74-year-old Japanese man with a history of cerebral infarction without neurological sequelae, hypertension, and ulcerative colitis. He is taking antiplatelet, antihypertensive medicine, and subcutaneous injection of the TNF-alpha Blocker adalimumab once every 2 weeks.",
+  "chief_complaint": "Fever, joint pain, headache, and nausea over the past 5 days.",
+  "history_of_present_illness": "A 74-year-old Japanese man presented with a history of fever, joint pain, headache, and nausea over the past 5 days. He has a history of cerebral infarction without neurological sequelae, hypertension, and ulcerative colitis. He is currently taking antiplatelet, antihypertensive medicine, and adalimumab via subcutaneous injection once every 2 weeks.",
+  "exposure_and_epidemiology": "He lives in a suburb of a city in Kyushu district, southwestern Japan, and has opportunities to encounter wild animals such as boars and deer. He is retired and does grape farming once in a while. He does not have any recent history of overseas travel.",
+  "vitals": "Body temperature is 37°C (98.6°F), pulse rate 101 bpm, blood pressure 120/70 mmHg, SpO2 96% with 71 oxygen, and respiratory rate 32 breaths per minute.",
+  "physical_exam": "On examination, the patient looked unwell and drowsy. Chest examination was normal. The Glasgow Coma Scale on arrival was 13/15 (E3V4M6). There was livedo reticularis bilaterally on his lower extremities, but otherwise no rash was seen. His left inguinal lymph node was enlarged.",
+  "labs_and_diagnostics": "Laboratory results on admission showed a WBC of 5.3 x 10^9/L, Haemoglobin 17.7 g/dL, Platelets 90 x 10^9/L, AST 413 U/L, ALT 95 U/L, LDH 1025 U/L, CK 7442 U/L, CK-MB 41 U/L, and CRP 0.1 mg/dL. Diagnosis of SFTS was confirmed by detecting SFTS virus in blood serum by PCR, which is reported to have 98.6% sensitivity and 99.1% specificity for real-time RT-PCR of serum.",
+  "differential_diagnosis": "Acute fever with respiratory distress and impaired consciousness suggested sepsis, requiring investigation for pneumonia, meningitis, or infective endocarditis. Given the patient's lifestyle and habitat, tick- and mite-borne infectious diseases were also included in the differential diagnosis, specifically Japanese spotted fever (Rickettsia japonica), scrub typhus (Orientia tsutsugamushi), and severe fever with thrombocytopenia syndrome (SFTS). SFTS was suspected due to the patient's risk of tick bite, acute fever with thrombocytopenia or pancytopenia, abnormal liver function tests, and elevated serum creatinine kinase. A negative CRP count helped differentiate SFTS from rickettsioses.",
+  "management_and_clinical_course": "Symptomatic and supportive treatment was initiated with adequate fluid administration and respiratory support. Vasopressors were considered for hypotension. Laboratory results were closely monitored for worsening thrombocytopenia, disseminated intravascular coagulation, multi-organ failure, and haemophagocytic syndrome. Antibiotics were administered until PCR results were available and other infectious diseases were ruled out. Contact precaution was maintained due to potential human-to-human transmission. The patient was intubated and admitted to the intensive care unit. Meropenem and vancomycin were started for possible bacterial sepsis. After a positive SFTS virus PCR result, antibiotics were discontinued. Despite supportive therapies, the patient's respiratory condition and hypotension worsened for a week. Noradrenaline and hydrocortisone 200 mg/day were added for non-responsive septic shock, leading to gradual improvement. His platelet count decreased to 65 × 10^9/L on day 4 but recovered. CK peaked on admission and normalized by day 7. He was extubated on day 12 and discharged on day 35 without sequelae.",
+  "final_diagnosis": "The final diagnosis was Severe Fever With Thrombocytopenia Syndrome (SFTS), caused by the SFTS virus. This was confirmed by a positive real-time RT-PCR test for SFTS virus in blood serum. The diagnosis was also supported by the patient's epidemiological exposure to wild animals in an endemic region, acute clinical presentation of fever, nausea, drowsiness, and respiratory distress, and characteristic laboratory findings including thrombocytopenia, elevated AST/ALT, LDH, and CK, alongside a negative CRP.",
+  "disease_name_short": "Severe Fever With Thrombocytopenia Syndrome",
+  "tables": [
+    {
+      "title": "Laboratory Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference Range"
+      ],
+      "rows": [
+        [
+          "WBC (× 10^9/L)",
+          "5.3",
+          "3.3-8.6"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "17.7",
+          "13.7-16.8"
+        ],
+        [
+          "Platelets (× 10^9/L)",
+          "90",
+          "158-348"
+        ],
+        [
+          "AST (U/L)",
+          "413",
+          "13-30"
+        ],
+        [
+          "ALT (U/L)",
+          "95",
+          "10-42"
+        ],
+        [
+          "LDH (U/L)",
+          "1025",
+          "124-222"
+        ],
+        [
+          "CK (U/L)",
+          "7442",
+          "59-248"
+        ],
+        [
+          "CK-MB (U/L)",
+          "41",
+          "0-15"
+        ],
+        [
+          "CRP (mg/dL)",
+          "0.1",
+          "0.00-0.14"
+        ]
+      ]
+    }
+  ],
+  "images": []
+}

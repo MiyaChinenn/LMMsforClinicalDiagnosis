@@ -1,0 +1,24 @@
+{
+  "patient_information": "A 4-year-old unimmunized boy from Laos, who is chronically malnourished, stunted, and thin.",
+  "chief_complaint": "A dark sore on the child's cheek noticed three days ago, rapidly progressing to destroy part of the cheek, accompanied by bad breath, listlessness, and inability to eat.",
+  "history_of_present_illness": "Three days prior to presentation, a dark sore was noticed on the child's cheek, which rapidly progressed to destroy part of the cheek. The child also exhibited bad breath, listlessness, and an inability to eat. Two months prior, the child had experienced a fever and rash, from which he recovered.",
+  "exposure_and_epidemiology": "The child is from a remote village in Laos, a poor developing country, and his family is very poor. He is chronically malnourished and unimmunized, living in conditions associated with extreme poverty, poor oral hygiene, and a high risk of opportunistic infections.",
+  "vitals": "null",
+  "physical_exam": "The child appears small and quiet, is stunted and thin. He has a gangrenous lesion on his mouth that has destroyed part of his upper and lower lips and cheek, exposing his teeth. This lesion is necrotizing on the right cheek.",
+  "labs_and_diagnostics": "Local doctors did not recognize the disease, and no diagnostic laboratory tests were performed because the diagnosis is made clinically.",
+  "differential_diagnosis": "Initially, a tooth abscess and cellulitis were considered due to a facial sore and bad breath. However, the rapid tissue destruction is typical of noma, an opportunistic infection in malnourished, immune-compromised children, often associated with measles or malaria. Other ulcerating facial lesions like oral cancer, syphilis, and yaws were deemed unlikely in a young child. Cutaneous leishmaniasis was excluded due to its typical slower progression and less destructive nature, and mucocutaneous leishmaniasis, while destructive, is non-endemic in Laos.",
+  "management_and_clinical_course": "Treatment recommendations included penicillin and metronidazole for suspected aerobic and anaerobic oropharyngeal bacteria, along with crucial nutritional support (liquefied local foods fed orally or enterally). Addressing other underlying conditions like malaria, intestinal parasites, tuberculosis, and vitamin deficiencies was also advised, as was removal of necrotic tissue and physiotherapy to prevent contractures. Reconstructive surgery was recommended only after at least one year and by an experienced surgical team, with improved nutrition prior to surgery. The child was successfully treated with antibiotics and nutritional support, leading to healing with contractures and salivary incontinence. At age 9, he underwent two surgeries by an international surgical team, which improved his appearance and corrected salivary incontinence.",
+  "final_diagnosis": "The final diagnosis is Noma, a rapidly advancing gangrenous lesion of the face. This diagnosis was made clinically, supported by the characteristic rapid tissue destruction in a chronically malnourished, unimmunized 4-year-old boy from a poor developing country, and confirmed by successful treatment with antibiotics and nutritional support.",
+  "disease_name_short": "Noma",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "image_0.jpeg",
+      "caption": "A 4-year-old Lao boy with a necrotizing lesion on the right cheek."
+    },
+    {
+      "file_name": "image_1.jpeg",
+      "caption": "At age 9 after two surgeries correcting facial contractures and salivary incontinence."
+    }
+  ]
+}

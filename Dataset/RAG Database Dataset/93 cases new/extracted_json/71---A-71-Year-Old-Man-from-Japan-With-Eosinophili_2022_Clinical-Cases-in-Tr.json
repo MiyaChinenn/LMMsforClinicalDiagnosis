@@ -1,0 +1,146 @@
+{
+  "patient_information": "A 71-year-old Japanese man from the Kyushu district, southern Japan.",
+  "chief_complaint": "A nodular lesion in his right lung, detected during a routine health check.",
+  "history_of_present_illness": "The patient is clinically well and does not report any complaints. The nodular lesion in his right lung was first detected 2 years earlier during a routine health check, initially appearing as a linear shape. It was regularly followed up, and at the most recent visit, chest radiography and CT scan showed it had transformed into a nodular lesion approximately 2 cm in diameter.",
+  "exposure_and_epidemiology": "The patient was born and is still living in the Kyushu district, southern Japan. He has no history of travelling overseas. When suspecting lung fluke infection, it is important to find out if the patient may at any time have been exposed to this parasite. Paragonimus species are endemic all over Asia, in West and Central Africa and parts of Latin America. Consumption of raw or undercooked freshwater crabs, which may harbour the infective stage (metacercariae) of Paragonimus species, or raw wild boar meat, is a risk. Traditional medicine containing raw crab meat and juice, or even contaminated fingers and cooking utensils, may also act as a source of infection.",
+  "vitals": "The vital signs were normal.",
+  "physical_exam": "The chest was clear. The remainder of the physical examination was also normal.",
+  "labs_and_diagnostics": "His full blood count showed WBC 6.5 x 10^9/L (Ref: 4-10), Haemoglobin 15.3 g/dL (Ref: 14-16), Platelets 190 x 10^9/L (Ref: 150-300), Neutrophils 46.1% (Ref: 30-80), Lymphocytes 38.6% (Ref: 15-50), Monocytes 6.4% (Ref: 1-12), Eosinophils 8.3% (Ref: 0-6), Total eosinophil count 0.54 x 10^9/L (Ref: <0.45), Basophils 0.6% (Ref: 0-2), and IgE 185.7 U/mL (Ref: <100). Liver and renal function tests, electrolytes, LDH, and CRP were normal. Serologies for Cryptococcus Ag, Aspergillus Ag, β-D-glucan (6.0 pg/mL, <20 pg/mL), and QuantiFERON test (QFT-2G) were negative. Imaging with Fluorodeoxyglucose-positron emission tomography (FDG-PET-CT) showed increased FDG-uptake into the lesion in the right upper lobe. Bronchoscopy and cytology of bronchoalveolar lavage (BAL) fluid were negative for malignant cells and acid-fast bacilli. A wide range of tumour markers were also negative. Immunodiagnosis by multiple-dot ELISA was strongly positive for P. westermani.",
+  "differential_diagnosis": "Initial differential diagnoses for a nodular lesion included pulmonary tuberculosis or lung cancer, as PET-CT could not distinguish between malignancy and an inflammatory lesion. Systemic endemic mycoses were considered but deemed unlikely due to the patient's origin in East Asia and lack of travel history. Given the patient's eosinophilia and elevated total IgE levels, pulmonary helminth infections, specifically lung fluke infection (paragonimiasis), were also considered.",
+  "management_and_clinical_course": "The patient was treated with oral praziquantel 25 mg/kg tds for 3 consecutive days. Following treatment, the lung lesion gradually faded and eventually disappeared, and his serum antibody titre also declined.",
+  "final_diagnosis": "The final diagnosis was paragonimiasis, caused by *Paragonimus westermani*. This was supported by the patient's clinical presentation of a nodular lung lesion, eosinophilia, elevated IgE levels, and epidemiological background from Southern Japan, along with a strongly positive multiple-dot ELISA for *P. westermani*. The successful resolution of the lung lesion and decline in serum antibody titre following praziquantel treatment further confirmed the diagnosis.",
+  "disease_name_short": "Paragonimiasis",
+  "tables": [
+    {
+      "title": "Full Blood Count Results at Presentation",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "WBC (× 10⁹/L)",
+          "6.5",
+          "4-10"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "15.3",
+          "14-16"
+        ],
+        [
+          "Platelets (× 10⁹/L)",
+          "190",
+          "150-300"
+        ],
+        [
+          "Neutrophils (%)",
+          "46.1",
+          "30-80"
+        ],
+        [
+          "Lymphocytes (%)",
+          "38.6",
+          "15-50"
+        ],
+        [
+          "Monocytes (%)",
+          "6.4",
+          "1-12"
+        ],
+        [
+          "Eosinophils (%)",
+          "8.3",
+          "0-6"
+        ],
+        [
+          "Total eosinophil count (× 10⁹/L)",
+          "0.54",
+          "<0.45"
+        ],
+        [
+          "Basophils (%)",
+          "0.6",
+          "0-2"
+        ],
+        [
+          "IgE (U/mL)",
+          "185.7",
+          "<100"
+        ]
+      ]
+    },
+    {
+      "title": "Predominant Paragonimus Species by Region",
+      "headers": [
+        "Region",
+        "Predominant Paragonimus spp."
+      ],
+      "rows": [
+        [
+          "East Asia",
+          "P. westermani P. skrijabinia"
+        ],
+        [
+          "South and South-east Asia",
+          "P. heterotremusb"
+        ],
+        [
+          "Africa",
+          "P. africanus P. uterobilateralis"
+        ],
+        [
+          "North America",
+          "P. kelicottii"
+        ],
+        [
+          "Central and South America",
+          "P. mexicanus"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "Fig. 71.1A",
+      "caption": "Chest x-ray (A) and CT scan (B, C) of the patient showing a nodular lesion in the right upper lobe. (D-F) Fluorodeoxyglucose-positron emission tomography (FDG-PET) with increased FDG uptake into the lesion in the right upper lobe."
+    },
+    {
+      "file_name": "Fig. 71.1B",
+      "caption": "Chest x-ray (A) and CT scan (B, C) of the patient showing a nodular lesion in the right upper lobe. (D-F) Fluorodeoxyglucose-positron emission tomography (FDG-PET) with increased FDG uptake into the lesion in the right upper lobe."
+    },
+    {
+      "file_name": "Fig. 71.1C",
+      "caption": "Chest x-ray (A) and CT scan (B, C) of the patient showing a nodular lesion in the right upper lobe. (D-F) Fluorodeoxyglucose-positron emission tomography (FDG-PET) with increased FDG uptake into the lesion in the right upper lobe."
+    },
+    {
+      "file_name": "Fig. 71.1D",
+      "caption": "Chest x-ray (A) and CT scan (B, C) of the patient showing a nodular lesion in the right upper lobe. (D-F) Fluorodeoxyglucose-positron emission tomography (FDG-PET) with increased FDG uptake into the lesion in the right upper lobe."
+    },
+    {
+      "file_name": "Fig. 71.1E",
+      "caption": "Chest x-ray (A) and CT scan (B, C) of the patient showing a nodular lesion in the right upper lobe. (D-F) Fluorodeoxyglucose-positron emission tomography (FDG-PET) with increased FDG uptake into the lesion in the right upper lobe."
+    },
+    {
+      "file_name": "Fig. 71.1F",
+      "caption": "Chest x-ray (A) and CT scan (B, C) of the patient showing a nodular lesion in the right upper lobe. (D-F) Fluorodeoxyglucose-positron emission tomography (FDG-PET) with increased FDG uptake into the lesion in the right upper lobe."
+    },
+    {
+      "file_name": "Fig. 71.2",
+      "caption": "Chest x-ray of a patient with acute paragonimiasis, showing right-sided pleural effusion."
+    },
+    {
+      "file_name": "Fig. 71.3",
+      "caption": "Paragonimus westermani egg in sputum."
+    },
+    {
+      "file_name": "Fig. 71.4",
+      "caption": "Multiple-dot ELISA for helminthiases showing positive reaction against P. westermani antigen. NHS: normal human serum for positive control; Pw: P. westermani; Pm: P. miyazakii; Fh: Fasciola hepatica; Cs: Clonorchis sinensis; Se: Spirometra erinacei europaei; Cc: Cysticercus cellulosae; Di: Dirofilaria immitis; Tc: Toxocara canis; As: Ascaris sum; Asx: Anisakis simplex; Gd: Gnathostoma doloresi; Sr: Strongyloides stercoralis."
+    },
+    {
+      "file_name": "Fig. 71.5",
+      "caption": "Histopathology of the nodular lung lesion that was surgically resected after diagnosis of lung cancer based on FDG-PET imaging. Note the chronic granulomatous lesion containing numerous Paragonimus eggs (black arrows). Foreign body giant cells (white arrows) are also seen in the tissue."
+    }
+  ]
+}

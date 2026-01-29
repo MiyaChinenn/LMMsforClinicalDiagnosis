@@ -1,0 +1,115 @@
+{
+  "patient_information": "A 33-year-old man from Finland who had been backpacking in India for the previous month.",
+  "chief_complaint": "Passage of loose stools (four or five episodes per day) for the past 2 weeks, along with flatulence.",
+  "history_of_present_illness": "He reports weight loss, anorexia, malaise, flatulence, and abdominal cramping when passing stool. For the past 3 days, he has experienced bloating and distension after intake of milk products with an urge to pass stool. He has mild nausea, but no fever. Stools were watery earlier but he went to a local pharmacy and was given ciprofloxacin, which he took for 5 days, ending 2 days previously. His stools are now three or four per day, mushy, greasy, and foul-smelling.",
+  "exposure_and_epidemiology": "Patient had been backpacking in India for the previous month.",
+  "vitals": "Patient reports no fever.",
+  "physical_exam": "A 33-year-old man, 180cm, 72kg (reports a 4kg weight loss), presented with mild non-specific abdominal tenderness. There were no signs of dehydration. The rest of the examination was normal.",
+  "labs_and_diagnostics": "Stool for reducing substances was positive. Stool examination for enteric parasites showed Giardia trophozoites in the fresh specimen and Giardia cysts were detected on formol-ether concentrated specimens. The presence of reducing substances in the stool indicates a carbohydrate malabsorption, most likely of post-infectious origin.",
+  "differential_diagnosis": "In the absence of a laboratory, clinical features can sometimes provide a clue to the cause of infectious diarrhoea. Diarrhoea caused by small intestinal infection is typically high volume, watery and often associated with malabsorption and dehydration. Colonic involvement is more often associated with frequent small-volume stools, the presence of blood and a sensation of urgency. Chronic diarrhoea or recurrent episodes of acute diarrhoea should prompt HIV testing. Possible aetiological agents based on clinical observations are detailed in Table 49.1.",
+  "management_and_clinical_course": "The patient was given tinidazole 2 g as a single oral dose. He was advised to restrict milk and high sugar products for a period of 2 weeks and was counselled on food and water safety. On review after 3 days, he reported that his stool consistency had returned to normal, frequency had decreased, and he had no nausea and decreased anorexia. He experienced some bloating and discomfort after consuming a local dessert made of reduced milk, but otherwise felt much better.",
+  "final_diagnosis": "The final diagnosis is Giardiasis, caused by Giardia species. This is supported by the patient's clinical presentation of chronic diarrhea, flatulence, weight loss, and malabsorption symptoms, particularly after milk product consumption. Diagnostic confirmation was achieved through stool examination, which revealed Giardia trophozoites in a fresh specimen and Giardia cysts in formol-ether concentrated specimens. The patient showed good clinical response to a single oral dose of tinidazole.",
+  "disease_name_short": "Giardiasis",
+  "tables": [
+    {
+      "title": "Clinical Clues to Pathology and Possible Aetiological Agents of Diarrhoeal Disease",
+      "headers": [
+        "Clinical Observation",
+        "Pathophysiology",
+        "Possible Aetiology"
+      ],
+      "rows": [
+        [
+          "Few, bulky or large watery stools",
+          "Small bowel, secretory",
+          "Enterotoxigenic Escherichia coli (ETEC), enteropathogenic E. coli (EPEC), Salmonella, Vibrio parahaemolyticus, Giardia, possibly Shigella"
+        ],
+        [
+          "Large volume, watery diarrhoea",
+          "Small bowel, enterotoxin mediated",
+          "Vibrio cholerae, ETEC, Cryptosporidium"
+        ],
+        [
+          "Many, small volume stools",
+          "Large bowel",
+          "Shigella, Salmonella, Campylobacter, Yersinia enterocolitica, Clostridium perfringens, Entamoeba histolytica"
+        ],
+        [
+          "Tenesmus, faecal urgency, dysentery",
+          "Colitis",
+          "E. histolytica, enteroinvasive E. coli (EIEC), enterohaemorrhagic E. coli (EHEC), Shigella, Campylobacter, Y. enterocolitica, Clostridioides difficile"
+        ],
+        [
+          "Associated with vomiting",
+          "Gastroenteritis or toxin mediated",
+          "Noroviruses, rotavirus in children, Bacillus cereus, Staphylococcus aureus (food poisoning)"
+        ],
+        [
+          "Associated with fever",
+          "Mucosal invasion or in children",
+          "E. histolytica, EIEC, EHEC, Shigella, Salmonella, C. difficile, Campylobacter, viral agents"
+        ],
+        [
+          "Persistent diarrhoea (>2 weeks)",
+          "Secondary malabsorption, invasion",
+          "Giardia, Cryptosporidium, E. histolytica, Aeromonas. In immunosuppression: Cystoisospora belli, Cryptosporidium, Microsporidium"
+        ]
+      ]
+    },
+    {
+      "title": "Common Complications of Acute Enteric Infections",
+      "headers": [
+        "Complication",
+        "Pathogen"
+      ],
+      "rows": [
+        [
+          "Carbohydrate intolerance or malabsorption",
+          "Giardia lamblia/intestinalis, rotavirus and other forms of viral gastroenteritis,"
+        ],
+        [
+          "Fat malabsorption",
+          "Giardia lamblia/intestinalis"
+        ],
+        [
+          "Haemolytic uraemic syndrome",
+          "Enterohaemorrhagic Escherichia coli (EHEC), Shigella dysenteriae"
+        ],
+        [
+          "Guillain-Barré syndrome",
+          "Campylobacter jejuni"
+        ],
+        [
+          "Reactive arthritis",
+          "Campylobacter, Salmonella, Shigella, Yersinia spp."
+        ],
+        [
+          "Erythema nodosum",
+          "Campylobacter, Salmonella, Shigella, Yersinia spp"
+        ],
+        [
+          "Enteritis necroticans",
+          "Clostridium perfringens type C"
+        ],
+        [
+          "Liver abscess and other forms of extraintestinal amoebiasis",
+          "Entamoeba histolytica"
+        ],
+        [
+          "Chronic fatigue syndrome",
+          "Giardia lamblia/intestinalis, particularly described from Scandinavia"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "image_A.png",
+      "caption": "Fresh preparation showing trophozoites (A) of Giardia species."
+    },
+    {
+      "file_name": "image_B.png",
+      "caption": "Formol-ether concentration showing cysts (B) of Giardia species."
+    }
+  ]
+}

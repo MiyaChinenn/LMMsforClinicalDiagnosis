@@ -1,0 +1,112 @@
+{
+  "patient_information": "A 45-year-old male security guard from Malawi, unemployed for the last 6 months due to illness. He is a non-smoker, drinks two paper cartons (about one litre) of Chibuku, a locally brewed beer, per day, is married with three children who are all well, and resides in an urban area. He was later found to be HIV-positive with a CD4 count of 331 cells/µL. He had never been tested for HIV prior to admission.",
+  "chief_complaint": "A 45-year-old security guard from Malawi presented with back pain and progressive difficulty in walking, which started 1 year prior to admission.",
+  "history_of_present_illness": "His troubles began 1 year earlier with back pain, for which he received paracetamol at a local health centre without improvement. Over the following weeks, he developed difficulty in walking and 'pins and needles' sensation in his legs. Three months after the first visit, he presented again to the same health centre with a slightly elevated temperature of 37.5°C (99.5°F), and was given antimalarials, a single dose of praziquantel, and paracetamol. He then consulted a local traditional healer who applied tattoos to his chest and back. Over the following 6 months, his condition deteriorated further, leading to him becoming bedridden. He denied fever, night sweats, weight loss, chronic cough, haematuria, or diarrhoea, and was continent for stool and urine. There was no history of trauma or past tuberculosis.",
+  "exposure_and_epidemiology": "The patient is from Malawi and resides in an urban area. He drinks two paper cartons (about one litre) of Chibuku, a locally brewed beer, per day. His HIV status was initially unknown but later confirmed positive.",
+  "vitals": "At an initial visit, his temperature was slightly elevated at 37.5°C (99.5°F). Upon admission, he was afebrile with normal vital signs.",
+  "physical_exam": "The patient looked well. There was tenderness over the lower thoracic spine and severe spasticity of both legs, with power rated at 1/5 (visible muscle flicker). Deep tendon reflexes of the lower limbs were exaggerated, and plantar reflexes were upgoing. A sensory level for pain and temperature sensation was found between T9 and T11, along with diminished joint sense in his big toes bilaterally. His cranial nerves and upper limbs examination were normal. Tattoos from a traditional healer were present on his chest and back.",
+  "labs_and_diagnostics": "Full blood count results were normal. The patient was found to be HIV-positive, with a CD4 count of 331 cells/µL. His urine dipstick was normal, and no ova of Schistosoma spp. were detected in his urine and stool. A spinal radiograph showed a collapse of the T11 vertebral body and soft tissue swelling around the spine. Chest radiography and abdominal ultrasound examination were normal.",
+  "differential_diagnosis": "The clinical signs, including spastic paraparesis with hyperreflexia, upgoing plantar reflexes, and a thoracic sensory level, localized the lesion to the spinal cord. Common causes of adult non-traumatic compressive spinal cord disease in sub-Saharan Africa include spinal TB ('Pott's disease'), spinal metastases, and degenerative spinal disease (including slipped disc). Common causes of non-compressive spinal cord disease are schistosomiasis, autoimmune transverse myelitis, and HIV-associated vacuolar myelopathy.",
+  "management_and_clinical_course": "A presumed diagnosis of spinal TB was made, and the patient was started on standard first-line antituberculous treatment along with Vitamin B6 to prevent peripheral neuropathy. Physiotherapy and intensive guardian counselling were initiated. A spinal surgeon reviewed the patient but did not recommend surgical intervention at that time, suggesting a review in 3 months. The patient was discharged home, and the hospital palliative care team was involved for monthly home visits. At 4 weeks, he was followed up in the HIV outpatient clinic where his neurological deficits remained unchanged, and he was started on antiretroviral therapy given his CD4 count of 331 cells/µL. At the 3-month follow-up, the patient reported some subjective improvement in his gait, though clinically his deficits remained unchanged, and he was still waiting for a wheelchair and missed a neurosurgical outpatient appointment due to transportation problems. He continued to take his antituberculous and antiretroviral medication regularly.",
+  "final_diagnosis": "The final diagnosis was Spinal Tuberculosis (Pott's Disease), likely caused by Mycobacterium tuberculosis, evidenced by chronic progressive back pain and spastic paraparesis, a positive HIV status, and radiographic findings of T11 vertebral body collapse with soft tissue swelling around the spine. The presumed diagnosis led to the initiation of antituberculous treatment, to which the patient reported subjective improvement in gait.",
+  "disease_name_short": "Spinal Tuberculosis",
+  "tables": [
+    {
+      "title": "Important Causes of Spinal Cord Disease in the Tropics and Their Typical Clinical Features",
+      "headers": [
+        "Typical Onset and Course",
+        "Clinical Features"
+      ],
+      "rows": [
+        [
+          "Insidious onset, chronically progressive over weeks, with months of back pain",
+          "Spasticity common, bladder may be spared, spinal deformity on examination"
+        ],
+        [
+          "Subacute onset, chronically progressive over weeks",
+          "Spasticity or flaccidity, bladder may be spared"
+        ],
+        [
+          "Acute onset, often non-progressive",
+          "Bladder involvement common"
+        ],
+        [
+          "Acute (days) or subacute (a couple of weeks)",
+          "Often flaccid paresis, bladder involvement common"
+        ]
+      ]
+    },
+    {
+      "title": "Diagnostic Clues and Possible Treatment Regimens for Important Causes of Spinal Cord Disease in Resource-Limited Settings",
+      "headers": [
+        "Diagnostic Clues",
+        "Treatment"
+      ],
+      "rows": [
+        [
+          "Typical spinal radiograph (see Box) Epidemiological evidence",
+          "Antituberculous treatment Spinal surgery if available and applicable (see Box)"
+        ],
+        [
+          "Clinical evidence of the primary tumour (e.g. prostate, breast)",
+          "Very limited options: radiotherapy rarely available; corticosteroids to decrease oedema"
+        ],
+        [
+          "Young adults Inflammatory CSF",
+          "Corticosteroids"
+        ],
+        [
+          "Exposure to freshwater in endemic regions, young adults in endemic coutries or non-immune travellers; CSF eosinophilia; other manifestations of schistosomiasis may or may not be present.",
+          "Praziquantel, corticosteroids"
+        ]
+      ]
+    },
+    {
+      "title": "Common Complications of Spinal Cord Disease and Their Prevention and Management",
+      "headers": [
+        "Complication",
+        "Prevention/Management"
+      ],
+      "rows": [
+        [
+          "Pressure sores",
+          "Nursing, training and counselling of guardians (two hourly turning)"
+        ],
+        [
+          "Urinary retention",
+          "Catheterization"
+        ],
+        [
+          "Contractures",
+          "Physiotherapy, training of guardians for home-based physiotherapy"
+        ],
+        [
+          "Pain",
+          "Pain relief by NSAID/opiates, involvement of local palliative care team"
+        ],
+        [
+          "Immobilization",
+          "If available, prescription of walking aids/wheelchairs"
+        ],
+        [
+          "Depression",
+          "Spiritual and mental support, occupational therapy/community projects, pharmacotherapy, involvement of local palliative care team"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "figure_11.1A.jpeg",
+      "caption": "Physical examination of a Malawian patient with back pain and difficulties walking. (A) Tattoos from a traditional healer on the chest of the patient."
+    },
+    {
+      "file_name": "figure_11.1B.jpeg",
+      "caption": "Physical examination of a Malawian patient with back pain and difficulties walking. (B) Severe spasticity and contractures of both lower limbs."
+    },
+    {
+      "file_name": "figure_11.2.jpeg",
+      "caption": "AP radiograph demonstrating a paravertebral soft tissue mass in the lower dorsal region with collapse of the T11 vertebral body."
+    }
+  ]
+}

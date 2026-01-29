@@ -1,0 +1,28 @@
+{
+  "patient_information": "A 6-year-old Malawian boy.",
+  "chief_complaint": "A painless, proptosed left eye that his family first noticed 3 weeks ago.",
+  "history_of_present_illness": "A 6-year-old Malawian boy from the lakeshore of Lake Malawi presents with a painless, proptosed left eye that his family first noticed 3 weeks ago. It has worsened rapidly though his vision is still normal. He denies any pain. His vision is not impaired, and the eye on examination looks normal apart from being proptosed.",
+  "exposure_and_epidemiology": "A young Malawian boy from the lakeshore of Lake Malawi resides in an area endemic for malaria and schistosomiasis. This is a rapidly developing proptosis in a boy who lives in a malaria-endemic area.",
+  "vitals": "On examination he is afebrile.",
+  "physical_exam": "The right eye is normal. The left eye is proptosed but non-pulsating. The pupil is round and clear and responds well to light. When asked to follow an object, the left eyeball hardly moves. He has no other swellings or abnormalities; and though he is thin, he is not malnourished.",
+  "labs_and_diagnostics": "A full work-up was done as a matter of urgency, including FNA, BMA, FBC, lumbar puncture (LP), HIV antibody test, stool and urine microscopy, and an abdominal scan. Histology of Burkitt's lymphoma (H&E stain) showed monomorphic tumour cells of intermediate size, indistinct nuclei with coarse chromatin and vacuoles in the cytoplasm (x100 high-power field). Anaemia (<7g/dL) and thrombocytopenia (<50 × 10º/L) should be corrected before chemotherapy. A blood film and stool and urine samples should be examined to exclude or treat malaria or other invasive parasitic infections. An abdominal ultrasound scan will demonstrate any renal involvement. Baseline renal function and liver function tests are useful but not essential. HIV status will not affect treatment but if positive, infections and anaemia should be anticipated.",
+  "differential_diagnosis": "The three most likely diagnoses are Burkitt's lymphoma, another type of B cell lymphoma, and rhabdomyosarcoma. Retinoblastoma is less likely as it usually presents at an earlier age. The painless nature excludes infection, and its non-pulsating character makes an arteriovenous malformation unlikely. Lachrymal gland tumours are typically more anteromedial than this mass.",
+  "management_and_clinical_course": "Treatment for presumed Burkitt's lymphoma started urgently to prevent further proptosis and irreversible eye damage. Intrathecal methotrexate and hydrocortisone were given as prophylaxis against CNS involvement. Oral allopurinol and hyperhydration were commenced. Chemotherapy was initiated the next day. The proptosis resolved quickly, with the eye looking less proptosed within 48 hours and returning to normal within a week. The boy received four courses of chemotherapy over 30 days and a year later was free of disease and pronounced cured. Anaemia and thrombocytopenia should be corrected before chemotherapy, and parasitic infections like malaria or schistosomiasis should be excluded or treated. Renal involvement should be checked via abdominal ultrasound, and HIV status should be anticipated for infections and anaemia if positive.",
+  "final_diagnosis": "The final diagnosis is Burkitt's lymphoma, a highly aggressive B-cell non-Hodgkin's lymphoma. This diagnosis was strongly supported by the patient's presentation: a rapidly developing, painless, non-pulsating left eye proptosis in a 6-year-old Malawian boy residing in a malaria-endemic area. Histological examination (H&E stain) revealed monomorphic tumour cells with indistinct nuclei and cytoplasmic vacuoles. The patient's excellent response to chemotherapy, leading to complete resolution of proptosis within a week and cure within a year, further confirmed the diagnosis. This disease is causally associated with the Epstein-Barr virus (EBV) and malaria, and involves a chromosomal translocation activating the c-myc oncogene.",
+  "disease_name_short": "Burkitt's lymphoma",
+  "tables": [],
+  "images": [
+    {
+      "file_name": "Fig. 60.1",
+      "caption": "The boy before four courses of chemotherapy."
+    },
+    {
+      "file_name": "Fig. 60.2",
+      "caption": "The boy after four courses of chemotherapy."
+    },
+    {
+      "file_name": "Fig. 60.3",
+      "caption": "Histology of Burkitt's lymphoma (H&E stain) showing monomorphic tumour cells of intermediate size, indistinct nuclei with coarse chromatin and vacuoles in the cytoplasm (x100 high-power field)."
+    }
+  ]
+}

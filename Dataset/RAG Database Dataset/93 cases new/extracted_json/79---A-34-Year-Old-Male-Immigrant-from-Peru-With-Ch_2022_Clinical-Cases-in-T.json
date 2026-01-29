@@ -1,0 +1,74 @@
+{
+  "patient_information": "A 34-year-old man, immigrant from Peru, living in Chile for the past 9 years. He is cachectic with a severe loss of muscle mass and a body weight of 44 kg (BMI 17). His HIV test was negative. HTLV-1 co-infection was confirmed by serology.",
+  "chief_complaint": "6-month history of severe chronic diarrhoea associated with colicky abdominal pain and weight loss of approximately 20 kg.",
+  "history_of_present_illness": "For more than 12 years prior to presentation, he had suffered from recurrent episodes of diarrhoea and abdominal cramps, with the frequency of these episodes increasing in the past 2 years. His mother and one brother suffered from chronic abdominal symptoms of unknown origin, leading to wasting and subsequent death at the age of 45 and 28 years, respectively.",
+  "exposure_and_epidemiology": "The patient originates from northern Peru, a tropical region highly endemic for Strongyloides stercoralis, and has been living in Chile for the past 9 years. He reports that his Peruvian wife and children are healthy. His wife and one of his two children were later found to have asymptomatic S. stercoralis infection, and his wife also tested HTLV-1 positive.",
+  "vitals": "He is afebrile.",
+  "physical_exam": "The patient is cachectic with a severe loss of muscle mass and a body weight of 44 kg (BMI 17). Apart from slight pain on abdominal palpation, the physical examination is normal: He is afebrile, liver and spleen are not enlarged, there is no palpable lymphadenopathy and no peripheral oedema.",
+  "labs_and_diagnostics": "Laboratory results on admission showed WBC 11.7 x 10^9/L (Reference 4.5-11.0), Platelets 644 x 10^9/L (Reference 150-450), Haemoglobin 12.4 g/dL (Reference 13.5-17.5), Protein 4.9 g/dL (Reference 6.0-8.0), Albumin 2.2 g/dL (Reference 3.5-5.0), ESR 26 mm/h (Reference 1-14), and a negative HIV test. Abdominal CT scan and abdominal MRI were without any pathological findings. Oesophagogastroduodenoscopy appeared macroscopically normal. Histology of a duodenal biopsy showed signs of chronic duodenitis and multiple elongated structures compatible with a helminth infection. Baermann testing of a fresh stool sample demonstrated a high load of rhabditiform larvae of S. stercoralis. Numerous larvae were also present in respiratory secretions, but not in urine. HTLV-1 co-infection was confirmed by serology.",
+  "differential_diagnosis": "Initial differential diagnoses included Strongyloides stercoralis and Capillaria philippinensis due to chronic diarrhoea, malabsorption, and wasting, especially given the patient's origin from northern Peru, a tropical region highly endemic for S. stercoralis. Intestinal protozoa such as Cryptosporidium species or Cystoisospora belli were also considered possible in immunocompromised patients, though the patient's HIV test was negative. Serology for HTLV-1 was also considered due to its role as a risk factor for S. stercoralis hyperinfection syndrome and family history.",
+  "management_and_clinical_course": "The patient was hospitalized and stabilized under symptomatic treatment and parenteral nutrition. Oral treatment with ivermectin (200 µg/kg per day × 7 days) was initiated and repeated after 2 weeks. The patient recovered from diarrhoea and other abdominal symptoms within weeks, gained 13 kg, and was without postprandial abdominal cramps for the first time in more than 10 years. Parasitological follow-up examination after 3 months was negative. Family screening revealed asymptomatic S. stercoralis infection in his wife and one of his two children. His wife tested HTLV-1 positive, but both children were negative.",
+  "final_diagnosis": "The final diagnosis was HTLV-1-associated Strongyloides stercoralis hyperinfection syndrome. This was confirmed by the presence of S. stercoralis larvae in stool and respiratory secretions via Baermann testing, and the histological findings of a duodenal biopsy showing helminth infection. HTLV-1 co-infection was confirmed by serology, which is a significant predisposing factor for severe strongyloidiasis. The patient's origin from an endemic region and positive family screening for both infections further supported the diagnosis.",
+  "disease_name_short": "Strongyloides Hyperinfection Syndrome",
+  "tables": [
+    {
+      "title": "Laboratory Results",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "WBC (× 10^9/L)",
+          "11.7",
+          "4.5-11.0"
+        ],
+        [
+          "Platelets (x 10^9/L)",
+          "644",
+          "150-450"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "12.4",
+          "13.5-17.5"
+        ],
+        [
+          "Protein (g/dL)",
+          "4.9",
+          "6.0-8.0"
+        ],
+        [
+          "Albumin (g/dL)",
+          "2.2",
+          "3.5-5.0"
+        ],
+        [
+          "ESR (mm/h)",
+          "26",
+          "1-14"
+        ],
+        [
+          "HIV test",
+          "negative",
+          "-"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "image1.jpeg",
+      "caption": "Duodenal biopsy with signs of chronic duodenitis and multiple elongated structures (arrows) compatible with a helminth infection (H&E stain, magnification ×400)."
+    },
+    {
+      "file_name": "image2.jpeg",
+      "caption": "Baermann technique showing high load of motile rhabditiform larvae of S. stercoralis in a stool sample."
+    },
+    {
+      "file_name": "image3.jpeg",
+      "caption": "Rhabditiform larvae are also present in a wet mount preparation of respiratory secretion."
+    }
+  ]
+}

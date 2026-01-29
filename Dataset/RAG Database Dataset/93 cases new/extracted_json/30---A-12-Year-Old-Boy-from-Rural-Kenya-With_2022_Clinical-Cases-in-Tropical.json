@@ -1,0 +1,60 @@
+{
+  "patient_information": "A 12-year-old boy",
+  "chief_complaint": "2 months of painful, watery, red eyes.",
+  "history_of_present_illness": "He reports 2 months of painful, watery, red eyes. The watering of his eyes is worse in the sun and he is struggling to keep his eyes open. Six months previously he was treated at a dispensary for less severe symptoms. He was given tetracycline eye ointment but his symptoms did not improve. After this, he went to a traditional healer who applied some juice extracts from the ecucuka plant (Aloe vera species). After instillation he experienced severe eye pain and discharge, both eyes became very red and he could hardly see.",
+  "exposure_and_epidemiology": "The boy lives with his parents in Loima, Turkana County, a hot, dusty and dry area of Kenya. They fetch water from a dried riverbed about 6 kilometres from home. They keep herds of cows and sheep, and the boy helps with herding and watering.",
+  "vitals": "A 12-year-old boy who appears systemically well.",
+  "physical_exam": "Very poor vision in both eyes: His visual acuity is 6/60 with the left eye, but he can only perceive hand movements with the right eye. The findings on examination are shown in Table 30.1 and Figures 30.1 and 30.2.",
+  "labs_and_diagnostics": "null",
+  "differential_diagnosis": "The most important diagnoses to consider are: 1. Corneal and conjunctival damage from use of traditional eye medicine. 2. Trachomatous trichiasis. 3. Vitamin A deficiency. Further useful information includes dietary intake, history of measles predisposing to vitamin A deficiency and ideally blood retinol (vitamin A) levels (this only drops once hepatic stores of vitamin A are severely depleted).",
+  "management_and_clinical_course": "He was admitted and given oral azithromycin and oral vitamin A supplements. He was referred to the ophthalmologist for lid surgery to redress trichiasis, and for a conjunctival flap to seal the corneal defect.",
+  "final_diagnosis": "The child was diagnosed with bilateral trachomatous trichiasis (TT), corneal opacity (CO) and a left perforating corneal ulcer. These may have been exacerbated by the application of traditional medicine. This diagnosis is supported by the clinical findings of lid, conjunctival, and corneal scarring associated with severe follicular inflammation and trichiasis, as well as the epidemiological context of a pastoralist community in an arid area with poor sanitation and water scarcity. The causative agent is Chlamydia trachomatis.",
+  "disease_name_short": "Trachoma",
+  "tables": [
+    {
+      "title": "Findings on Inspection of Both Eyes",
+      "headers": [
+        "",
+        "Right Eye",
+        "Left Eye"
+      ],
+      "rows": [
+        [
+          "Lid",
+          "Fibrotic lids with loss of lid architecture and tightening of palpebral aperture Loss of lashes from lower lid, misdirected and in-turned upper lid lashes (trichiasis)",
+          "Lids swollen, mucus deposits, eyelashes misdirected Eversion of lower lid margin"
+        ],
+        [
+          "Conjunctiva",
+          "Severely inflamed > 5 follicles (subepithelial inflammatory foci) identified on eversion of lids Scarring of the upper tarsal conjunctivae",
+          "Severely inflamed > 5 follicles (subepithelial inflammatory foci) identified on eversion of lids Scarring of the upper tarsal conjunctivae"
+        ],
+        [
+          "Cornea",
+          "Diffuse corneal opacification (scarring) with central thinning and irregular surface Fibrovascular pannus on the upper cornea",
+          "Focal inferocentral corneal scars, one with adherent iris indicating previous perforation Thin central cornea"
+        ],
+        [
+          "Anterior chamber",
+          "Not visible",
+          "Shallow"
+        ],
+        [
+          "Pupil",
+          "Not visible",
+          "Distorted towards the leucoma (corneal scar)"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "Fig. 30.1",
+      "caption": "The right eye showing lid scarring, trichiasis and extensive corneal opacification."
+    },
+    {
+      "file_name": "Fig. 30.2",
+      "caption": "The left eye with a focal corneal scarring including a perforated corneal ulcer with adherent iris (leucoma)."
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "patient_information": "A 62-year-old male Thai police sergeant major from Kalasin Province in northeast Thailand, with a history of liver fluke infection and praziquantel treatment in the past 10 years.",
+  "chief_complaint": "Solitary liver mass incidentally found during an annual physical check-up.",
+  "history_of_present_illness": "The patient presented for his annual physical check-up. Abdominal ultrasonography incidentally revealed a solitary mass in the liver. He denied any clinical symptoms, weight loss, jaundice, or other gastrointestinal symptoms.",
+  "exposure_and_epidemiology": "The patient is from Kalasin Province in northeast Thailand, a region where eating raw or undercooked freshwater fish, which frequently contains metacercariae of the liver fluke Opisthorchis viverrini, is a traditional food and a known risk factor for cholangiocarcinoma.",
+  "vitals": "Vital signs are normal.",
+  "physical_exam": "The patient appeared in good health. Physical examination showed no jaundice. Liver and spleen were not palpable. No liver stigmata were found, nor was any lymphadenopathy detected.",
+  "labs_and_diagnostics": "Laboratory results showed normal AST (26 U/L), ALT (32 U/L), ALP (84 U/L), Total bilirubin (0.6 mg/dL), and Direct bilirubin (0.2 mg/dL). Hepatitis B serology indicated previous infection with Anti-HBs at 24.13 IU/L (reference 0.0-10.0) and Anti-HBc positive, while HBsAg, HBeAg, and Anti-HCV were negative. AFP was normal at 2.8 U/mL (reference 0.0-10.0). CEA was elevated at 18.96 µg/L (reference 0.0-2.5) and CA19-9 was markedly elevated at 342.80 U/mL (reference 0.0-37.0). Abdominal MRI revealed a single solid liver mass in the right liver lobe (segments VI/VII) with no marked bile duct dilatation. Gross pathology after hemihepatectomy revealed a single heterogenous whitish-yellow mass, size 9 x 9 cm in diameter, located at segments VII and VIII. Liver flukes were detected in the adjacent bile duct, and the liver parenchyma appeared non-cirrhotic. Histology confirmed intrahepatic cholangiocarcinoma (CCA), showing infiltrative compact glandular structures, lined by dysplastic columnar cells with necrosis.",
+  "differential_diagnosis": "The initial differential diagnoses included hepatocellular carcinoma, cholangiocarcinoma (CCA), a metastatic tumour, and infections such as tuberculosis. Given the patient's asymptomatic presentation, markedly elevated serum CA19-9 level, and absence of chronic viral hepatitis, cholangiocarcinoma was considered the most likely diagnosis. Metastatic cancer also warranted thorough investigation to identify the primary site.",
+  "management_and_clinical_course": "The patient was admitted to the hospital and underwent hemihepatectomy. Following surgery, he was started on postoperative chemotherapy.",
+  "final_diagnosis": "The final diagnosis is intrahepatic Cholangiocarcinoma (CCA), confirmed by histology which revealed infiltrative compact glandular structures lined by dysplastic columnar cells with necrosis. This diagnosis is strongly supported by the incidental finding of a solitary liver mass on imaging, the markedly elevated CA19-9 level, and the intraoperative detection of Opisthorchis viverrini liver flukes in the adjacent bile duct. The patient's residence in an endemic region of northeast Thailand and history of liver fluke infection further corroborate the diagnosis.",
+  "disease_name_short": "Cholangiocarcinoma",
+  "tables": [
+    {
+      "title": "Laboratory Results of the Thai Patient With a Liver Mass",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "AST (U/L)",
+          "26",
+          "4-36"
+        ],
+        [
+          "ALT (U/L)",
+          "32",
+          "12-32"
+        ],
+        [
+          "ALP (U/L)",
+          "84",
+          "42-121"
+        ],
+        [
+          "Total bilirubin (mg/dL)",
+          "0.6",
+          "0.3-1.5"
+        ],
+        [
+          "Direct bilirubin (mg/dL)",
+          "0.2",
+          "0.0-0.5"
+        ],
+        [
+          "HBsAg (ΜΕΙΑ)",
+          "Negative",
+          "Negative"
+        ],
+        [
+          "Anti-HBs (ELISA, IU/L)",
+          "24.13",
+          "0.0-10.0"
+        ],
+        [
+          "HBeAg (ELISA)",
+          "Negative",
+          "Negative"
+        ],
+        [
+          "Anti-HBc (ELISA)",
+          "Positive",
+          "Negative"
+        ],
+        [
+          "Anti-HCV",
+          "Negative",
+          "Negative"
+        ],
+        [
+          "AFP (U/mL)",
+          "2.8",
+          "0.0-10.0"
+        ],
+        [
+          "CEA (µg/L)",
+          "18.96",
+          "0.0-2.5"
+        ],
+        [
+          "CA19-9 (U/mL)",
+          "342.80",
+          "0.0-37.0"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "Fig. 80.1",
+      "caption": "Abdominal MRI revealing a single solid liver mass lesion at the segment VI/VII. No marked bile duct dilatation is seen."
+    },
+    {
+      "file_name": "Fig. 80.2",
+      "caption": "(A) A single heterogenous whitish-yellow mass, size 9 x 9 cm in diameter at the segment VII and VIII. The dilated bile duct with a small parasite (arrow). The liver parenchyma appears non-cirrhotic; (B) The adjacent dilated bile duct contains a few liver flukes (O. viverrini); and (C) The histology of the tumour shows infiltrative compact glandular structures, lined by dysplastic columnar cells with necrosis."
+    }
+  ]
+}

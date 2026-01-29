@@ -1,0 +1,101 @@
+{
+  "patient_information": "A 58-year-old Sri Lankan woman who resides in a rural area.",
+  "chief_complaint": "High-grade fever, chills, body aches, non-productive cough, and progressive shortness of breath for 10 days, followed by tinnitus and hearing loss for 2 days, and increasing confusion for 1 day.",
+  "history_of_present_illness": "A 58-year-old Sri Lankan woman from a rural area presented with high-grade fever, chills, body aches, non-productive cough, and progressive shortness of breath for 10 days. Two days prior to admission, she developed tinnitus and hearing loss, and one day prior to admission, she became increasingly confused.",
+  "exposure_and_epidemiology": "The patient resides in a rural area of Sri Lanka. Scrub typhus is a common cause of fever in large parts of Asia and northern Australia, transmitted by the bite of an infected chigger (larva of a trombiculid mite), which are found in various habitats and have rodents as reservoirs. The patient's presentation with regional lymphadenopathy and an eschar are characteristic of scrub typhus in an endemic region.",
+  "vitals": "Temperature 39.3°C (102.7°F), heart rate 120 bpm, blood pressure 90/60 mmHg.",
+  "physical_exam": "On admission, the patient was confused (Glasgow Coma Scale score 13/15, E4 V4 M5) and had severely impaired hearing (WHO grade 3). Enlarged axillary lymph nodes were noted on the right side. No rash or neck stiffness; Kernig's and Brudzinski's signs were negative. Scattered crackles were audible over the bases of both lungs. Her liver was enlarged to 5 cm below the right costal margin, and the spleen was just palpable. On day 2, a well-demarcated crater-like lesion was found in the right axilla hidden within the axillary folds.",
+  "labs_and_diagnostics": "Basic laboratory results on admission showed WBC 8.5 x 10^9/L (Reference 4-10), Haemoglobin 12.4 g/dL (Reference 12-16), Platelets 98 x 10^9/L (Reference 150-350), AST 74 U/L (Reference 13-33), ALT 68 U/L (Reference 3-25), ALP 126 U/L (Reference 40-130), Total bilirubin 25.7 µmol/L (Reference 13.7-30.8), Blood urea nitrogen 6.4 mmol/L (Reference 2.5-6.4), Creatinine 123.8 µmol/L (Reference 71-106), and C-reactive protein 48 mg/L (Reference <6). Cerebrospinal fluid results showed Leukocytes 35 cells/µL (80% lymphocytes) (Reference 0-5/µL), Protein 0.64 g/L (Reference 0.15-0.45), and Glucose 3.25 mmol/L (Reference 50-75% of serum glucose), with a paired random blood glucose of 7.17 mmol/L. Blood cultures grew no organisms. Leptospira and Salmonella serologies were negative. A thick film for malaria parasites was negative. Leptospira-PCR was not available. Chest radiography did not show any pathological changes. ECG showed sinus tachycardia. EEG revealed widespread slowing. CT scan of the brain was normal. The O. tsutsugamushi IFA-IgG titre came back high (>1:4096).",
+  "differential_diagnosis": "Given the presentation of an undifferentiated febrile illness, scrub typhus was a primary consideration, especially in an endemic region like Sri Lanka. Other rickettsial infections, leptospirosis, salmonellosis, and malaria were considered and largely ruled out by negative serologies, PCR, and thick film results.",
+  "management_and_clinical_course": "On day 2 after admission, the patient developed coarse tremors of both upper and lower limbs with saccadic oscillations of her eyes and further deterioration of consciousness (GCS 8). Doxycycline therapy was commenced, leading to improvement over the next 48 hours. The patient was discharged on day 6 after admission with her hearing returned to normal and no other neurological deficits.",
+  "final_diagnosis": "The final diagnosis was scrub typhus, caused by Orientia tsutsugamushi. This was supported by the patient's epidemiological background (rural Sri Lanka, an endemic region), characteristic clinical signs including fever, confusion, hearing loss, regional lymphadenopathy, and the presence of an eschar. The diagnosis was confirmed by a high O. tsutsugamushi IFA-IgG titre (>1:4096), and the patient showed a positive clinical response to doxycycline therapy.",
+  "disease_name_short": "Scrub Typhus",
+  "tables": [
+    {
+      "title": "Laboratory Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "WBC (x 10^9/L)",
+          "8.5",
+          "4-10"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "12.4",
+          "12-16"
+        ],
+        [
+          "Platelets (× 10^9/L)",
+          "98",
+          "150-350"
+        ],
+        [
+          "AST (U/L)",
+          "74",
+          "13-33"
+        ],
+        [
+          "ALT (U/L)",
+          "68",
+          "3-25"
+        ],
+        [
+          "ALP (U/L)",
+          "126",
+          "40-130"
+        ],
+        [
+          "Total bilirubin (μmol/L)",
+          "25.7",
+          "13.7-30.8"
+        ],
+        [
+          "Blood urea nitrogen (mmol/L)",
+          "6.4",
+          "2.5-6.4"
+        ],
+        [
+          "Creatinine (µmol/L)",
+          "123.8",
+          "71-106"
+        ],
+        [
+          "C-reactive protein (mg/L)",
+          "48",
+          "<6"
+        ]
+      ]
+    },
+    {
+      "title": "Cerebrospinal Fluid Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "Leukocytes (cells/µL)",
+          "35 (80% lymphocytes)",
+          "0-5/μL"
+        ],
+        [
+          "Protein (g/L)",
+          "0.64",
+          "0.15-0.45"
+        ],
+        [
+          "Glucose (mmol/L)",
+          "3.25*",
+          "50-75% of serum glucose"
+        ]
+      ]
+    }
+  ],
+  "images": []
+}

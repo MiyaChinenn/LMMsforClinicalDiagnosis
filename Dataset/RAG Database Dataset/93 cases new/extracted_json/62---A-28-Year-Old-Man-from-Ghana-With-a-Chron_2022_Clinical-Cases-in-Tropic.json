@@ -1,0 +1,60 @@
+{
+  "patient_information": "A 28-year-old West African man. He had a previous ulcer on his right ankle some years ago which took about a year to heal.",
+  "chief_complaint": "A painful ulcer on his left ankle, present for the past 4 months and not healing.",
+  "history_of_present_illness": "The patient complains of a painful ulcer on his left ankle which has been present for the past 4 months and is not healing. There is no history of prior trauma, but he had a similar ulcer on his right ankle some years ago which took about a year to heal. He also complains of pain in his right thigh and in both knees.",
+  "exposure_and_epidemiology": "The patient is a West African man residing in Ghana, where sickle cell disease is common.",
+  "vitals": "Temperature 36.6°C, pulse 88 bpm, blood pressure 110/70 mmHg.",
+  "physical_exam": "The patient is short for an adult; he is pale and has a tinge of jaundice. The ulcer is on his left ankle, next to the medial malleolus; the skin surrounding it is hyperpigmented. There is tenderness in both knee joints and in his right thigh. The rest of the physical examination is normal.",
+  "labs_and_diagnostics": "Initial labs revealed WBC 17.6 × 10^9/L, Haemoglobin 6.9 g/dL, Platelets adequate, and Fasting blood glucose 4.8 mmol/L. Six years later, WBC was 9.2 × 10^9/L, Haemoglobin 8.3 g/dL, Platelets 364 × 10^9/L, and Fasting blood glucose was not done. The sickling test was positive and haemoglobin electrophoresis showed a homozygous HbSS-type. The wound swab grew Pseudomonas species sensitive to levofloxacin. Radiography showed a periosteal reaction with slightly sclerotic bones. Peripheral blood film showed irreversibly sickled cells, polychromasia, target cells, nucleated red cells, and adequate platelets.",
+  "differential_diagnosis": "Given the chronic nature of the ulcer, its site, and surrounding hyperpigmentation, a venous ulcer is likely. The patient's bone pain, jaundice, and pallor suggest a haemolytic anaemia, with hereditary haemolytic anaemias such as haemoglobinopathies (thalassaemia and sickle cell disease), spherocytosis, and pyruvate kinase deficiency considered. In the West African context, sickle cell disease is the most likely diagnosis. Further differentials include tropical ulcer, diabetic ulcer, chronic osteomyelitis with a discharging sinus, Buruli ulcer (caused by Mycobacterium ulcerans, usually painless), other mycobacterial infections, pyoderma gangrenosum, and malignant diseases.",
+  "management_and_clinical_course": "The patient was managed with alternate daily wound dressing using normal saline irrigation and povidone-iodine. Systemic antibiotic treatment was given due to poor condition and Pseudomonas growth. Strict bed rest was difficult to enforce. Recurrent bone pain was managed conservatively with good hydration, prompt treatment of infections, and relief of precipitants of crises. Daily folic acid supplementation was provided, and pain relief was achieved with paracetamol and tramadol. Follow-up at 3 years showed the ulcer was still not healed, with grafting under consideration once healthy granulation tissue was achieved. Six years later, the wound was still not healed, and the patient could not afford a skin graft. He continued 3 times weekly dressing, felt well, and his WBC was normal with a slightly increased Hb.",
+  "final_diagnosis": "The final diagnosis was sickle cell disease with a chronic ankle ulcer. This was supported by a positive sickling test and homozygous HbSS-type on haemoglobin electrophoresis, along with clinical findings of pallor, jaundice, bone pain, recurrent leg ulcers, and characteristic findings on peripheral blood film including irreversibly sickled cells. The patient's West African origin further strengthened the diagnosis given the endemicity of the disease.",
+  "disease_name_short": "Sickle Cell Disease",
+  "tables": [
+    {
+      "title": "Laboratory Results",
+      "headers": [
+        "Parameter",
+        "Patient initial visit",
+        "Patient 6 years later",
+        "Reference Range"
+      ],
+      "rows": [
+        [
+          "WBC (×109/L)",
+          "17.6",
+          "9.2",
+          "4-10"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "6.9",
+          "8.3",
+          "13-15"
+        ],
+        [
+          "Platelet (×109/L)",
+          "Adequate",
+          "364",
+          "150-400"
+        ],
+        [
+          "Fasting blood glucose (mmol/L)",
+          "4.8",
+          "Not done",
+          "4.4-6.1"
+        ]
+      ]
+    }
+  ],
+  "images": [
+    {
+      "file_name": "Fig. 62.1",
+      "caption": "The patient's left leg showing an ulcer surrounded by hyperpigmented skin on the medial malleolus."
+    },
+    {
+      "file_name": "Fig. 62.2",
+      "caption": "Patient's blood film: irreversibly sickled cells (S), polychromasia (P), target cells (TC), nucleated red cells (NRC) – note similarity with lymphocyte (L). Adequate platelets."
+    }
+  ]
+}

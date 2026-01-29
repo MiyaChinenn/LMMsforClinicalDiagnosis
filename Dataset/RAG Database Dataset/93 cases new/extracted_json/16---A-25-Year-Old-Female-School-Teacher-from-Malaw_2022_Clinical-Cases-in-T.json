@@ -1,0 +1,86 @@
+{
+  "patient_information": "A 25-year-old Malawian primary school teacher. She is HIV-positive and has been on first-line antiretroviral therapy (ART) with tenofovir, lamivudine and efavirenz for 6 months with good adherence. Her CD4 count on starting ART was 320 cells/µL. She completed treatment for pulmonary tuberculosis 2 months ago.",
+  "chief_complaint": "Abrupt onset of fever and confusion, presenting with confusion, drowsiness, high fever, and convulsions.",
+  "history_of_present_illness": "A 25-year-old Malawian primary school teacher was reported to be well at 8 a.m., but became confused by 10 a.m. and was drowsy with a high fever and convulsions on admission at 11 a.m. She is HIV-positive and has been on first-line antiretroviral therapy (ART) for 6 months with good adherence, with a CD4 count of 320 cells/µL at ART initiation. She completed treatment for pulmonary tuberculosis 2 months prior.",
+  "exposure_and_epidemiology": "The patient is a 25-year-old Malawian primary school teacher.",
+  "vitals": "Temperature was 40°C (104°F), pulse 125 bpm, blood pressure 125/68 mmHg, and oxygen saturation 93% on room air.",
+  "physical_exam": "The patient was restless and agitated with a Glasgow Coma Scale of 10/15. Pupils were equal and reactive with photophobia; the neck was stiff and there was no rash. Plantar responses were down-going, and Kernig's sign was positive. Chest and abdominal examinations were unremarkable. During the physical examination, she suffered a renewed seizure.",
+  "labs_and_diagnostics": "Her blood results included WBC 10.5 ×10^9/L (reference 4-10), Neutrophil count 8.9 ×10^9/L (reference 2.5-6), Haemoglobin 8.9 g/dL (reference 12-14), MCV 85 fL (reference 78-90), Platelets 255 ×10^9/L (reference 150-400), Creatinine 106 µmol/L (reference 35-106), and Random blood glucose 5.6 mmol/L (reference 3.9-7.8). A spinal tap revealed hazy CSF with Leukocytes 35 cells/µL (60% neutrophils, reference 0-5/µL), Protein 2.6 g/L (reference 0.15-0.42), and Glucose 1.2 mmol/L (reference 2.5-5). A rapid antigen test for Plasmodium falciparum was negative. CSF culture later grew S. pneumoniae. Audiometry revealed a minor hearing loss in her right ear.",
+  "differential_diagnosis": "The main differential diagnoses considered for this patient were cryptococcal meningitis (CCM) and TB meningitis (TBM), though both were considered less likely due to her CD4 count being too high for CCM and her recent completion of TB treatment. Meningitis caused by Listeria monocytogenes was deemed very unlikely as she is not pregnant. Other bacterial pathogens that cause meningitis in HIV-infected adults include S. pneumoniae, group A streptococci, Staphylococcus aureus, invasive non-typhoidal salmonellae, Salmonella typhi, Escherichia coli and Haemophilus influenzae.",
+  "management_and_clinical_course": "In the emergency department, the patient received ceftriaxone 2g IV, 10 mg of diazepam IV and 600 mg of phenobarbitone IV. Her oxygen saturation improved with resuscitation. She subsequently received 10 days of IV ceftriaxone and recovered consciousness by day 3. No further neurological impairment or seizures were noted, and anticonvulsants were weaned by day 3.",
+  "final_diagnosis": "The final diagnosis is acute bacterial meningitis caused by Streptococcus pneumoniae. This is supported by the rapid onset of severe neurological symptoms, high fever, neutrophilic pleocytosis in hazy CSF, elevated CSF protein, low CSF glucose, and confirmed by CSF culture growing S. pneumoniae. Her consciousness recovered by day 3 after 10 days of IV ceftriaxone, and anticonvulsants were weaned by day 3, though she developed a minor hearing loss in her right ear.",
+  "disease_name_short": "Bacterial meningitis",
+  "tables": [
+    {
+      "title": "Blood Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "WBC (×10^9/L)",
+          "10.5",
+          "4-10"
+        ],
+        [
+          "Neutrophil count (×10^9/L)",
+          "8.9",
+          "2.5-6"
+        ],
+        [
+          "Haemoglobin (g/dL)",
+          "8.9",
+          "12-14"
+        ],
+        [
+          "MCV (fL)",
+          "85",
+          "78-90"
+        ],
+        [
+          "Platelets (×10^9/L)",
+          "255",
+          "150-400"
+        ],
+        [
+          "Creatinine (µmol/L)",
+          "106",
+          "35-106"
+        ],
+        [
+          "Random blood glucose (mmol/L)",
+          "5.6",
+          "3.9-7.8"
+        ]
+      ]
+    },
+    {
+      "title": "Results on Admission",
+      "headers": [
+        "Parameter",
+        "Patient",
+        "Reference"
+      ],
+      "rows": [
+        [
+          "Leukocytes (cells/µL)",
+          "35 (60% neutrophils)",
+          "0-5/µL"
+        ],
+        [
+          "Protein (g/L)",
+          "2.6",
+          "0.15-0.42"
+        ],
+        [
+          "Glucose (mmol/L)",
+          "1.2",
+          "2.5-5"
+        ]
+      ]
+    }
+  ],
+  "images": []
+}
